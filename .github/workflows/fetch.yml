@@ -1,11 +1,11 @@
 name: 每日电商热点更新
 
 on:
- schedule:
+  schedule:
  # 北京时间 09:00 和 14:00 自动运行
- - cron: '0 1 * * *'
- - cron: '0 6 * * *'
- workflow_dispatch:
+   - cron: '0 1 * * *'
+   - cron: '0 6 * * *'
+  workflow_dispatch:
 
 jobs:
  fetch-and-push:

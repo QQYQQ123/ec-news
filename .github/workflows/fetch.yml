@@ -29,5 +29,5 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git add news.json
-          git diff --quiet && echo "No changes, skip commit" || git commit -m "Update $(date '+%Y-%m-%d %H:%M')"
+          git diff --cached --quiet && echo "No changes, skip commit"|| git commit -m "Update $(date '+%Y-%m-%d %H:%M')"
           git push

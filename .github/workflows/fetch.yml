@@ -1,0 +1,34 @@
+name: 每日电商热点更新
+
+on:
+ schedule:
+ # 北京时间 09:00 和 14:00 自动运行
+ - cron: '0 1 * * *'
+ - cron: '0 6 * * *'
+ workflow_dispatch:
+
+jobs:
+ fetch-and-push:
+ runs-on: ubuntu-latest
+ steps:
+ - name: 检出代码
+ uses: actions/checkout@v4
+
+ - name: 设置 Python
+ uses: actions/setup-python@v5
+ with:
+ python-version: '3.11'
+
+ - name: 安装依赖
+ run: pip install feedparser requests
+
+ - name: 运行抓取脚本
+ run: python fetch_news.py
+
+ - name: 提交并推送
+ run: |
+ git config user.name "GitHub Actions Bot"
+ git config user.email "actions@github.com"
+ git add news.json
+ git diff --quiet && echo "No changes, skip commit" || git commit -m "🤖 自动更新 $(date '+%Y-%m-%d %H:%M')"
+ git push

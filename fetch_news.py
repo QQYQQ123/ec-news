@@ -52,13 +52,25 @@ def fetch_rss(source):
             data = json.loads(raw)
             items = data.get('result', {}).get('data', [])
             for item in items[:10]:
-                news.append({
-                    'title': clean_html(item.get('title', '')),
-                    'url': item.get('url', '') or item.get('wapurl', ''),
-                    'source': source['name'],
-                    'category': source['category'],
-                    'pubDate': item.get('ctime', '') or item.get('pubDate', ''),
-                })
+                # pubDate: 统一转 ISO 时间字符串
+                    pd_raw = item.get('ctime', '') or item.get('pubDate', '') or ''
+                    try:
+                        s = str(pd_raw).strip()
+                        if s.isdigit() and len(s) >= 10:
+                            ts = int(s)
+                            if ts > 9999999999: ts = ts // 1000
+                            pd = datetime.fromtimestamp(ts, CST).strftime('%Y-%m-%dT%H:%M:%S+08:00')
+                        else:
+                            pd = s
+                    except:
+                        pd = str(pd_raw)
+                    news.append({
+                        'title': clean_html(item.get('title', '')),
+                        'url': item.get('url', '') or item.get('wapurl', ''),
+                        'source': source['name'],
+                        'category': source['category'],
+                        'pubDate': pd,
+                    })
         else:
             # 解析 RSS XML
             titles = re.findall(r'<title><!\[CDATA\[(.*?)\]\]></title>', raw)

@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>电商热点日报</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700;900&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: #f0f2f5;
+            min-height: 100vh;
+        }
+
+        /* 头部 */
+        .header {
+            background: linear-gradient(135deg, #FF2442, #FF6B6B);
+            padding: 28px 24px 24px;
+            color: #fff;
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 16px;
+        }
+
+        .header-title {
+            font-size: 24px;
+            font-weight: 900;
+        }
+
+        .header-date {
+            font-size: 13px;
+            opacity: 0.9;
+            font-weight: 500;
+        }
+
+        .header-sub {
+            font-size: 14px;
+            opacity: 0.85;
+        }
+
+        .header-stats {
+            display: flex;
+            gap: 24px;
+            margin-top: 16px;
+        }
+
+        .stat-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 13px;
+            opacity: 0.9;
+        }
+
+        .stat-num {
+            font-size: 20px;
+            font-weight: 800;
+        }
+
+        /* 内容区 */
+        .content {
+            max-width: 720px;
+            margin: 24px auto;
+            padding: 0 16px;
+        }
+
+        /* 筛选标签 */
+        .filter-bar {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-bottom: 16px;
+        }
+
+        .filter-tag {
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 13px;
+            cursor: pointer;
+            background: #fff;
+            color: #666;
+            border: 1.5px solid #e8e8e8;
+            transition: all 0.2s;
+            font-weight: 500;
+        }
+
+        .filter-tag:hover { border-color: #FF2442; color: #FF2442; }
+        .filter-tag.active {
+            background: #FF2442;
+            color: #fff;
+            border-color: #FF2442;
+        }
+
+        /* 新闻卡片 */
+        .news-card {
+            background: #fff;
+            border-radius: 12px;
+            padding: 16px 18px;
+            margin-bottom: 12px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+            transition: transform 0.15s, box-shadow 0.15s;
+            display: flex;
+            gap: 14px;
+            align-items: flex-start;
+            cursor: pointer;
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .news-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+        }
+
+        .card-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #FF2442;
+            flex-shrink: 0;
+            margin-top: 6px;
+        }
+
+        .card-body { flex: 1; }
+
+        .card-title {
+            font-size: 15px;
+            font-weight: 700;
+            color: #222;
+            line-height: 1.5;
+            margin-bottom: 8px;
+        }
+
+        .card-meta {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .card-source {
+            font-size: 12px;
+            color: #FF2442;
+            font-weight: 600;
+            background: #FFF0F0;
+            padding: 2px 8px;
+            border-radius: 10px;
+        }
+
+        .card-time {
+            font-size: 12px;
+            color: #999;
+        }
+
+        .card-category {
+            font-size: 11px;
+            color: #999;
+            background: #f5f5f5;
+            padding: 2px 8px;
+            border-radius: 10px;
+        }
+
+        /* 更新状态 */
+        .update-bar {
+            text-align: center;
+            padding: 14px;
+            font-size: 12px;
+            color: #999;
+        }
+
+        .update-bar span { color: #FF2442; font-weight: 600; }
+
+        /* 空状态 */
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: #999;
+        }
+
+        .empty-icon { font-size: 48px; margin-bottom: 16px; }
+        .empty-text { font-size: 14px; }
+
+        /* 加载 */
+        .loading {
+            text-align: center;
+            padding: 60px;
+            color: #999;
+            font-size: 14px;
+        }
+
+        .loading::after {
+            content: '';
+            display: inline-block;
+            width: 16px; height: 16px;
+            border: 2px solid #FF2442;
+            border-top-color: transparent;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin-left: 10px;
+            vertical-align: middle;
+        }
+
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        /* 错误提示 */
+        .error-banner {
+            background: #FFF5F5;
+            border: 1px solid #FFD9D9;
+            border-radius: 10px;
+            padding: 14px 18px;
+            font-size: 13px;
+            color: #FF2442;
+            margin-bottom: 16px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <div class="header-top">
+        <div class="header-title">📦 电商热点日报</div>
+        <div class="header-date" id="headerDate"></div>
+    </div>
+    <div class="header-sub">每日 09:00 · 14:00 自动更新</div>
+    <div class="header-stats">
+        <div class="stat-item">
+            <span class="stat-num" id="totalCount">--</span>
+            <span>条资讯</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-num" id="sourceCount">--</span>
+            <span>个来源</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-num" id="updateTime">--:--</span>
+            <span>更新</span>
+        </div>
+    </div>
+</div>
+
+<div class="content">
+    <div class="error-banner" id="errorBanner" style="display:none"></div>
+
+    <div class="filter-bar" id="filterBar">
+        <span class="filter-tag active" data-cat="all">全部</span>
+        <span class="filter-tag" data-cat="行业媒体">🏢 行业媒体</span>
+        <span class="filter-tag" data-cat="科技媒体">💡 科技媒体</span>
+        <span class="filter-tag" data-cat="综合科技">🌐 综合科技</span>
+    </div>
+
+    <div id="newsList">
+        <div class="loading">正在加载资讯</div>
+    </div>
+
+    <div class="update-bar">
+        数据来源：亿邦动力 · 36氪 · 新浪科技 · 更新时间 <span id="footerTime">--:--</span>
+    </div>
+</div>
+
+<script>
+const RAW_URL = 'https://raw.githubusercontent.com/QQYQQ123/ec-news/main/news.json';
+const GITHUB_URL = 'https://github.com/QQYQQ123/ec-news';
+
+let allNews = [];
+let activeFilter = 'all';
+
+function formatDate(isoStr) {
+    if (!isoStr) return '';
+    try {
+        const d = new Date(isoStr);
+        const m = d.getMonth() + 1;
+        const day = d.getDate();
+        const h = String(d.getHours()).padStart(2,'0');
+        const min = String(d.getMinutes()).padStart(2,'0');
+        return `${m}月${day}日 ${h}:${min}`;
+    } catch(e) { return isoStr; }
+}
+
+function formatToday() {
+    const d = new Date();
+    const m = d.getMonth() + 1;
+    const day = d.getDate();
+    const weekdays = ['周日','周一','周二','周三','周四','周五','周六'];
+    const w = weekdays[d.getDay()];
+    return `今天 ${m}月${day}日 ${w}`;
+}
+
+function renderNews() {
+    const list = document.getElementById('newsList');
+    const filtered = activeFilter === 'all'
+        ? allNews
+        : allNews.filter(n => n.category === activeFilter);
+
+    if (filtered.length === 0) {
+        list.innerHTML = '<div class="empty-state"><div class="empty-icon">📭</div><div class="empty-text">暂无相关资讯</div></div>';
+        return;
+    }
+
+    list.innerHTML = filtered.map(item => `
+        <a class="news-card" href="${item.url || '#'}" target="_blank" rel="noopener">
+            <div class="card-dot"></div>
+            <div class="card-body">
+                <div class="card-title">${item.title}</div>
+                <div class="card-meta">
+                    <span class="card-source">${item.source}</span>
+                    <span class="card-category">${item.category}</span>
+                    <span class="card-time">${formatDate(item.pubDate)}</span>
+                </div>
+            </div>
+        </a>
+    `).join('');
+}
+
+async function loadNews() {
+    try {
+        const resp = await fetch(RAW_URL + '?t=' + Date.now());
+        if (!resp.ok) throw new Error('HTTP ' + resp.status);
+        const data = await resp.json();
+        allNews = data.news || [];
+
+        // 统计来源数
+        const sources = [...new Set(allNews.map(n => n.category))];
+        document.getElementById('totalCount').textContent = allNews.length;
+        document.getElementById('sourceCount').textContent = sources.length;
+
+        const updated = formatDate(data.updatedAt);
+        document.getElementById('headerDate').textContent = formatToday();
+        document.getElementById('updateTime').textContent = updated.split(' ')[1] || updated;
+        document.getElementById('footerTime').textContent = updated.split(' ')[1] || updated;
+        document.getElementById('errorBanner').style.display = 'none';
+
+        renderNews();
+    } catch(e) {
+        console.error(e);
+        document.getElementById('newsList').innerHTML =
+            '<div class="empty-state"><div class="empty-icon">⚠️</div><div class="empty-text">加载失败，请稍后刷新重试</div></div>';
+        const banner = document.getElementById('errorBanner');
+        banner.textContent = '⚠️ 数据加载失败，请稍后刷新重试';
+        banner.style.display = 'block';
+    }
+}
+
+// 筛选
+document.getElementById('filterBar').addEventListener('click', e => {
+    if (e.target.classList.contains('filter-tag')) {
+        document.querySelectorAll('.filter-tag').forEach(t => t.classList.remove('active'));
+        e.target.classList.add('active');
+        activeFilter = e.target.dataset.cat;
+        renderNews();
+    }
+});
+
+loadNews();
+</script>
+</body>
+</html>

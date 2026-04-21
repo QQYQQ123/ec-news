@@ -237,6 +237,21 @@ def sort_by_time(news_list):
     return sorted(news_list, key=parse_dt, reverse=True)
 
 
+def filter_by_days(news_list, days=7):
+    """只保留最近 N 天的新闻，过滤掉旧数据"""
+    cutoff = datetime.now(CST) - timedelta(days=days)
+    result = []
+    for item in news_list:
+        try:
+            pub_dt = datetime.fromisoformat(item['pubDate'])
+            if pub_dt >= cutoff:
+                result.append(item)
+        except Exception:
+            # 时间解析失败的也保留
+            result.append(item)
+    return result
+
+
 def main():
     now_str = datetime.now(CST).strftime('%Y-%m-%d %H:%M:%S')
     print(f"[{now_str}] 开始抓取热点资讯...")
@@ -253,6 +268,8 @@ def main():
 
     all_news = deduplicate(all_news)
     all_news = sort_by_time(all_news)
+    all_news = filter_by_days(all_news, days=7)  # 只保留最近7天
+    print(f"  过滤后保留 {len(all_news)} 条（最近7天）")
 
     output = {
         'updatedAt': datetime.now(CST).strftime('%Y-%m-%dT%H:%M:%S+08:00'),

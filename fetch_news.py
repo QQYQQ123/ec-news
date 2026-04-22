@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-24小时热点资讯抓取脚本
-多源聚合，每2小时运行一次
+24小时热点资讯抓取脚本 v2
+数据源：新浪多分类 + 36氪 + 钛媒体
+每2小时运行一次
 """
-
 import urllib.request
 import json
 import re
@@ -14,80 +14,87 @@ from datetime import datetime, timezone, timedelta
 CST = timezone(timedelta(hours=8))
 
 # ============================================================
-# 数据源配置（多源聚合）
+# 数据源配置
 # ============================================================
 SOURCES = [
-    # --- 新浪科技 JSON API ---
+    # 新浪 - 综合分类（lid 对不上号，实际内容是混合的）
+    # lid=2516 实际返回：期货大豆/原油/棕榈油
+    # lid=2514 实际返回：国际政经新闻
+    # lid=2669 实际返回：娱乐/社会
+    # lid=2510 实际返回：AI/科技/机器人
+    # lid=2511 实际返回：国际新闻
+    # lid=2509 实际返回：财经/商业
+    # lid=2512 实际返回：国际新闻
+    # 统一标记为"热点"，不再细分
     {
-        'name': '新浪科技',
+        'name': '新浪综合',
         'url': 'https://feed.mix.sina.com.cn/api/roll/get?pageid=153&lid=2516&k=&num=30&page=1&r=0.5',
         'type': 'sina_json',
-        'category': '科技',
+        'category': '热点',
     },
-    # --- 新浪财经 JSON API ---
     {
-        'name': '新浪财经',
+        'name': '新浪综合2',
         'url': 'https://feed.mix.sina.com.cn/api/roll/get?pageid=153&lid=2514&k=&num=30&page=1&r=0.5',
         'type': 'sina_json',
-        'category': '财经',
+        'category': '热点',
     },
-    # --- 新浪新闻 JSON API ---
     {
-        'name': '新浪新闻',
+        'name': '新浪综合3',
         'url': 'https://feed.mix.sina.com.cn/api/roll/get?pageid=153&lid=2669&k=&num=30&page=1&r=0.5',
         'type': 'sina_json',
         'category': '热点',
     },
-    # --- 新浪体育 JSON API ---
     {
-        'name': '新浪体育',
-        'url': 'https://feed.mix.sina.com.cn/api/roll/get?pageid=153&lid=2510&k=&num=20&page=1&r=0.5',
+        'name': '新浪综合4',
+        'url': 'https://feed.mix.sina.com.cn/api/roll/get?pageid=153&lid=2510&k=&num=30&page=1&r=0.5',
         'type': 'sina_json',
-        'category': '体育',
-    },
-    # --- 新浪娱乐 JSON API ---
-    {
-        'name': '新浪娱乐',
-        'url': 'https://feed.mix.sina.com.cn/api/roll/get?pageid=153&lid=2511&k=&num=20&page=1&r=0.5',
-        'type': 'sina_json',
-        'category': '娱乐',
-    },
-    # --- 澎湃新闻 RSS ---
-    {
-        'name': '澎湃新闻',
-        'url': 'https://www.thepaper.cn/rss_cn.xml',
-        'type': 'rss',
         'category': '热点',
     },
-    # --- 虎嗅 RSS ---
     {
-        'name': '虎嗅',
-        'url': 'https://www.huxiu.com/rss/0.xml',
-        'type': 'rss',
-        'category': '科技',
+        'name': '新浪综合5',
+        'url': 'https://feed.mix.sina.com.cn/api/roll/get?pageid=153&lid=2511&k=&num=30&page=1&r=0.5',
+        'type': 'sina_json',
+        'category': '热点',
     },
-    # --- 36氪 RSS ---
+    {
+        'name': '新浪综合6',
+        'url': 'https://feed.mix.sina.com.cn/api/roll/get?pageid=153&lid=2509&k=&num=30&page=1&r=0.5',
+        'type': 'sina_json',
+        'category': '热点',
+    },
+    # 36氪 - 科技创业
     {
         'name': '36氪',
         'url': 'https://36kr.com/feed',
         'type': 'rss',
         'category': '科技',
     },
-    # --- 钛媒体 RSS ---
+    # 钛媒体 - 科技商业
     {
         'name': '钛媒体',
         'url': 'https://www.tmtpost.com/feed',
         'type': 'rss',
         'category': '科技',
     },
-    # --- 界面新闻 RSS ---
-    {
-        'name': '界面新闻',
-        'url': 'https://www.jiemian.com/rss.xml',
-        'type': 'rss',
-        'category': '财经',
-    },
 ]
+
+# ============================================================
+# 过滤关键词：排除股票索赔类噪音内容
+# ============================================================
+EXCLUDE_KEYWORDS = [
+    '投资者索赔', '被处罚', '触及退市', '被立案调查', '被ST',
+    '业绩变脸', '被摘牌', '修正业绩', '触及退市情形', '立案调查',
+    '收到证监会', '被行政处罚', '收到深交所', '收到上交所',
+]
+
+def is_noise(title):
+    """判断是否是噪音内容（股票索赔等）"""
+    t = title.lower()
+    for kw in EXCLUDE_KEYWORDS:
+        if kw in title:
+            return True
+    return False
+
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -120,7 +127,6 @@ def ts_to_iso(ts_raw):
             if ts > 9999999999:
                 ts = ts // 1000
             return datetime.fromtimestamp(ts, CST).strftime('%Y-%m-%dT%H:%M:%S+08:00')
-        # RFC 2822 格式
         from email.utils import parsedate_to_datetime
         dt = parsedate_to_datetime(s)
         return dt.astimezone(CST).strftime('%Y-%m-%dT%H:%M:%S+08:00')
@@ -142,13 +148,16 @@ def fetch_sina_json(source):
         items = data.get('result', {}).get('data', [])
         for item in items:
             title = clean_html(item.get('title', ''))
-            url = item.get('url', '') or item.get('wapurl', '')
-            if not title or not url:
+            url_link = item.get('url', '') or item.get('wapurl', '')
+            if not title or not url_link:
+                continue
+            # 过滤噪音
+            if is_noise(title):
                 continue
             pd_raw = item.get('ctime', '') or item.get('pubDate', '') or ''
             news.append({
                 'title': title,
-                'url': url,
+                'url': url_link,
                 'source': source['name'],
                 'category': source['category'],
                 'pubDate': ts_to_iso(pd_raw),
@@ -162,14 +171,11 @@ def fetch_rss(source):
     news = []
     try:
         raw = fetch_url(source['url'])
-        # 尝试 XML 解析
         try:
             root = ET.fromstring(raw)
             ns = {'atom': 'http://www.w3.org/2005/Atom'}
-            # RSS 2.0
             items = root.findall('.//item')
             if not items:
-                # Atom
                 items = root.findall('.//atom:entry', ns) or root.findall('.//entry')
             for item in items:
                 def get(tag, ns_tag=None):
@@ -189,6 +195,8 @@ def fetch_rss(source):
                 pub = get('pubDate') or get('published') or get('updated') or get('dc:date')
                 if not title or not link:
                     continue
+                if is_noise(title):
+                    continue
                 news.append({
                     'title': title,
                     'url': link.strip(),
@@ -197,7 +205,6 @@ def fetch_rss(source):
                     'pubDate': ts_to_iso(pub),
                 })
         except ET.ParseError:
-            # 降级：正则解析
             titles = re.findall(r'<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>', raw, re.DOTALL)
             links  = re.findall(r'<link>(?:<!\[CDATA\[)?(https?://.*?)(?:\]\]>)?</link>', raw)
             dates  = re.findall(r'<pubDate>(.*?)</pubDate>', raw)
@@ -205,8 +212,11 @@ def fetch_rss(source):
             for i, title in enumerate(titles):
                 if i >= len(links):
                     break
+                title = clean_html(title)
+                if is_noise(title):
+                    continue
                 news.append({
-                    'title': clean_html(title),
+                    'title': title,
                     'url': links[i].strip(),
                     'source': source['name'],
                     'category': source['category'],
@@ -238,7 +248,7 @@ def sort_by_time(news_list):
 
 
 def filter_by_days(news_list, days=7):
-    """只保留最近 N 天的新闻，过滤掉旧数据"""
+    """只保留最近 N 天的新闻"""
     cutoff = datetime.now(CST) - timedelta(days=days)
     result = []
     for item in news_list:
@@ -247,7 +257,6 @@ def filter_by_days(news_list, days=7):
             if pub_dt >= cutoff:
                 result.append(item)
         except Exception:
-            # 时间解析失败的也保留
             result.append(item)
     return result
 
@@ -268,7 +277,7 @@ def main():
 
     all_news = deduplicate(all_news)
     all_news = sort_by_time(all_news)
-    all_news = filter_by_days(all_news, days=7)  # 只保留最近7天
+    all_news = filter_by_days(all_news, days=7)
     print(f"  过滤后保留 {len(all_news)} 条（最近7天）")
 
     output = {
@@ -277,7 +286,10 @@ def main():
         'news': all_news,
     }
 
-    with open('news.json', 'w', encoding='utf-8') as f:
+    import os
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    json_path = os.path.join(script_dir, 'news.json')
+    with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     print(f"完成！共 {len(all_news)} 条，已保存 news.json")

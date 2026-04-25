@@ -1,7 +1,161 @@
 {
-  "updatedAt": "2026-04-25T18:30:55+08:00",
-  "total": 103,
+  "updatedAt": "2026-04-25T22:30:16+08:00",
+  "total": 99,
   "news": [
+    {
+      "title": "美国共和党调整中期选举策略：沿用特朗普政策，淡化其个人影响",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-25/doc-inhvtryz3949192.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-25T22:27:43+08:00"
+    },
+    {
+      "title": "Momenta曹旭东：海外车企应跟中国模式学习，做反向合资反哺当地",
+      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-04-25/doc-inhvtryx0537249.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-25T22:16:48+08:00"
+    },
+    {
+      "title": "中国长安汽车发布“海纳百川”计划2.0，锚定2030年海外销量150万辆",
+      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-04-25/doc-inhvtryz3946217.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-25T22:08:38+08:00"
+    },
+    {
+      "title": "中国移动蒋亚佳：以“网络筑基、算力升级、智能引领”融合能力，赋能自动驾驶产业高质量发展",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-04-25/doc-inhvtryz3941706.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-25T21:49:29+08:00"
+    },
+    {
+      "title": "引望智能李文广：预计2028年Robotaxi部分城市商用，全速L4部分城市试点",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-04-25/doc-inhvtrzc0717435.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-25T21:42:08+08:00"
+    },
+    {
+      "title": "引望智能李文广：ADS辅助驾驶安全指标达中国平均4.2倍，自动泊车30万次仅1次碰撞",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-04-25/doc-inhvtryz3940236.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-25T21:42:06+08:00"
+    },
+    {
+      "title": "首份信托一季报出炉，陕国投净利2.9亿缩水25%！一年累计分红4.6亿",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-04-25/doc-inhvtryz3936094.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-25T21:22:00+08:00"
+    },
+    {
+      "title": "主动“认输”的DeepSeek，这次到底行不行？",
+      "url": "https://finance.sina.com.cn/stock/t/2026-04-25/doc-inhvtmsz0648050.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-25T21:14:37+08:00"
+    },
+    {
+      "title": "美国为打击伊朗找理由 法律专家批“毫无说服力”",
+      "url": "https://finance.sina.com.cn/jjxw/2026-04-25/doc-inhvtmtc4060454.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-25T20:43:27+08:00"
+    },
+    {
+      "title": "伊朗议员：伊方已形成管理霍尔木兹海峡的综合方案",
+      "url": "https://finance.sina.com.cn/jjxw/2026-04-25/doc-inhvtmsz0639187.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-25T20:38:37+08:00"
+    },
+    {
+      "title": "伊朗总统：希望“历史性挫败”能为霸权主义者敲响警钟",
+      "url": "https://finance.sina.com.cn/jjxw/2026-04-25/doc-inhvtmsy2328271.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-25T20:37:47+08:00"
+    },
+    {
+      "title": "一季度利润环比下滑的新易盛带崩板块，“光”还在吗？",
+      "url": "https://finance.sina.com.cn/jjxw/2026-04-25/doc-inhvtmsy2322777.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-25T20:35:05+08:00"
+    },
+    {
+      "title": "两个福建男人，一场全球抢矿大战",
+      "url": "https://www.tmtpost.com/7967006.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-04-25T20:33:15+08:00"
+    },
+    {
+      "title": "信科移动连续八年亏损，“空天地”一体化故事何时迎来盈利拐点？",
+      "url": "https://finance.sina.com.cn/roll/2026-04-25/doc-inhvtmsz0629721.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-25T20:27:42+08:00"
+    },
+    {
+      "title": "AI 巨头，走入黑暗森林",
+      "url": "https://www.tmtpost.com/7967154.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-04-25T20:18:14+08:00"
+    },
+    {
+      "title": "华尔街疯抢“电力霸权”！",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-04-25/doc-inhvtmtc4044905.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-25T19:39:12+08:00"
+    },
+    {
+      "title": "东海证券8300万股流拍后再上架，起拍价下调5350万至3.2亿元",
+      "url": "https://finance.sina.com.cn/jjxw/2026-04-25/doc-inhvtfma2419271.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-25T18:43:00+08:00"
+    },
+    {
+      "title": "东方甄选明明回应离职：新任管理层对我不友好，让我陷入严重的焦虑和内耗",
+      "url": "https://finance.sina.com.cn/chanjing/wddc/2026-04-25/doc-inhvtfmc0723658.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-25T18:31:29+08:00"
+    },
+    {
+      "title": "格林基金“大V”首秀：从246万飙升14亿！却成亏本打工人！",
+      "url": "https://finance.sina.com.cn/wm/2026-04-25/doc-inhvtfky3829924.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-25T18:30:00+08:00"
+    },
+    {
+      "title": "二乙烯三胺五乙酸五钠商品报价动态（2026-04-25）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-04-25/doc-inhvtryx0519933.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-25T18:12:00+08:00"
+    },
+    {
+      "title": "甲基硅酸钾商品报价动态（2026-04-25）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-04-25/doc-inhvtryw2210939.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-25T18:11:00+08:00"
+    },
+    {
+      "title": "甲基硅酸钠商品报价动态（2026-04-25）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-04-25/doc-inhvtryx0521241.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-25T18:11:00+08:00"
+    },
     {
       "title": "金融街嘉年华上AI把脉火了，1分钟就可生成身体健康报告",
       "url": "https://finance.sina.com.cn/hy/hyjz/2026-04-25/doc-inhvtfky3819930.shtml",
@@ -87,6 +241,13 @@
       "pubDate": "2026-04-25T16:08:01+08:00"
     },
     {
+      "title": "高含量杀菌剂商品报价动态（2026-04-25）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-04-25/doc-inhvtfky3825556.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-25T16:01:00+08:00"
+    },
+    {
       "title": "DeepSeek V4的真正价值，不在参数里",
       "url": "https://www.tmtpost.com/7966576.html",
       "source": "钛媒体",
@@ -136,48 +297,6 @@
       "pubDate": "2026-04-25T15:59:09+08:00"
     },
     {
-      "title": "华友钴业方启学：以“地瓜理论”打造中国企业海外投资新范式",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-04-25/doc-inhvszcf0800323.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T15:48:27+08:00"
-    },
-    {
-      "title": "这次DeepSeek没炸市场，因为它在等一个更大的爆点",
-      "url": "https://finance.sina.com.cn/wm/2026-04-25/doc-inhvszce2490348.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T15:47:00+08:00"
-    },
-    {
-      "title": "脱胎华为、估值超600亿！服务器龙头超聚变完成IPO辅导",
-      "url": "https://finance.sina.com.cn/roll/2026-04-25/doc-inhvszcf0798293.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T15:46:00+08:00"
-    },
-    {
-      "title": "“你会武术吗？会英语吗？”机器人遭遇小朋友花式刁难，一一破解后引发惊叹",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-04-25/doc-inhvszca3912199.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T15:29:38+08:00"
-    },
-    {
-      "title": "一天跌去700亿，市场开始不愿意为新易盛买单了？",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-04-25/doc-inhvszcf0789597.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T15:21:28+08:00"
-    },
-    {
-      "title": "宁高宁致开幕词，第十届中国企业领袖读享盛典群星荟萃，圆满成功",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-04-25/doc-inhvszca3907937.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T15:18:32+08:00"
-    },
-    {
       "title": "谁在假冒开市客？",
       "url": "https://www.tmtpost.com/7966971.html",
       "source": "钛媒体",
@@ -185,39 +304,11 @@
       "pubDate": "2026-04-25T15:17:50+08:00"
     },
     {
-      "title": "近一年业绩翻倍！富国基金曹晋详解科技股投资：AI仍是大方向，还看好这些",
-      "url": "https://finance.sina.com.cn/wm/2026-04-25/doc-inhvszce2473924.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T15:01:00+08:00"
-    },
-    {
-      "title": "评论：AI艺人库为什么全网吵翻天？爱奇艺还是不懂",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-25/doc-inhvszce2467994.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T14:53:24+08:00"
-    },
-    {
-      "title": "蔚来秦力洪谈新车节奏：在中国造车是幸福的",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-04-25/doc-inhvszce2470357.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T14:52:00+08:00"
-    },
-    {
       "title": "伊朗外长抵达巴基斯坦 但没有与美国代表团举行会谈的计划",
       "url": "https://finance.sina.com.cn/world/2026-04-25/doc-inhvszay7120513.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-04-25T14:43:52+08:00"
-    },
-    {
-      "title": "机械臂特调饮品引围观，小朋友用电话手表现场记录",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-04-25/doc-inhvszcf0772315.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T14:36:41+08:00"
     },
     {
       "title": "【数智周报】 月之暗面新模型Kimi K2.6发布并开源；Deepseek官网公布deepseek-v4接口文档；中国软件产业规模有望突破20万亿元大关；特斯拉中国车机将接入豆包大模型；OpenAI发布ChatGPT Images 2.0生图工具",
@@ -239,76 +330,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-04-25T13:58:00+08:00"
-    },
-    {
-      "title": "东鹏特饮被骂上热搜，“0糖”实为注册商标",
-      "url": "https://finance.sina.com.cn/wm/2026-04-25/doc-inhvsuvi0891554.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T13:56:00+08:00"
-    },
-    {
-      "title": "价格周报｜本周猪价反弹，机构称市场底部或已探明",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-25/doc-inhvsuvi0889741.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T13:54:00+08:00"
-    },
-    {
-      "title": "年薪大降42%再全捐，贝壳彭永东超级投票权历史摊销走向尾声",
-      "url": "https://finance.sina.com.cn/roll/2026-04-25/doc-inhvsuvh2581205.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T13:37:00+08:00"
-    },
-    {
-      "title": "下游需求激增，CPU重回AI核心，A股布局公司梳理",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-25/doc-inhvsuva7227946.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T13:31:00+08:00"
-    },
-    {
-      "title": "海外评测DeepSeek-V4：智能体任务排名开源第一，幻觉率上升，Token消耗大",
-      "url": "https://finance.sina.com.cn/roll/2026-04-25/doc-inhvsuva7221821.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T13:16:54+08:00"
-    },
-    {
-      "title": "5次“抢跑”，35亿美元“砸盘”！起底中东冲突背后的美国“原油内幕交易”疑云",
-      "url": "https://finance.sina.com.cn/roll/2026-04-25/doc-inhvsuvi0873854.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T13:16:46+08:00"
-    },
-    {
-      "title": "金融街嘉年华“筷乐大作战”，30秒夹多少领多少",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-04-25/doc-inhvsuvi0855334.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T12:34:29+08:00"
-    },
-    {
-      "title": "金融街嘉年华“扭蛋”排长龙，近30人排队集卡领福利",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-04-25/doc-inhvsuvi0854371.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T12:31:06+08:00"
-    },
-    {
-      "title": "首富钟睒睒持股公司万泰生物业绩“过山车”：从年盈利47亿，到亏损4亿",
-      "url": "https://finance.sina.com.cn/wm/2026-04-25/doc-inhvsuvi0850038.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T12:09:24+08:00"
-    },
-    {
-      "title": "全球变压器超级缺口，激活中国特高压产业机会",
-      "url": "https://www.tmtpost.com/7966566.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-04-25T11:53:16+08:00"
     },
     {
       "title": "瑞银：思格新能首予“买入”评级 目标价651港元",
@@ -465,64 +486,15 @@
       "pubDate": "2026-04-25T10:35:05+08:00"
     },
     {
-      "title": "美银证券：ASMP重申“买入”评级 目标价升至190港元",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-04-25/doc-inhvsqpe7292775.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-25T10:34:16+08:00"
-    },
-    {
-      "title": "花旗：周大福创建首予“买入”评级 目标价10.6港元",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-04-25/doc-inhvsqpk2620064.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-25T10:31:14+08:00"
-    },
-    {
-      "title": "大摩：腾讯控股给予“增持”评级 目标价650港元",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-04-25/doc-inhvsqpk2619630.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-25T10:30:29+08:00"
-    },
-    {
-      "title": "高盛：腾讯控股维持“买入”评级 目标价700港元",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-04-25/doc-inhvsqpm0929483.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-25T10:29:36+08:00"
-    },
-    {
-      "title": "花旗：中国铝业维持“买入”评级 目标价为15.94港元",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-04-25/doc-inhvsqpe7290473.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-25T10:28:50+08:00"
-    },
-    {
-      "title": "小摩：继续视智谱与MiniMax-W为中国AI采用周期结构性受益者 续予“增持”评级",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-04-25/doc-inhvsqpk2618669.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-25T10:27:40+08:00"
-    },
-    {
-      "title": "2026北京车展：从七大黑科技看全球最大车展",
-      "url": "https://www.tmtpost.com/7966574.html",
-      "source": "钛媒体",
+      "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+      "url": "http://36kr.com",
+      "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-04-25T10:16:06+08:00"
-    },
-    {
-      "title": "DeepSeek V4、GPT5.5会师：通向AGI的门票只有Coding？",
-      "url": "https://www.tmtpost.com/7966538.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-04-25T10:16:02+08:00"
+      "pubDate": "2026-04-25 19:15:26  +0800"
     },
     {
       "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
-      "url": "http://36kr.com",
+      "url": "https://36kr.com/p/3782137908403457?f=rss",
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-04-25 09:10:38  +0800"
@@ -584,15 +556,15 @@
       "pubDate": "2026-04-24 12:58:37  +0800"
     },
     {
-      "title": "茅台向经销商「要利润」",
+      "title": "卡尔动力发布KargoBot Inside",
       "url": "https://36kr.com/p/3780352721851397?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-04-24 12:25:05  +0800"
+      "pubDate": "2026-04-25 20:14:39  +0800"
     },
     {
       "title": "江苏如东能源岛LNG输出量突破1000亿立方米",
-      "url": "https://36kr.com/p/3780191213229314?f=rss",
+      "url": "https://36kr.com/newsflashes/3782201831742724?f=rss",
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-04-25 17:50:26  +0800"
@@ -652,6 +624,13 @@
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-04-25 14:51:37  +0800"
+    },
+    {
+      "title": "下游需求激增，CPU重回AI核心，A股布局公司梳理",
+      "url": "https://36kr.com/newsflashes/3781884274318344?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-04-25 14:21:51  +0800"
     },
     {
       "title": "五菱与华为乾崑签署深化战略合作协议，华境S 5月8日正式上市",
@@ -715,13 +694,6 @@
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-04-25 11:50:34  +0800"
-    },
-    {
-      "title": "smart亮相2026北京车展",
-      "url": "https://36kr.com/newsflashes/3781654300450048?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 11:25:52  +0800"
     }
   ]
 }

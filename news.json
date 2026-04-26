@@ -1,7 +1,420 @@
 {
-  "updatedAt": "2026-04-26T07:57:43+08:00",
-  "total": 78,
+  "updatedAt": "2026-04-26T14:31:10+08:00",
+  "total": 103,
   "news": [
+    {
+      "title": "申万宏源策略一周回顾展望：二季度关注什么？",
+      "url": "https://finance.sina.com.cn/stock/2026-04-26/doc-inhvvean8679745.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T14:28:17+08:00"
+    },
+    {
+      "title": "浙商策略：市场演绎极致分化 短线勿追高、中线等右脚",
+      "url": "https://finance.sina.com.cn/stock/2026-04-26/doc-inhvveam0048890.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T14:25:25+08:00"
+    },
+    {
+      "title": "光大证券：市场短期或将延续震荡上行格局",
+      "url": "https://finance.sina.com.cn/stock/2026-04-26/doc-inhvveae9878984.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T14:22:46+08:00"
+    },
+    {
+      "title": "北京车展，王传福两口子坐地铁，各玩各手机",
+      "url": "https://finance.sina.com.cn/chanjing/wddc/2026-04-26/doc-inhvveam0047552.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T14:22:14+08:00"
+    },
+    {
+      "title": "下周，美股七巨头发布财报",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-04-26/doc-inhvveai3266815.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T14:04:15+08:00"
+    },
+    {
+      "title": "东方甄选四大主播集体离职，俞敏洪回应",
+      "url": "https://finance.sina.com.cn/roll/2026-04-26/doc-inhvveae9872693.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T13:52:00+08:00"
+    },
+    {
+      "title": "7只A股，明日复牌！5只将被“*ST”",
+      "url": "https://finance.sina.com.cn/wm/2026-04-26/doc-inhvveai3262957.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T13:46:00+08:00"
+    },
+    {
+      "title": "业绩大增！多只A股公告",
+      "url": "https://finance.sina.com.cn/wm/2026-04-26/doc-inhvvean8667841.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T13:45:00+08:00"
+    },
+    {
+      "title": "史诗级暴涨！“大空头”，突然出手！",
+      "url": "https://finance.sina.com.cn/wm/2026-04-26/doc-inhvveae9869106.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T13:45:00+08:00"
+    },
+    {
+      "title": "金融街嘉年华机械臂特调饮品引围观，大量消费者举手机打卡记录",
+      "url": "https://finance.sina.com.cn/meeting/2026-04-26/doc-inhvvean8661399.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T13:32:30+08:00"
+    },
+    {
+      "title": "科创板“首单”，这家公司“尝鲜”！",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-04-26/doc-inhvveai3254481.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T13:12:12+08:00"
+    },
+    {
+      "title": "301500一季度盈利超去年全年，净利润增长近8000%！南向资金大比例加仓多只医药股",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-04-26/doc-inhvveai3254003.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T13:12:12+08:00"
+    },
+    {
+      "title": "岚图汽车谢文云：用户对智能驾驶态度已经从“不敢用”转向“愿意用”，并加速走向“离不开”",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-04-26/doc-inhvuxum3380779.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T13:07:13+08:00"
+    },
+    {
+      "title": "岚图汽车谢文云：L3不是可选项，而是通往高阶自动驾驶的必经之路",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-04-26/doc-inhvuxuq8782214.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T13:06:11+08:00"
+    },
+    {
+      "title": "金融街嘉年华消防安全知识宣传“趣味十足”，孩子拿起书就“放不下”",
+      "url": "https://finance.sina.com.cn/meeting/2026-04-26/doc-inhvuxup0157482.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T13:05:44+08:00"
+    },
+    {
+      "title": "明天，两大龙头来了",
+      "url": "https://finance.sina.com.cn/jjxw/2026-04-26/doc-inhvuxuq8785143.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T12:57:59+08:00"
+    },
+    {
+      "title": "金强出任中信建投基金董事长",
+      "url": "https://finance.sina.com.cn/jjxw/2026-04-26/doc-inhvuxum3374121.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T12:41:15+08:00"
+    },
+    {
+      "title": "罕见！超级牛散，进入中信证券前十大股东！",
+      "url": "https://finance.sina.com.cn/wm/2026-04-26/doc-inhvuxum3368023.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T12:20:00+08:00"
+    },
+    {
+      "title": "股价重挫！千亿龙头“爆雷”，1季度净利暴跌82%！百亿公司，亏损近4800万！AI引爆的液冷行业，为何难赚钱？",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-04-26/doc-inhvuxuh9967239.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T12:15:55+08:00"
+    },
+    {
+      "title": "清华大学邓志东：未来，自动驾驶系统将是“硬件平台+AI软件”一体化移动AI智能体",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-04-26/doc-inhvuxup0141482.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T12:09:35+08:00"
+    },
+    {
+      "title": "清华大学教授邓志东：过去车企核心竞争力是精密机械制造能力，未来将是数据闭环运营能力",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-04-26/doc-inhvuxum3363929.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T12:08:14+08:00"
+    },
+    {
+      "title": "华盛顿特区检察官：枪手被控两项重罪",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-26/doc-inhvuxup0140486.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T12:05:58+08:00"
+    },
+    {
+      "title": "特朗普：伊朗会毫不犹豫使用核武器",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-26/doc-inhvuxuh9958983.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T12:00:53+08:00"
+    },
+    {
+      "title": "金融街嘉年华全聚德展位“热销”，工作人员：每天中午都排队！",
+      "url": "https://finance.sina.com.cn/meeting/2026-04-26/doc-inhvuxup0139451.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T12:00:24+08:00"
+    },
+    {
+      "title": "特朗普：周六白宫记者晚宴枪击事件不会阻止打赢伊朗战争",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-26/doc-inhvuxuq8756121.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T11:55:36+08:00"
+    },
+    {
+      "title": "300012，火了！超160家机构现身调研！去年业绩创历史新高",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-04-26/doc-inhvuxuq8756005.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T11:53:10+08:00"
+    },
+    {
+      "title": "中信建投基金总经理金强升任董事长，一季度末管理规模跌出千亿阵营",
+      "url": "https://finance.sina.com.cn/jjxw/2026-04-26/doc-inhvuxuh9953925.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T11:44:00+08:00"
+    },
+    {
+      "title": "不服雷军、余承东的人，来车圈宣战了",
+      "url": "https://finance.sina.com.cn/stock/auto/2026-04-26/doc-inhvuxum3350026.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T11:21:34+08:00"
+    },
+    {
+      "title": "网易有道携多款产品亮相金融街嘉年华，引用户驻足观看",
+      "url": "https://finance.sina.com.cn/meeting/2026-04-26/doc-inhvuxum3346970.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-04-26T11:15:59+08:00"
+    },
+    {
+      "title": "特朗普否认枪击事件与伊朗战争有关",
+      "url": "https://finance.sina.com.cn/world/2026-04-26/doc-inhvuxuq8737955.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T11:09:16+08:00"
+    },
+    {
+      "title": "视频|特朗普发布晚宴安全事件嫌疑人照片",
+      "url": "https://finance.sina.com.cn/world/2026-04-26/doc-inhvutnr0248995.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T10:56:32+08:00"
+    },
+    {
+      "title": "中国和海湾地区在AI采用方面走在前列，这些股票可能已蓄势待涨",
+      "url": "https://www.tmtpost.com/7967518.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-04-26T10:43:43+08:00"
+    },
+    {
+      "title": "雷军被车主堵车里维权？小米发文：李某华因故意散布谣言、扰乱公共秩序，被行政拘留10日",
+      "url": "https://finance.sina.com.cn/china/2026-04-26/doc-inhvuxuq8750995.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T10:39:53+08:00"
+    },
+    {
+      "title": "视频|现场画面！白宫晚宴传出“巨大声响” 特朗普在安保人员护送下离开",
+      "url": "https://finance.sina.com.cn/world/2026-04-26/doc-inhvutnk1741416.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T10:25:49+08:00"
+    },
+    {
+      "title": "对话 Momenta CEO曹旭东：自动驾驶是物理AI的序章",
+      "url": "https://www.tmtpost.com/7967422.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-04-26T10:13:00+08:00"
+    },
+    {
+      "title": "东方甄选主播集体离职 俞敏洪回应",
+      "url": "https://finance.sina.com.cn/china/2026-04-26/doc-inhvutnk1732589.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T10:05:02+08:00"
+    },
+    {
+      "title": "视频细节曝光！枪响瞬间，特朗普坐在台上，特工拔枪戒备",
+      "url": "https://finance.sina.com.cn/wm/2026-04-26/doc-inhvutnk1735091.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T10:05:00+08:00"
+    },
+    {
+      "title": "视频|白宫记者晚宴出现枪击特朗普紧急撤离",
+      "url": "https://finance.sina.com.cn/world/2026-04-26/doc-inhvutnk1725404.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T09:45:13+08:00"
+    },
+    {
+      "title": "枪手已身亡，1人被捕！特朗普及其夫人撤离现场画面曝光",
+      "url": "https://finance.sina.com.cn/world/2026-04-26/doc-inhvutnk1726062.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T09:44:51+08:00"
+    },
+    {
+      "title": "现场画面！白宫晚宴发生枪击事件",
+      "url": "https://finance.sina.com.cn/world/2026-04-26/doc-inhvutnk1725041.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T09:39:46+08:00"
+    },
+    {
+      "title": "主动“认输”的DeepSeek，这次到底行不行？",
+      "url": "https://www.tmtpost.com/7967295.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-04-26T09:33:00+08:00"
+    },
+    {
+      "title": "晚宴枪击现场细节曝光：部长急撤、记者趴地，特朗普未伤将发布讲话",
+      "url": "https://finance.sina.com.cn/roll/2026-04-26/doc-inhvutnr0221477.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T09:28:14+08:00"
+    },
+    {
+      "title": "白宫记协晚宴发生“安全事件” 一名嫌疑人被拘捕",
+      "url": "https://finance.sina.com.cn/world/2026-04-26/doc-inhvutnm0024395.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T09:13:44+08:00"
+    },
+    {
+      "title": "特朗普撤离白宫现场画面曝光",
+      "url": "https://finance.sina.com.cn/world/2026-04-26/doc-inhvutnr0214022.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T09:05:27+08:00"
+    },
+    {
+      "title": "A股“疯狂扫货”，120亿芯片大佬欲跨界“抄底”？",
+      "url": "https://www.tmtpost.com/7967307.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-04-26T09:03:00+08:00"
+    },
+    {
+      "title": "突发！白宫记者晚宴传出“枪声”，特朗普被紧急疏散",
+      "url": "https://finance.sina.com.cn/world/2026-04-26/doc-inhvutnp3434364.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T08:59:10+08:00"
+    },
+    {
+      "title": "谷歌亚马逊同时砸钱养竞争对手，AI时代最荒诞的商业逻辑正在成真",
+      "url": "https://www.tmtpost.com/7967434.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-04-26T08:57:17+08:00"
+    },
+    {
+      "title": "GPT image-2爆火后，设计师的天塌了吗？",
+      "url": "https://www.tmtpost.com/7967359.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-04-26T08:57:00+08:00"
+    },
+    {
+      "title": "美国白宫记者晚宴发生枪击事件 枪手身亡",
+      "url": "https://finance.sina.com.cn/world/2026-04-26/doc-inhvutnr0208989.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T08:52:09+08:00"
+    },
+    {
+      "title": "白宫记者晚宴传出“枪声” 特朗普被紧急疏散",
+      "url": "https://finance.sina.com.cn/world/2026-04-26/doc-inhvutnm0015599.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T08:50:27+08:00"
+    },
+    {
+      "title": "特朗普在白宫记者晚宴上因安全事件被紧急疏散",
+      "url": "https://finance.sina.com.cn/world/2026-04-26/doc-inhvutnk1704636.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T08:48:03+08:00"
+    },
+    {
+      "title": "网易游戏、爱奇艺在拼命拥抱AI，但用户不乐意",
+      "url": "https://www.tmtpost.com/7967357.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-04-26T08:47:00+08:00"
+    },
+    {
+      "title": "华人CEO为什么“带飞”芯片巨头",
+      "url": "https://www.tmtpost.com/7967314.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-04-26T08:40:00+08:00"
+    },
+    {
+      "title": "被贾跃亭“坑惨”，酷派靠加密货币和收租“过活”？",
+      "url": "https://www.tmtpost.com/7967297.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-04-26T08:34:00+08:00"
+    },
+    {
+      "title": "霍尔木兹海峡大消息，伊朗最高领袖下令",
+      "url": "https://finance.sina.com.cn/world/2026-04-26/doc-inhvupep0138411.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T08:23:49+08:00"
+    },
+    {
+      "title": "算力受限，DeepSeek-V4凭什么开源？",
+      "url": "https://www.tmtpost.com/7967294.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-04-26T08:18:00+08:00"
+    },
+    {
+      "title": "波斯湾航运受限，美国能源出口创下历史新高",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-26/doc-inhvupen1819436.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T08:05:03+08:00"
+    },
+    {
+      "title": "灵初智能想做具身智能时代的“卖铲人”",
+      "url": "https://www.tmtpost.com/7967270.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-04-26T08:03:00+08:00"
+    },
+    {
+      "title": "社保“第六险”缴费多少？享受哪些待遇？一文了解",
+      "url": "https://finance.sina.com.cn/jjxw/2026-04-26/doc-inhvupen1814964.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-26T07:46:51+08:00"
+    },
     {
       "title": "伊朗副议长：穆杰塔巴下令霍尔木兹海峡不得恢复战前状态",
       "url": "https://finance.sina.com.cn/world/2026-04-26/doc-inhvupen1813608.shtml",
@@ -45,13 +458,6 @@
       "pubDate": "2026-04-26T07:04:00+08:00"
     },
     {
-      "title": "万亿级大风口！超大“机”遇，来了→",
-      "url": "https://finance.sina.com.cn/wm/2026-04-26/doc-inhvuhwt3651833.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-26T06:10:00+08:00"
-    },
-    {
       "title": "伊朗总统：不会在压力、威胁和封锁下进行谈判",
       "url": "https://finance.sina.com.cn/jjxw/2026-04-26/doc-inhvuhwv0418316.shtml",
       "source": "新浪综合",
@@ -64,174 +470,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-04-26T04:34:11+08:00"
-    },
-    {
-      "title": "伊朗政府发言人：国内各政治力量立场一致 敌对势力不要误判",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-26/doc-inhvuhwr0223688.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-26T04:29:50+08:00"
-    },
-    {
-      "title": "伊朗最高领袖敦促海湾国家对“邪恶势力”的虚假承诺保持警惕",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-26/doc-inhvuhwq1911265.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-26T04:19:38+08:00"
-    },
-    {
-      "title": "特朗普：绝不允许银行破坏加密货币市场法案",
-      "url": "https://finance.sina.com.cn/7x24/2026-04-26/doc-inhvuaqt0347955.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-26T03:59:04+08:00"
-    },
-    {
-      "title": "伊朗外长结束阿曼访问后将返回巴基斯坦",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-26/doc-inhvuhwr0220998.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-26T03:53:05+08:00"
-    },
-    {
-      "title": "伊朗外长将再次访问巴基斯坦",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-26/doc-inhvuaqx0538076.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-26T03:53:05+08:00"
-    },
-    {
-      "title": "伊外交部：伊朗始终高度重视同波斯湾国家的关系",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-26/doc-inhvuaqs2036226.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-26T03:12:58+08:00"
-    },
-    {
-      "title": "以军总参谋长建议告知美国应重启对伊朗打击",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-26/doc-inhvuaqt0345067.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-26T02:38:56+08:00"
-    },
-    {
-      "title": "以总理称已下令对黎境内真主党目标进行强力打击",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-26/doc-inhvuaqs2024945.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-26T01:57:32+08:00"
-    },
-    {
-      "title": "披露文件显示，特朗普3月份购买了至少5100万美元的债券",
-      "url": "https://finance.sina.com.cn/7x24/2026-04-26/doc-inhvtwhz0638342.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-26T01:35:46+08:00"
-    },
-    {
-      "title": "巴基斯坦首都伊斯兰堡解除交通管制",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-26/doc-inhvuaqs2026192.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-26T01:30:56+08:00"
-    },
-    {
-      "title": "伊朗外长抵达阿曼",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-26/doc-inhvtwhu2150452.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-26T00:48:02+08:00"
-    },
-    {
-      "title": "伊朗外长：美国是否真心实意进行谈判还有待观察",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-26/doc-inhvtwhx3855045.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-26T00:42:12+08:00"
-    },
-    {
-      "title": "伊朗伊斯兰革命卫队：国土防御力量已在各条战线做好充分准备",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-26/doc-inhvuaqs2024646.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-26T00:37:10+08:00"
-    },
-    {
-      "title": "特朗普取消库什纳与威特科夫赴巴基斯坦参与伊朗问题谈判之行",
-      "url": "https://finance.sina.com.cn/7x24/2026-04-26/doc-inhvtwhz0616368.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-26T00:06:11+08:00"
-    },
-    {
-      "title": "特朗普称已取消威特科夫和库什纳前往巴基斯坦的行程",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-25/doc-inhvtwhu2122341.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-25T23:50:49+08:00"
-    },
-    {
-      "title": "欧尔班表示将不担任匈牙利国会议员职务",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-25/doc-inhvtwhv0437008.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-25T23:46:29+08:00"
-    },
-    {
-      "title": "两日内4位主播离职，东方甄选“F4”正式解散",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-04-25/doc-inhvtrzc0731391.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T22:41:38+08:00"
-    },
-    {
-      "title": "美国共和党调整中期选举策略：沿用特朗普政策，淡化其个人影响",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-25/doc-inhvtryz3949192.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-25T22:27:43+08:00"
-    },
-    {
-      "title": "Momenta曹旭东：海外车企应跟中国模式学习，做反向合资反哺当地",
-      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-04-25/doc-inhvtryx0537249.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-25T22:16:48+08:00"
-    },
-    {
-      "title": "中国长安汽车发布“海纳百川”计划2.0，锚定2030年海外销量150万辆",
-      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-04-25/doc-inhvtryz3946217.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-25T22:08:38+08:00"
-    },
-    {
-      "title": "中国移动蒋亚佳：以“网络筑基、算力升级、智能引领”融合能力，赋能自动驾驶产业高质量发展",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-04-25/doc-inhvtryz3941706.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-25T21:49:29+08:00"
-    },
-    {
-      "title": "美国为打击伊朗找理由 法律专家批“毫无说服力”",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-25/doc-inhvtmtc4060454.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-25T20:43:27+08:00"
-    },
-    {
-      "title": "伊朗议员：伊方已形成管理霍尔木兹海峡的综合方案",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-25/doc-inhvtmsz0639187.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-25T20:38:37+08:00"
-    },
-    {
-      "title": "伊朗总统：希望“历史性挫败”能为霸权主义者敲响警钟",
-      "url": "https://finance.sina.com.cn/jjxw/2026-04-25/doc-inhvtmsy2328271.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-25T20:37:47+08:00"
     },
     {
       "title": "两个福建男人，一场全球抢矿大战",
@@ -276,277 +514,214 @@
       "pubDate": "2026-04-25T19:13:08+08:00"
     },
     {
-      "title": "价值判断：涨停板的投资机会和风险提示（4月24日）｜证券市场观察",
-      "url": "https://www.tmtpost.com/7967246.html",
-      "source": "钛媒体",
+      "title": "欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题｜最前线",
+      "url": "https://36kr.com/p/3783249100397570?f=rss",
+      "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-04-25T19:12:44+08:00"
+      "pubDate": "2026-04-26 14:00:34  +0800"
     },
     {
-      "title": "字节养的“虾”与1500亿账本背后",
-      "url": "https://www.tmtpost.com/7967099.html",
-      "source": "钛媒体",
+      "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
+      "url": "https://36kr.com/p/3782960065108996?f=rss",
+      "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-04-25T16:33:16+08:00"
+      "pubDate": "2026-04-26 09:06:18  +0800"
     },
     {
-      "title": "最激进的“AI先锋”多邻国，已经放过员工了",
-      "url": "https://www.tmtpost.com/7967030.html",
-      "source": "钛媒体",
+      "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
+      "url": "https://36kr.com/p/3782901034785801?f=rss",
+      "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-04-25T16:20:13+08:00"
-    },
-    {
-      "title": "已求证！阿维塔高端定位不变，持续向上",
-      "url": "https://www.tmtpost.com/7967007.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-04-25T16:08:01+08:00"
-    },
-    {
-      "title": "DeepSeek V4的真正价值，不在参数里",
-      "url": "https://www.tmtpost.com/7966576.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-04-25T15:59:33+08:00"
-    },
-    {
-      "title": "DeepSeek再放大招，国产大模型坐不住了",
-      "url": "https://www.tmtpost.com/7966592.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-04-25T15:59:31+08:00"
-    },
-    {
-      "title": "大疆与影石，一场中国硬件的「边界」交锋",
-      "url": "https://www.tmtpost.com/7966626.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-04-25T15:59:24+08:00"
-    },
-    {
-      "title": "V4“上桌”，DeepSeek的故事更热血了",
-      "url": "https://www.tmtpost.com/7966641.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-04-25T15:59:20+08:00"
-    },
-    {
-      "title": "不只DeepSeek，大厂都想“抛弃”英伟达",
-      "url": "https://www.tmtpost.com/7966656.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-04-25T15:59:17+08:00"
+      "pubDate": "2026-04-26 08:08:39  +0800"
     },
     {
       "title": "科氪 | 国民好车深蓝L06增程版亮相北京车展 京东PLUS会员购车直减7000多元",
-      "url": "http://36kr.com",
+      "url": "https://36kr.com/p/3782437007039488?f=rss",
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-04-26 00:13:59  +0800"
     },
     {
       "title": "科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA",
-      "url": "https://36kr.com/p/3782437007039488?f=rss",
+      "url": "https://36kr.com/p/3782434723355655?f=rss",
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-04-26 00:11:41  +0800"
     },
     {
       "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
-      "url": "https://36kr.com/p/3782434723355655?f=rss",
+      "url": "https://36kr.com/p/3782137908403457?f=rss",
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-04-25 19:15:26  +0800"
     },
     {
       "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
-      "url": "https://36kr.com/p/3782137908403457?f=rss",
+      "url": "https://36kr.com/p/3781548853533959?f=rss",
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-04-25 09:10:38  +0800"
     },
     {
       "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
-      "url": "https://36kr.com/p/3781548853533959?f=rss",
+      "url": "https://36kr.com/p/3781532841581576?f=rss",
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-04-25 09:01:05  +0800"
     },
     {
       "title": "低头是日常，抬头是阅读",
-      "url": "https://36kr.com/p/3781532841581576?f=rss",
+      "url": "https://36kr.com/p/3780986341153798?f=rss",
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-04-24 23:38:53  +0800"
     },
     {
       "title": "最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三级跨越",
-      "url": "https://36kr.com/p/3780986341153798?f=rss",
+      "url": "https://36kr.com/p/3780910411193602?f=rss",
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-04-24 22:21:58  +0800"
     },
     {
-      "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
-      "url": "https://36kr.com/p/3780910411193602?f=rss",
+      "title": "乘联分会崔东树：1-3月中国汽车进口10万辆，同比增3%",
+      "url": "https://36kr.com/newsflashes/3783278185389313?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-04-24 19:32:16  +0800"
+      "pubDate": "2026-04-26 14:29:35  +0800"
     },
     {
-      "title": "科氪|高配不溢价，20万内首选！国民好车2.0深蓝L06增程版折后价低至127155元起",
-      "url": "https://36kr.com/p/3777694346548482?f=rss",
+      "title": "去年全国大型演唱会票房295.58亿",
+      "url": "https://36kr.com/newsflashes/3783242589691144?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-04-24 18:09:31  +0800"
+      "pubDate": "2026-04-26 13:53:22  +0800"
     },
     {
-      "title": "最前线｜AI收入破亿后的路径选择：微盟推行AI First战略与B端交付的挑战",
-      "url": "https://36kr.com/p/3780654186535941?f=rss",
+      "title": "申万宏源：市场超跌反弹后震荡休整或将延续，二季度关注5月关键事件验证",
+      "url": "https://36kr.com/newsflashes/3783182326062085?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-04-24 16:21:20  +0800"
+      "pubDate": "2026-04-26 13:21:57  +0800"
+    },
+    {
+      "title": "京东启动AI硬件孵化计划",
+      "url": "https://36kr.com/newsflashes/3783158630948103?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-04-26 13:02:53  +0800"
+    },
+    {
+      "title": "长三角海铁联运提前14天突破百万标箱，同比增长11.3%",
+      "url": "https://36kr.com/newsflashes/3783153957788680?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-04-26 12:44:08  +0800"
+    },
+    {
+      "title": "国信证券：结构上结合行业拥挤度均衡配置，重视科技成长主线、战略资源、以及白酒地产",
+      "url": "https://36kr.com/newsflashes/3783131237653763?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-04-26 12:35:00  +0800"
+    },
+    {
+      "title": "申万宏源：一季度公募持仓聚焦科技硬件，增配能源安全产业链",
+      "url": "https://36kr.com/newsflashes/3783130507025673?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-04-26 12:18:15  +0800"
+    },
+    {
+      "title": "中国长安汽车发布“海纳百川”计划2.0",
+      "url": "https://36kr.com/newsflashes/3783123460988167?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-04-26 11:52:11  +0800"
+    },
+    {
+      "title": "美国太空军披露“金穹”合同细节：SpaceX、安杜里尔等12家公司获32亿美元订单",
+      "url": "https://36kr.com/newsflashes/3783054579326213?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-04-26 11:37:50  +0800"
+    },
+    {
+      "title": "破解行李中转难题 民航新版指南明确全新保障模式",
+      "url": "https://36kr.com/newsflashes/3783087154552067?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-04-26 11:22:06  +0800"
+    },
+    {
+      "title": "芯擎科技发布新一代AI座舱芯片“龍鹰二号”，将于2027年Q1启动适配",
+      "url": "https://36kr.com/newsflashes/3783080587926793?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-04-26 11:08:34  +0800"
+    },
+    {
+      "title": "俞敏洪回应东方甄选主播集体离职：是平台的损失",
+      "url": "https://36kr.com/newsflashes/3783032831859712?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-04-26 11:01:54  +0800"
+    },
+    {
+      "title": "超算互联网推出DeepSeek-V4限时免费对话服务",
+      "url": "https://36kr.com/newsflashes/3783020652518401?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-04-26 10:40:31  +0800"
+    },
+    {
+      "title": "北京发布土地经营权流转价格模型",
+      "url": "https://36kr.com/newsflashes/3783019761933318?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-04-26 10:25:36  +0800"
+    },
+    {
+      "title": "利亚德：将进一步推进沙特工厂建设，预计7月投产后将覆盖亚非拉及中东地区",
+      "url": "https://36kr.com/newsflashes/3782972773080329?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-04-26 10:02:49  +0800"
+    },
+    {
+      "title": "近一周机构调研个股超350只，鼎泰高科热度第一",
+      "url": "https://36kr.com/newsflashes/3782965648235777?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-04-26 09:43:33  +0800"
+    },
+    {
+      "title": "华泰证券：光纤光缆产业进入历史大周期",
+      "url": "https://36kr.com/newsflashes/3782964689148937?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-04-26 09:31:35  +0800"
+    },
+    {
+      "title": "湖南AI中心落地湘江新区",
+      "url": "https://36kr.com/newsflashes/3782957337926921?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-04-26 09:24:07  +0800"
+    },
+    {
+      "title": "DeepSeek-V4-Pro模型API官宣限时2.5折优惠",
+      "url": "https://36kr.com/newsflashes/3782954220608512?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-04-26 09:00:01  +0800"
     },
     {
       "title": "卡尔动力发布KargoBot Inside",
-      "url": "https://36kr.com/p/3780556402531330?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 20:14:39  +0800"
-    },
-    {
-      "title": "江苏如东能源岛LNG输出量突破1000亿立方米",
       "url": "https://36kr.com/newsflashes/3782201831742724?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-04-25 17:50:26  +0800"
-    },
-    {
-      "title": "保时捷清仓布加迪股份",
-      "url": "https://36kr.com/newsflashes/3782060061563910?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 17:34:08  +0800"
-    },
-    {
-      "title": "元戎启行全面押注大模型自动驾驶",
-      "url": "https://36kr.com/newsflashes/3782044031818757?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 17:18:50  +0800"
-    },
-    {
-      "title": "巨星农牧：一季度公司的商品肥猪完全成本约为6.35元/斤",
-      "url": "https://36kr.com/newsflashes/3782028988882178?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 16:49:52  +0800"
-    },
-    {
-      "title": "Momenta一年间量产搭载量逾80万台",
-      "url": "https://36kr.com/newsflashes/3782000516635648?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 16:15:22  +0800"
-    },
-    {
-      "title": "百度智能云上线DeepSeek-V4",
-      "url": "https://36kr.com/newsflashes/3781966595234825?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 15:50:33  +0800"
-    },
-    {
-      "title": "我国单机容量最大“超级充电宝”3号机组顺利投运",
-      "url": "https://36kr.com/newsflashes/3781942204128513?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 15:29:24  +0800"
-    },
-    {
-      "title": "越南延长电动汽车特别消费税优惠政策",
-      "url": "https://36kr.com/newsflashes/3781921407507459?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 15:07:28  +0800"
-    },
-    {
-      "title": "本田在华研发转向中方主导",
-      "url": "https://36kr.com/newsflashes/3781899851406339?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 14:51:37  +0800"
-    },
-    {
-      "title": "下游需求激增，CPU重回AI核心，A股布局公司梳理",
-      "url": "https://36kr.com/newsflashes/3781884274318344?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 14:21:51  +0800"
-    },
-    {
-      "title": "五菱与华为乾崑签署深化战略合作协议，华境S 5月8日正式上市",
-      "url": "https://36kr.com/newsflashes/3781844281007361?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 14:14:34  +0800"
-    },
-    {
-      "title": "司美格鲁肽专利到期月余未见“国产首证”，多家申报企业称审批因数据保护期“暂缓”",
-      "url": "https://36kr.com/newsflashes/3781847846264071?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 14:00:38  +0800"
-    },
-    {
-      "title": "市场消息：日产汽车已完成旗下电动汽车全固态电池组原型机的性能指标考核",
-      "url": "https://36kr.com/newsflashes/3781834150976773?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 13:40:36  +0800"
-    },
-    {
-      "title": "亚洲首个盐穴储氢工程投产运行",
-      "url": "https://36kr.com/newsflashes/3781787983813890?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 13:10:39  +0800"
-    },
-    {
-      "title": "首个全国产控制系统水光互补项目今天投运",
-      "url": "https://36kr.com/newsflashes/3781785011412226?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 12:46:32  +0800"
-    },
-    {
-      "title": "天猫618推家电\"送装一体\"，覆盖全国95%区域",
-      "url": "https://36kr.com/newsflashes/3781761309400068?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 12:33:31  +0800"
-    },
-    {
-      "title": "潘功胜：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”",
-      "url": "https://36kr.com/newsflashes/3781735819222022?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 12:19:45  +0800"
-    },
-    {
-      "title": "美图立方视觉艺术中心开工，预计2028年投入使用",
-      "url": "https://36kr.com/newsflashes/3781734984473856?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 12:11:08  +0800"
-    },
-    {
-      "title": "阿塞拜疆主权财富基金第一季度抛售约22吨黄金，十多年来首次减持",
-      "url": "https://36kr.com/newsflashes/3781662685371396?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-04-25 11:50:34  +0800"
+      "pubDate": "2026-04-25 20:14:39  +0800"
     }
   ]
 }

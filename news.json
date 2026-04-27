@@ -1,230 +1,223 @@
 {
-  "updatedAt": "2026-04-28T01:11:46+08:00",
-  "total": 79,
+  "updatedAt": "2026-04-28T05:37:14+08:00",
+  "total": 78,
   "news": [
     {
-      "title": "知名分析师称高通与OpenAI合作研发智能手机 立讯精密亦有参与",
-      "url": "https://finance.sina.com.cn/world/2026-04-28/doc-inhvykns8907743.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-28T01:06:32+08:00"
-    },
-    {
-      "title": "欧洲股市收盘下跌 投资者关注企业财报和伊朗局势",
-      "url": "https://finance.sina.com.cn/world/2026-04-28/doc-inhvyknv2133435.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-28T01:05:52+08:00"
-    },
-    {
-      "title": "前谷歌深度思维研究员创立AI初创公司，斩获11亿美元创纪录种子轮融资",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvykny7705019.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-28T01:01:25+08:00"
-    },
-    {
-      "title": "达美乐披萨营收不及预期致股价大跌10%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyknv2128114.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-28T00:49:09+08:00"
-    },
-    {
-      "title": "投资者素来奉行“五月清仓离场”，但今年这一法则或将失效",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvykns8900866.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-28T00:45:30+08:00"
-    },
-    {
-      "title": "欧洲债市：随着布伦特原油突破108美元 欧洲政府债券下跌",
-      "url": "https://finance.sina.com.cn/world/2026-04-28/doc-inhvyknw8902428.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-28T00:39:45+08:00"
-    },
-    {
-      "title": "50美元电影票时代已然来临",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyknw8900649.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-28T00:32:56+08:00"
-    },
-    {
-      "title": "报道：谷歌员工敦促Pichai阻止美国军方使用其人工智能技术",
-      "url": "https://finance.sina.com.cn/world/2026-04-28/doc-inhvykny7694424.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-28T00:27:52+08:00"
-    },
-    {
-      "title": "城堡证券高管称伊朗冲突风险消退 股债市场有望同步上涨",
-      "url": "https://finance.sina.com.cn/world/2026-04-28/doc-inhvyknv2120403.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-28T00:20:30+08:00"
-    },
-    {
-      "title": "大牌加码创作者营销预算，但中小品牌仍主导合作市场",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvykns8891529.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-28T00:15:56+08:00"
-    },
-    {
-      "title": "为期十天的“空中出租车”服务试飞纽约 路线从曼哈顿至肯尼迪机场",
-      "url": "https://finance.sina.com.cn/world/2026-04-28/doc-inhvykny7690538.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-28T00:15:27+08:00"
-    },
-    {
-      "title": "午盘：美股维持下跌局面 道指下跌100点",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvykns8888141.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-28T00:07:03+08:00"
-    },
-    {
-      "title": "量子计算企业争相冲刺上市",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-27/doc-inhvykny7678669.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-27T23:46:26+08:00"
-    },
-    {
-      "title": "Meta达成太阳能电力合作协议",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-27/doc-inhvykny7677100.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-27T23:41:51+08:00"
-    },
-    {
-      "title": "干旱天气持续 芝加哥小麦期货价格触及七周高位",
-      "url": "https://finance.sina.com.cn/world/2026-04-27/doc-inhvykny7671061.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-27T23:29:25+08:00"
-    },
-    {
-      "title": "Nordex财报超预期，股价创24年新高",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-27/doc-inhvykns8871736.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-27T23:28:51+08:00"
-    },
-    {
-      "title": "日产预计年度净亏损收窄，成本削减成效显现",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-27/doc-inhvyeeu9000932.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-27T23:25:19+08:00"
-    },
-    {
-      "title": "中东硝烟起，巴西“粮仓”承压：化肥暴涨或致下季作物减产",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-27/doc-inhvyeey9010493.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-27T23:24:09+08:00"
-    },
-    {
-      "title": "美联航放弃与美航合并计划，美国航空业整合浪潮搁浅",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-27/doc-inhvyefa7799222.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-27T23:22:54+08:00"
-    },
-    {
-      "title": "壳牌164亿美元收购加拿大ARC Resources，押注蒙特尼页岩气扩张",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-27/doc-inhvyeey9009958.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-27T23:21:52+08:00"
-    },
-    {
-      "title": "油价冲击波袭来，全球消费品巨头面临定价压力测试",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-27/doc-inhvyeex2232532.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-27T23:20:53+08:00"
-    },
-    {
-      "title": "赛默飞世尔将微生物业务出售至阿斯特欧私募基金",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-27/doc-inhvyefa7797766.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-27T23:20:11+08:00"
-    },
-    {
-      "title": "停火协议形同虚设，以军空袭黎巴嫩东部致伤亡",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-27/doc-inhvyefa7797015.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-27T23:18:44+08:00"
-    },
-    {
-      "title": "Wizz Air对夏季需求和航空燃油供应持乐观态度",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-27/doc-inhvyeeu8997425.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-27T23:17:36+08:00"
-    },
-    {
-      "title": "美国最高法院权衡“地理围栏”搜查令的合宪性",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-27/doc-inhvyeeu8996825.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-27T23:16:07+08:00"
-    },
-    {
-      "title": "翻倍大牛股东山精密，一季度净利超去年全年80%",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-04-27/doc-inhvyeex2233099.shtml",
+      "title": "4月28日外盘头条：特朗普与幕僚讨论伊朗最新提议 欧盟向谷歌发布AI竞争合规指南 美光与闪迪股价持续走高",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyvar1940073.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-04-27T23:13:26+08:00"
+      "pubDate": "2026-04-28T05:36:52+08:00"
     },
     {
-      "title": "超预期！A股“新股王”源杰科技业绩爆发",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-04-27/doc-inhvyeex2232868.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-27T23:13:26+08:00"
-    },
-    {
-      "title": "梅拉尼娅·特朗普呼吁ABC对深夜秀主持人金梅尔“采取立场”",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-27/doc-inhvyeex2230022.shtml",
+      "title": "美国股市：标普500指数刷新纪录高点 投资者准备迎接科技巨头财报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyvan8703569.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-27T23:12:58+08:00"
+      "pubDate": "2026-04-28T05:25:08+08:00"
     },
     {
-      "title": "颠覆药价，Humana结盟库班公司打造“端到端”新模式",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-27/doc-inhvyeex2229658.shtml",
+      "title": "沃什领导下的美联储料推动美债收益率曲线趋陡交易复苏",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyvau7502622.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-27T23:12:01+08:00"
+      "pubDate": "2026-04-28T05:24:24+08:00"
     },
     {
-      "title": "竞争对手收缩叠加中东乱局，芬兰航空业绩大幅改善",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-27/doc-inhvyefa7793598.shtml",
+      "title": "两艘与伊朗有关联的被美国登临检查油轮似已掉转航向",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyvar1937202.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-27T23:10:57+08:00"
+      "pubDate": "2026-04-28T05:23:51+08:00"
     },
     {
-      "title": "美伊谈判前景不明压制市场，ARC Resources受并购利好飙升",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-27/doc-inhvyefa7792303.shtml",
+      "title": "OpenAI与亚马逊500亿美元合作落地，彻底解除微软法律追责风险",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyvau7499439.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-27T23:09:23+08:00"
+      "pubDate": "2026-04-28T05:08:45+08:00"
     },
     {
-      "title": "新任CEO首个完整季度：威瑞森实现无线用户正增长",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-27/doc-inhvyeeu8989873.shtml",
+      "title": "马斯克诉奥特曼案正式开启陪审团遴选",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyvan8696997.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-27T23:03:57+08:00"
+      "pubDate": "2026-04-28T05:00:29+08:00"
+    },
+    {
+      "title": "桥水基金创始人达里欧：滞胀环境下，沃什不应降息",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyvar1928992.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T04:56:48+08:00"
+    },
+    {
+      "title": "前谷歌DeepMind研究员创办AI初创公司，斩获11亿美元创纪录种子轮融资，全力研发超级智能",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyvau7495063.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T04:51:24+08:00"
+    },
+    {
+      "title": "4月28日美股成交额前20：OpenAI终止与微软的独家合作",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyvar1927080.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T04:48:03+08:00"
+    },
+    {
+      "title": "美光与闪迪股价持续走高，存储芯片需求有望长期旺盛",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyvas8703868.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T04:45:52+08:00"
+    },
+    {
+      "title": "美国将终止更多海上风电租赁项目，以换取化石燃料投资",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyvar1926019.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T04:43:29+08:00"
+    },
+    {
+      "title": "大宗商品综述：原油上涨 黄金下跌 供应前景趋紧推高镍价",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyvau7493503.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T04:41:25+08:00"
+    },
+    {
+      "title": "4月28日热门中概股涨跌不一 禾赛科技涨4.79%，亚朵集团跌5.48%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyvan8690816.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T04:24:49+08:00"
+    },
+    {
+      "title": "纽约汇市：美伊谈判陷入僵局 美元走软",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyvas8698665.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T04:24:09+08:00"
+    },
+    {
+      "title": "摩根士丹利认为沃什将带来长期机制变革风险 加剧美债市场波动",
+      "url": "https://finance.sina.com.cn/world/2026-04-28/doc-inhvyvas8697696.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T04:18:28+08:00"
+    },
+    {
+      "title": "美国财长警告：与伊朗航空公司合作的企业面临制裁风险",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyvar1920418.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T04:17:55+08:00"
+    },
+    {
+      "title": "美国债市：国债承压 两次标售中标收益率均高于发行前且油价涨",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyvas8696649.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T04:12:20+08:00"
+    },
+    {
+      "title": "原油：WTI上涨 美伊和谈僵局导致霍尔木兹海峡仍几近封闭",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyvas8696568.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T04:11:58+08:00"
+    },
+    {
+      "title": "4月28日收盘：美股涨跌不一 标普500指数与纳指再创新高",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyvar1919103.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T04:10:47+08:00"
+    },
+    {
+      "title": "葡萄牙央行行长违规购股被查，被迫清仓Galp与Jeronimo Martins",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyquq8815953.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T03:52:58+08:00"
+    },
+    {
+      "title": "油价再飙升打压市场，欧股全线收跌",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyquw7614572.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T03:50:03+08:00"
+    },
+    {
+      "title": "美国航空将发行11.4亿美元飞机支持债券",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyquw7614428.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T03:49:12+08:00"
+    },
+    {
+      "title": "欧盟向谷歌发布AI竞争合规指南，强制开放安卓系统访问权限",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyquu8822625.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T03:47:57+08:00"
+    },
+    {
+      "title": "CDP启动双重法律行动，阻止意大利证交所CEO连任",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyquu8822408.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T03:47:01+08:00"
+    },
+    {
+      "title": "亚马逊获得奥普拉播客独家版权，加码内容电商战略",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyquq8814266.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T03:43:15+08:00"
+    },
+    {
+      "title": "墨西哥比索走稳，股市受美伊僵局影响小幅回落",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyquu8821388.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T03:41:40+08:00"
+    },
+    {
+      "title": "谷歌就专利局“既定预期”规则向美国最高法院提起上诉",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyquq8813239.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T03:38:13+08:00"
+    },
+    {
+      "title": "巴西基建热潮推动下，激励型债券发行首次超越普通债券",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyquq8813063.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T03:37:03+08:00"
+    },
+    {
+      "title": "英国AI初创公司Ineffable完成11亿美元种子轮融资，创欧洲纪录",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyquq8812768.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T03:35:14+08:00"
+    },
+    {
+      "title": "英国的汽车贷款赔偿计划面临消费者团体的法律挑战",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyquq8812218.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T03:32:29+08:00"
+    },
+    {
+      "title": "保险公司收紧对霍尔木兹海峡过往船只的承保要求",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-28/doc-inhvyquu8818853.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-04-28T03:31:40+08:00"
     },
     {
       "title": "独家对话清华AIR教授曹婷：具身最被忽视的问题，就是物理智能体",

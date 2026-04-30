@@ -1,174 +1,223 @@
 {
-  "updatedAt": "2026-04-30T21:10:16+08:00",
-  "total": 85,
+  "updatedAt": "2026-05-01T02:54:47+08:00",
+  "total": 77,
   "news": [
     {
-      "title": "农业银行来宾分行被罚198.24万元：违反金融统计相关规定等",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-04-30/doc-inhwhviy6165400.shtml",
+      "title": "美国总统特朗普：与英国国王会晤后取消部分威士忌关税",
+      "url": "https://finance.sina.com.cn/world/2026-05-01/doc-inhwinfv0992344.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-01T02:49:10+08:00"
+    },
+    {
+      "title": "机场再度陷入混乱的威胁迫在眉睫之际 众议院投票结束国土安全部停摆",
+      "url": "https://finance.sina.com.cn/world/2026-05-01/doc-inhwinfs5905314.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-01T02:48:41+08:00"
+    },
+    {
+      "title": "OPEC+代表预计6月很可能再次象征性增产",
+      "url": "https://finance.sina.com.cn/world/2026-05-01/doc-inhwifxx7152512.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-01T01:53:28+08:00"
+    },
+    {
+      "title": "美国总统特朗普：田纳西州将重新划分众议院选区 将增加共和党席位",
+      "url": "https://finance.sina.com.cn/world/2026-05-01/doc-inhwifxz3929322.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-01T01:52:03+08:00"
+    },
+    {
+      "title": "伊朗总统称海上封锁是军事行动的延伸",
+      "url": "https://finance.sina.com.cn/world/2026-05-01/doc-inhwifxz3928336.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-01T01:48:21+08:00"
+    },
+    {
+      "title": "美国国家安全局测试Mythos模型 对其威力印象深刻",
+      "url": "https://finance.sina.com.cn/world/2026-05-01/doc-inhwifxx7148547.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-01T01:38:26+08:00"
+    },
+    {
+      "title": "欧洲股市4月累计走高4.8% 创逾一年来最佳月度涨幅",
+      "url": "https://finance.sina.com.cn/world/2026-05-01/doc-inhwifxx7147003.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-01T01:32:40+08:00"
+    },
+    {
+      "title": "伊朗总统：持续推进海上封锁的行为不可容忍",
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-01/doc-inhwifxu6020864.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-01T01:25:28+08:00"
+    },
+    {
+      "title": "特朗普变卦 转而提名妮科尔·萨菲尔担任卫生局局长",
+      "url": "https://finance.sina.com.cn/world/2026-05-01/doc-inhwifxx7144641.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-01T01:23:28+08:00"
+    },
+    {
+      "title": "法国政府仍维持经济增长预期 尽管第一季度陷入停滞",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-01/doc-inhwifxu6014920.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-01T01:14:08+08:00"
+    },
+    {
+      "title": "美国会众议院通过国土安全部拨款法案",
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-01/doc-inhwifxz3925914.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-01T01:12:49+08:00"
+    },
+    {
+      "title": "特朗普任命Nicole B. Saphier为公共卫生局局长",
+      "url": "https://finance.sina.com.cn/world/2026-05-01/doc-inhwifxz3917249.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-01T01:05:48+08:00"
+    },
+    {
+      "title": "加州油价突破每加仑6美元，全美一周燃油价格暴涨近30美分",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-01/doc-inhwifxx1097694.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-01T01:00:23+08:00"
+    },
+    {
+      "title": "高通财报出炉后股价暴涨，但华尔街观点严重分化",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-01/doc-inhwifxu6010126.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-01T00:57:44+08:00"
+    },
+    {
+      "title": "谷歌云增速超越微软、亚马逊，三大云厂商均受益AI需求业绩超预期",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-01/doc-inhwifxx7136691.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-01T00:55:09+08:00"
+    },
+    {
+      "title": "摩森康胜：消费承压环境下，啤酒消费需求依旧坚挺",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-01/doc-inhwifxx1095160.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-01T00:49:47+08:00"
+    },
+    {
+      "title": "生态环境部李高：要以更大力度推动气候投融资，共建清洁美丽世界",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-05-01/doc-inhwifxz3912172.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-04-30T21:09:43+08:00"
+      "pubDate": "2026-05-01T00:49:43+08:00"
     },
     {
-      "title": "欧洲央行新闻发布会上拉加德讲话要点",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkc7310571.shtml",
+      "title": "普拉达营收同比走高，但预警中东战事冲击业绩",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-01/doc-inhwifxx7133912.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-30T21:09:21+08:00"
+      "pubDate": "2026-05-01T00:46:39+08:00"
     },
     {
-      "title": "鲍威尔称将在卸任主席后留任理事，捍卫美联储独立性",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkc7310486.shtml",
+      "title": "庞巴迪上调全年业绩展望 服务板块拉动营收、现金流大幅走高",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-01/doc-inhwifxu6006371.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-30T21:09:15+08:00"
+      "pubDate": "2026-05-01T00:42:50+08:00"
     },
     {
-      "title": "昆明市农村信用合作社联合社被罚162.6万元：违反金融统计相关规定等",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-04-30/doc-inhwhvkc1251817.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-30T21:09:11+08:00"
-    },
-    {
-      "title": "Meta营收超预期，上调2026年资本支出指引至1450亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkc1249431.shtml",
+      "title": "欧洲债市：欧洲债券上涨 欧洲央行和英国央行维持利率不变",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-01/doc-inhwifxx1087981.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-30T21:05:58+08:00"
+      "pubDate": "2026-05-01T00:29:56+08:00"
     },
     {
-      "title": "体育流媒体平台DAZN斥资1亿美元押注科技公司ViewLift",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkf4085084.shtml",
+      "title": "Wayfair午盘跌11.3% 一季度亏损1.05亿美元",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-01/doc-inhwifxz3904562.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-30T21:04:57+08:00"
+      "pubDate": "2026-05-01T00:28:45+08:00"
     },
     {
-      "title": "微软预测AI支出增加下Azure将强劲增长 预计本季度Azure营收将增长39%至40%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkc7307523.shtml",
+      "title": "古特雷斯： 美拖欠联合国会费不可谈判 缴纳是义务",
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-01/doc-inhwifxx1098419.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-30T21:04:06+08:00"
+      "pubDate": "2026-05-01T00:14:08+08:00"
     },
     {
-      "title": "四川成都龙泉驿稠州村镇银行被罚16万元：未按照规定开展客户尽职调查 未按照规定报告可疑交易",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-04-30/doc-inhwhvkf4084473.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-30T21:03:34+08:00"
-    },
-    {
-      "title": "亚马逊AWS营收增长28%，达到376亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkc7307027.shtml",
+      "title": "午盘：道指上涨700点 市场关注美股财报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-01/doc-inhwhzrw6121922.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-30T21:03:08+08:00"
+      "pubDate": "2026-05-01T00:04:36+08:00"
     },
     {
-      "title": "四川简阳农村商业银行被罚89.95万元：违反金融统计管理规定",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-04-30/doc-inhwhvkf4083941.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-30T21:02:33+08:00"
-    },
-    {
-      "title": "油价因霍尔木兹海峡关闭而跳涨",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkc7305982.shtml",
+      "title": "卡特彼勒股价涨9.2% 上调全年业绩展望",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-01/doc-inhwhzrz7249351.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-30T21:01:15+08:00"
+      "pubDate": "2026-05-01T00:03:22+08:00"
     },
     {
-      "title": "湛江农商银行被罚175万元：违反金融统计、支付结算、货币金银、国库、征信、反洗钱、金融科技等管理规定",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-04-30/doc-inhwhviy6158468.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-30T21:00:35+08:00"
-    },
-    {
-      "title": "刚刚，利好来了！上海，重磅出手！",
-      "url": "https://finance.sina.com.cn/wm/2026-04-30/doc-inhwhviy6162937.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-30T21:00:00+08:00"
-    },
-    {
-      "title": "【一图看懂】最强股票大涨逾135%，4月A股涨幅前十是它们",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-04-30/doc-inhwhvkc7305739.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:59:30+08:00"
-    },
-    {
-      "title": "刚刚，全线大涨！日本，突然动手了！",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-04-30/doc-inhwhvkc7305960.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:58:29+08:00"
-    },
-    {
-      "title": "消息人士称Apax或成收购英国CloserStill Media的领跑者",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkf4078776.shtml",
+      "title": "伊朗战争助推中国高增长新产业：煤制化工新材料",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhzrz7247815.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-30T20:55:47+08:00"
+      "pubDate": "2026-04-30T23:57:51+08:00"
     },
     {
-      "title": "Vulcan Materials一季度营收超预期 因建材需求强劲",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhviy6153863.shtml",
+      "title": "特朗普据悉将签署行政命令 扩大退休储蓄计划的覆盖范围",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhzsc4022471.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-30T20:54:38+08:00"
+      "pubDate": "2026-04-30T23:48:09+08:00"
     },
     {
-      "title": "美国第一季度雇佣成本指数环比上涨0.9% 高于预期的0.8%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkf4077839.shtml",
+      "title": "伊朗称其40%的贸易可转向陆路运输",
+      "url": "https://finance.sina.com.cn/jjxw/2026-04-30/doc-inhwhzrz1211753.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-30T20:54:28+08:00"
+      "pubDate": "2026-04-30T23:41:07+08:00"
     },
     {
-      "title": "花旗任命Karim Tannir为中东和非洲业务负责人",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkc7299980.shtml",
+      "title": "美国会众议院议长称美国“并未处于战争状态”",
+      "url": "https://finance.sina.com.cn/jjxw/2026-04-30/doc-inhwifxx1098599.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-30T20:53:24+08:00"
+      "pubDate": "2026-04-30T23:40:33+08:00"
     },
     {
-      "title": "太震惊了！五粮液的财报，“腰斩式”修改数据",
-      "url": "https://finance.sina.com.cn/stock/s/2026-04-30/doc-inhwhvkc7309110.shtml",
+      "title": "若能源价格未回落 欧洲央行官员料6月加息",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhzrz1198063.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-30T20:53:06+08:00"
+      "pubDate": "2026-04-30T23:39:32+08:00"
     },
     {
-      "title": "墨西哥承诺公共工程优先采购本土钢材 以应对特朗普关税",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhviy6152761.shtml",
+      "title": "美国经济稳健增长2% 受AI投资激增提振",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhzrw6110632.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-30T20:52:39+08:00"
+      "pubDate": "2026-04-30T23:38:26+08:00"
     },
     {
-      "title": "华安基金苏圻涵|洞见全球视野：透视跨境投资地图",
-      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-04-30/doc-inhwhvkc7299403.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:52:21+08:00"
-    },
-    {
-      "title": "Alphabet股东要求公司解释如何管理和控制技术和云服务用途",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkc7299031.shtml",
+      "title": "美国FDA提议将诺和诺德、礼来减肥药移出批量配药清单，两家药企迎来利好",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhzrz7241664.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-04-30T20:51:45+08:00"
-    },
-    {
-      "title": "安世半导体控制权纠纷拖累，闻泰科技2025年净亏损扩大至87.5亿元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkc7297912.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:49:25+08:00"
+      "pubDate": "2026-04-30T23:36:16+08:00"
     },
     {
       "title": "集权、搞AI、出海，小红书一夜之间撕掉“慢公司”标签",
@@ -176,111 +225,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-04-30T20:48:01+08:00"
-    },
-    {
-      "title": "美国将卢克石油资产出售谈判期限延长至5月30日",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkf4074274.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:47:55+08:00"
-    },
-    {
-      "title": "AI数据中心需求强劲，IDEX上调全年利润预期",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkc1236518.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:47:06+08:00"
-    },
-    {
-      "title": "意大利制药公司凯西以19亿美元收购美国竞争对手KalVista",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkc1236087.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:46:23+08:00"
-    },
-    {
-      "title": "美元走弱拖累营收，环球音乐一季度业绩持平",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhviy6148756.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:45:31+08:00"
-    },
-    {
-      "title": "Alphabet投资者施压，要求对云和AI技术使用设置保障措施",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkf4072577.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:44:38+08:00"
-    },
-    {
-      "title": "世界杯带动需求，阿迪达斯在“剧烈波动”市场中受益",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhviy6147848.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:43:47+08:00"
-    },
-    {
-      "title": "欧洲央行维持利率不变 战争对经济的冲击仍在发酵",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkf4071990.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:43:18+08:00"
-    },
-    {
-      "title": "North Star收购四艘新服务运维船",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkc7294606.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:42:59+08:00"
-    },
-    {
-      "title": "阿波罗、黑石、KKR竞购壳牌所持LNG Canada项目股份",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkc1233751.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:42:10+08:00"
-    },
-    {
-      "title": "英国石油公司与委内瑞拉签署协议，开发跨境海上气田",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkf4070854.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:41:11+08:00"
-    },
-    {
-      "title": "挪威油企与工会谈判破裂，拟通过调解避免罢工及产量中断",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkc7292818.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:39:54+08:00"
-    },
-    {
-      "title": "BW Offshore与挪威国家石油公司推进Bay du Nord FPSO项目",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhviy6144603.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:39:02+08:00"
-    },
-    {
-      "title": "两大公司利润暴跌，1600亿王传福遇“汇率杀”",
-      "url": "https://finance.sina.com.cn/stock/s/2026-04-30/doc-inhwhvkc7297968.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:36:21+08:00"
-    },
-    {
-      "title": "影石营收大增利润腰斩，285亿刘靖康豪赌未来",
-      "url": "https://finance.sina.com.cn/stock/s/2026-04-30/doc-inhwhvkf4075029.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:36:21+08:00"
-    },
-    {
-      "title": "美国上周首次申领失业救济人数减少2.6万人至18.9万人，预估为21.2万人",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwhvkc1229549.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-04-30T20:35:55+08:00"
     },
     {
       "title": "A股年报透视：AI算力产业链爆发，有色金属与锂电材料逆袭｜看财报",

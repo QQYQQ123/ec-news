@@ -1,258 +1,223 @@
 {
-  "updatedAt": "2026-05-19T22:55:56+08:00",
-  "total": 80,
+  "updatedAt": "2026-05-20T02:03:29+08:00",
+  "total": 74,
   "news": [
     {
-      "title": "理查兹集团宣布5月股息，延续每月0.11加元派息纪录",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymytf7400540.shtml",
+      "title": "谷歌发布大龙虾：全天候AI管家Gemini Spark",
+      "url": "https://finance.sina.com.cn/tech/2026-05-20/doc-inhynmhz7195672.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-05-19T22:55:36+08:00"
+      "pubDate": "2026-05-20T01:50:23+08:00"
     },
     {
-      "title": "在美国开电动车每年或将多花130美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymytf7400355.shtml",
+      "title": "谷歌发布多模态大模型旗舰Gemini Omini",
+      "url": "https://finance.sina.com.cn/world/2026-05-20/doc-inhynezc7320678.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-05-19T22:55:06+08:00"
+      "pubDate": "2026-05-20T01:26:48+08:00"
     },
     {
-      "title": "12999元/瓶！陈年茅台酒首次上线秒空，三款新品均售罄",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-19/doc-inhymysy3078360.shtml",
+      "title": "谷歌 I/O 大会直击：Gemini 月活逼近 9 亿，AI 搜索横扫 25 亿用户",
+      "url": "https://finance.sina.com.cn/world/2026-05-20/doc-inhyneyz2075891.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-20T01:23:27+08:00"
+    },
+    {
+      "title": "家得宝称关税退款或有助于抵消燃料成本增加的影响",
+      "url": "https://finance.sina.com.cn/world/2026-05-20/doc-inhynezc7316245.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-20T01:07:39+08:00"
+    },
+    {
+      "title": "日本财务大臣：财务省将在必要时针对外汇汇率采取大胆行动",
+      "url": "https://finance.sina.com.cn/world/2026-05-20/doc-inhyneyz2070246.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-20T01:02:35+08:00"
+    },
+    {
+      "title": "候任美联储主席沃什披露首轮资产剥离计划",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-20/doc-inhyneyz2070015.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-20T01:02:01+08:00"
+    },
+    {
+      "title": "特朗普：在推迟对伊朗打击决定之前，他“只差一小时”就要做出决定",
+      "url": "https://finance.sina.com.cn/world/2026-05-20/doc-inhyneyz2069134.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-20T00:58:47+08:00"
+    },
+    {
+      "title": "欧洲债市：德国和英国国债下跌 实际收益率上升引发抛售",
+      "url": "https://finance.sina.com.cn/world/2026-05-20/doc-inhynezc7311668.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-20T00:51:45+08:00"
+    },
+    {
+      "title": "市场分析：投资者认为债券市场承压态势难缓解",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-20/doc-inhynezc7311640.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-20T00:51:41+08:00"
+    },
+    {
+      "title": "纽约联储Perli称美联储国库券月度购买规模可上调也可下调",
+      "url": "https://finance.sina.com.cn/world/2026-05-20/doc-inhynezc7309709.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-20T00:44:14+08:00"
+    },
+    {
+      "title": "假肢器械企业遭做空指控否认涉俄相关宣传言论，股价大幅暴跌",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-20/doc-inhyneyw2978959.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-20T00:32:39+08:00"
+    },
+    {
+      "title": "特朗普暂缓对伊袭击后再发威胁 若无协议数日内将遭“重击”",
+      "url": "https://finance.sina.com.cn/world/2026-05-20/doc-inhynezc7304010.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-20T00:29:43+08:00"
+    },
+    {
+      "title": "英国考虑推出“邀请制”投资签证 最低门槛500万英镑",
+      "url": "https://finance.sina.com.cn/world/2026-05-20/doc-inhyneyx9754114.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-20T00:25:32+08:00"
+    },
+    {
+      "title": "经济形势存忧，美国4月成屋签约销量依旧回暖",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-20/doc-inhyneyz2055094.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-20T00:13:48+08:00"
+    },
+    {
+      "title": "午盘：美股继续下滑 纳指下跌1%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-20/doc-inhyneyw2972632.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-20T00:10:04+08:00"
+    },
+    {
+      "title": "IG集团上调业绩指引，股价创下历史新高",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-20/doc-inhyneyz2052527.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-20T00:06:39+08:00"
+    },
+    {
+      "title": "美国财长贝森特敦促盟友 称执行伊朗制裁“没有任何借口”",
+      "url": "https://finance.sina.com.cn/world/2026-05-19/doc-inhynezc7292385.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-19T23:56:40+08:00"
+    },
+    {
+      "title": "Washington Examiner：特朗普表示将让沃什按自己的意愿决定利率",
+      "url": "https://finance.sina.com.cn/world/2026-05-19/doc-inhyneyw2968179.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-19T23:55:23+08:00"
+    },
+    {
+      "title": "603319承认：公众号文章不符合信披规则",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-19/doc-inhynezc7289811.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-05-19T22:53:35+08:00"
+      "pubDate": "2026-05-19T23:41:40+08:00"
     },
     {
-      "title": "这位制造业首席执行官曾拒风投，如今敲定1.1亿美元融资",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymytc2154687.shtml",
+      "title": "美国财长贝森特敦促七国集团协助美国打击伊朗财政",
+      "url": "https://finance.sina.com.cn/world/2026-05-19/doc-inhynezc7287150.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-05-19T22:51:19+08:00"
+      "pubDate": "2026-05-19T23:40:58+08:00"
     },
     {
-      "title": "研科押注AI与数据需求，宣布660亿加元网络基建大单",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymytf7398806.shtml",
+      "title": "家得宝低开高走现涨0.3% 一季度利润下滑，业主暂缓大型家装项目",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhynezc7285159.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-05-19T22:51:08+08:00"
+      "pubDate": "2026-05-19T23:36:49+08:00"
     },
     {
-      "title": "美“和平委员会”报告警示加沙重建计划面临潜在资金缺口",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymysz9854582.shtml",
+      "title": "GAP集团聘请PVH集团高管执掌旗下香蕉共和国品牌",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhyneyw2961227.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-05-19T22:50:37+08:00"
+      "pubDate": "2026-05-19T23:32:27+08:00"
     },
     {
-      "title": "资本开支将达5.25亿美元峰值，Eagle Materials怀俄明水泥厂扩建进入冲刺阶段",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymytc2151925.shtml",
+      "title": "Kimbell斥资1.47亿美元收购二叠纪盆地矿产权益，再拓版图",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhyneyw2960147.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-05-19T22:44:57+08:00"
+      "pubDate": "2026-05-19T23:28:17+08:00"
     },
     {
-      "title": "美国4月二手房签约量连续三月增长，春季购房需求温和复苏",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymytf7395632.shtml",
+      "title": "供需失衡引爆存储市场，花旗大幅上调SanDisk目标价至2025美元",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhyneyz2037846.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-05-19T22:43:59+08:00"
+      "pubDate": "2026-05-19T23:27:21+08:00"
     },
     {
-      "title": "微软发布新款商用Surface设备，英特尔酷睿Ultra 3系列处理器先行",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymysy3074200.shtml",
+      "title": "美国财长贝森特称相信日本央行行长植田和男会做“他需要做的事”",
+      "url": "https://finance.sina.com.cn/world/2026-05-19/doc-inhyneyw2959786.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-05-19T22:42:48+08:00"
+      "pubDate": "2026-05-19T23:26:51+08:00"
     },
     {
-      "title": "Ceragon Q1营收超预期，印度订单激增86%，重申全年指引",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymysy3073836.shtml",
+      "title": "战略收缩再进一步，AIG收购Everest哥伦比亚保险业务",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhyneyw2959535.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-05-19T22:41:54+08:00"
+      "pubDate": "2026-05-19T23:25:58+08:00"
     },
     {
-      "title": "李维斯母公司剥离在即，Lee携手Kacey Musgraves推出首个名人联名系列",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymysz9850665.shtml",
+      "title": "资金蜂拥涌入，AI芯片交易拥挤度飙升：从散户到大空头，人人都在谈论过热",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhyneyw2959379.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-05-19T22:41:01+08:00"
+      "pubDate": "2026-05-19T23:25:10+08:00"
     },
     {
-      "title": "美股半导体深夜全线重挫，AMD、高通跌6%，希捷科技跌超5%，国际油价下挫，美联储加息概率大增",
-      "url": "https://finance.sina.com.cn/wm/2026-05-19/doc-inhymysz9852099.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:40:00+08:00"
-    },
-    {
-      "title": "华尔街银行发起贷款出售，以对华纳兄弟的过桥贷款进行再融资",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymytf7386520.shtml",
+      "title": "瑞穗押注AI需求外溢，大幅上调美光、意法及德州仪器目标价",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhynezc7281170.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-05-19T22:25:52+08:00"
+      "pubDate": "2026-05-19T23:24:11+08:00"
     },
     {
-      "title": "全文|B站Q1业绩会实录：AI放大B站竞争优势 相关开支将显著增长",
-      "url": "https://finance.sina.com.cn/tech/2026-05-19/doc-inhymysz9844773.shtml",
+      "title": "美银调查：40%基金经理视“二次通胀”为头号威胁，投资者正有序逐险而非疯狂扫货",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhyneyx9735998.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-05-19T22:24:29+08:00"
+      "pubDate": "2026-05-19T23:23:10+08:00"
     },
     {
-      "title": "绿地、恒大坏账拖累，西安建工总部大楼沦为法拍资产，申请执行人为何突然叫停？",
-      "url": "https://finance.sina.com.cn/wm/2026-05-19/doc-inhymytf7393292.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:24:00+08:00"
-    },
-    {
-      "title": "筹划近半年的恩捷股份，为何终止收购这家青岛企业？",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-05-19/doc-inhymytc2150734.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:23:25+08:00"
-    },
-    {
-      "title": "太疯狂！未成年开户，激增10倍！韩国股市，彻底引爆！",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-19/doc-inhymysz9847984.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:23:09+08:00"
-    },
-    {
-      "title": "债券市场迫使人们直面现实，特朗普无力阻止这一切",
-      "url": "https://www.tmtpost.com/7994059.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-05-19T22:21:57+08:00"
-    },
-    {
-      "title": "涨停、易主、监管函：金海高科背后的游戏资本棋局",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-05-19/doc-inhymytf7390006.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:21:00+08:00"
-    },
-    {
-      "title": "苹果发布Apple Intelligence无障碍新功能 Vision Pro可眼控轮椅",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymysy3065772.shtml",
+      "title": "美国制裁伊朗影子银行系统的机构以及19艘船只",
+      "url": "https://finance.sina.com.cn/world/2026-05-19/doc-inhynezc7280446.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-05-19T22:19:28+08:00"
+      "pubDate": "2026-05-19T23:22:22+08:00"
     },
     {
-      "title": "美国鹰牌CEO加持的初创公司最新融资跻身独角兽行列",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymytc2139210.shtml",
+      "title": "瑞银上调Assured Guaranty评级至买入：估值折价近40%，Brightline担忧过度",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhyneyz2036191.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-05-19T22:19:16+08:00"
-    },
-    {
-      "title": "商业航天重大资产重组，金利华电明日复牌！",
-      "url": "https://finance.sina.com.cn/wm/2026-05-19/doc-inhymysy3066624.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:17:00+08:00"
-    },
-    {
-      "title": "默沙东ADC药物达III期主要终点",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymytf7382634.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:16:42+08:00"
-    },
-    {
-      "title": "五单连发，旧案回溯！国都证券债承埋雷",
-      "url": "https://finance.sina.com.cn/stock/quanshang/qsyj/2026-05-19/doc-inhymysy3071137.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:16:20+08:00"
-    },
-    {
-      "title": "Anthropic的Mythos模型引监管关注",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymytc2138262.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:16:12+08:00"
-    },
-    {
-      "title": "内幕交易担忧冲击预测市场",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymysy3064705.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:15:54+08:00"
-    },
-    {
-      "title": "英伟达即将公布财报，相关期权交易升温",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymysz9841763.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:15:20+08:00"
-    },
-    {
-      "title": "AI反弹情绪加剧",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymysy3064246.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:14:35+08:00"
-    },
-    {
-      "title": "伊朗和谈信号不一，油价上涨",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymytc2137438.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:14:16+08:00"
-    },
-    {
-      "title": "美国司法部撤销了对印度阿达尼集团相关人物的所有刑事指控",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymysz9841169.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:13:48+08:00"
-    },
-    {
-      "title": "美联储领导层受关注",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymytf7380891.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:12:51+08:00"
-    },
-    {
-      "title": "斯沃琪与爱彼联名款引发抢购狂潮",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymytf7380464.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:11:58+08:00"
-    },
-    {
-      "title": "黑石与谷歌合资推出TPU云服务",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymytc2136135.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:11:37+08:00"
-    },
-    {
-      "title": "NextEra Energy计划以约670亿美元收购Dominion Energy",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymytc2135938.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:11:15+08:00"
-    },
-    {
-      "title": "SpaceX上市或令特斯拉承压",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymysy3062485.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:10:31+08:00"
-    },
-    {
-      "title": "美银调查：62%的基金经理预计30年期国债收益率将达到6%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymysy3062322.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:10:15+08:00"
+      "pubDate": "2026-05-19T23:22:11+08:00"
     },
     {
       "title": "一季度AI广告收入暴涨170%，B站：模型没有，广告管够",
@@ -260,27 +225,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-05-19T22:09:55+08:00"
-    },
-    {
-      "title": "谷歌DeepMind创始人曾投资Anthropic",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymysy3061893.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:09:24+08:00"
-    },
-    {
-      "title": "Meta准备裁员10% 公司将扁平化管理层级",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-19/doc-inhymysy3061877.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-19T22:09:23+08:00"
-    },
-    {
-      "title": "“果链”巨头拟收购巨腾国际约27.81%已发行股份；“纸尿裤材料大王”终止收购集成电路资产，公司股价20cm跌停【并购一线】",
-      "url": "https://www.tmtpost.com/7993330.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-05-19T20:49:49+08:00"
     },
     {
       "title": "“忽悠式”回购“翻车”，广汇能源与“新疆首富”仍在困局之中",
@@ -351,6 +295,20 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-05-19T14:58:31+08:00"
+    },
+    {
+      "title": "Coding的中场战事",
+      "url": "https://www.tmtpost.com/7993450.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-05-19T14:50:07+08:00"
+    },
+    {
+      "title": "运营商卖Token：通信管道的最后一搏，还是 AI 时代的入场券？",
+      "url": "https://www.tmtpost.com/7993452.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-05-19T14:50:03+08:00"
     },
     {
       "title": "氪星晚报 ｜SpaceX即将成为马斯克旗下第二家上市公司；京东、洋河集团等在宿迁成立新动能股权投资基金，出资额10亿",

@@ -1,11 +1,67 @@
 {
-  "updatedAt": "2026-05-22T05:25:35+08:00",
-  "total": 78,
+  "updatedAt": "2026-05-22T07:01:34+08:00",
+  "total": 77,
   "news": [
     {
-      "title": "5月22日外盘头条：特朗普称美国希望霍尔木兹海峡开放 报道称OpenAI第一季度营收约为57亿美元",
+      "title": "美国中期选举前共和党筹款金额接近10亿美元 远超民主党",
+      "url": "https://finance.sina.com.cn/tob/2026-05-22/doc-inhytkax7790607.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-22T06:45:48+08:00"
+    },
+    {
+      "title": "油价涨 粮价涨……霍尔木兹海峡持续受阻 全球埋单",
+      "url": "https://finance.sina.com.cn/roll/2026-05-22/doc-inhytkax7793442.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-22T06:21:00+08:00"
+    },
+    {
+      "title": "5月22日隔夜要闻：美股收高道指创收盘历史新高 油价三连跌 交易员密切关注美伊谈判进展",
+      "url": "https://finance.sina.com.cn/world/2026-05-22/doc-inhytkau8588064.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-22T06:18:17+08:00"
+    },
+    {
+      "title": "大宗商品综述：油价三连跌，黄金企稳，伦铜走低",
+      "url": "https://finance.sina.com.cn/world/2026-05-22/doc-inhytkat5902281.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-22T06:04:35+08:00"
+    },
+    {
+      "title": "特朗普称美国将向波兰增派5000名士兵",
+      "url": "https://finance.sina.com.cn/world/2026-05-22/doc-inhytcuv6026134.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-22T05:50:35+08:00"
+    },
+    {
+      "title": "美国股市：中东和平预期提振美股 道指创新高",
+      "url": "https://finance.sina.com.cn/world/2026-05-22/doc-inhytcuv6023256.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-22T05:43:52+08:00"
+    },
+    {
+      "title": "原油：油价三连跌 交易员密切关注美伊谈判进展",
+      "url": "https://finance.sina.com.cn/world/2026-05-22/doc-inhytcuy5477845.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-22T05:41:57+08:00"
+    },
+    {
+      "title": "IMAX股价盘后大涨 媒体报道称公司考虑出售",
+      "url": "https://finance.sina.com.cn/tob/2026-05-22/doc-inhytcuw8700035.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-22T05:40:50+08:00"
+    },
+    {
+      "title": "5月22日外盘头条：美伊和谈铀问题及海峡通行费仍添变数 报道称OpenAI第一季度营收约为57亿美元",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-22/doc-inhytcuy5468749.shtml",
-      "source": "新浪综合6",
+      "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-05-22T05:25:10+08:00"
     },
@@ -155,69 +211,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-05-22T03:05:45+08:00"
-    },
-    {
-      "title": "财报利润逊预期加全年指引保守 Lightspeed股价应声下跌",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-22/doc-inhysxny8785371.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-22T03:04:25+08:00"
-    },
-    {
-      "title": "Euroholdings宣布第五次季度派息0.14美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-22/doc-inhysxnx6118388.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-22T03:03:21+08:00"
-    },
-    {
-      "title": "Pro房地产投资信托宣布每月派息0.0375加元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-22/doc-inhysxny8784818.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-22T03:02:27+08:00"
-    },
-    {
-      "title": "YieldMax做空特斯拉期权收入策略ETF宣布每周派息0.2123美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-22/doc-inhysxny8784560.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-22T03:01:13+08:00"
-    },
-    {
-      "title": "SRH总回报基金宣布季度派息0.20美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-22/doc-inhysxny8784287.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-22T03:00:01+08:00"
-    },
-    {
-      "title": "Barnwell第二季度净亏损收窄至每股0.09美元 成本削减初见成效",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-22/doc-inhysxpa5561322.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-22T02:59:14+08:00"
-    },
-    {
-      "title": "YieldMax CVNA期权收入策略ETF宣布每周派息0.3130美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-22/doc-inhysxny8783772.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-22T02:58:04+08:00"
-    },
-    {
-      "title": "富兰克林新兴市场收益基金月度派息升至0.054美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-22/doc-inhysxny8783552.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-22T02:57:02+08:00"
-    },
-    {
-      "title": "Treasure Global第三季度营收同比增长125%，净亏损大幅收窄",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-22/doc-inhysxpa5560605.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-22T02:56:05+08:00"
     },
     {
       "title": "卡彭特科技将加速大涨",
@@ -409,6 +402,20 @@
       "pubDate": "2026-05-21 16:10:17  +0800"
     },
     {
+      "title": "Information：OpenAI第一季度营收约为57亿美元",
+      "url": "https://36kr.com/newsflashes/3819642237096329?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-05-22 07:01:00  +0800"
+    },
+    {
+      "title": "美股三大指数集体收涨，Arm涨超16%",
+      "url": "https://36kr.com/newsflashes/3819641287233922?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-05-22 07:00:02  +0800"
+    },
+    {
       "title": "贵州茅台：拟与茅台集团续签商标许可协议",
       "url": "https://36kr.com/newsflashes/3819052491264136?f=rss",
       "source": "36氪",
@@ -533,20 +540,6 @@
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-05-21 19:52:34  +0800"
-    },
-    {
-      "title": "宇信科技：拟出资3900万元参与设立专项基金，主要投资于人工智能、大数据及相关产业链早中期科技企业",
-      "url": "https://36kr.com/newsflashes/3818975876285829?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-05-21 19:50:02  +0800"
-    },
-    {
-      "title": "小米YU7标准版发布，售价23.35万元起",
-      "url": "https://36kr.com/newsflashes/3818978257684098?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-05-21 19:45:34  +0800"
     }
   ]
 }

@@ -1,7 +1,196 @@
 {
-  "updatedAt": "2026-05-28T23:45:09+08:00",
-  "total": 80,
+  "updatedAt": "2026-05-29T02:34:30+08:00",
+  "total": 76,
   "news": [
+    {
+      "title": "Anthropic新一轮融资后估值达9650亿美元 超越OpenAI",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznviz9794711.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T02:33:15+08:00"
+    },
+    {
+      "title": "Anthropic在H轮融资中筹集650亿美元 投后估值达9650亿美元",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznviz9794196.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T02:31:26+08:00"
+    },
+    {
+      "title": "贝森特谈美伊谈判：特朗普不会接受糟糕的协议",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznviz9794084.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T02:31:01+08:00"
+    },
+    {
+      "title": "Anthropic计划几周内广泛发布可与Mythos媲美的人工智能模型",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznvke1105110.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T02:30:08+08:00"
+    },
+    {
+      "title": "高盛交易员认为不受青睐的板块有望迎来轧空 助推美股下一轮上涨",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznviz9783512.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T01:52:51+08:00"
+    },
+    {
+      "title": "美国7年期国债中标收益率4.290% 需求略微好于预期",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrac9913112.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T01:48:31+08:00"
+    },
+    {
+      "title": "城堡证券料美伊达成协议概率较高 称投资者低估市场全面反弹可能性",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrai8001351.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T01:46:47+08:00"
+    },
+    {
+      "title": "纽约梅隆银行扩招实习生与分析师以迎接人工智能时代",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrah1221489.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T01:37:11+08:00"
+    },
+    {
+      "title": "加拿大央行警示资产价格回调和对冲基金相关风险",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrai7998407.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T01:36:05+08:00"
+    },
+    {
+      "title": "伊朗总统称德黑兰不寻求核武器",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrac9904642.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T01:14:37+08:00"
+    },
+    {
+      "title": "美伊据悉商定延长休战等待特朗普批准 两国早前互指违反停火",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrai7991794.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T01:11:13+08:00"
+    },
+    {
+      "title": "去年美国人在韩妆上消费达24亿美元，该市场规模还将持续扩张",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrac9902517.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T01:07:37+08:00"
+    },
+    {
+      "title": "美国人不堪物价高企，企业终于开始采取应对举措",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrah1212530.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T01:04:54+08:00"
+    },
+    {
+      "title": "欧洲股市下跌 交易员等待对美伊外交突破报道的确认",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrah1211375.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T01:01:29+08:00"
+    },
+    {
+      "title": "苹果Siri迎来近十五年最大改版 更多人工智能功能将推出",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrai7984972.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T00:47:55+08:00"
+    },
+    {
+      "title": "美国商品期货交易委员会拟撤销对温克莱沃斯兄弟加密交易所的处罚令",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrac9896293.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T00:43:50+08:00"
+    },
+    {
+      "title": "欧洲债市：欧债随美债上涨 伊朗局势降温预期缓解通胀担忧",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrah1201348.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T00:27:32+08:00"
+    },
+    {
+      "title": "EIA：美国原油库存上周减少332.7万桶 预估中值为减少300万桶",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrai7977918.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T00:25:27+08:00"
+    },
+    {
+      "title": "CVS恢复将泽邦德纳入医保报销范围，并把礼来新款减肥药纳入药品目录",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrae8357847.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T00:22:01+08:00"
+    },
+    {
+      "title": "无人机个股暴涨：传五角大楼考虑入股该行业",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrae8357157.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T00:19:11+08:00"
+    },
+    {
+      "title": "Waymo新款Ojai自动驾驶出租车向部分乘客开放，公司力求降低车队扩张成本",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrah1198002.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T00:14:35+08:00"
+    },
+    {
+      "title": "午盘：纳指与标普指数创盘中新高 传美伊停火协议取得进展",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrai7974149.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T00:11:00+08:00"
+    },
+    {
+      "title": "原油价格回落，传美伊延长停火协议正等待特朗普批准",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrah1195351.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T00:06:42+08:00"
+    },
+    {
+      "title": "美国国债上涨 因据报美伊达成延长停火的协议",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrae8352806.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T00:03:21+08:00"
+    },
+    {
+      "title": "美联储官员穆萨莱姆称不能指望AI降低通胀 与主席沃什看法相左",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznrah1193814.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-29T00:02:33+08:00"
+    },
+    {
+      "title": "斯泰兰蒂斯商用车业务计划到2030年推出11款新车型",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznrac9882313.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-28T23:50:23+08:00"
+    },
+    {
+      "title": "纽约联储行长称当前货币政策处于良好位置",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznrah1191202.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-28T23:49:07+08:00"
+    },
     {
       "title": "美伊据报道达成协议 华尔街交易员推动美股迈向纪录新高",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznrac9880958.shtml",
@@ -24,242 +213,11 @@
       "pubDate": "2026-05-28T23:30:03+08:00"
     },
     {
-      "title": "Kinaxis全球大会聚焦Agentic AI 推动供应链决策升级",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuh8474860.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T23:28:43+08:00"
-    },
-    {
-      "title": "两大铁路巨头715亿美元并购案遭遇阻碍",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuh8473447.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T23:23:36+08:00"
-    },
-    {
-      "title": "科尔士百货Q1亏损收窄 同店销售创四年来最佳",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuh8472340.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T23:20:28+08:00"
-    },
-    {
-      "title": "厄尔尼诺现象成为全球经济新风险",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuk1313378.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T23:20:08+08:00"
-    },
-    {
-      "title": "罗克韦尔自动化将出席Wells Fargo行业大会 业绩强劲引关注",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuh0004310.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T23:18:19+08:00"
-    },
-    {
-      "title": "Enanta将出席Jefferies全球医疗大会 聚焦RSV与免疫管线进展",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkum8089847.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T23:17:30+08:00"
-    },
-    {
-      "title": "KalVista新数据揭示注射治疗给幼儿HAE患者带来沉重负担",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkum8089579.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T23:16:23+08:00"
-    },
-    {
-      "title": "美国消费者支出承压 通胀加速升温",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuh0003178.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T23:13:31+08:00"
-    },
-    {
-      "title": "Axios称美伊商定延长休战正等待特朗普批准 两国早前互指违反停火",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuh8470191.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T23:12:12+08:00"
-    },
-    {
-      "title": "联合利华将斥资2.7亿美元在美国新建研发中心",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuh8470157.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T23:12:08+08:00"
-    },
-    {
-      "title": "伊朗革命卫队称正“全面有力”管控霍尔木兹海峡",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-28/doc-inhznkum8089371.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-05-28T23:10:15+08:00"
-    },
-    {
-      "title": "伯克希尔的另一位“查理”：保险巨头的继任人选",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkum8086544.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T23:08:25+08:00"
-    },
-    {
-      "title": "贝森特警告阿曼 任何参与海峡收费安排的人都将被美国追责",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkum8085924.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T23:06:33+08:00"
-    },
-    {
-      "title": "纽约正式通过曼达尼推出的度假公寓税：征税对象与税额详解",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkum8083982.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T22:59:03+08:00"
-    },
-    {
-      "title": "美国4月新屋销售降幅超预期 楼市复苏仍显乏力",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuh8465893.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T22:57:30+08:00"
-    },
-    {
-      "title": "近30%弃权！西安银行分红预案遇冷，股东“沉默抗议”根源在哪",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-05-28/doc-inhznkuh8467360.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-05-28T22:56:00+08:00"
-    },
-    {
-      "title": "IBM与红帽宣布投入50亿美元，推出人工智能驱动的开源安全计划",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuk1306054.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T22:55:50+08:00"
-    },
-    {
-      "title": "博彩协会称，预测市场导致各州损失10亿美元税收",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuk1305508.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T22:54:02+08:00"
-    },
-    {
-      "title": "那个爱在“易中天”上做短差的成长猛将，又接“新基金”了",
-      "url": "https://finance.sina.com.cn/roll/2026-05-28/doc-inhznkuf9998795.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-05-28T22:54:00+08:00"
-    },
-    {
-      "title": "SLB与Vår Energi扩大数字合作 油田规划周期从数月缩至数天",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkum8082520.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T22:53:30+08:00"
-    },
-    {
-      "title": "PeopleScout向客户开放Affinix AI招聘平台 推动招聘技术民主化",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuf9996657.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T22:51:36+08:00"
-    },
-    {
-      "title": "视频｜PayPal钱包接入微信支付了 PayPal用户可直接扫微信支付码",
-      "url": "https://finance.sina.com.cn/money/bank/guangjiao/2026-05-28/doc-inhznkuk1304285.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-05-28T22:50:54+08:00"
-    },
-    {
-      "title": "Aramark高管将出席两场投资者大会 聚焦AI数据中心新业务",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuh8463477.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T22:49:30+08:00"
-    },
-    {
-      "title": "雪花股价暴涨35%，创史上最大单日涨幅，带动软件板块集体走强",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuk1303802.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T22:49:12+08:00"
-    },
-    {
-      "title": "FrontView REIT引入Welltower高管McHugh 强化董事会专业力量",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuf9995626.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T22:47:57+08:00"
-    },
-    {
-      "title": "厄尔尼诺现象：全球经济面临的下一大风险",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuf9995198.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T22:46:49+08:00"
-    },
-    {
-      "title": "星巴克转型初见成效，午后到店客流持续攀升",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuf9994883.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T22:45:56+08:00"
-    },
-    {
-      "title": "Sprinklr收购ViralMoment 打造多模态客户智能新标杆",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuk1302602.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T22:45:43+08:00"
-    },
-    {
-      "title": "Almonty将跻身罗素1000与3000指数 战略转型获市场认可",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuh8461495.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T22:44:02+08:00"
-    },
-    {
-      "title": "法拉利首款纯电动车定价64万美元，首席执行官为高价辩护",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkum8077900.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T22:41:38+08:00"
-    },
-    {
-      "title": "美元跌至日内低点 受美伊达成协议的报道影响",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhznkuh8459543.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-28T22:39:07+08:00"
-    },
-    {
       "title": "蛰伏三年谋变局：通策医疗或接棒和仁科技，控制权拉锯战迎终章？",
       "url": "https://www.tmtpost.com/8006422.html",
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-05-28T22:29:26+08:00"
-    },
-    {
-      "title": "这只油田服务类股票才刚刚起步",
-      "url": "https://www.tmtpost.com/8006483.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-05-28T22:20:39+08:00"
-    },
-    {
-      "title": "这家与特朗普有关联的无人机制造商，可能会拿到五角大楼合同，股价飙升29%",
-      "url": "https://www.tmtpost.com/8006479.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-05-28T22:20:01+08:00"
     },
     {
       "title": "Snowflake绩后暴涨36%：AI拐点已至，还是数据云的又一次虚晃？",
@@ -351,6 +309,20 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-05-28T17:31:02+08:00"
+    },
+    {
+      "title": "我们离无人驾驶还有多远？",
+      "url": "https://www.tmtpost.com/8006011.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-05-28T17:30:53+08:00"
+    },
+    {
+      "title": "固体、煤油还是甲烷？中国商业火箭为何没有标准答案",
+      "url": "https://www.tmtpost.com/8005988.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-05-28T17:30:50+08:00"
     },
     {
       "title": "快手基本面韧性凸显，可灵AI成第二增长曲线",

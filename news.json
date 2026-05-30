@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-05-30T19:24:06+08:00",
-  "total": 95,
+  "updatedAt": "2026-05-30T21:23:47+08:00",
+  "total": 100,
   "news": [
+    {
+      "title": "伯克希尔哈撒韦股票今年迄今跑输标普500指数16.3%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-30/doc-inhzswyi6689964.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-30T21:08:40+08:00"
+    },
+    {
+      "title": "比亚迪的阳谋：用“兜底”撕开智驾普及的最后一道口子",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-05-30/doc-inhzsssf8563410.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-05-30T20:35:41+08:00"
+    },
+    {
+      "title": "十年老手机号过户要签保底消费？电信：属“一级靓号”，已专项申请免除",
+      "url": "https://finance.sina.com.cn/stock/t/2026-05-30/doc-inhzsssk0034870.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-05-30T20:30:27+08:00"
+    },
+    {
+      "title": "首批搭载英伟达芯片的Windows PC将于下周亮相",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-30/doc-inhzsssk0029710.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-30T20:13:59+08:00"
+    },
+    {
+      "title": "OpenAI据悉讨论将花旗和摩根大通纳入IPO承销商名单",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-30/doc-inhzsssf8546308.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-05-30T19:33:55+08:00"
+    },
     {
       "title": "A股连续下跌，市值蒸发近40亿元，君实生物深陷合规漩涡？",
       "url": "https://www.tmtpost.com/8007917.html",
@@ -50,6 +85,13 @@
       "source": "新浪综合6",
       "category": "热点",
       "pubDate": "2026-05-30T17:47:00+08:00"
+    },
+    {
+      "title": "蓝色起源火箭爆炸，为何会殃及竞争对手SpaceX？",
+      "url": "https://finance.sina.com.cn/stock/t/2026-05-30/doc-inhzsnkk7118450.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-05-30T17:36:30+08:00"
     },
     {
       "title": "霸王茶姬进韩国，排队188分钟，带来哪些启示？",
@@ -129,18 +171,81 @@
       "pubDate": "2026-05-30T16:03:13+08:00"
     },
     {
+      "title": "聚四氢呋喃醚PTMEG商品报价动态（2026-05-30）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-05-30/doc-inhzsnki8660435.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-05-30T16:01:00+08:00"
+    },
+    {
+      "title": "乙二醇单甲醚商品报价动态（2026-05-30）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-05-30/doc-inhzsnki8652697.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-05-30T16:01:00+08:00"
+    },
+    {
+      "title": "水杨酸苯酯商品报价动态（2026-05-30）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-05-30/doc-inhzsnkk7121411.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-05-30T16:01:00+08:00"
+    },
+    {
+      "title": "二乙二醇单甲醚商品报价动态（2026-05-30）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-05-30/doc-inhzsnkp6903044.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-05-30T16:01:00+08:00"
+    },
+    {
+      "title": "5-溴-2-氯-3-硝基吡啶商品报价动态（2026-05-30）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-05-30/doc-inhzsnki8654073.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-05-30T16:01:00+08:00"
+    },
+    {
+      "title": "二邻甲苯基硫脲商品报价动态（2026-05-30）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-05-30/doc-inhzsnki8653821.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-05-30T16:01:00+08:00"
+    },
+    {
+      "title": "三甲基羟乙基乙二胺商品报价动态（2026-05-30）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-05-30/doc-inhzsnki8653322.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-05-30T16:01:00+08:00"
+    },
+    {
+      "title": "邻硝基苯甲醛商品报价动态（2026-05-30）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-05-30/doc-inhzsnkp6901368.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-05-30T16:01:00+08:00"
+    },
+    {
+      "title": "碳酸亚乙烯酯商品报价动态（2026-05-30）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-05-30/doc-inhzsnkk7121589.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-05-30T16:01:00+08:00"
+    },
+    {
+      "title": "5'-甲氧基劳丹素商品报价动态（2026-05-30）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-05-30/doc-inhzsnkp6903193.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-05-30T16:01:00+08:00"
+    },
+    {
       "title": "郝军辉已任中央组织部副部长",
       "url": "https://finance.sina.com.cn/jjxw/2026-05-30/doc-inhzshan7204713.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-05-30T15:44:55+08:00"
-    },
-    {
-      "title": "“红五月”稳了！上海房价涨幅全国最猛，二手房已三连涨，均价超10万楼盘热销，这波成交传递出一个重要信号",
-      "url": "https://finance.sina.com.cn/wm/2026-05-30/doc-inhzsham8724217.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-05-30T15:18:00+08:00"
     },
     {
       "title": "印度财政部称零售通胀或加速攀升，受季风降水不足及燃料价格上涨影响",
@@ -164,20 +269,6 @@
       "pubDate": "2026-05-30T15:09:54+08:00"
     },
     {
-      "title": "资金狂减！年内最牛ETF榜单来了",
-      "url": "https://finance.sina.com.cn/money/fund/jjzl/2026-05-30/doc-inhzshar6962484.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-05-30T15:08:55+08:00"
-    },
-    {
-      "title": "新华社连发三问",
-      "url": "https://finance.sina.com.cn/wm/2026-05-30/doc-inhzshaq0182642.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-05-30T15:05:31+08:00"
-    },
-    {
       "title": "停火协议临近引发抛售潮！油价创六周最惨单周跌幅，资金加速撤离能源市场",
       "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-05-30/doc-inhzshan7186350.shtml",
       "source": "新浪综合",
@@ -190,27 +281,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-05-30T14:57:23+08:00"
-    },
-    {
-      "title": "暂停证券业务6个月！又一机构中审华所被罚",
-      "url": "https://finance.sina.com.cn/wm/2026-05-30/doc-inhzshan7184204.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-05-30T14:57:00+08:00"
-    },
-    {
-      "title": "当“药二代”接班遇上13亿亏损，珍宝岛转型困局何解？",
-      "url": "https://finance.sina.com.cn/jjxw/2026-05-30/doc-inhzsham8711122.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-05-30T14:37:00+08:00"
-    },
-    {
-      "title": "三花智控高管“为孩子教育”减持套现，两千亿巨头陷热门概念叙事与资本套现割裂",
-      "url": "https://finance.sina.com.cn/roll/2026-05-30/doc-inhzshan7175900.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-05-30T14:33:09+08:00"
     },
     {
       "title": "传柠季拟收购哈根达斯中国门店",
@@ -227,13 +297,6 @@
       "pubDate": "2026-05-30T14:31:05+08:00"
     },
     {
-      "title": "深圳楼市新政满月，一二手房成交同比增33%",
-      "url": "https://finance.sina.com.cn/jjxw/2026-05-30/doc-inhzsham8714147.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-05-30T14:27:01+08:00"
-    },
-    {
       "title": "印度国家证券交易所将延长股票衍生品交易收盘时间",
       "url": "https://finance.sina.com.cn/world/2026-05-30/doc-inhzrzuq7299464.shtml",
       "source": "新浪综合",
@@ -248,23 +311,9 @@
       "pubDate": "2026-05-30T14:07:45+08:00"
     },
     {
-      "title": "遭恶意“仅退款”榴莲商家：接到大量威胁恐吓留言，已报警并获刑事立案",
-      "url": "https://finance.sina.com.cn/wm/2026-05-30/doc-inhzrzuq7298901.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-05-30T14:06:52+08:00"
-    },
-    {
       "title": "再见了，蓝岛大厦！6月1日起全面停业，33年老地标将变身全球IP首发中心",
       "url": "https://finance.sina.com.cn/wm/2026-05-30/doc-inhzshar6941213.shtml",
       "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-30T14:03:00+08:00"
-    },
-    {
-      "title": "遭仅退款榴莲商家起诉买家获立案",
-      "url": "https://finance.sina.com.cn/jjxw/2026-05-30/doc-inhzshan7171339.shtml",
-      "source": "新浪综合6",
       "category": "热点",
       "pubDate": "2026-05-30T14:03:00+08:00"
     },
@@ -416,6 +465,13 @@
       "pubDate": "2026-05-30T10:43:00+08:00"
     },
     {
+      "title": "分析师观点汇总：英伟达仍是AI核心引擎；沃尔玛等五只股票受关注",
+      "url": "https://www.tmtpost.com/8008410.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-05-30T10:40:51+08:00"
+    },
+    {
       "title": "2026上海SNEC前瞻：从“反内卷”到“反谍”，从旧范式到新生态",
       "url": "https://www.tmtpost.com/8008107.html",
       "source": "钛媒体",
@@ -435,34 +491,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-05-30T10:28:00+08:00"
-    },
-    {
-      "title": "告别“邮政内循环”，中邮人寿迎来首位“外来”掌舵人",
-      "url": "https://www.tmtpost.com/8008076.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-05-30T10:20:00+08:00"
-    },
-    {
-      "title": "澳大利亚延长国内汽油、柴油储备释放措施",
-      "url": "https://finance.sina.com.cn/world/2026-05-30/doc-inhzrvns7344712.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-30T10:13:54+08:00"
-    },
-    {
-      "title": "冲刺全球首位万亿富豪！马斯克回应“SpaceX下调IPO估值”：不实",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-30/doc-inhzrvnu0332949.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-30T10:01:00+08:00"
-    },
-    {
-      "title": "“盐中甜×果实进化”联合打造江西AI智慧工厂",
-      "url": "https://finance.sina.com.cn/tech/2026-05-30/doc-inhzrvns7338679.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-05-30T09:59:16+08:00"
     },
     {
       "title": "当美妆品牌走进运动场：欧莱雅把校园公益做成了一场“运动实验”｜最前线",
@@ -596,6 +624,13 @@
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-05-30 16:00:55  +0800"
+    },
+    {
+      "title": "深圳楼市新政满月，一二手房成交同比增33%",
+      "url": "https://36kr.com/newsflashes/3831448811169414?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-05-30 15:39:54  +0800"
     },
     {
       "title": "苏州：1—4月规模以上工业增加值同比增长9.8%",

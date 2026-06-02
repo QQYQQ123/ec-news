@@ -1,83 +1,223 @@
 {
-  "updatedAt": "2026-06-02T22:00:20+08:00",
-  "total": 79,
+  "updatedAt": "2026-06-03T02:09:32+08:00",
+  "total": 74,
   "news": [
     {
-      "title": "预测市场加速进军华尔街，Polymarket达成首笔大宗交易",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzumh2952393.shtml",
+      "title": "鲁比奥称美伊有望达成协议",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzytk1356975.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-02T21:57:10+08:00"
+      "pubDate": "2026-06-03T01:57:20+08:00"
     },
     {
-      "title": "HeartBeam研究登权威期刊 居家识别心梗风险获新证",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzumn1409658.shtml",
+      "title": "欧洲股市创逾一周来最大单日涨幅 受科技板块提振",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzytf1358389.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-02T21:56:39+08:00"
+      "pubDate": "2026-06-03T01:56:00+08:00"
     },
     {
-      "title": "美国Fulcrum制药公司因安全风险终止多动症新药研发 股价暴跌逾五成并寻求转让",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzumn1409419.shtml",
+      "title": "特朗普：有关美国和伊朗停止对话的报道不实",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzyte2879472.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-02T21:56:01+08:00"
+      "pubDate": "2026-06-03T01:15:47+08:00"
     },
     {
-      "title": "全员上阵找买家！银行不良出清再出新招",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-02/doc-inhzzumi1419086.shtml",
+      "title": "SpaceX千余员工“抱团”与理财顾问议价 提前布局IPO后的财富暴增",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzyth4562638.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T01:06:59+08:00"
+    },
+    {
+      "title": "消息人士：SpaceX冲刺史上最大IPO，含绿鞋期权目标估值1.75万亿美元",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzytk1338997.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T01:04:47+08:00"
+    },
+    {
+      "title": "特朗普签署AI网络安全行政令 未纳入强制测试要求",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzytk1338782.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T01:04:13+08:00"
+    },
+    {
+      "title": "渣打旗下Zodia：锚定里拉的稳定币使用规模仅次于美元稳定币",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzyth4560583.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T01:01:49+08:00"
+    },
+    {
+      "title": "SpaceX要求压低IPO承销费率 但华尔街投行仍有望分食5亿美元收入",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzyth4559214.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T00:57:59+08:00"
+    },
+    {
+      "title": "欧洲债市：欧洲政府债券上涨 英国国债跑赢",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzytf1339919.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T00:52:54+08:00"
+    },
+    {
+      "title": "加拿大提议将美墨加协定续期16年，自贸磋商同步推进分行业关税谈判",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzyth4550319.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T00:33:10+08:00"
+    },
+    {
+      "title": "美国核燃料浓缩企业扩产，对冲俄罗斯铀进口禁令影响",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzyte2865779.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T00:28:35+08:00"
+    },
+    {
+      "title": "马斯克关联空壳公司在休斯顿郊外购地 550亿美元芯片厂或落地于此",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzytf1332640.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T00:26:39+08:00"
+    },
+    {
+      "title": "法官勒令特朗普政府官员就关税退税滞付问题出庭说明",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzytf1332324.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T00:25:32+08:00"
+    },
+    {
+      "title": "高盛：美国柴油库存降至2003年以来最低 8月恐面临供应危机",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzytf1332138.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T00:24:52+08:00"
+    },
+    {
+      "title": "英国央行行长贝利：必须让公众对2%通胀目标重拾信心",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzytk1324425.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T00:22:51+08:00"
+    },
+    {
+      "title": "特朗普据悉继续获得税务审计豁免 但18亿美元基金计划面临变数",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzyth4545070.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T00:15:23+08:00"
+    },
+    {
+      "title": "美国提出对巴西加征25%新关税 指后者存在不公平贸易行为",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzytf1328950.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T00:12:16+08:00"
+    },
+    {
+      "title": "裕信银行对德国商业银行的收购要约跨过关键的持股比例门槛",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzytf1328780.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T00:11:35+08:00"
+    },
+    {
+      "title": "Anthropic 将 Mythos 模型使用权限扩展至150家新增机构",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzytf1327943.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T00:08:47+08:00"
+    },
+    {
+      "title": "午盘：道指与标普500指数再创新高 英伟达领涨芯片股",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzumn1449691.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T00:05:46+08:00"
+    },
+    {
+      "title": "现代汽车美国5月销量同比增长3% 混动车型大涨90%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzumi1456496.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T00:02:17+08:00"
+    },
+    {
+      "title": "美国4月职位空缺走高、但企业实际招聘人数下滑",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzumi1456370.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T00:01:47+08:00"
+    },
+    {
+      "title": "美股走出75年来最强涨势 华尔街分析师依旧不愿投身看多",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-03/doc-inhzzumn1447496.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-03T00:00:32+08:00"
+    },
+    {
+      "title": "哈马克表态：若通胀持续高企，美联储或出台调控举措",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzumh2988246.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T23:58:11+08:00"
+    },
+    {
+      "title": "维多集团警告称欧美国家仍未意识到石油供应短缺的严重性",
+      "url": "https://finance.sina.com.cn/world/2026-06-02/doc-inhzzumh2987765.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T23:55:37+08:00"
+    },
+    {
+      "title": "美国关税政策反复扰动，瑞士4月腕表出口大幅下滑",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzumh2987266.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T23:53:39+08:00"
+    },
+    {
+      "title": "提示击鼓传花效应明显后连续3跌停！百亿牛股再升科技刚刚宣布：必要时将报案",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-02/doc-inhzzumi1451712.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-06-02T21:54:47+08:00"
+      "pubDate": "2026-06-02T23:36:24+08:00"
     },
     {
-      "title": "特朗普任命联邦住房金融署署长比尔・普尔特出任代理国家情报总监",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzumh2951395.shtml",
+      "title": "伯克希尔坚信美国人置业的“美国梦”仍将延续",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzumi1449161.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-02T21:53:54+08:00"
+      "pubDate": "2026-06-02T23:32:04+08:00"
     },
     {
-      "title": "富国银行将出席摩根士丹利美国金融会议",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzumn1408494.shtml",
+      "title": "鲁比奥：伊朗在霍尔木兹海峡大范围布雷",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzumh2977973.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-02T21:53:17+08:00"
+      "pubDate": "2026-06-02T23:13:53+08:00"
     },
     {
-      "title": "SpaceX要求压低IPO承销费率 但投行仍有望分食5亿美元收入",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqcn4761290.shtml",
+      "title": "美国关键矿产倒计时：内华达州锑矿项目加速冲刺2027年大限",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzumk4658195.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-02T21:51:07+08:00"
+      "pubDate": "2026-06-02T23:12:53+08:00"
     },
     {
-      "title": "Anthropic将Mythos项目拓展至15个国家新增150家机构",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqcm1548445.shtml",
+      "title": "房利美和房地美下挫 FHFA局长身兼代理情报总监引发质疑",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzumh2977444.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-02T21:50:41+08:00"
-    },
-    {
-      "title": "Meta在全球范围扩大青少年内容管控",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqck3080854.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:50:05+08:00"
-    },
-    {
-      "title": "SpaceX力求压低IPO费率 投行仍有望斩获约5亿美元佣金",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqcn4760038.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:47:52+08:00"
-    },
-    {
-      "title": "美国港口库存骤降触发供应担忧 纽约可可期货价格暴涨逾7%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqcn4759600.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:47:07+08:00"
+      "pubDate": "2026-06-02T23:11:34+08:00"
     },
     {
       "title": "东阳光：千亿市值下算力豪赌，310亿订单与280亿并购双线狂奔",
@@ -85,181 +225,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-06-02T21:46:52+08:00"
-    },
-    {
-      "title": "分析师认为SpaceX估值显著偏高 警告人工智能业务前景存疑",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqcn4758817.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:45:35+08:00"
-    },
-    {
-      "title": "维多利亚的秘密全面上调全年业绩预期 周二早盘股价大涨42%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqck3077624.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:42:45+08:00"
-    },
-    {
-      "title": "阿布扎比国家石油公司拟在阿联酋新建输油管线 绕开霍尔木兹海峡",
-      "url": "https://finance.sina.com.cn/world/2026-06-02/doc-inhzzqcm1544804.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:42:21+08:00"
-    },
-    {
-      "title": "Shake Shack大跌8.7% 公司下调业绩指引",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqcq1533413.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:40:23+08:00"
-    },
-    {
-      "title": "X-energy向英国提交Xe-100高温气冷堆通用设计审查申请",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqcq1532169.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:37:47+08:00"
-    },
-    {
-      "title": "IMF警示中东、中亚多国央行独立性存在短板",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqcm1541716.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:34:48+08:00"
-    },
-    {
-      "title": "爱士惟递表港交所背后：近年收入承压，利润表现不稳定",
-      "url": "https://finance.sina.com.cn/roll/2026-06-02/doc-inhzzqck3074784.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:33:48+08:00"
-    },
-    {
-      "title": "科技股反弹，能否“逢低布局”？机构给出思路→",
-      "url": "https://finance.sina.com.cn/stock/s/2026-06-02/doc-inhzzqcq1531490.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:33:46+08:00"
-    },
-    {
-      "title": "股东8年5轮“输血”，湘财基金为何仍难破困局？",
-      "url": "https://finance.sina.com.cn/money/fund/jjyj/2026-06-02/doc-inhzzqck3075058.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:33:46+08:00"
-    },
-    {
-      "title": "太空投资热潮高涨，Impulse Space完成5亿美元D轮融资",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqcq1529713.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:32:55+08:00"
-    },
-    {
-      "title": "开盘：美股周二低开 市场关注美伊局势发展",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqck3072392.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:30:35+08:00"
-    },
-    {
-      "title": "Travere授权引进云顶新耀肾病药物，交易总额最高可达11.4亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqcn4751016.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:29:34+08:00"
-    },
-    {
-      "title": "自6月12日起暂停存量客户中国境内新开仓、加仓！老虎国际最新通知",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-02/doc-inhzzqcq1529081.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:26:34+08:00"
-    },
-    {
-      "title": "美国FDA驳回Cingulate公司多动症新药上市申请",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqcn4750021.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:26:26+08:00"
-    },
-    {
-      "title": "SpaceX拟筹资750亿美元创美股上市纪录 与承销商谈判压低费率",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqcq1525821.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:22:17+08:00"
-    },
-    {
-      "title": "“保本+黄金”叙事破灭？黄金挂钩结构性存款上半年收益明显缩水，根源竟是产品设计",
-      "url": "https://finance.sina.com.cn/roll/2026-06-02/doc-inhzzqck3071975.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:21:48+08:00"
-    },
-    {
-      "title": "昆仑银行准东支行被罚20万元：信贷业务管理不到位",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-06-02/doc-inhzzqcn4748433.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:21:48+08:00"
-    },
-    {
-      "title": "Aldeyra将出席2026年杰富瑞全球医疗保健会议",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqcm1536472.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:20:49+08:00"
-    },
-    {
-      "title": "Travere引进云顶新耀肾病新药 总交易金额超11亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqcq1525048.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:20:05+08:00"
-    },
-    {
-      "title": "Voyager收购Astrobotic 可能加速美国登月进程",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqcm1536024.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:19:17+08:00"
-    },
-    {
-      "title": "LTC斥资5400万美元收购养老社区 引入MorningStar拓展SHOP平台",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqcn4747272.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:18:29+08:00"
-    },
-    {
-      "title": "MindWalk登革热临床前数据验证HYFT平台预测 股价一年涨超200%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqcq1524262.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:17:39+08:00"
-    },
-    {
-      "title": "特朗普任命Pulte为代理国家情报总监",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqck3067602.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:16:04+08:00"
-    },
-    {
-      "title": "新一轮国资国企改革启动，多地研究部署落地举措",
-      "url": "https://finance.sina.com.cn/roll/2026-06-02/doc-inhzzqcm1535855.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:14:37+08:00"
-    },
-    {
-      "title": "黄仁勋称Marvell将成为下一个万亿美元公司",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzqcq1523023.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T21:14:19+08:00"
     },
     {
       "title": "供应链黑天鹅突袭、减持阴云笼罩，利通电子暴涨8倍后遇重挫",
@@ -374,7 +339,7 @@
       "pubDate": "2026-06-02 17:13:50  +0800"
     },
     {
-      "title": "做了18年民宿���爱彼迎，开始卖酒店了？",
+      "title": "做了18年民宿的爱彼迎，开始卖酒店了？",
       "url": "https://36kr.com/p/3835511712363657?f=rss",
       "source": "36氪",
       "category": "科技",

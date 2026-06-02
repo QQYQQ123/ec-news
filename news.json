@@ -1,20 +1,426 @@
 {
-  "updatedAt": "2026-06-02T11:40:25+08:00",
-  "total": 89,
+  "updatedAt": "2026-06-02T16:26:37+08:00",
+  "total": 94,
   "news": [
     {
-      "title": "英伟达CEO称员工应获得“尽可能高的”薪酬",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzysxv1785507.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T11:39:26+08:00"
-    },
-    {
-      "title": "一图看懂！美联储年内到底会不会降息？16位专业人士的答案很一致",
-      "url": "https://finance.sina.com.cn/money/forex/rmb/2026-06-02/doc-inhzysxv1782636.shtml",
+      "title": "EasyMarkets易信:小规模交易易放大情绪",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-06-02/doc-inhzzcpu1639726.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-06-02T11:35:13+08:00"
+      "pubDate": "2026-06-02T16:25:17+08:00"
+    },
+    {
+      "title": "法国生物技术公司Abivax因肠病药物安全疑虑股价暴跌30%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzcpr1667776.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:23:46+08:00"
+    },
+    {
+      "title": "GTCFX:金价仍受利率预期牵引",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-06-02/doc-inhzzcpr1667665.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:23:33+08:00"
+    },
+    {
+      "title": "CBCX:净流出放大区间震荡波动",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-06-02/doc-inhzzcps4860672.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:21:59+08:00"
+    },
+    {
+      "title": "商保创新药目录落地半年，商业保险为何“掉队”？",
+      "url": "https://finance.sina.com.cn/money/insurance/bxyy/2026-06-02/doc-inhzzcpr1666804.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:21:08+08:00"
+    },
+    {
+      "title": "邦达亚洲:中东局势仍存变数 黄金小幅收跌",
+      "url": "https://finance.sina.com.cn/money/forex/forexfxyc/2026-06-02/doc-inhzzcpq3197434.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:17:36+08:00"
+    },
+    {
+      "title": "长江有色：2日铸造铝期价收涨1.95% 畏高情绪限制交易体量",
+      "url": "https://finance.sina.com.cn/money/future/indu/2026-06-02/doc-inhzzcpu1633828.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:13:51+08:00"
+    },
+    {
+      "title": "长江有色：2日氧化铝期价收跌1.28% 整体交投清淡",
+      "url": "https://finance.sina.com.cn/money/future/indu/2026-06-02/doc-inhzzcpr1663389.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:13:43+08:00"
+    },
+    {
+      "title": "国联民生证券孔蓉解读“韬定律”：芯片“盖楼房”式堆叠，中国半导体换道超车的新叙事",
+      "url": "https://finance.sina.com.cn/roll/2026-06-02/doc-inhzzcps4857371.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:13:35+08:00"
+    },
+    {
+      "title": "长江有色：2日铅价持平 资金分歧较大现货交投偏冷清",
+      "url": "https://finance.sina.com.cn/money/future/indu/2026-06-02/doc-inhzzcps4856084.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:12:51+08:00"
+    },
+    {
+      "title": "长江有色：2日锡价大涨 AI大厂集中补库资金增仓上行",
+      "url": "https://finance.sina.com.cn/money/future/indu/2026-06-02/doc-inhzzcpq3195298.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:11:26+08:00"
+    },
+    {
+      "title": "红利低波ETF华泰柏瑞（512890）近60日吸金31.8亿！光大证券看多6月银行股绝对收益",
+      "url": "https://finance.sina.com.cn/money/fund/original/2026-06-02/doc-inhzzcpi7745215.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:08:54+08:00"
+    },
+    {
+      "title": "邦达亚洲:经济数据表现良好 美元指数小幅收涨",
+      "url": "https://finance.sina.com.cn/money/forex/forexfxyc/2026-06-02/doc-inhzzcpr1660866.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:08:24+08:00"
+    },
+    {
+      "title": "港股收评：恒指涨2.52%站上26000点 科指涨4.72% 汽车股活跃 科网股集体大涨 腾讯涨超10%创5年最大单日涨幅",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-02/doc-inhzzcpq3194561.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:08:11+08:00"
+    },
+    {
+      "title": "科技股，大反攻！002384，昨天跌停今天涨停",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-02/doc-inhzzcpi7745847.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:08:00+08:00"
+    },
+    {
+      "title": "3800亿龙头，涨停！“光还是那个光”",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-02/doc-inhzzcps4855193.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:07:53+08:00"
+    },
+    {
+      "title": "景顺长城固收业绩优异，旗下15只基金斩获晨星五星评级",
+      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-06-02/doc-inhzzcpr1659704.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:06:45+08:00"
+    },
+    {
+      "title": "国家开发银行原行务委员蒋志刚接受审查调查",
+      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-06-02/doc-inhzzcpr1659201.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:05:07+08:00"
+    },
+    {
+      "title": "美国下调部分钢铝铜产品进口关税",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-02/doc-inhzzcpq3197211.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:02:54+08:00"
+    },
+    {
+      "title": "国联民生证券孔蓉：韩股牛市由存储驱动，恒科背离源于权重股“AI叙事”欠佳，港股结构性机会仍存",
+      "url": "https://finance.sina.com.cn/roll/2026-06-02/doc-inhzzcpr1659177.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:02:07+08:00"
+    },
+    {
+      "title": "滴普科技赵杰辉：企业 AI 技术生态，正在被重构",
+      "url": "https://www.tmtpost.com/8011496.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-02T16:01:25+08:00"
+    },
+    {
+      "title": "特朗普政府公布医保补助计划重大调整 部分免予履行新增工时要求",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzcpr1656697.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:00:52+08:00"
+    },
+    {
+      "title": "“大宗牛市”未完待续？瑞银：原油、黄金和铜铝都有“基本面支撑”！",
+      "url": "https://finance.sina.com.cn/roll/2026-06-02/doc-inhzzcpr1661006.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T16:00:15+08:00"
+    },
+    {
+      "title": "恒科大涨逾4%重返5100点 腾讯飙升超10% 孔蓉：权重股需迎AI“谷歌时刻”",
+      "url": "https://finance.sina.com.cn/roll/2026-06-02/doc-inhzzcpi7740020.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:58:38+08:00"
+    },
+    {
+      "title": "中信证券“睿见”｜重构新生态：科技、地缘、资源剧变下的战略机遇",
+      "url": "https://finance.sina.com.cn/wm/2026-06-02/doc-inhzzcpr1657131.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:58:00+08:00"
+    },
+    {
+      "title": "从Anthropic收入跳涨看AI商业化：国联民生证券孔蓉称“全球科技黄金时间已至”",
+      "url": "https://finance.sina.com.cn/roll/2026-06-02/doc-inhzzcpr1654956.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:56:24+08:00"
+    },
+    {
+      "title": "南钢股份：Q1钢材量增价跌，公允价值“撑场”难掩主业颓势，资金承压仍高分红",
+      "url": "https://finance.sina.com.cn/stock/s/2026-06-02/doc-inhzzcps4862303.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:56:14+08:00"
+    },
+    {
+      "title": "黄仁勋力挺SK海力士高薪制度，称应尽可能多地奖励员工",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-02/doc-inhzzcpm4515491.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:55:00+08:00"
+    },
+    {
+      "title": "加密货币全线下跌，超15万人爆仓！比特币，再次跌破7万美元",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-02/doc-inhzzcpm4514840.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:53:28+08:00"
+    },
+    {
+      "title": "深化全球资产管理中心建设！上海重磅发布",
+      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-06-02/doc-inhzzcpm4513149.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:53:02+08:00"
+    },
+    {
+      "title": "降至2亿元！央行单日逆回购规模创2015年来新低，透露什么信号？",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-02/doc-inhzzcpi7734949.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:50:41+08:00"
+    },
+    {
+      "title": "斯特兰蒂斯将在法国梅斯工厂生产三款标致新车型",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzcpm4510826.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:49:42+08:00"
+    },
+    {
+      "title": "为救外汇储备 印度央行被曝抛售120亿美元黄金",
+      "url": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-06-02/doc-inhzzcpr1655730.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:49:17+08:00"
+    },
+    {
+      "title": "泰国央行预计今年经济将增长2%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzcpq3182953.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:49:03+08:00"
+    },
+    {
+      "title": "谷歌与澳洲电信Telstra合作，共建澳大利亚光纤及海底光缆网络",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzcpi7727076.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:39:23+08:00"
+    },
+    {
+      "title": "六一狂欢背后：一个小城如何“玩”出500亿产值？",
+      "url": "https://www.tmtpost.com/8010701.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-02T15:35:19+08:00"
+    },
+    {
+      "title": "这一次，天涯能重启吗？",
+      "url": "https://www.tmtpost.com/8010631.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-02T15:35:16+08:00"
+    },
+    {
+      "title": "智谱深夜公告，大模型双子星抢滩A股",
+      "url": "https://www.tmtpost.com/8011306.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-02T15:35:14+08:00"
+    },
+    {
+      "title": "国信证券：哔哩哔哩-W维持“优于大市”评级 把握底部布局机会",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-02/doc-inhzzcpi7719519.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:30:38+08:00"
+    },
+    {
+      "title": "国泰海通证券：亚盛医药首予“增持”评级 目标价59.09港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-02/doc-inhzzcpr1637630.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:28:48+08:00"
+    },
+    {
+      "title": "麦格理：理想汽车-W上升至“中性”评级 目标价降至57港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-02/doc-inhzzcpm4494428.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:27:30+08:00"
+    },
+    {
+      "title": "SpaceX、OpenAI万亿IPO将来袭！孔蓉：资金虹吸难免，但软件股中仍可“淘金”",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-06-02/doc-inhzzcpi7716851.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:26:59+08:00"
+    },
+    {
+      "title": "高盛：联想集团维持“买入”评级 目标价升至31港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-02/doc-inhzzcpq3168541.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:26:03+08:00"
+    },
+    {
+      "title": "郑丽文在美国访问，外交部回应",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-02/doc-inhzzcpi7718452.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:25:54+08:00"
+    },
+    {
+      "title": "SK集团董事长：SK海力士计划未来五年将晶圆产能扩大一倍",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzcpi7715251.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:24:53+08:00"
+    },
+    {
+      "title": "花旗：比亚迪股份5月批发量高于预期 开启30天正面催化剂观察",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-02/doc-inhzzcpq3167711.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:24:42+08:00"
+    },
+    {
+      "title": "韩股收盘首次站上8800点，三星电子领涨",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzcpi7714622.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:24:07+08:00"
+    },
+    {
+      "title": "三部门：引导企业加强适老化保健食品等特殊食品研发生产 丰富市场供给",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-02/doc-inhzzcpi7713394.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:21:00+08:00"
+    },
+    {
+      "title": "光大期货0602热点追踪：氧化铝跌幅居前，几内亚政策空窗期左侧风险偏高",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-06-02/doc-inhzzcpr1632250.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:20:36+08:00"
+    },
+    {
+      "title": "麦当劳发布新全球增长战略应对市场竞争与消费放缓",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzzcpm4487508.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:18:30+08:00"
+    },
+    {
+      "title": "收评|国内期货主力合约涨多跌少，沪锡涨超5%",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-06-02/doc-inhzzcpm4480152.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T15:08:53+08:00"
+    },
+    {
+      "title": "资管巨头PIMCO：近期美债收益率上行并非AI驱动 元凶仍是通胀与加息预期",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-02/doc-inhzyxft1748824.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T14:53:51+08:00"
+    },
+    {
+      "title": "伊朗媒体：伊朗仍在讨论结束与美国战争谅解备忘录的“最终文本”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzyxft1741712.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-02T14:48:37+08:00"
+    },
+    {
+      "title": "当比亚迪开始往更深处走",
+      "url": "https://www.tmtpost.com/8010523.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-02T12:37:08+08:00"
+    },
+    {
+      "title": "茶饮江湖的“潜规则”，古茗的财报全交代了",
+      "url": "https://www.tmtpost.com/8011125.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-02T12:12:19+08:00"
+    },
+    {
+      "title": "对话魏建军：长城跑环塔，赚的是看不见的声量钱",
+      "url": "https://www.tmtpost.com/8011183.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-02T11:58:16+08:00"
+    },
+    {
+      "title": "身价13亿美元的OpenRouter，国内学不了？",
+      "url": "https://www.tmtpost.com/8010622.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-02T11:50:28+08:00"
+    },
+    {
+      "title": "内卷之下，OLED正在悄悄换血",
+      "url": "https://www.tmtpost.com/8011049.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-02T11:43:29+08:00"
+    },
+    {
+      "title": "黄仁勋发布Alpamayo 2 Super：自动驾驶黑箱终于被打开了",
+      "url": "https://www.tmtpost.com/8011223.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-02T11:43:00+08:00"
+    },
+    {
+      "title": "阿里要全面转入「战时状态」了？",
+      "url": "https://www.tmtpost.com/8010614.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-02T11:43:00+08:00"
     },
     {
       "title": "5月三起IVD易主，“不亏不欠”的艾德生物也要被卖了",
@@ -22,41 +428,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-06-02T11:34:21+08:00"
-    },
-    {
-      "title": "澳大利亚一季度经常项目逆差扩大 经济放缓压力显现",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzysxu3314326.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T11:34:10+08:00"
-    },
-    {
-      "title": "科梁信息港股IPO：递表前夕大批战投清仓退出、关联方突击入股 反向持股海外核心供应商 现金流持续波动",
-      "url": "https://finance.sina.com.cn/stock/observe/2026-06-02/doc-inhzysxp7850696.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-02T11:27:27+08:00"
-    },
-    {
-      "title": "耐世特早盘涨逾3% 瑞银维持“买入”评级",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-02/doc-inhzysxu3309524.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T11:27:04+08:00"
-    },
-    {
-      "title": "金山云早盘涨逾7% 公司卡位AI云基础设施赛道 一季度智算云占比首破五成",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-02/doc-inhzysxp7849112.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T11:24:57+08:00"
-    },
-    {
-      "title": "大公司谍战：一场不流血的战争",
-      "url": "https://www.tmtpost.com/8010593.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-02T11:21:29+08:00"
     },
     {
       "title": "AI数据中心供电架构的范式革命—当800V高压直流遇上万亿参数大模型，谁是产业链的隐形冠军？",
@@ -73,67 +444,11 @@
       "pubDate": "2026-06-02T11:21:24+08:00"
     },
     {
-      "title": "快手-W盘中涨近5% 招商证券维持目标价64港元",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-02/doc-inhzysxu3304734.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T11:19:03+08:00"
-    },
-    {
-      "title": "腾讯早盘飙升超6% 据报腾讯接近推出微信AI助手",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-02/doc-inhzysxu3303534.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T11:16:25+08:00"
-    },
-    {
-      "title": "澳央行官员对通胀预期“上升”表示担忧",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzysxu3302476.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T11:14:23+08:00"
-    },
-    {
-      "title": "创金合信基金魏凤春：重回确定性投资",
-      "url": "https://finance.sina.com.cn/money/fund/2026-06-02/doc-inhzysxp7838907.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-02T11:09:18+08:00"
-    },
-    {
-      "title": "铝价升至四年高位 全球供应趋紧",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzysxu3298125.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T11:07:02+08:00"
-    },
-    {
-      "title": "超200亿主力资金狂涌！PCB龙头鹏鼎控股涨逾7%！华宝基金电子ETF（515260）盘中上探2.4% 近10日吸金2.24亿元",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-06-02/doc-inhzysxr4613200.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-02T11:05:18+08:00"
-    },
-    {
-      "title": "对高盛顶尖银行家来说 杠杆融资市场唯一主旋律是AI",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzysxv1763514.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T11:03:34+08:00"
-    },
-    {
-      "title": "一图看懂！人民币汇率升破6.8！16位专家拆解本轮升值核心引擎",
-      "url": "https://finance.sina.com.cn/money/forex/rmb/2026-06-02/doc-inhzysxr4611042.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-02T11:02:23+08:00"
-    },
-    {
-      "title": "美团绩后涨超8%，Q1营收超预期，环比大幅减亏超百亿",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-02/doc-inhzysxv1760821.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:58:58+08:00"
+      "title": "大公司谍战：一场不流血的战争",
+      "url": "https://www.tmtpost.com/8010593.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-02T11:21:00+08:00"
     },
     {
       "title": "全球最大锂矿争夺战：刚果对锂矿加税，紫金、贝佐斯、盖茨争抢非洲锂矿",
@@ -150,125 +465,6 @@
       "pubDate": "2026-06-02T10:55:06+08:00"
     },
     {
-      "title": "中国电力建设企业协会会长王思强：电力建设的核心逻辑已经改变",
-      "url": "https://finance.sina.com.cn/tech/2026-06-02/doc-inhzysxp7828953.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:54:51+08:00"
-    },
-    {
-      "title": "黄仁勋称英伟达正与合作伙伴共同努力解决供应瓶颈问题",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzysxu3287205.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:47:59+08:00"
-    },
-    {
-      "title": "中韩企业可持续发展交流会在首尔举行",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-02/doc-inhzysxp7824187.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:47:52+08:00"
-    },
-    {
-      "title": "突发！港股科网股集体大涨，美团涨超8%，腾讯涨超6% A股拉升，创业板指涨超1%，深证成指、科创综指均已翻红",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-06-02/doc-inhzysxv1757887.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:47:13+08:00"
-    },
-    {
-      "title": "红塔银行迎来新股东中信银行，国股行驰援地方银行时隔11年再现，恐难成趋势",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-02/doc-inhzysxv1755112.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:46:00+08:00"
-    },
-    {
-      "title": "一图看懂！无一人看空，16位专家共识：下半年人民币对美元汇率锚定6.5-6.9",
-      "url": "https://finance.sina.com.cn/money/forex/rmb/2026-06-02/doc-inhzysxr4596206.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:40:10+08:00"
-    },
-    {
-      "title": "连涨3日！百亿银行ETF华宝（512800）再涨1%，单日超2亿资金加仓",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-06-02/doc-inhzysxu3281487.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:37:12+08:00"
-    },
-    {
-      "title": "腾讯股价大涨 消息称微信AI助手到来在即",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzysxp7815209.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:35:22+08:00"
-    },
-    {
-      "title": "军工三连跌！华宝基金军工ETF（512810）失守年线！联创光电领跌，商业航天概念齐挫",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-06-02/doc-inhzysxr4592143.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:35:04+08:00"
-    },
-    {
-      "title": "顺丰同城早盘涨超7% 机构指即时零售的拓圈有望对冲餐饮高基数",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-02/doc-inhzysxp7813837.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:33:41+08:00"
-    },
-    {
-      "title": "湘财基金8年五度增资！注册资本从1亿增至4亿，股东力挺能否破解“自我造血”困局？",
-      "url": "https://finance.sina.com.cn/stock/observe/2026-06-02/doc-inhzysxp7813499.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:33:14+08:00"
-    },
-    {
-      "title": "派格生物医药-B盘中涨超13% CR059获EASD 2026接收并入选口头讨论发言环节",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-02/doc-inhzysxp7812516.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:31:54+08:00"
-    },
-    {
-      "title": "知名空头安德鲁莱夫特被判欺诈罪名成立",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzysxu3276658.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:30:15+08:00"
-    },
-    {
-      "title": "茅台再登明星榜！吃喝板块震荡盘整，华宝基金食品饮料ETF（515710）小幅飘绿！底部机会来了？",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-06-02/doc-inhzynrx1871966.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:25:29+08:00"
-    },
-    {
-      "title": "联想集团盘中涨超8%再创新高 公司AI转型成果全面落地",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-02/doc-inhzynrt4713113.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:22:12+08:00"
-    },
-    {
-      "title": "长江有色：矿端三重扰动及AI算力半导体高景气度提振 2日锡价或大涨",
-      "url": "https://finance.sina.com.cn/money/future/indu/2026-06-02/doc-inhzynrx1869716.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:22:10+08:00"
-    },
-    {
-      "title": "腾讯盘初拉升涨超5% 接近推出微信AI助手",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-02/doc-inhzynrw3401774.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:21:26+08:00"
-    },
-    {
       "title": "谷歌卖股800亿，Anthropic、SpaceX密交S-1，谁将率先突破20万亿美元？",
       "url": "https://www.tmtpost.com/8011099.html",
       "source": "钛媒体",
@@ -276,158 +472,11 @@
       "pubDate": "2026-06-02T10:21:00+08:00"
     },
     {
-      "title": "长江有色：铜铝大涨带动涨势氛围叠加供紧提供支撑 2日锌价或上涨",
-      "url": "https://finance.sina.com.cn/money/future/indu/2026-06-02/doc-inhzynrr7934542.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:20:34+08:00"
-    },
-    {
-      "title": "长江有色：硫磺暴涨MHP供应锐减冶炼成本飙 2日镍价或上涨",
-      "url": "https://finance.sina.com.cn/money/future/indu/2026-06-02/doc-inhzynrx1868406.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:20:17+08:00"
-    },
-    {
-      "title": "长江有色: 中东局势升级加剧铝供应忧虑 2日铝价或上涨",
-      "url": "https://finance.sina.com.cn/money/future/indu/2026-06-02/doc-inhzynrx1868344.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:20:10+08:00"
-    },
-    {
-      "title": "博彩股早盘继续走高 美高梅中国涨逾6%永利澳门涨逾5%",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-02/doc-inhzynrw3398830.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:16:16+08:00"
-    },
-    {
-      "title": "能源Agent正在“觉醒”，思格新能源发布行业首个全域AI智能体",
-      "url": "https://www.tmtpost.com/8010510.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-02T10:13:46+08:00"
-    },
-    {
-      "title": "华泰期货：伊朗终止谈判，和谈进程岌岌可危",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-06-02/doc-inhzynrr7929611.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:13:21+08:00"
-    },
-    {
-      "title": "黑石旗下最大亚洲私募基金筹资131亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzynrx1863808.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:12:35+08:00"
-    },
-    {
-      "title": "中国重汽早盘涨近8% 5月重卡市场实现“三连涨”",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-02/doc-inhzynrt4705758.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:12:12+08:00"
-    },
-    {
-      "title": "华泰期货：液化石油气地缘溢价反弹，现货分化延续",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-06-02/doc-inhzynrw3395946.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:11:59+08:00"
-    },
-    {
-      "title": "华泰期货：政策利好刺激硅价上涨，基本面弱势仍存",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-06-02/doc-inhzynrw3394381.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:09:55+08:00"
-    },
-    {
-      "title": "图达通盘中涨超10% 拟斥资不超过1亿港元回购股份",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-02/doc-inhzynrx1861337.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-02T10:09:22+08:00"
-    },
-    {
-      "title": "PC全面接管AI",
-      "url": "https://www.tmtpost.com/8010993.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-02T10:02:33+08:00"
-    },
-    {
-      "title": "黄仁勋的大刀砍向了英特尔",
-      "url": "https://www.tmtpost.com/8010520.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-02T10:02:31+08:00"
-    },
-    {
-      "title": "轨道交通安防股拟2.51亿元收购中科锐择51%股权 切入特种光电赛道；焊接钢管龙头拟6.72亿元收购沧州隆泰迪53%股权；【并购一线】",
-      "url": "https://www.tmtpost.com/8011033.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-02T09:51:51+08:00"
-    },
-    {
-      "title": "英伟达“带飞”AI PC产业链，但要推翻40年旧制没那么容易",
-      "url": "https://www.tmtpost.com/8010985.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-02T09:51:15+08:00"
-    },
-    {
-      "title": "美团：AI 分走战火，终能回口老血了？",
-      "url": "https://www.tmtpost.com/8010975.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-02T09:50:05+08:00"
-    },
-    {
-      "title": "84.9%！中国造船拿下全球第一，但真正的战争才刚刚开始",
-      "url": "https://www.tmtpost.com/8010610.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-02T09:50:03+08:00"
-    },
-    {
-      "title": "稀土股票是绝佳的买入标的，以下这7只也是",
-      "url": "https://www.tmtpost.com/8011026.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-02T09:39:52+08:00"
-    },
-    {
-      "title": "英伟达入侵PC：x86的铁幕，能撑多久？",
-      "url": "https://www.tmtpost.com/8010932.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-02T09:30:12+08:00"
-    },
-    {
-      "title": "红果的摇摆：真人短剧暂时扳回一局",
-      "url": "https://www.tmtpost.com/8010626.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-02T09:30:10+08:00"
-    },
-    {
-      "title": "Anthropic抢先递表，最快可能秋季上市",
-      "url": "https://www.tmtpost.com/8010945.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-02T09:19:53+08:00"
-    },
-    {
-      "title": "商业共生・文明致远——2026虎啸盛典启幕上海",
-      "url": "https://36kr.com/p/3835447060329865?f=rss",
+      "title": "做了18年民宿的爱彼迎，开始卖酒店了？",
+      "url": "https://36kr.com/p/3835511712363657?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-06-02 11:38:18  +0800"
+      "pubDate": "2026-06-02 12:23:41  +0800"
     },
     {
       "title": "深创投押注全球植纤皮革头部品牌，超级皮儿PEELSPHERE®完成近亿级融资｜36氪首发",
@@ -493,137 +542,123 @@
       "pubDate": "2026-06-01 18:26:33  +0800"
     },
     {
-      "title": "A股三大指数收盘涨跌不一，半导体板块领涨",
-      "url": "https://36kr.com/newsflashes/3835480159794309?f=rss",
+      "title": "私募股权公司Ardian将与Verne合作，斥资50亿欧元在法国建数字基础设施园区",
+      "url": "https://36kr.com/newsflashes/3835767150392451?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-06-02 11:32:10  +0800"
+      "pubDate": "2026-06-02 16:24:07  +0800"
     },
     {
-      "title": "佳能上调部分激光耗材价格",
-      "url": "https://36kr.com/newsflashes/3835461598279048?f=rss",
+      "title": "北京新增10款已完成备案的生成式人工智能服务",
+      "url": "https://36kr.com/newsflashes/3835751632417922?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-06-02 11:13:17  +0800"
+      "pubDate": "2026-06-02 16:17:28  +0800"
     },
     {
-      "title": "今日头条半年内再度换帅",
-      "url": "https://36kr.com/newsflashes/3835451821782403?f=rss",
+      "title": "迈威尔科技美股盘前涨超25%",
+      "url": "https://36kr.com/newsflashes/3835757880882307?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-06-02 11:03:21  +0800"
+      "pubDate": "2026-06-02 16:14:41  +0800"
     },
     {
-      "title": "创业板指涨超2%",
-      "url": "https://36kr.com/newsflashes/3835446179476869?f=rss",
+      "title": "腾讯云：下调DeepSeek-V4系列模型价格 最高降幅97.5%",
+      "url": "https://36kr.com/newsflashes/3835755374114178?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-06-02 10:57:36  +0800"
+      "pubDate": "2026-06-02 16:12:08  +0800"
     },
     {
-      "title": "沪深两市成交额突破1.5万亿元",
-      "url": "https://36kr.com/newsflashes/3835445079078025?f=rss",
+      "title": "恒指收涨2.52%，腾讯控股涨超10%",
+      "url": "https://36kr.com/newsflashes/3835754282022025?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-06-02 10:56:29  +0800"
+      "pubDate": "2026-06-02 16:11:01  +0800"
     },
     {
-      "title": "恒生科技指数日内涨幅扩大至3%",
-      "url": "https://36kr.com/newsflashes/3835410257261959?f=rss",
+      "title": "Anthropic将向欧盟提供Mythos使用权限",
+      "url": "https://36kr.com/newsflashes/3835742988858500?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-06-02 10:21:04  +0800"
+      "pubDate": "2026-06-02 15:59:32  +0800"
     },
     {
-      "title": "恒生指数涨超1%",
-      "url": "https://36kr.com/newsflashes/3835402744821129?f=rss",
+      "title": "欧洲议会投票通过欧美贸易协议",
+      "url": "https://36kr.com/newsflashes/3835741426119815?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-06-02 10:13:25  +0800"
+      "pubDate": "2026-06-02 15:57:57  +0800"
     },
     {
-      "title": "沪深两市成交额突破1万亿",
-      "url": "https://36kr.com/newsflashes/3835398702281862?f=rss",
+      "title": "新诺威：控股子公司在2026年美国临床肿瘤学会年会公布SYS6043研究成果",
+      "url": "https://36kr.com/newsflashes/3835740032546184?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-06-02 10:09:19  +0800"
+      "pubDate": "2026-06-02 15:56:32  +0800"
     },
     {
-      "title": "腾讯控股短线拉升，现涨超3%",
-      "url": "https://36kr.com/newsflashes/3835395233920131?f=rss",
+      "title": "中南传媒：全资子公司签订9.67亿元采购合同",
+      "url": "https://36kr.com/newsflashes/3835735173952645?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-06-02 10:05:47  +0800"
+      "pubDate": "2026-06-02 15:51:35  +0800"
     },
     {
-      "title": "恒生科技指数涨超2%",
-      "url": "https://36kr.com/newsflashes/3835392858190981?f=rss",
+      "title": "宇树单款人形机器人累计生产下线约11000台",
+      "url": "https://36kr.com/newsflashes/3835733546628482?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-06-02 10:03:22  +0800"
+      "pubDate": "2026-06-02 15:49:56  +0800"
     },
     {
-      "title": "三大指数集体翻绿",
-      "url": "https://36kr.com/newsflashes/3835383642158467?f=rss",
+      "title": "蓝色起源火箭发射台恢复工作或持续至2028年",
+      "url": "https://36kr.com/newsflashes/3835726599009412?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-06-02 09:53:59  +0800"
+      "pubDate": "2026-06-02 15:42:52  +0800"
     },
     {
-      "title": "沪深两市成交额突破5000亿元",
-      "url": "https://36kr.com/newsflashes/3835378617136256?f=rss",
+      "title": "航发动力：李健辞任公司副董事长等职务",
+      "url": "https://36kr.com/newsflashes/3835724926809480?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-06-02 09:48:53  +0800"
+      "pubDate": "2026-06-02 15:41:10  +0800"
     },
     {
-      "title": "燃油涨价，印度多家航空公司大幅削减航班",
-      "url": "https://36kr.com/newsflashes/3835378484655490?f=rss",
+      "title": "博威合金：出售太阳能组件资产完成交割，获价款2.159亿美元",
+      "url": "https://36kr.com/newsflashes/3835721398056325?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-06-02 09:48:45  +0800"
+      "pubDate": "2026-06-02 15:37:34  +0800"
     },
     {
-      "title": "特朗普将农业设备进口关税从25%降至15%",
-      "url": "https://36kr.com/newsflashes/3835373671118211?f=rss",
+      "title": "Arm首席执行官：公司或提前实现150亿美元AI芯片营收目标",
+      "url": "https://36kr.com/newsflashes/3835709122672009?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-06-02 09:43:51  +0800"
+      "pubDate": "2026-06-02 15:34:54  +0800"
     },
     {
-      "title": "创业板指涨超1%",
-      "url": "https://36kr.com/newsflashes/3835360988837001?f=rss",
+      "title": "中国内地航线燃油附加费将下调",
+      "url": "https://36kr.com/newsflashes/3835711924843657?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-06-02 09:30:57  +0800"
+      "pubDate": "2026-06-02 15:27:56  +0800"
     },
     {
-      "title": "A股三大指数集体高开，汽车股走强",
-      "url": "https://36kr.com/newsflashes/3835356696851843?f=rss",
+      "title": "百度旗下基金等入股拉格朗日具身技术公司",
+      "url": "https://36kr.com/newsflashes/3835708360619139?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-06-02 09:26:35  +0800"
+      "pubDate": "2026-06-02 15:24:19  +0800"
     },
     {
-      "title": "央���今日开展2亿元7天逆回购操作",
-      "url": "https://36kr.com/newsflashes/3835353112638856?f=rss",
+      "title": "丰田将在美召回81893辆汽车",
+      "url": "https://36kr.com/newsflashes/3835702781851017?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-06-02 09:22:56  +0800"
-    },
-    {
-      "title": "恒指开盘跌0.01%，恒生科技指数涨0.62%",
-      "url": "https://36kr.com/newsflashes/3835352807060617?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-02 09:22:37  +0800"
-    },
-    {
-      "title": "业内人士：苹果考虑采用LG Display的新面板技术",
-      "url": "https://36kr.com/newsflashes/3835347792950664?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-02 09:17:31  +0800"
+      "pubDate": "2026-06-02 15:18:38  +0800"
     }
   ]
 }

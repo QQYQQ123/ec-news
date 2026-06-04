@@ -1,300 +1,244 @@
 {
-  "updatedAt": "2026-06-04T20:42:55+08:00",
-  "total": 88,
+  "updatedAt": "2026-06-05T00:52:38+08:00",
+  "total": 81,
   "news": [
     {
-      "title": "美国上周首次申领失业救济人数增加1.3万人 至22.5万人",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahaik3513887.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-04T20:34:47+08:00"
-    },
-    {
-      "title": "长沙银行：长银五八消金增资事项获监管批复 注册资本提升至19.45亿元",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-06-04/doc-iniahaik3513639.shtml",
+      "title": "巴克莱调查：固定收益投资者中使用AI最多的是对冲基金",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-05/doc-iniahnxk9033224.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-06-04T20:34:11+08:00"
+      "pubDate": "2026-06-05T00:52:24+08:00"
     },
     {
-      "title": "国际油价直线跳水4%，黄金涨破4500美元，以军开始从黎巴嫩撤军",
-      "url": "https://finance.sina.com.cn/wm/2026-06-04/doc-iniahaiq9234394.shtml",
+      "title": "资金从科技股轮动出逃，小盘股逆势走强",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-05/doc-iniahnxe3319700.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-05T00:51:40+08:00"
+    },
+    {
+      "title": "短短数周股价几乎翻番 经历一轮狂飙后Arm已成市场上最贵的股票之一",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-05/doc-iniahnxi2257009.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-05T00:51:25+08:00"
+    },
+    {
+      "title": "欧洲债市：欧洲政府债券小幅上涨 油价回落缓解通胀担忧",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-05/doc-iniahnxh0092815.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-05T00:34:21+08:00"
+    },
+    {
+      "title": "OPEC+石油配额恢复接近完成 最后一批供应限制解除前景受关注",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-05/doc-iniahnxe3313097.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-05T00:23:28+08:00"
+    },
+    {
+      "title": "“这是一个令人兴奋的时代”：华尔街双雄为SpaceX IPO争抢头号光环",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-05/doc-iniahnxe3311530.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-05T00:16:30+08:00"
+    },
+    {
+      "title": "美国参议员沃伦敦促贝森特加强金融网络安全保护",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-05/doc-iniahnxi2250000.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-05T00:14:17+08:00"
+    },
+    {
+      "title": "美国最高法院巩固了美国证券交易委员会追缴非法所得的权力",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-05/doc-iniahnxh0087953.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-05T00:13:16+08:00"
+    },
+    {
+      "title": "消息人士称Kalshi正在打造面向高端交易者的预测市场版“彭博终端”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-05/doc-iniahnxi2249185.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-05T00:10:12+08:00"
+    },
+    {
+      "title": "全球股市大涨，去年新增近200万名百万富翁",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-05/doc-iniahnxk9024339.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-05T00:05:20+08:00"
+    },
+    {
+      "title": "午盘：道指再创新高 纳指下跌0.3%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-05/doc-iniahnxe3308220.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-05T00:03:32+08:00"
+    },
+    {
+      "title": "无管路胰岛素泵新突破：Insulet将发布Omnipod关键数据",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-05/doc-iniahnxi2246968.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-05T00:01:01+08:00"
+    },
+    {
+      "title": "D-Wave荣获卓越职场认证 企业文化建设获员工高度认可",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahnxk9022543.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-04T23:57:31+08:00"
+    },
+    {
+      "title": "Lupkynis新分析：显著降低狼疮性肾炎患者肾脏事件或死亡风险53%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahhrh3437602.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-04T23:55:32+08:00"
+    },
+    {
+      "title": "Coinbase上线SpaceX上市前永续合约，投资者可提前“买入”SpaceX相关权益",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahhrm2373213.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-04T23:34:31+08:00"
+    },
+    {
+      "title": "伊朗允许IAEA检查布什尔核电站 但铀问题上仍态度强硬",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahhrm2370718.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-04T23:17:50+08:00"
+    },
+    {
+      "title": "Clean Energy启动美国最大奶牛场RNG设施 年产负碳燃料可替代1亿加仑柴油",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahhrh3429679.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-04T23:14:11+08:00"
+    },
+    {
+      "title": "不只是“光”“芯”，公募淘金AI材料端",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-04/doc-iniahhrm2371464.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-06-04T20:31:00+08:00"
+      "pubDate": "2026-06-04T23:14:10+08:00"
     },
     {
-      "title": "盘前：博通暴跌引爆AI泡沫疑云 纳指期货跌1.3%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahaik3513439.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-04T20:30:33+08:00"
-    },
-    {
-      "title": "交通银行FT账户体系实现全国试点区域全覆盖",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-06-04/doc-iniahaiq9236333.shtml",
+      "title": "多只热门牛股，密集提示风险",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-04/doc-iniahhrm2371439.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-06-04T20:30:15+08:00"
+      "pubDate": "2026-06-04T23:14:10+08:00"
     },
     {
-      "title": "浙商银行：完成工商登记变更手续 现法定代表人为陈海强",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-06-04/doc-iniahain0289182.shtml",
+      "title": "跌停、涨停、连续大涨！4000亿龙头，机构大举“做T”",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-04/doc-iniahhrm2370993.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-06-04T20:29:53+08:00"
+      "pubDate": "2026-06-04T23:14:10+08:00"
     },
     {
-      "title": "泰国消费者委员会宣布将起诉Meta公司 指控其纵容网络诈骗及不作为",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahaip2456429.shtml",
+      "title": "特朗普前国家安全顾问博尔顿同意就私存机密信息认罪",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahhrk0205556.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-04T20:28:05+08:00"
+      "pubDate": "2026-06-04T23:08:18+08:00"
     },
     {
-      "title": "台积电警告：AI芯片短缺恐持续数年",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahaiq9232418.shtml",
+      "title": "Matador Resources与Energy Transfer签署战略协议 提升天然气变现能力",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahhrm2368275.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-04T20:27:44+08:00"
+      "pubDate": "2026-06-04T23:05:30+08:00"
     },
     {
-      "title": "达利欧警告：AI热潮已现泡沫特征，兑现之日即为破裂之时",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahain0288336.shtml",
+      "title": "Benchmark资本募资12.5亿美元新基金，投向成熟期初创企业",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahhrh3426762.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-04T20:26:01+08:00"
+      "pubDate": "2026-06-04T23:01:53+08:00"
     },
     {
-      "title": "新加坡航空计划增购至少50架远程宽体客机",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahaik3510295.shtml",
+      "title": "Avery Dennison任命Danny Allouche为材料集团总裁",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahhrm2367137.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-04T20:23:26+08:00"
+      "pubDate": "2026-06-04T23:01:46+08:00"
     },
     {
-      "title": "富国银行：美股市场仍如坐过山车",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahaik3510100.shtml",
+      "title": "Select Medical面临股东调查：管理层主导私有化交易引发公平性质疑",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahhrn9142699.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-04T20:22:44+08:00"
+      "pubDate": "2026-06-04T22:58:28+08:00"
     },
     {
-      "title": "CrowdStrike指引缺乏惊喜 靓丽财报难逃大跌",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahaik3509356.shtml",
+      "title": "高盛预测：SpaceX人工智能业务2030年营收将暴涨100倍",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahhrh3426263.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-04T20:20:54+08:00"
+      "pubDate": "2026-06-04T22:58:22+08:00"
     },
     {
-      "title": "五元店不香了？Five Below交出亮眼指引仍暴跌",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahain0286278.shtml",
+      "title": "Buckle五月净销售额同比增长4.5% 女装业务领涨",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahhrn9141965.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-04T20:20:01+08:00"
+      "pubDate": "2026-06-04T22:54:25+08:00"
     },
     {
-      "title": "中东，大消息！以色列开始撤军！黄金、白银，直线拉升",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-04/doc-iniahaip2455424.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-04T20:19:51+08:00"
-    },
-    {
-      "title": "博通财报暴雷：AI指引未达顶标，股价暴跌15%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahain0285992.shtml",
+      "title": "Wix面临证券欺诈调查：AI竞争加剧 财报暴雷后股价暴跌27%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahhrk0202402.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-04T20:18:58+08:00"
+      "pubDate": "2026-06-04T22:52:21+08:00"
     },
     {
-      "title": "黑石集团限制旗下旗舰私募信贷基金赎回",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahaip2453923.shtml",
+      "title": "两只牛股分别提示：“尚未创收”“尚未投片”",
+      "url": "https://finance.sina.com.cn/stock/s/2026-06-04/doc-iniahhrk0202733.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-04T20:18:52+08:00"
+      "pubDate": "2026-06-04T22:52:08+08:00"
     },
     {
-      "title": "黑石私募信贷基金将投资者赎回比例限制在5%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahain0285952.shtml",
+      "title": "Redwire获Astrobiome Space合同 将发射世界首个商业太空温室",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahhrn9140852.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-04T20:18:38+08:00"
+      "pubDate": "2026-06-04T22:49:18+08:00"
     },
     {
-      "title": "两个多月股价涨236%，江海股份发第3次异动公告：无MLCC业务，也无投产计划",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-04/doc-iniahaiq9230016.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-04T20:16:47+08:00"
-    },
-    {
-      "title": "人保财险被指“提高保费再返现”，监管介入调查多项违规属实！",
-      "url": "https://finance.sina.com.cn/money/insurance/bxyx/2026-06-04/doc-iniahaip2455038.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-04T20:15:29+08:00"
-    },
-    {
-      "title": "英国右翼民粹主义政党政治献金激增 资金来源引发合规性审查",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahaiq9229282.shtml",
+      "title": "AIPCon 10开幕：Palantir携多家企业揭秘AI如何放大真实“专业技能”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahhrn9140113.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-04T20:15:22+08:00"
+      "pubDate": "2026-06-04T22:46:41+08:00"
     },
     {
-      "title": "“一生的结伴同行” 李宁与库里达成品牌共建：中美将开设独立门店",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-04/doc-iniahaiq9228916.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-04T20:13:40+08:00"
-    },
-    {
-      "title": "黎总统称黎以停火协议获批后24小时内可实施",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-04/doc-iniahaik3508194.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-04T20:13:30+08:00"
-    },
-    {
-      "title": "回顾股票推荐：凯悦酒店、Sensient Technologies、Harmony Biosciences",
-      "url": "https://www.tmtpost.com/8015369.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-04T20:12:53+08:00"
-    },
-    {
-      "title": "人工智能正在让富人更富，华尔街也是如此",
-      "url": "https://www.tmtpost.com/8015361.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-04T20:11:45+08:00"
-    },
-    {
-      "title": "商务部国际贸易谈判代表兼副部长李成钢出席巴黎世贸组织小型部长会议",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-04/doc-iniahaip2452269.shtml",
+      "title": "Pinterest通过一笔40亿美元的云服务协议深化与亚马逊的合作",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahhrh3423409.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-04T20:11:01+08:00"
+      "pubDate": "2026-06-04T22:45:36+08:00"
     },
     {
-      "title": "上调至120%！建行、农行公告：上调黄金、白银延期合约保证金",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-04/doc-iniahaik3507537.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-04T20:08:34+08:00"
-    },
-    {
-      "title": "税务律师称，特朗普的“大而美法案”隐藏着针对高收入者的“双重征税”陷阱",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahain0283090.shtml",
+      "title": "里士满联储行长：未观察到劳动力市场再度出现用工紧张",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahhrn9139659.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-04T20:08:10+08:00"
+      "pubDate": "2026-06-04T22:45:00+08:00"
     },
     {
-      "title": "商务部回应美所谓封堵芯片“监管漏洞”等热点问题",
-      "url": "https://finance.sina.com.cn/china/2026-06-04/doc-iniahain0285958.shtml",
+      "title": "Intuit面临证券欺诈调查：财报后股价暴跌20% 低端市场份额流失",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahhrm2363278.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-04T20:06:17+08:00"
-    },
-    {
-      "title": "Al Jadeed电视台：以色列军队撤出黎巴嫩南部城镇",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahaiq9226823.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-04T20:06:10+08:00"
-    },
-    {
-      "title": "CEO致歉难阻股价续跌，粉笔上市三年来市值蒸发超九成",
-      "url": "https://finance.sina.com.cn/roll/2026-06-04/doc-iniahaiq9227391.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-04T20:05:06+08:00"
-    },
-    {
-      "title": "金融圈突发！魏维被查，涉嫌严重违纪违法",
-      "url": "https://finance.sina.com.cn/wm/2026-06-04/doc-iniahain0283178.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-04T20:04:25+08:00"
-    },
-    {
-      "title": "沃什首秀看点：点阵图淡出、弱化前瞻指引、加息信号渐显？",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahaip2449678.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-04T20:02:19+08:00"
-    },
-    {
-      "title": "宁德时代欲另寻“新欢”，旧爱湖南裕能成“提款机”？",
-      "url": "https://finance.sina.com.cn/stock/s/2026-06-04/doc-iniahaip2457025.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-04T19:59:32+08:00"
-    },
-    {
-      "title": "台积电CEO：芯片需求不见尽头",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahain0279483.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-04T19:54:45+08:00"
-    },
-    {
-      "title": "SpaceX上市热潮引燃资金，交易者扎堆布局这只中盘股",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahaip2447560.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-04T19:54:01+08:00"
-    },
-    {
-      "title": "S4 Capital：公司需采取更多措施推动营收增长",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahain0278961.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-04T19:53:17+08:00"
-    },
-    {
-      "title": "原本对标X的社交平台Bluesky热度遇冷，如今效仿Reddit寻求转型",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahaip2446630.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-04T19:51:16+08:00"
-    },
-    {
-      "title": "阿克曼旗下基金抛售15亿美元股份后环球音乐股价下跌",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahaiq9222385.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-04T19:50:33+08:00"
-    },
-    {
-      "title": "韩元跌至2009年以来最低水平 尽管韩国政府承诺采取行动",
-      "url": "https://finance.sina.com.cn/world/2026-06-04/doc-iniahaik3500454.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-04T19:50:02+08:00"
-    },
-    {
-      "title": "伊朗称与美国的谈判未取得进展 黎巴嫩境内战斗持续",
-      "url": "https://finance.sina.com.cn/world/2026-06-04/doc-iniahain0277325.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-04T19:49:05+08:00"
-    },
-    {
-      "title": "欧洲矿业股表现不佳 受铁矿石和基本金属价格下跌影响",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahain0277021.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-04T19:48:20+08:00"
-    },
-    {
-      "title": "美光、迈威尔、博通领跌芯片股盘前行情",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-04/doc-iniahaik3499336.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-04T19:46:57+08:00"
+      "pubDate": "2026-06-04T22:43:54+08:00"
     },
     {
       "title": "罗曼股份业务重构进行时，2.93亿定增持续加码算力业务",
@@ -402,11 +346,18 @@
       "pubDate": "2026-06-04T19:20:31+08:00"
     },
     {
-      "title": "光大期货0604热点追踪：焦煤涨超3%领涨，供给偏紧与需求释放形成共振",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-06-04/doc-iniafvzs9339743.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-04T19:13:41+08:00"
+      "title": "Alibaba's Amap Brings Its Street-Level Business Rankings to Singapore",
+      "url": "https://www.tmtpost.com/8015051.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-04T16:58:12+08:00"
+    },
+    {
+      "title": "当旗舰价格被打穿，小鹏GX如何守住技术叙事？",
+      "url": "https://www.tmtpost.com/8006463.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-04T16:57:06+08:00"
     },
     {
       "title": "00后创业者站上C位，「go big or go home」｜36氪离线聚会第二期",
@@ -477,6 +428,34 @@
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-06-03 13:28:20  +0800"
+    },
+    {
+      "title": "沪电股份回应海外订单传闻：若有大额订单会及时披露，目前没有需披露信息",
+      "url": "https://36kr.com/newsflashes/3838866659838216?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-04 20:57:06  +0800"
+    },
+    {
+      "title": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
+      "url": "https://36kr.com/newsflashes/3838863373469956?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-04 20:53:45  +0800"
+    },
+    {
+      "title": "美股大型科技股盘前涨跌不一，Arm跌超5%",
+      "url": "https://36kr.com/newsflashes/3838861557106944?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-04 20:51:54  +0800"
+    },
+    {
+      "title": "商务部：健全服务体系，为出海企业提供法治保障",
+      "url": "https://36kr.com/newsflashes/3838854587402502?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-04 20:44:49  +0800"
     },
     {
       "title": "五洋自控：拟6.81亿元收购柯斯宇51%股权",
@@ -589,34 +568,6 @@
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-06-04 19:09:27  +0800"
-    },
-    {
-      "title": "SpaceX公司预计其可量化的市场潜力约为28.5万亿美元",
-      "url": "https://36kr.com/newsflashes/3838746709035527?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-04 18:55:05  +0800"
-    },
-    {
-      "title": "美诺华：拟定增募资不超21.09亿元，用于高活性制剂及难溶性药物高端研发等项目",
-      "url": "https://36kr.com/newsflashes/3838742183217417?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-04 18:50:28  +0800"
-    },
-    {
-      "title": "上期所：对部分客户采取限制开仓监管措施",
-      "url": "https://36kr.com/newsflashes/3838740850952457?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-04 18:49:07  +0800"
-    },
-    {
-      "title": "华大智造：控股股东提议公司以2.5亿元—5亿元回购股份",
-      "url": "https://36kr.com/newsflashes/3838735875868934?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-04 18:44:03  +0800"
     }
   ]
 }

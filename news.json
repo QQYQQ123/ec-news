@@ -1,7 +1,98 @@
 {
-  "updatedAt": "2026-06-06T05:23:30+08:00",
-  "total": 74,
+  "updatedAt": "2026-06-06T07:05:52+08:00",
+  "total": 75,
   "news": [
+    {
+      "title": "6月6日隔夜要闻：美股收跌纳指重挫1100点 油价走低 基本金属普跌 现货黄金抹去今年涨幅",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtw2287993.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-06T06:56:59+08:00"
+    },
+    {
+      "title": "泡沫破裂？美股芯片板块蒸发1.3万亿美元，费城半导体指数创六年最大跌幅",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtz1107723.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-06T06:37:53+08:00"
+    },
+    {
+      "title": "一杯奶茶钱真不是小钱，消费前先学会避坑",
+      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-06-06/doc-iniaiyys8468100.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T06:30:00+08:00"
+    },
+    {
+      "title": "特朗普暗示美国政府有意入股顶尖人工智能公司",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtz1103532.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-06T06:18:53+08:00"
+    },
+    {
+      "title": "特朗普：伊朗仍剩下21%至22%的导弹",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtx9050850.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-06T06:08:59+08:00"
+    },
+    {
+      "title": "6月6日外盘头条：美伊和平谈判仍陷僵局 非农报告提振加息预期 美股遭遇抛售 谷歌与SpaceX达成百亿算力协议",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhua7875052.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-06T05:59:22+08:00"
+    },
+    {
+      "title": "美国能源部长：美国正洽谈在加州设立石油储备相关事宜",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtx9046046.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-06T05:52:53+08:00"
+    },
+    {
+      "title": "SpaceX IPO在正式启动推介后不久据悉已获超额认购",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtx9043666.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-06T05:44:23+08:00"
+    },
+    {
+      "title": "美满电子和伟创力将于本月晚些时候被纳入标普500指数",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhua7871628.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-06T05:42:43+08:00"
+    },
+    {
+      "title": "纽约汇市：美元指数创12周来最大涨幅 非农报告提振加息预期",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtx9043086.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-06T05:42:24+08:00"
+    },
+    {
+      "title": "SpaceX与谷歌签署300亿美元算力服务协议：每月支付9.2亿美元，租用11万颗英伟达GPU",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtw2265623.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-06T05:41:40+08:00"
+    },
+    {
+      "title": "大宗商品综述：油价走低 基本金属普跌 现货黄金抹去今年涨幅",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtw2262364.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-06T05:31:22+08:00"
+    },
+    {
+      "title": "美国股市：纳斯达克100指数创逾一年最大跌幅 交易员撤离科技股",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamy2391011.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-06T05:25:35+08:00"
+    },
     {
       "title": "伊朗战争逼近百日 美伊和平谈判仍陷僵局",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamy2389803.shtml",
@@ -127,90 +218,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-06-06T03:46:57+08:00"
-    },
-    {
-      "title": "法国巴黎银行：甲骨文可能进一步上调资本支出指引",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamy2370477.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T03:44:12+08:00"
-    },
-    {
-      "title": "Medicare Advantage板块全面走强，联合健康领涨同业",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamy2370341.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T03:43:23+08:00"
-    },
-    {
-      "title": "通胀与关税压力下，Quanex预计第三季度营收持平至增长1%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamy2370057.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T03:41:56+08:00"
-    },
-    {
-      "title": "美国4月消费者信贷环比增加207.33亿美元 预估增加176.70亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamz9146933.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T03:40:21+08:00"
-    },
-    {
-      "title": "ASML将结束六连涨，芯片板块集体回调拖累股价",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamanc1206206.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T03:38:54+08:00"
-    },
-    {
-      "title": "强劲非农报告巩固加息预期 美联储主席沃什的政策首秀面临考验",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamanc1205712.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T03:34:56+08:00"
-    },
-    {
-      "title": "VICI股价尝试反弹但全年承压，分析师看好高股息防御价值",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamz9145935.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T03:34:07+08:00"
-    },
-    {
-      "title": "现货黄金抹去今年涨幅 非农就业数据提振美联储加息预期",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamy2368602.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T03:33:36+08:00"
-    },
-    {
-      "title": "博茨瓦纳牵手阿联酋阿曼，寻求收购戴比尔斯战略股权",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamy2368249.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T03:31:49+08:00"
-    },
-    {
-      "title": "Quantinuum上市次日，量子计算板块集体重挫",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamane7981131.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T03:30:30+08:00"
-    },
-    {
-      "title": "赢华尔街专家 另类数据提供商对非农报告的预测更准确",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamz9145032.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T03:28:55+08:00"
-    },
-    {
-      "title": "Meta股价下跌，因有报道称公司或融资数百亿美元以推动AI业务",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamz9144630.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T03:26:06+08:00"
     },
     {
       "title": "从纳尔股份到日联科技：菲莱测试并购案背后的估值 V 型反转 | 并购一线",

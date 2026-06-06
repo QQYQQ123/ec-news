@@ -1,48 +1,237 @@
 {
-  "updatedAt": "2026-06-06T14:50:31+08:00",
-  "total": 94,
+  "updatedAt": "2026-06-06T16:32:47+08:00",
+  "total": 102,
   "news": [
     {
-      "title": "吴清最新讲话！回应程序化交易热点问题：坚决打击操纵市场、扰乱市场秩序等违法违规行为",
-      "url": "https://finance.sina.com.cn/stock/2026-06-06/doc-iniancxs7499935.shtml",
-      "source": "新浪综合6",
+      "title": "去冰不补是正常操作？瑞幸被指偷工减料，实测去冰仅剩半杯，近半网友怒斥欺诈",
+      "url": "https://finance.sina.com.cn/china/gncj/2026-06-06/doc-iniancxn1944136.shtml",
+      "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-06T14:43:22+08:00"
+      "pubDate": "2026-06-06T16:13:19+08:00"
     },
     {
-      "title": "吴清：基金行业服务投资者超过8.6亿人渗透率达60%，公募近五年累计分红2.5万亿元",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-06/doc-iniancxn1918187.shtml",
+      "title": "吴清：私募股权创投基金要坚持长期主义、专业主义，增强在创新“无人区”陪跑的本领",
+      "url": "https://finance.sina.com.cn/stock/2026-06-06/doc-iniancxn1943932.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-06-06T14:42:26+08:00"
+      "pubDate": "2026-06-06T16:05:09+08:00"
     },
     {
-      "title": "吴清：过去5年基金行业股票投资规模增41%达13.4万亿，持有A股流通市值占比13.7%",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-06/doc-iniancxs7499494.shtml",
+      "title": "刘伟当选基金业协会监事长",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-06/doc-iniancxn1938863.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-06-06T14:40:45+08:00"
+      "pubDate": "2026-06-06T15:51:36+08:00"
     },
     {
-      "title": "吴清：私募基金加速优胜劣汰，2万家低效机构出清，十余家千亿级、400余家百亿级优质机构崛起",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-06/doc-iniancxp8693926.shtml",
-      "source": "新浪综合6",
+      "title": "谷歌敲定云计算大单：每月向SpaceX支付近10亿美元",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniancxs7518061.shtml",
+      "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-06T14:37:42+08:00"
+      "pubDate": "2026-06-06T15:50:06+08:00"
     },
     {
-      "title": "吴清：基金行业资产管理规模超过85万亿元，稳居全球第二",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-06/doc-iniancxs7497901.shtml",
+      "title": "刘晓艳：深知责任重大，认真履职，努力发挥行业代表作用",
+      "url": "https://finance.sina.com.cn/money/fund/original/2026-06-06/doc-iniancxr0740906.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-06-06T14:37:29+08:00"
+      "pubDate": "2026-06-06T15:46:09+08:00"
     },
     {
-      "title": "SpaceX领衔超级IPO，三大巨头募资2000亿美元！统计显示：IPO热潮是“美股牛市的尾声”",
-      "url": "https://finance.sina.com.cn/roll/2026-06-06/doc-iniamxrr8817031.shtml",
+      "title": "易方达刘晓艳当选基金业协会兼职会长",
+      "url": "https://finance.sina.com.cn/money/fund/jjrw/2026-06-06/doc-iniancxr0740238.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-06-06T14:15:27+08:00"
+      "pubDate": "2026-06-06T15:44:10+08:00"
+    },
+    {
+      "title": "拟取消“逾期贷款罚息30%~50%”条款，央行就存贷款利率新规征求意见，解读来了",
+      "url": "https://finance.sina.com.cn/roll/2026-06-06/doc-iniancxs7515873.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:42:14+08:00"
+    },
+    {
+      "title": "刘晓艳当选中国证券投资基金业协会兼职会长",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-06/doc-iniancxs7515798.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:41:02+08:00"
+    },
+    {
+      "title": "吴清：加快推进投资者回报导向的买方投顾转型，不断提升投资者满意度、获得感",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-06/doc-iniancxp8711846.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:37:58+08:00"
+    },
+    {
+      "title": "需求支撑有限，生猪周均价环比下滑",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-06-06/doc-iniancxp8710912.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:36:45+08:00"
+    },
+    {
+      "title": "中国证券投资基金业协会第四届会员代表大会在京召开",
+      "url": "https://finance.sina.com.cn/money/fund/2026-06-06/doc-iniancxn1934201.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:35:49+08:00"
+    },
+    {
+      "title": "5日国际金价和银价显著下跌 全周均累计大幅下跌",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-06/doc-iniancxr0740031.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:35:08+08:00"
+    },
+    {
+      "title": "吴清：中小机构不要拼规模要拼特色，走出特色化、精品化路线",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-06/doc-iniancxs7513903.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:33:37+08:00"
+    },
+    {
+      "title": "吴清最新发声！对基金行业提出四点要求",
+      "url": "https://finance.sina.com.cn/stock/2026-06-06/doc-iniancxn1933611.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:32:00+08:00"
+    },
+    {
+      "title": "吴清：迄今公私募行业资产管理规模超过85万亿元 稳居全球第二",
+      "url": "https://finance.sina.com.cn/money/fund/jjzl/2026-06-06/doc-iniancxr0734169.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:25:20+08:00"
+    },
+    {
+      "title": "吴清：坚决遏制概念炒作、复杂嵌套、过度投机、通道空转等伪创新、乱创新",
+      "url": "https://finance.sina.com.cn/stock/2026-06-06/doc-iniancxn1928922.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:21:00+08:00"
+    },
+    {
+      "title": "吴清：权益投资是基金行业关键优势，大力加强投研专业能力建设，强化权益投资影响力和竞争力",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-06/doc-iniancxr0734006.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:20:17+08:00"
+    },
+    {
+      "title": "吴清：当前公募基金改革迎来“棋至中盘”的关键节点",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-06/doc-iniancxn1927850.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:19:16+08:00"
+    },
+    {
+      "title": "吴清：加强供需适配，重视含权低波等稳健类产品创设，推出更多适配中长期资金的投资产品",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-06/doc-iniancxs7508580.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:17:01+08:00"
+    },
+    {
+      "title": "吴清：坚决遏制赌押赛道、风格漂移、高位发行等顽疾，更不能回到“冲规模、赚快钱”老路",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-06/doc-iniancxn1926993.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:15:06+08:00"
+    },
+    {
+      "title": "吴清：公募基金已成为投资者共享中国经济发展红利的重要渠道",
+      "url": "https://finance.sina.com.cn/stock/2026-06-06/doc-iniancxs7507755.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:12:22+08:00"
+    },
+    {
+      "title": "吴清：私募行业机构风险出清面临转型阵痛，要切实防止劣币驱逐良币",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-06/doc-iniancxp8703401.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:10:02+08:00"
+    },
+    {
+      "title": "印尼官员再次承诺将稳定印尼盾汇率并吸引资金流入",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniancxn1924121.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:06:10+08:00"
+    },
+    {
+      "title": "吴清：权益类基金规模占比不足30%，远低于成熟市场60%的平均水平",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-06/doc-iniancxp8701993.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:04:27+08:00"
+    },
+    {
+      "title": "吴清：基金行业面临3方面重要战略机遇",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-06/doc-iniancxr0728969.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:04:08+08:00"
+    },
+    {
+      "title": "吴清直面程序化交易问题：加强针对性监管 坚决打击操纵市场、扰乱市场秩序等违法违规行为",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-06/doc-iniancxs7504944.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T15:01:50+08:00"
+    },
+    {
+      "title": "A股大消费已经跌出幻觉，食品饮料龙头们需要一场叙事重启",
+      "url": "https://www.tmtpost.com/8017594.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-06T14:56:39+08:00"
+    },
+    {
+      "title": "吴清：努力为投资者创造中长期收益 不能回到“冲规模、赚快钱”的老路上去",
+      "url": "https://finance.sina.com.cn/stock/2026-06-06/doc-iniancxs7503619.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T14:55:09+08:00"
+    },
+    {
+      "title": "吴清：完善程序化交易监管机制，防范滥用技术优势，坚决打击操纵市场、扰乱市场秩序行为",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-06/doc-iniancxp8699163.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T14:53:59+08:00"
+    },
+    {
+      "title": "吴清直面程序化交易问题：充分考虑个人投资者占大多数的国情市情 出台了一系列程序化交易监管规则制度",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-06/doc-iniancxp8699719.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T14:52:57+08:00"
+    },
+    {
+      "title": "吴清：基金行业面临大而不强、大而不优、专业优势不够突出、产品同质化、竞争内卷化等问题",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-06/doc-iniancxn1921015.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-06T14:52:14+08:00"
+    },
+    {
+      "title": "两大AI股入选标普500指数！黄仁勋点名的明日之星就在其中",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-06/doc-iniamxru7625394.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-06T14:25:00+08:00"
+    },
+    {
+      "title": "住房公积金条例拟修订，来看四大新变化",
+      "url": "https://finance.sina.com.cn/roll/2026-06-06/doc-iniamxrt0839969.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-06T13:47:00+08:00"
     },
     {
       "title": "赔偿32万，奈雪的茶流量焦虑撞上泡泡玛特IP壁垒",
@@ -59,18 +248,18 @@
       "pubDate": "2026-06-06T13:39:16+08:00"
     },
     {
-      "title": "宗馥莉名下多家“娃哈哈”公司，密集更名",
-      "url": "https://finance.sina.com.cn/roll/2026-06-06/doc-iniamxrr8802977.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-06T13:02:00+08:00"
+      "title": "6只可能在世界杯期间受益的股票",
+      "url": "https://www.tmtpost.com/8017636.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-06T13:00:34+08:00"
     },
     {
-      "title": "000488，被警示！氢能重磅大会召开在即，低PE+高股息的概念股是这几只",
-      "url": "https://finance.sina.com.cn/wm/2026-06-06/doc-iniamxrt0827067.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-06T12:54:00+08:00"
+      "title": "微软股价走势脆弱，疲软态势或将带动软件股集体走弱",
+      "url": "https://www.tmtpost.com/8017629.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-06T12:53:54+08:00"
     },
     {
       "title": "本周外糖行情分析：供应宽松与厄尔尼诺的多空博弈",
@@ -78,13 +267,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-06-06T12:47:58+08:00"
-    },
-    {
-      "title": "晕了晕了！创业板指新高，沪指却连跌四周，超300亿元资金借ETF离场，火爆的半导体、人工智能被疯狂甩卖",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-06/doc-iniamtiv0946656.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-06T12:04:00+08:00"
     },
     {
       "title": "韩国的工业与日本相比，差别和差距在哪里？",
@@ -141,20 +323,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-06-06T11:21:56+08:00"
-    },
-    {
-      "title": "金饰克价年内大跌400元",
-      "url": "https://finance.sina.com.cn/wm/2026-06-06/doc-iniamtiw7705909.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-06T11:14:00+08:00"
-    },
-    {
-      "title": "中东突发！伊朗导弹，袭击美军基地！",
-      "url": "https://finance.sina.com.cn/wm/2026-06-06/doc-iniamtiw7706768.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-06T11:13:00+08:00"
     },
     {
       "title": "OpenAI会梦到Anthropic吗？",
@@ -220,32 +388,11 @@
       "pubDate": "2026-06-06T10:37:30+08:00"
     },
     {
-      "title": "汤道生对谈姚顺雨：腾讯AI下半场10个关键思考",
-      "url": "https://www.tmtpost.com/8017101.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-06T10:28:44+08:00"
-    },
-    {
-      "title": "光刻版图，马上变天？",
-      "url": "https://www.tmtpost.com/8016989.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-06T10:05:15+08:00"
-    },
-    {
       "title": "搭上光和算力，A股2只地产股股价狂飙100%，去年巨亏超9亿",
       "url": "https://finance.sina.com.cn/wm/2026-06-06/doc-iniamtiv0907885.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-06-06T10:00:00+08:00"
-    },
-    {
-      "title": "鹅厂未必有很多好问题，只有一个最好的问题",
-      "url": "https://www.tmtpost.com/8017329.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-06T09:59:47+08:00"
     },
     {
       "title": "美联储今年还会降息吗？整个华尔街只有1家投行还“坚持”：花旗",
@@ -267,13 +414,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-06-06T09:06:07+08:00"
-    },
-    {
-      "title": "酒价内参6月6日价格发布：青花郎五粮液普五八代领涨 总价止跌回升",
-      "url": "https://finance.sina.com.cn/chanjing/jync/2026-06-06/doc-iniamnzu2198117.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-06T09:05:07+08:00"
     },
     {
       "title": "普京与德国前总理施罗德举行会晤 俄官员透露俄正开展多项非正式接触",
@@ -332,20 +472,6 @@
       "pubDate": "2026-06-06T08:34:22+08:00"
     },
     {
-      "title": "堪比“存储超级周期”！外资集体喊话：MLCC供需紧张！A股产业链产能加速释放（附股）",
-      "url": "https://finance.sina.com.cn/wm/2026-06-06/doc-iniamnzv8964831.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-06T08:33:00+08:00"
-    },
-    {
-      "title": "拒绝纳入！史上最大IPO，突发！",
-      "url": "https://finance.sina.com.cn/wm/2026-06-06/doc-iniamnzx1005872.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-06T08:33:00+08:00"
-    },
-    {
       "title": "特朗普：伊朗保有21%至22%的导弹库存",
       "url": "https://finance.sina.com.cn/world/2026-06-06/doc-iniamnzx1004255.shtml",
       "source": "新浪综合",
@@ -393,62 +519,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-06-06T07:17:00+08:00"
-    },
-    {
-      "title": "美国中央司令部：击落伊朗无人机后打击其沿海雷达设施",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtx9072183.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T07:16:54+08:00"
-    },
-    {
-      "title": "6月6日隔夜要闻：美股收跌纳指重挫1100点 油价走低 基本金属普跌 现货黄金抹去今年涨幅",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtw2287993.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T06:56:59+08:00"
-    },
-    {
-      "title": "泡沫破裂？美股芯片板块蒸发1.3万亿美元，费城半导体指数创六年最大跌幅",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtz1107723.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T06:37:53+08:00"
-    },
-    {
-      "title": "特朗普暗示美国政府有意入股顶尖人工智能公司",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtz1103532.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T06:18:53+08:00"
-    },
-    {
-      "title": "特朗普：伊朗仍剩下21%至22%的导弹",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtx9050850.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T06:08:59+08:00"
-    },
-    {
-      "title": "6月6日外盘头条：美伊和平谈判仍陷僵局 非农报告提振加息预期 美股遭遇抛售 谷歌与SpaceX达成百亿算力协议",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhua7875052.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T05:59:22+08:00"
-    },
-    {
-      "title": "美国能源部长：美国正洽谈在加州设立石油储备相关事宜",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtx9046046.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T05:52:53+08:00"
-    },
-    {
-      "title": "SpaceX IPO在正式启动推介后不久据悉已获超额认购",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtx9043666.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-06T05:44:23+08:00"
     },
     {
       "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
@@ -521,6 +591,62 @@
       "pubDate": "2026-06-05 08:30:00  +0800"
     },
     {
+      "title": "刘伟担任中基协新一届监事长",
+      "url": "https://36kr.com/newsflashes/3841428159301893?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-06 16:22:47  +0800"
+    },
+    {
+      "title": "2026年第二批医保参照药预沟通论证顺利实施",
+      "url": "https://36kr.com/newsflashes/3841423767603465?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-06 16:18:19  +0800"
+    },
+    {
+      "title": "尚太科技：原材料价格存在不同程度增长 公司多角度综合应对",
+      "url": "https://36kr.com/newsflashes/3841419758192900?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-06 16:14:15  +0800"
+    },
+    {
+      "title": "易方达董事长刘晓艳担任中基协新一届理事会兼职会长",
+      "url": "https://36kr.com/newsflashes/3841417483995656?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-06 16:11:56  +0800"
+    },
+    {
+      "title": "富途老虎长桥之后，未被“点名”的华盛证券也将清理内地业务",
+      "url": "https://36kr.com/newsflashes/3841373065791747?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-06 15:26:45  +0800"
+    },
+    {
+      "title": "证监会主席吴清：坚决遏制概念炒作、复杂嵌套、过度投机、通道空转等伪创新、乱创新",
+      "url": "https://36kr.com/newsflashes/3841354006645248?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-06 15:07:22  +0800"
+    },
+    {
+      "title": "证监会主席吴清：提升投资运作稳健性 努力为投资者创造更可持续的中长期收益",
+      "url": "https://36kr.com/newsflashes/3841347938388227?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-06 15:01:11  +0800"
+    },
+    {
+      "title": "证监会主席吴清：持续完善程序化交易监管的机制安排 坚决打击操纵市场、扰乱市场秩序等违法违规行为",
+      "url": "https://36kr.com/newsflashes/3841345628424452?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-06 14:58:50  +0800"
+    },
+    {
       "title": "安科生物：全球首款CD7 CAR-T儿童适应症一期临床启动",
       "url": "https://36kr.com/newsflashes/3841294657964544?f=rss",
       "source": "36氪",
@@ -589,76 +715,6 @@
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-06-06 11:05:30  +0800"
-    },
-    {
-      "title": "误发世界杯“0元票” 国际足联催球迷补票款",
-      "url": "https://36kr.com/newsflashes/3841114245892355?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-06 11:03:28  +0800"
-    },
-    {
-      "title": "境外发行人前5个月发行规模超去年全年 外资积极入场助点心债热度高企",
-      "url": "https://36kr.com/newsflashes/3841111938877958?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-06 11:01:07  +0800"
-    },
-    {
-      "title": "沪士电子、曦华科技递表港交所",
-      "url": "https://36kr.com/newsflashes/3841109918140930?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-06 10:59:04  +0800"
-    },
-    {
-      "title": "华泰证券：5月非农再超预期推升美联储加息必要性",
-      "url": "https://36kr.com/newsflashes/3841105138141443?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-06 10:54:12  +0800"
-    },
-    {
-      "title": "SpaceX IPO已获得2倍认购资金",
-      "url": "https://36kr.com/newsflashes/3841030859081984?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-06 09:38:38  +0800"
-    },
-    {
-      "title": "花旗维持对美联储年内降息3次的预测",
-      "url": "https://36kr.com/newsflashes/3841029124016387?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-06 09:36:52  +0800"
-    },
-    {
-      "title": "SpaceX与谷歌达成每月9.2亿美元的云服务协议",
-      "url": "https://36kr.com/newsflashes/3841028145236227?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-06 09:35:53  +0800"
-    },
-    {
-      "title": "美股三大指数收盘集体下跌，纳指跌超4%",
-      "url": "https://36kr.com/newsflashes/3841026664204546?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-06 09:34:22  +0800"
-    },
-    {
-      "title": "热门中概股美股盘前多数下跌，百度跌超4%",
-      "url": "https://36kr.com/newsflashes/3840284182268417?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-05 20:59:05  +0800"
-    },
-    {
-      "title": "欧盟一季度GDP环比下降0.1%",
-      "url": "https://36kr.com/newsflashes/3840280375773698?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-05 20:55:12  +0800"
     }
   ]
 }

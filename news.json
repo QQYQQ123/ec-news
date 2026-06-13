@@ -1,7 +1,126 @@
 {
-  "updatedAt": "2026-06-13T18:26:17+08:00",
-  "total": 104,
+  "updatedAt": "2026-06-13T21:53:30+08:00",
+  "total": 100,
   "news": [
+    {
+      "title": "仁芯科技金栎：呼吁芯片行业统一标准，一次验证、多家认可",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichnki2606942.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-13T20:06:39+08:00"
+    },
+    {
+      "title": "副总管基金一年亏超25%，申万菱信宣布增聘基金经理",
+      "url": "https://finance.sina.com.cn/money/fund/jjyj/2026-06-13/doc-inichnkq8149187.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-13T19:58:57+08:00"
+    },
+    {
+      "title": "中电科胡文：车规芯片国产化必须从“事后替代”转向“前期共创”",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichnkq8147229.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-13T19:52:25+08:00"
+    },
+    {
+      "title": "阿里AI首席科学家周靖人被曝离职，千问迎来新考验",
+      "url": "https://www.tmtpost.com/8026813.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-13T19:48:11+08:00"
+    },
+    {
+      "title": "关于再融资，上交所最新提示",
+      "url": "https://finance.sina.com.cn/wm/2026-06-13/doc-inichnki2604728.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-13T19:48:00+08:00"
+    },
+    {
+      "title": "比亚迪摊牌了",
+      "url": "https://www.tmtpost.com/8023153.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-13T19:47:31+08:00"
+    },
+    {
+      "title": "MiniMax暴跌65%，AI泡沫破裂了？",
+      "url": "https://www.tmtpost.com/8026420.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-13T19:47:01+08:00"
+    },
+    {
+      "title": "SpaceX食堂员工都财富自由了——但这笔账，比你以为的贵",
+      "url": "https://www.tmtpost.com/8026811.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-13T19:46:52+08:00"
+    },
+    {
+      "title": "黑芝麻智能邓堃：芯片公司必须在车规、功能安全、柔性产能上多做文章",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichnki2600715.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-13T19:46:41+08:00"
+    },
+    {
+      "title": "神经元信息薛百华：未来汽车通讯或将“一条总线干掉所有线缆”",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichnkk9372122.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-13T19:35:01+08:00"
+    },
+    {
+      "title": "年投诉超5000宗！韩泰、锦湖原厂轮胎用了2年多就开裂，涉大众、小米、特斯拉等十余款车型",
+      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-06-13/doc-inichnki2600891.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-13T19:31:56+08:00"
+    },
+    {
+      "title": "阿维塔王辉谈辅助驾驶：各车企应集体加强用户培训机制",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichhar1492136.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-13T19:31:07+08:00"
+    },
+    {
+      "title": "猛士万良渝：价格战正反噬消费者信心，行业平均利润率已降至3.4%",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichhas8268462.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-13T19:28:42+08:00"
+    },
+    {
+      "title": "地平线余凯：主机厂自研是产业规律，供应商要做“偏房丫鬟”等召唤",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichham2713284.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-13T18:58:37+08:00"
+    },
+    {
+      "title": "蓝月亮两年亏超10亿港元，高管涨薪千万至4797万港元，累计分红已超累计净利润",
+      "url": "https://finance.sina.com.cn/stock/s/2026-06-13/doc-inichhar1475874.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-13T18:49:13+08:00"
+    },
+    {
+      "title": "瑞银专家电话会：厄尔尼诺现象已“正式成立”且可能“非常强烈”",
+      "url": "https://finance.sina.com.cn/roll/2026-06-13/doc-inichhas8256568.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-13T18:44:00+08:00"
+    },
+    {
+      "title": "理想汽车刘立国：下一个十年不是配置之争，而是生命之争",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichhan9481153.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-13T18:38:19+08:00"
+    },
     {
       "title": "小鹏汽车余鹏：物联AI从底盘开始",
       "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichhas8242455.shtml",
@@ -80,7 +199,7 @@
       "pubDate": "2026-06-13T15:51:16+08:00"
     },
     {
-      "title": "合资转型进入下半场：为什么广汽丰田能够突围？",
+      "title": "当合资集体承压，谁找到了转型新路径？",
       "url": "https://finance.sina.com.cn/stock/enterprise/2026-06-13/doc-inicfzuq9552311.shtml",
       "source": "新浪综合6",
       "category": "热点",
@@ -136,46 +255,11 @@
       "pubDate": "2026-06-13T14:52:28+08:00"
     },
     {
-      "title": "阿维塔王辉：全球化是中国品牌打破发展瓶颈、走向下一个十年的最佳选择",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfvnv1646690.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T14:51:36+08:00"
-    },
-    {
-      "title": "阿维塔王辉呼吁品牌：坚持原创、不抄近路",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfvns9661718.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T14:51:05+08:00"
-    },
-    {
-      "title": "特朗普AI扮火影忍者，大批日本网友抗议，日方喊话美方：强烈希望同样的事不要再次发生",
-      "url": "https://finance.sina.com.cn/wm/2026-06-13/doc-inicfzup2758358.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T14:50:00+08:00"
-    },
-    {
-      "title": "“机器人伴侣”来了！10天预售3800台，男款身着西装女款可上妆，搭载“养成系”情感大模型，仅限成人购买！",
-      "url": "https://finance.sina.com.cn/stock/hyyj/2026-06-13/doc-inicfvnv1645910.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T14:44:41+08:00"
-    },
-    {
       "title": "AI算力爆发，电子玻纤布正成为算力硬件的供给短板",
       "url": "https://www.tmtpost.com/8026629.html",
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-06-13T14:36:51+08:00"
-    },
-    {
-      "title": "255家机构，“盯”上杰瑞股份",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-13/doc-inicfvns9658558.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T14:36:29+08:00"
     },
     {
       "title": "人类首个万亿富豪诞生：SpaceX的2万亿，到底值不值？",
@@ -190,62 +274,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-06-13T14:36:04+08:00"
-    },
-    {
-      "title": "张凌赫亮相海峡论坛：挡不住的是交流，割不断的是文脉",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-13/doc-inicfvns9654298.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T14:33:32+08:00"
-    },
-    {
-      "title": "京东方A、“易中天”遭猛烈抛售",
-      "url": "https://finance.sina.com.cn/stock/zldx/2026-06-13/doc-inicfvnv1636770.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T14:26:34+08:00"
-    },
-    {
-      "title": "公募基金重要新规来了，划定“80%红线”",
-      "url": "https://finance.sina.com.cn/wm/2026-06-13/doc-inicfvnr2877615.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T14:26:00+08:00"
-    },
-    {
-      "title": "蔚来如何穿越周期？李斌：不赚钱的车型不做了，但底层技术与换电站要坚决投入",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfvnv1634458.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T14:25:10+08:00"
-    },
-    {
-      "title": "蔚来李斌：中国汽车产业进入“决赛圈”最残酷阶段",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfvnv1630096.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T14:13:49+08:00"
-    },
-    {
-      "title": "李斌：蔚来进入新增长周期，“纯电拐点”判断正确",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfvnw8402224.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T14:02:07+08:00"
-    },
-    {
-      "title": "蔚来李斌：预期今年销量有机会增长40%到50%",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfvnw8401955.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T14:01:10+08:00"
-    },
-    {
-      "title": "首次详细披露家底！上海独角兽博睿康冲刺“脑机接口第一股”",
-      "url": "https://finance.sina.com.cn/roll/2026-06-13/doc-inicfvnv1625791.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T13:56:00+08:00"
     },
     {
       "title": "关于哈啰针对我司报警的声明",
@@ -309,41 +337,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-06-13T10:50:00+08:00"
-    },
-    {
-      "title": "隐瞒近9亿资金占用，“山西首富”领680万“罚单”",
-      "url": "https://www.tmtpost.com/8026198.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-13T10:44:00+08:00"
-    },
-    {
-      "title": "志愿填报Agent：腾讯克制，阿里激进",
-      "url": "https://www.tmtpost.com/8026183.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-13T10:30:00+08:00"
-    },
-    {
-      "title": "从 “白日梦” 到 “万贯金”，Space X 真那么 “科幻”？",
-      "url": "https://www.tmtpost.com/8026186.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-13T10:24:00+08:00"
-    },
-    {
-      "title": "灵光走独木桥",
-      "url": "https://www.tmtpost.com/8026182.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-13T10:20:00+08:00"
-    },
-    {
-      "title": "降价冲销量，乐聚智能IPO的一步险棋",
-      "url": "https://www.tmtpost.com/8026178.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-13T10:15:00+08:00"
     },
     {
       "title": "美国称伊方停火协议已 “近在咫尺”",
@@ -500,27 +493,6 @@
       "pubDate": "2026-06-13T04:51:02+08:00"
     },
     {
-      "title": "美国官员：伊朗协议将实现特朗普的目标",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyia9914392.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-13T04:29:07+08:00"
-    },
-    {
-      "title": "报道：特朗普称可能本周末或周一签署与伊朗的协议",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyhz3138163.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-13T04:28:21+08:00"
-    },
-    {
-      "title": "6月13日热门中概股多数上涨 联电涨4.50%，理想汽车涨3.77%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyih8652147.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-13T04:25:05+08:00"
-    },
-    {
       "title": "曼联，要被卖了",
       "url": "https://36kr.com/p/3851350342325504?f=rss",
       "source": "36氪",
@@ -589,6 +561,55 @@
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-06-12 14:26:00  +0800"
+    },
+    {
+      "title": "鲸鸿动能赋能鸿蒙开发者商业增长，2026年应用媒体收益同比增长37%",
+      "url": "https://36kr.com/newsflashes/3851525064217856?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-13 20:37:46  +0800"
+    },
+    {
+      "title": "SpaceX业务呈现“一极盈利、两极亏损”格局",
+      "url": "https://36kr.com/newsflashes/3851534097896712?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-13 20:18:55  +0800"
+    },
+    {
+      "title": "鲸鸿动能系统拆解“主动式营销”框架，助广告主实现确定性增长",
+      "url": "https://36kr.com/newsflashes/3851524397536515?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-13 20:09:59  +0800"
+    },
+    {
+      "title": "吉利控股董事长李书福：集中资源做强吉利汽车上市公司",
+      "url": "https://36kr.com/newsflashes/3851548249412869?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-13 19:57:29  +0800"
+    },
+    {
+      "title": "A股投资者已超2.5亿",
+      "url": "https://36kr.com/newsflashes/3851531714680072?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-13 19:55:32  +0800"
+    },
+    {
+      "title": "雷军：小米汽车高度重视测试工作，目前整个测试团队有800多人",
+      "url": "https://36kr.com/newsflashes/3851530936521728?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-13 19:45:47  +0800"
+    },
+    {
+      "title": "HDC 2026：鲸鸿动能2025年广告主数增长200%，助力开发者与合作伙伴可持续增长",
+      "url": "https://36kr.com/newsflashes/3851524018001154?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-13 19:32:50  +0800"
     },
     {
       "title": "“木头姐”买入逾4亿美元SpaceX股票",
@@ -680,55 +701,6 @@
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-06-13 15:14:55  +0800"
-    },
-    {
-      "title": "上海独角兽冲刺“脑机接口第一股”",
-      "url": "https://36kr.com/newsflashes/3851197687501830?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-13 14:59:47  +0800"
-    },
-    {
-      "title": "南极半岛出现超过正常水平20多摄氏度异常高温",
-      "url": "https://36kr.com/newsflashes/3851188765381635?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-13 14:42:42  +0800"
-    },
-    {
-      "title": "美法院驳回上诉，维持肯尼迪中心移除特朗普名字裁决",
-      "url": "https://36kr.com/newsflashes/3851188166137096?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-13 14:17:07  +0800"
-    },
-    {
-      "title": "印度政府出台汽柴油限购措施",
-      "url": "https://36kr.com/newsflashes/3851102420325382?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-13 14:00:30  +0800"
-    },
-    {
-      "title": "逾200家机构调研两公司，电子元件行业最受青睐",
-      "url": "https://36kr.com/newsflashes/3851101538718722?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-13 13:40:59  +0800"
-    },
-    {
-      "title": "法国调查显示公众对人工智能态度分化明显",
-      "url": "https://36kr.com/newsflashes/3851099090998277?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-13 13:25:27  +0800"
-    },
-    {
-      "title": "迭代快韧性足，A股出口企业估值静待重构",
-      "url": "https://36kr.com/newsflashes/3851094130676997?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-13 13:14:27  +0800"
     }
   ]
 }

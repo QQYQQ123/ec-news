@@ -1,13 +1,90 @@
 {
-  "updatedAt": "2026-06-13T21:53:30+08:00",
-  "total": 100,
+  "updatedAt": "2026-06-13T23:41:49+08:00",
+  "total": 97,
   "news": [
+    {
+      "title": "霍尔木兹海峡再起冲突 美国和伊朗仍接近达成和平协议",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inichssh9317768.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-13T23:40:20+08:00"
+    },
+    {
+      "title": "卡尼：美国欲避免就贸易协定举行国会投票",
+      "url": "https://finance.sina.com.cn/7x24/2026-06-13/doc-inichssm1305197.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-13T23:21:53+08:00"
+    },
+    {
+      "title": "Anthropic在美国发布禁令后关闭Mythos访问",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inichssn8079988.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-13T23:12:12+08:00"
+    },
+    {
+      "title": "中信建投：6G标准化启航 产业逐步进入实测验证阶段",
+      "url": "https://finance.sina.com.cn/stock/hyyj/2026-06-13/doc-inichssf2531084.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-13T22:58:57+08:00"
+    },
+    {
+      "title": "生产线存严重缺陷，山东一药企被取消集采中选资格",
+      "url": "https://finance.sina.com.cn/wm/2026-06-13/doc-inichssh9305293.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-13T22:35:40+08:00"
+    },
+    {
+      "title": "用友、金蝶两大软件巨头30年后再交锋，市值较高点均已蒸发超80%",
+      "url": "https://finance.sina.com.cn/wm/2026-06-13/doc-inichssf2528454.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-13T22:35:00+08:00"
+    },
+    {
+      "title": "SpaceX上市之后，会砸钱干啥？马斯克演讲全文来了",
+      "url": "https://finance.sina.com.cn/wm/2026-06-13/doc-inichssf2523794.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-13T22:32:00+08:00"
+    },
+    {
+      "title": "伊朗：伊斯兰堡备忘录不会在周日签署",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inichssh9289162.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-13T22:02:34+08:00"
+    },
+    {
+      "title": "100万投资者坐上“过山车”？京东方A暴涨后3天急跌近15%",
+      "url": "https://finance.sina.com.cn/roll/2026-06-13/doc-inichnki2631906.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-13T21:12:00+08:00"
+    },
+    {
+      "title": "AI之外还有大机会？日斗投资王文：“绝不站在光里！”",
+      "url": "https://finance.sina.com.cn/wm/2026-06-13/doc-inichnkk9398389.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-13T20:46:00+08:00"
+    },
     {
       "title": "仁芯科技金栎：呼吁芯片行业统一标准，一次验证、多家认可",
       "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichnki2606942.shtml",
       "source": "新浪综合6",
       "category": "热点",
       "pubDate": "2026-06-13T20:06:39+08:00"
+    },
+    {
+      "title": "SpaceX食堂员工都财富自由了——但这笔账，比你以为的贵",
+      "url": "https://finance.sina.com.cn/stock/t/2026-06-13/doc-inichnkk9387861.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-13T20:04:26+08:00"
     },
     {
       "title": "副总管基金一年亏超25%，申万菱信宣布增聘基金经理",
@@ -50,13 +127,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-06-13T19:47:01+08:00"
-    },
-    {
-      "title": "SpaceX食堂员工都财富自由了——但这笔账，比你以为的贵",
-      "url": "https://www.tmtpost.com/8026811.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-13T19:46:52+08:00"
     },
     {
       "title": "黑芝麻智能邓堃：芯片公司必须在车规、功能安全、柔性产能上多做文章",
@@ -143,6 +213,13 @@
       "pubDate": "2026-06-13T17:57:59+08:00"
     },
     {
+      "title": "中国存储十年磨双剑，合肥、武汉双城鼎立",
+      "url": "https://finance.sina.com.cn/stock/hyyj/2026-06-13/doc-inichhar1458911.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-13T17:48:00+08:00"
+    },
+    {
       "title": "智界汽车赵长江：预计2035年中国品牌出海将达1500-2000万辆",
       "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichham2688484.shtml",
       "source": "新浪综合6",
@@ -157,27 +234,6 @@
       "pubDate": "2026-06-13T17:40:02+08:00"
     },
     {
-      "title": "零跑汽车徐军：未来十年汽车行业进入微利常态，打法从“敢、快”转向“精、灵”",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfzuu8350297.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T17:13:35+08:00"
-    },
-    {
-      "title": "SpaceX业务一极盈利两极亏损 累计亏损达413亿美元",
-      "url": "https://finance.sina.com.cn/roll/2026-06-13/doc-inicfzuq9574502.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T16:45:01+08:00"
-    },
-    {
-      "title": "启境汽车刘嘉铭：汽车智能化已经从“有没有”到“优不优”，国内供应链天时地利人和",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfzuq9572298.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T16:42:36+08:00"
-    },
-    {
       "title": "溜溜梅要上市了！突击分红6730万元，创始人夫妇拿走5300万元",
       "url": "https://finance.sina.com.cn/stock/s/2026-06-13/doc-inicfzut1552007.shtml",
       "source": "新浪综合",
@@ -185,46 +241,11 @@
       "pubDate": "2026-06-13T16:24:31+08:00"
     },
     {
-      "title": "李书福：将有序关停并转吉利汽车集团相关冗余主体",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfzuq9555658.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T15:59:23+08:00"
-    },
-    {
       "title": "美国发布境外访问禁令后，Anthropic禁用了其顶级AI模型",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inicfzuu8315543.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-06-13T15:51:16+08:00"
-    },
-    {
-      "title": "当合资集体承压，谁找到了转型新路径？",
-      "url": "https://finance.sina.com.cn/stock/enterprise/2026-06-13/doc-inicfzuq9552311.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T15:50:45+08:00"
-    },
-    {
-      "title": "猛士汽车万良渝谈差异化：在存量博弈时代，都做可能会等于都没做",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfzuu8314392.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T15:48:03+08:00"
-    },
-    {
-      "title": "A股投资者已超2.5亿！分析：市场行情是更重要的影响因素",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-06-13/doc-inicfzuq9551678.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T15:43:08+08:00"
-    },
-    {
-      "title": "配合存储公司财务造假，26家客户突然被起诉",
-      "url": "https://finance.sina.com.cn/wm/2026-06-13/doc-inicfzuq9550870.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T15:39:00+08:00"
     },
     {
       "title": "大疆出招，影石反击：北美专利战全面打响",
@@ -239,20 +260,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-06-13T15:01:03+08:00"
-    },
-    {
-      "title": "刘彦春又有新动向！景顺长城基金经理又有1只产品增聘基金经理",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-13/doc-inicfzup2761278.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T14:59:50+08:00"
-    },
-    {
-      "title": "阿维塔王辉：出海不只是卖车，要留下能力、就业和信任成为“当地的自己人”",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfvns9662311.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-13T14:52:28+08:00"
     },
     {
       "title": "AI算力爆发，电子玻纤布正成为算力硬件的供给短板",
@@ -463,34 +470,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-06-13T05:25:04+08:00"
-    },
-    {
-      "title": "报道：派拉蒙与华纳兄弟探索合并案获美国司法部批准",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyia9924562.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-13T05:06:27+08:00"
-    },
-    {
-      "title": "6月13日美股成交额前20：SpaceX登陆纳斯达克，市值突破2万亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyia9921689.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-13T05:00:07+08:00"
-    },
-    {
-      "title": "纽约汇市：美元周五持稳但本周下跌 市场寄望美伊协议签署在即",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyia9920752.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-13T04:56:10+08:00"
-    },
-    {
-      "title": "美国债市：美债维持跌势 中东和平前景仍不明朗",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyia9919617.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-13T04:51:02+08:00"
     },
     {
       "title": "曼联，要被卖了",

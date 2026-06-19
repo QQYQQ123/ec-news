@@ -1,13 +1,97 @@
 {
-  "updatedAt": "2026-06-20T05:08:04+08:00",
-  "total": 89,
+  "updatedAt": "2026-06-20T06:54:07+08:00",
+  "total": 77,
   "news": [
+    {
+      "title": "全球股市本周强势收官，但整体情绪谨慎",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-iniczanc0919272.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T06:51:48+08:00"
+    },
+    {
+      "title": "特朗普向Axios表示 他不认为Anthropic对美国安全构成威胁",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-iniczane2250768.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T06:42:40+08:00"
+    },
+    {
+      "title": "我们选中的Pinterest股票表现一直不佳，但先别放弃",
+      "url": "https://www.tmtpost.com/8034742.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-20T06:20:05+08:00"
+    },
+    {
+      "title": "6月20日外盘头条：美伊核谈尚未开始即因黎巴嫩问题陷入停滞 伊朗提出“保险费” 交易员提高美联储加息押注",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicywef1033127.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T05:52:47+08:00"
+    },
+    {
+      "title": "油价上涨 美伊核谈遇阻且油轮通行放缓",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicywec4253891.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T05:44:03+08:00"
+    },
+    {
+      "title": "美伊核谈因黎巴嫩问题未能举行 尚未启动便陷入停滞",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicyweh2363993.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T05:41:49+08:00"
+    },
+    {
+      "title": "特朗普：Anthropic曾构成国家安全威胁",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicywef1028618.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T05:34:59+08:00"
+    },
+    {
+      "title": "美伊核谈尚未开始即因黎巴嫩问题陷入停滞",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicyweh2360534.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T05:29:30+08:00"
+    },
+    {
+      "title": "伊朗提出“保险费” 宣示对霍尔木兹海峡的控制权",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicywec4248157.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T05:21:27+08:00"
+    },
+    {
+      "title": "星巴克推进重组 裁减伦敦和中国香港办公室职位",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicywec4247448.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T05:17:19+08:00"
+    },
     {
       "title": "诺贝尔获奖者江珀宣布离开DeepMind加入Anthropic",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicywef1016754.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-06-20T04:42:04+08:00"
+    },
+    {
+      "title": "伊朗副外长：美国必须确保以色列遵守谅解备忘录",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-20/doc-inicyweh2347334.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T04:24:53+08:00"
+    },
+    {
+      "title": "特朗普：美伊须60天内达成长期协议 否则将采取进一步行动",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-20/doc-inicywec4261782.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T03:56:58+08:00"
     },
     {
       "title": "伊朗副外长：美国须约束以色列遵守美伊谅解备忘录",
@@ -38,6 +122,13 @@
       "pubDate": "2026-06-20T02:27:24+08:00"
     },
     {
+      "title": "泽连斯基称乌俄谈判或将重启 允许俄方敲定具体形式",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-20/doc-inicyrwm9232312.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T02:22:54+08:00"
+    },
+    {
       "title": "美国国务院：黎巴嫩和以色列将于6月23-25日在华盛顿会谈",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicyrwk2440984.shtml",
       "source": "新浪综合",
@@ -52,6 +143,13 @@
       "pubDate": "2026-06-20T01:54:20+08:00"
     },
     {
+      "title": "美国务卿与黎总统通话 讨论黎以谈判安排",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-20/doc-inicyweh2349863.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T01:46:35+08:00"
+    },
+    {
       "title": "SpaceX IPO诞生数千位百万富翁 有高管持股市值超10亿美元",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicymqm1229141.shtml",
       "source": "新浪综合",
@@ -64,6 +162,13 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-06-20T01:08:31+08:00"
+    },
+    {
+      "title": "欧洲理事会主席：正建立渠道以直接向俄传递欧盟信息",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-20/doc-inicywei9142697.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T01:05:27+08:00"
     },
     {
       "title": "机构：霍尔木兹海峡重启商业航运以来已有至少20艘油轮通航",
@@ -108,137 +213,11 @@
       "pubDate": "2026-06-19T23:41:12+08:00"
     },
     {
-      "title": "本周已有11艘油轮运载2000万桶原油驶离伊朗港口",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicyfhr9432442.shtml",
+      "title": "伊朗外长：美应对任何违反谅解备忘录条款的行为负责",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-19/doc-inicymqm1208131.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-06-19T23:07:47+08:00"
-    },
-    {
-      "title": "伊朗外交部证实伊美谈判推迟：正讨论未来几天举行",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-19/doc-inicyfhq2639953.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-19T22:04:38+08:00"
-    },
-    {
-      "title": "RYOEX:欧洲油储安排仍留余地",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-06-19/doc-inicxyyt9523918.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-19T21:09:15+08:00"
-    },
-    {
-      "title": "伊朗称美国对以色列在黎巴嫩的行动负有直接责任",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicxyyr1415450.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-19T21:09:07+08:00"
-    },
-    {
-      "title": "RYOE:欧洲油储安排仍留余地",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-06-19/doc-inicxyyp4637940.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-19T21:07:59+08:00"
-    },
-    {
-      "title": "美官员称以色列与黎巴嫩真主党已同意停火，国际油价短线下跌，现货黄金短线拉升",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-06-19/doc-inicxyyr1412847.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-19T20:55:36+08:00"
-    },
-    {
-      "title": "NCE平台:需求预期转向新兴市场",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-06-19/doc-inicxyyt9516751.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-19T20:46:06+08:00"
-    },
-    {
-      "title": "OEXN:油价回落仍看库存变化",
-      "url": "https://finance.sina.com.cn/money/future/qhhz/2026-06-19/doc-inicxyyp4627972.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-19T20:40:16+08:00"
-    },
-    {
-      "title": "Mega安汇:汽油库存降幅引发再平衡关注",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-06-19/doc-inicxyyt9513357.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-19T20:38:14+08:00"
-    },
-    {
-      "title": "ZFX山海证券:制造业回暖压制金价表现",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-06-19/doc-inicxyys2736562.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-19T20:36:36+08:00"
-    },
-    {
-      "title": "Vatee万腾:预测市场应用加快落地",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-06-19/doc-inicxyys2733882.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-19T20:28:10+08:00"
-    },
-    {
-      "title": "CBCX:金银承压关注美元走向",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-06-19/doc-inicxyyt9508752.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-19T20:24:31+08:00"
-    },
-    {
-      "title": "资金狂涌！全球科技升温，公募加速布局韩国赛道",
-      "url": "https://finance.sina.com.cn/wm/2026-06-19/doc-inicxyys2731266.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-19T20:13:00+08:00"
-    },
-    {
-      "title": "伊朗宣示对霍尔木兹海峡管控权 相关规定为未来通行收费奠定基础",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicxyyr1395639.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-19T20:11:41+08:00"
-    },
-    {
-      "title": "外资机构调研活跃，AI半导体等高景气赛道受青睐",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-06-19/doc-inicxyyp4635003.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-19T20:06:00+08:00"
-    },
-    {
-      "title": "黎巴嫩总统：以色列的升级行动破坏停火努力",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicxyyp4611756.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-19T19:49:44+08:00"
-    },
-    {
-      "title": "伊朗称船只需要获得伊方许可才能通过霍尔木兹海峡",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicxyyr1385643.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-19T19:41:29+08:00"
-    },
-    {
-      "title": "伊朗：希望通过霍尔木兹海峡的船只需要通过波斯湾海峡管理局提交申请",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicxyys2710646.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-19T19:17:05+08:00"
-    },
-    {
-      "title": "苏州市委书记范波、市长王维会见刘强东",
-      "url": "https://finance.sina.com.cn/wm/2026-06-19/doc-inicxyyt9483739.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-19T19:06:03+08:00"
+      "pubDate": "2026-06-19T23:14:57+08:00"
     },
     {
       "title": "Manus回购方案浮出水面：中国投资方拟掏20亿美元买回股权，赴港IPO路径渐明",
@@ -253,55 +232,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-06-19T18:14:08+08:00"
-    },
-    {
-      "title": "知情人士：Momenta拟在香港IPO筹资10亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicxusv9594921.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-19T18:13:20+08:00"
-    },
-    {
-      "title": "军费扩张预期升温 欧洲军工股重拾升势",
-      "url": "https://finance.sina.com.cn/world/2026-06-19/doc-inicxusu2817589.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-19T18:09:09+08:00"
-    },
-    {
-      "title": "沃什将美联储的“精简”策略带入了一个复杂且对信息需求旺盛的世界",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicxusv9590916.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-19T18:01:53+08:00"
-    },
-    {
-      "title": "以色列连夜打击黎巴嫩南部80多个真主党目标",
-      "url": "https://finance.sina.com.cn/world/2026-06-19/doc-inicxusr4706036.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-19T18:00:08+08:00"
-    },
-    {
-      "title": "斯塔默誓言不会退缩后 英国10年期国债收益率升至一周高点",
-      "url": "https://finance.sina.com.cn/world/2026-06-19/doc-inicxusu2810363.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-19T17:49:14+08:00"
-    },
-    {
-      "title": "英国央行为私人市场压力测试设定“末日情景”",
-      "url": "https://finance.sina.com.cn/world/2026-06-19/doc-inicxusv9584352.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-19T17:44:22+08:00"
-    },
-    {
-      "title": "投资者大举涌入科技板块 美股单周资金流入创历史新高",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicxusu2804749.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-19T17:36:32+08:00"
     },
     {
       "title": "AI预测不了“佛得角”",
@@ -323,13 +253,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-06-19T17:25:00+08:00"
-    },
-    {
-      "title": "外交官消息：因以色列袭击黎巴嫩，伊朗推迟与美国的谈判",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicxusr4690134.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-19T17:12:29+08:00"
     },
     {
       "title": "AI成绩单背后，藏着一位华人“出题人”",
@@ -407,13 +330,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-06-19T17:04:31+08:00"
-    },
-    {
-      "title": "小红书递表，世界杯是临门一脚吗？",
-      "url": "https://www.tmtpost.com/8033641.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-19T17:04:20+08:00"
     },
     {
       "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
@@ -528,7 +444,7 @@
       "pubDate": "2026-06-19 15:01:03  +0800"
     },
     {
-      "title": "2026端午档首日电影票房破亿，上映数量创近十年同期新高",
+      "title": "2026端午���首日电影票房破亿，上映数量创近十年同期新高",
       "url": "https://36kr.com/newsflashes/3859735763014912?f=rss",
       "source": "36氪",
       "category": "科技",

@@ -1,7 +1,56 @@
 {
-  "updatedAt": "2026-06-20T16:54:52+08:00",
-  "total": 91,
+  "updatedAt": "2026-06-20T18:30:51+08:00",
+  "total": 85,
   "news": [
+    {
+      "title": "中央气象台：全球天气公报（2026年06月20日）",
+      "url": "https://finance.sina.com.cn/money/future/hyxh/2026-06-20/doc-iniczxrv8744206.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T17:31:41+08:00"
+    },
+    {
+      "title": "中央气象台：全国夏收夏种气象服务（2026年06月19日）",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-06-20/doc-iniczxru1945076.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T17:31:36+08:00"
+    },
+    {
+      "title": "中央气象台：渍涝风险气象预报（2026年06月20日）",
+      "url": "https://finance.sina.com.cn/money/future/hyxh/2026-06-20/doc-iniczxrr3862970.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T17:31:31+08:00"
+    },
+    {
+      "title": "婴儿纸尿裤“甲酰胺”风波未平，中国造纸学会力挺企业",
+      "url": "https://finance.sina.com.cn/roll/2026-06-20/doc-iniczxru1965496.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T17:13:00+08:00"
+    },
+    {
+      "title": "以色列再次发动袭击！巴基斯坦突发连环爆炸！伊朗：正在做两手准备！原油怎么走",
+      "url": "https://finance.sina.com.cn/wm/2026-06-20/doc-iniczxrv8736946.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T17:06:00+08:00"
+    },
+    {
+      "title": "18个月，261人！期货公司管理层密集调整，谁在重组期货业的基因？",
+      "url": "https://finance.sina.com.cn/wm/2026-06-20/doc-iniczxru1960776.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T17:06:00+08:00"
+    },
+    {
+      "title": "从手机到电脑，新一轮涨价来了？",
+      "url": "https://finance.sina.com.cn/wm/2026-06-20/doc-iniczxru1954316.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-20T16:47:00+08:00"
+    },
     {
       "title": "接连两位大咖出走，谷歌到底出了什么BUG？",
       "url": "https://www.tmtpost.com/8034890.html",
@@ -213,53 +262,11 @@
       "pubDate": "2026-06-20T10:01:00+08:00"
     },
     {
-      "title": "见证历史！A股市值TOP10，有一半是科技股",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-06-20/doc-iniczhua2193315.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-20T09:59:00+08:00"
-    },
-    {
       "title": "6.20黄金下周还会涨吗？黄金走势周评",
       "url": "https://finance.sina.com.cn/money/nmetal/hjfx/2026-06-20/doc-iniczhua2194861.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-06-20T09:58:00+08:00"
-    },
-    {
-      "title": "5000字长文“控诉”分红方案，徽商银行与大股东中静系矛盾爆发",
-      "url": "https://finance.sina.com.cn/roll/2026-06-20/doc-iniczhuc8964284.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-20T09:46:06+08:00"
-    },
-    {
-      "title": "频揽百亿长单 东阳光的增长曲线和资金考验",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-06-20/doc-iniczhuc8964382.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-20T09:45:38+08:00"
-    },
-    {
-      "title": "芯片股狂欢周！美股基金流入创新高，日经7万点，韩股一年涨两倍",
-      "url": "https://finance.sina.com.cn/roll/2026-06-20/doc-iniczhtx4073888.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-20T09:42:25+08:00"
-    },
-    {
-      "title": "短期看跌！美联储“吓坏”高盛：大幅下调金价预期",
-      "url": "https://finance.sina.com.cn/roll/2026-06-20/doc-iniczhtx4072005.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-20T09:40:16+08:00"
-    },
-    {
-      "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
-      "url": "https://finance.sina.com.cn/money/forex/forexroll/2026-06-20/doc-iniczhua2187776.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-20T09:35:00+08:00"
     },
     {
       "title": "美国、卡塔尔拟向伊朗解冻数十亿美元冻结资金",
@@ -360,60 +367,11 @@
       "pubDate": "2026-06-20T06:42:40+08:00"
     },
     {
-      "title": "我们选中的Pinterest股票表现一直不佳，但先别放弃",
-      "url": "https://www.tmtpost.com/8034742.html",
+      "title": "去年市场规模约1600亿元，汽车改装正处关键转折期",
+      "url": "https://www.tmtpost.com/8034932.html",
       "source": "钛媒体",
       "category": "科技",
-      "pubDate": "2026-06-20T06:20:05+08:00"
-    },
-    {
-      "title": "6月20日外盘头条：美伊核谈尚未开始即因黎巴嫩问题陷入停滞 伊朗提出“保险费” 交易员提高美联储加息押注",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicywef1033127.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-20T05:52:47+08:00"
-    },
-    {
-      "title": "油价上涨 美伊核谈遇阻且油轮通行放缓",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicywec4253891.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-20T05:44:03+08:00"
-    },
-    {
-      "title": "美伊核谈因黎巴嫩问题未能举行 尚未启动便陷入停滞",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicyweh2363993.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-20T05:41:49+08:00"
-    },
-    {
-      "title": "特朗普：Anthropic曾构成国家安全威胁",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicywef1028618.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-20T05:34:59+08:00"
-    },
-    {
-      "title": "美伊核谈尚未开始即因黎巴嫩问题陷入停滞",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicyweh2360534.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-20T05:29:30+08:00"
-    },
-    {
-      "title": "伊朗提出“保险费” 宣示对霍尔木兹海峡的控制权",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicywec4248157.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-20T05:21:27+08:00"
-    },
-    {
-      "title": "星巴克推进重组 裁减伦敦和中国香港办公室职位",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicywec4247448.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-20T05:17:19+08:00"
+      "pubDate": "2026-06-20T05:10:55+08:00"
     },
     {
       "title": "Manus回购方案浮出水面：中国投资方拟掏20亿美元买回股权，赴港IPO路径渐明",
@@ -498,6 +456,27 @@
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-06-18 09:28:16  +0800"
+    },
+    {
+      "title": "特朗普：不再将Anthropic视为国家安全威胁",
+      "url": "https://36kr.com/newsflashes/3861259140764678?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-20 17:49:42  +0800"
+    },
+    {
+      "title": "挪威将禁止小学生使用生成式人工智能",
+      "url": "https://36kr.com/newsflashes/3861257682129921?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-20 17:30:48  +0800"
+    },
+    {
+      "title": "新型量子传感器可探测引力波和暗物质",
+      "url": "https://36kr.com/newsflashes/3861211883607305?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-20 17:05:57  +0800"
     },
     {
       "title": "中国在商用光纤端部构建了一种三维光纤微镊 输出力是传统光镊的十万倍以上",
@@ -617,27 +596,6 @@
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-06-20 11:52:39  +0800"
-    },
-    {
-      "title": "锦兴电厂1号机组一次并网成功",
-      "url": "https://36kr.com/newsflashes/3860902754555141?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-20 11:37:46  +0800"
-    },
-    {
-      "title": "韩媒：韩国股市总市值首次突破8000万亿韩元",
-      "url": "https://36kr.com/newsflashes/3860901354148867?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-20 11:09:14  +0800"
-    },
-    {
-      "title": "金饰克价一夜又跌11元",
-      "url": "https://36kr.com/newsflashes/3860900314584321?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-20 10:50:39  +0800"
     }
   ]
 }

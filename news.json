@@ -1,7 +1,168 @@
 {
-  "updatedAt": "2026-06-23T03:23:32+08:00",
-  "total": 79,
+  "updatedAt": "2026-06-23T06:00:22+08:00",
+  "total": 76,
   "news": [
+    {
+      "title": "Apollo再次对私募信贷基金赎回设限 此前赎回申请比例达17%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieitrc6622357.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T05:59:47+08:00"
+    },
+    {
+      "title": "SpaceX股价连续第三个交易日下跌 市值累计蒸发6000亿美元",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieitqz9844951.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T05:56:29+08:00"
+    },
+    {
+      "title": "百度ADR盘后上涨 花旗对其开启30天的看涨催化观察",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieitqz9841440.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T05:49:25+08:00"
+    },
+    {
+      "title": "纽约汇市：美元走高 斯塔默辞职后英镑小幅上涨",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieitre2128686.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T05:48:50+08:00"
+    },
+    {
+      "title": "6月23日外盘头条：美国放松对伊朗石油制裁 SpaceX重挫16% 连跌三天 芝商所平台“连接中断” 谷歌大跌",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieitqz9825766.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T05:30:51+08:00"
+    },
+    {
+      "title": "特朗普签署量子研究行政令 以推动技术应用并提振网络防御能力",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieitrf8892522.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T05:24:31+08:00"
+    },
+    {
+      "title": "高通接近收购人工智能芯片初创公司Modular",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieitre2114115.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T05:22:33+08:00"
+    },
+    {
+      "title": "美国股市：科技巨头走弱拖累标普500指数 盖过美伊和谈利好",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieitqz9827715.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T05:22:04+08:00"
+    },
+    {
+      "title": "6月23日热门中概股多数下跌 阿里京东跌近2% 腾讯音乐跌超4%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieitre2106696.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T05:08:36+08:00"
+    },
+    {
+      "title": "CFTC：资产管理公司美国国债期货净多头增加 对冲基金净空头增加",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieitqz9815976.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T04:56:03+08:00"
+    },
+    {
+      "title": "特斯拉致命车祸引发美国汽车安全监管机构调查",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieitre2101366.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T04:55:39+08:00"
+    },
+    {
+      "title": "6月23日美股成交额前20：SpaceX重挫16% 连跌3天 市值跌回2万亿美元附近",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieitre2101190.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T04:55:00+08:00"
+    },
+    {
+      "title": "芝商所平台“连接中断” 交易受到扰动",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieipih2227465.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T04:37:26+08:00"
+    },
+    {
+      "title": "大宗商品综述：油价下挫 铜价上涨 金价走高",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieipih2227095.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T04:36:02+08:00"
+    },
+    {
+      "title": "美国国债：美国国债维持跌势 企业债发行安排增多",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieipii9001510.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T04:25:40+08:00"
+    },
+    {
+      "title": "原油：油价下挫 美国放松对伊石油制裁提振供应预期",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieipic9938784.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T04:25:02+08:00"
+    },
+    {
+      "title": "6月23日收盘：美股三大股指涨跌不一 SpaceX暴跌16%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieipii9000709.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T04:22:01+08:00"
+    },
+    {
+      "title": "伊拉克总理将于7月访问土耳其 讨论石油出口问题",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieipih2209604.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T03:32:48+08:00"
+    },
+    {
+      "title": "摩根大通看好英镑 政治不确定性消退",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieipih2209454.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T03:32:28+08:00"
+    },
+    {
+      "title": "谁能加入马斯克的万亿富翁俱乐部？预测市场认为扎克伯格最有希望",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieipih2208842.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T03:31:13+08:00"
+    },
+    {
+      "title": "顶尖人才流失引发AI担忧，Alphabet遭遇一年来最差单日表现",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieipih2208229.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T03:29:36+08:00"
+    },
+    {
+      "title": "人工智能初创公司Reflection与SpaceX签署计算能力合作协议",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieipih2207193.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T03:25:32+08:00"
+    },
+    {
+      "title": "特朗普提名疾控中心主任施瓦茨：若获确认，将辞去现任职务并出售所持股份",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieipii8984042.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T03:23:55+08:00"
+    },
     {
       "title": "美元在美伊会谈后走高，斯塔默辞职后英镑走势震荡",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieipic9921836.shtml",
@@ -31,6 +192,13 @@
       "pubDate": "2026-06-23T03:14:55+08:00"
     },
     {
+      "title": "斯塔默辞职凸显英国政坛深层困局",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-23/doc-inieipic9922908.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-23T03:09:39+08:00"
+    },
+    {
       "title": "消费维权有哪些便捷渠道？这份实用投诉指南请收好",
       "url": "https://finance.sina.com.cn/consume/xiaofei/2026-06-23/doc-iniehscq0222886.shtml",
       "source": "新浪综合6",
@@ -52,200 +220,11 @@
       "pubDate": "2026-06-23T01:26:26+08:00"
     },
     {
-      "title": "英国首相头号热门候选人迪・伯纳姆是谁？，投资者需要了解的另外四件事",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieihzi6788319.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-23T01:01:01+08:00"
-    },
-    {
-      "title": "Lucid跌5.13%，计划裁减美国18%员工，首席运营官离职",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieihzm9067882.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-23T00:54:24+08:00"
-    },
-    {
-      "title": "SpaceX与AI初创公司Reflection达成数十亿美元协议 将向后者提供算力",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieihzh0009544.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-23T00:50:27+08:00"
-    },
-    {
-      "title": "欧洲股市上涨 美伊谈判取得进展 爱马仕股价逆市下跌",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieihzk2289195.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-23T00:49:27+08:00"
-    },
-    {
-      "title": "欧洲债市：英国国债上涨 伯纳姆有望成为英国下任首相",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieihzi6784880.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-23T00:47:32+08:00"
-    },
-    {
-      "title": "摩根士丹利拟打造13亿美元新办公大楼 拓展达拉斯业务",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieihzm9064414.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-23T00:43:51+08:00"
-    },
-    {
-      "title": "“失败的奖赏”：塔吉特董事长康奈尔的投资者支持率跌至历史最低",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieihzi6783379.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-23T00:43:08+08:00"
-    },
-    {
-      "title": "在美上市新兴市场ETF资金回流",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieihzm9055295.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-23T00:21:03+08:00"
-    },
-    {
-      "title": "SpaceX与开源AI初创公司Reflection签署价值63亿美元算力采购协议",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieiatm6904819.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-23T00:15:53+08:00"
-    },
-    {
-      "title": "Meta旗下WhatsApp负责人即将卸任，印度金融科技公司创始人沙阿接任",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-23/doc-inieiatk0126905.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-23T00:10:59+08:00"
-    },
-    {
-      "title": "斯塔默辞职后 债券交易员最关心谁来掌管英国财政大权",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatm6897067.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-22T23:55:32+08:00"
-    },
-    {
-      "title": "美伊继续推进瑞士谈判 万斯称周末磋商进展顺利",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatp9175535.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-22T23:51:18+08:00"
-    },
-    {
-      "title": "SK海力士市值超越三星，登顶韩国市值最高企业",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatn2396263.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-22T23:44:41+08:00"
-    },
-    {
-      "title": "Alphabet创2月以来最大跌幅 因两名AI领军人物相继离职",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatm6891090.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-22T23:35:50+08:00"
-    },
-    {
-      "title": "RBC策略师称美股能够承受美联储进行两次左右的加息",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatk0112234.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-22T23:27:40+08:00"
-    },
-    {
-      "title": "SpaceX将首次发行投资级债券 银行家据悉正进行推介",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatm6887518.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-22T23:25:01+08:00"
-    },
-    {
-      "title": "四家A股公司退市，即将摘牌",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-22/doc-inieiatn2384570.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-22T23:03:33+08:00"
-    },
-    {
-      "title": "斯塔默让位后 安迪·伯纳姆有望成为英国十年来第七位首相",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatn2380803.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-22T22:59:41+08:00"
-    },
-    {
-      "title": "SpaceX宣布发债计划后股价一度下挫10%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatn2379390.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-22T22:54:40+08:00"
-    },
-    {
-      "title": "大V投顾集体“渡劫”：为什么他们会跑输科技牛市？",
-      "url": "https://finance.sina.com.cn/roll/2026-06-22/doc-inieiatm6878487.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-22T22:53:17+08:00"
-    },
-    {
-      "title": "敦豪将采用新型风力货运船舶承运货物",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatp9153083.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-22T22:45:52+08:00"
-    },
-    {
-      "title": "多家外资巨头一致看好A股AI和半导体板块",
-      "url": "https://finance.sina.com.cn/wm/2026-06-22/doc-inieiatm6877417.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-22T22:45:12+08:00"
-    },
-    {
-      "title": "冰箱彩电大沙发之后，理想靠什么赢下一个十年？",
-      "url": "https://finance.sina.com.cn/wm/2026-06-22/doc-inieiatk0101467.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-22T22:45:00+08:00"
-    },
-    {
-      "title": "卡车运费上涨，美国企业重新转向铁路运输",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatk0095286.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-22T22:40:44+08:00"
-    },
-    {
-      "title": "美银、德意志银行预计美联储将于9月加息",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatp9146621.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-22T22:32:35+08:00"
-    },
-    {
       "title": "业绩连降、高位减持、低位定增，翔宇医疗脑机接口故事遇信任拷问",
       "url": "https://www.tmtpost.com/8036662.html",
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-06-22T22:31:46+08:00"
-    },
-    {
-      "title": "盖蒂图片社因与OpenAI达成合作而股价大涨",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatm6867245.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-22T22:31:17+08:00"
-    },
-    {
-      "title": "美国放松对伊朗石油制裁措施 发放60天临时许可",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-22/doc-inieiatm6866446.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-22T22:29:01+08:00"
     },
     {
       "title": "业绩四连降、募投项目进展缓慢，键邦股份拟不超3.2亿跨界设备自动化｜并购一线",
@@ -465,7 +444,7 @@
       "pubDate": "2026-06-22 20:39:15  +0800"
     },
     {
-      "title": "加拿大5���CPI同比升幅加快至3.2%",
+      "title": "加拿大5月CPI同比升幅加快至3.2%",
       "url": "https://36kr.com/newsflashes/3864326375871496?f=rss",
       "source": "36氪",
       "category": "科技",

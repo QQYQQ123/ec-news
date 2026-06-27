@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-06-27T16:34:53+08:00",
-  "total": 103,
+  "updatedAt": "2026-06-27T18:04:39+08:00",
+  "total": 101,
   "news": [
+    {
+      "title": "GPT-5.6：最强的模型，最窄的门",
+      "url": "https://www.tmtpost.com/8043420.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-27T17:41:19+08:00"
+    },
+    {
+      "title": "柳鑫股份冲刺创业板上市：IPO前夜亏损子公司“出表”，创始人转身押注对赌",
+      "url": "https://finance.sina.com.cn/roll/2026-06-27/doc-inievvns4672851.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-27T17:25:52+08:00"
+    },
+    {
+      "title": "【数智周报】DeepSeek：计划将所有部门的规模扩大至少一倍；黄仁勋股东大会放言：本轮AI基建周期长达数十年；字节豆包Seedance 2.5将在7月初正式发布",
+      "url": "https://www.tmtpost.com/8043821.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-06-27T16:44:14+08:00"
+    },
+    {
+      "title": "上市药企，百济神州回应补税4.46亿元",
+      "url": "https://finance.sina.com.cn/stock/s/2026-06-27/doc-inievvnu7136197.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-06-27T16:37:46+08:00"
+    },
+    {
+      "title": "重要突破！周末利好来了！万亿赛道核聚变堆超导磁体，传出重磅消息",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-06-27/doc-inievvnu1424339.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-06-27T16:26:51+08:00"
+    },
     {
       "title": "“十五五”规划 20万亿能源投资，别忘了给“科普”留预算，“AI+能源”理应让科普更简单",
       "url": "https://www.tmtpost.com/8043666.html",
@@ -318,39 +353,11 @@
       "pubDate": "2026-06-27T09:22:50+08:00"
     },
     {
-      "title": "大模型榜单，能不能信？",
-      "url": "https://www.tmtpost.com/8043209.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-27T09:22:46+08:00"
-    },
-    {
-      "title": "为什么巴西可能成为中国游戏厂商的下一个试验场？",
-      "url": "https://www.tmtpost.com/8043397.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-06-27T09:17:05+08:00"
-    },
-    {
       "title": "西安暴增85%，中西部城市外贸爆单了",
       "url": "https://finance.sina.com.cn/wm/2026-06-27/doc-inieveqy4796799.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-06-27T09:00:00+08:00"
-    },
-    {
-      "title": "半年内144只公募基金“消失”，赚翻也难逃一劫？",
-      "url": "https://finance.sina.com.cn/wm/2026-06-27/doc-inievera1580666.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-27T09:00:00+08:00"
-    },
-    {
-      "title": "微软Xbox又涨价了，游戏主机存储和内存成本已暴涨2.5倍",
-      "url": "https://finance.sina.com.cn/roll/2026-06-27/doc-inievera1571695.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-06-27T08:39:00+08:00"
     },
     {
       "title": "SpaceX即将入选纳斯达克100指数 为被动买入潮铺平道路",
@@ -507,20 +514,6 @@
       "pubDate": "2026-06-27T04:51:31+08:00"
     },
     {
-      "title": "美国称对伊朗目标发动打击 以回应此前船只遇袭",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieutyy0251841.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-27T04:51:03+08:00"
-    },
-    {
-      "title": "美国债市：短期美债领涨 油价下跌提供支撑",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieutyy0250437.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-06-27T04:48:23+08:00"
-    },
-    {
       "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
       "url": "https://36kr.com/p/3871109381035011?f=rss",
       "source": "36氪",
@@ -589,6 +582,48 @@
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-06-26 13:38:23  +0800"
+    },
+    {
+      "title": "功率半导体再启阶梯式调价，有厂商表示“AI相关的电源功率订单爆满，根本做不过来”",
+      "url": "https://36kr.com/newsflashes/3871215128237313?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-27 17:23:40  +0800"
+    },
+    {
+      "title": "具身世界模型“我悟”通过合规备案",
+      "url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-27 17:21:55  +0800"
+    },
+    {
+      "title": "兴业银行：上调代理上海黄金交易所个人贵金属买卖业务延期合约保证金比例",
+      "url": "https://36kr.com/newsflashes/3871212925588739?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-27 17:21:25  +0800"
+    },
+    {
+      "title": "因利润腰斩，梅赛德斯-奔驰推迟9万名德国员工奖金并谋求无薪延长工时",
+      "url": "https://36kr.com/newsflashes/3871212322706690?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-27 17:20:48  +0800"
+    },
+    {
+      "title": "电影《给阿嬷的情书》总票房破19亿元",
+      "url": "https://36kr.com/newsflashes/3871210982053121?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-27 17:19:27  +0800"
+    },
+    {
+      "title": "余承东：全新一代问界M9系列大定破42000台",
+      "url": "https://36kr.com/newsflashes/3871208266044420?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-06-27 17:16:41  +0800"
     },
     {
       "title": "超16亿元，烽火通信旗下长江计算中标中国电信高性能服务器集中采购项目",
@@ -661,7 +696,7 @@
       "pubDate": "2026-06-27 15:28:44  +0800"
     },
     {
-      "title": "WPS回应C盘占用问题：将上线磁盘存储管理功能",
+      "title": "WPS回应C盘占用问题：即将更新七月版本上线磁盘存储管理功能",
       "url": "https://36kr.com/newsflashes/3871099029771265?f=rss",
       "source": "36氪",
       "category": "科技",
@@ -673,55 +708,6 @@
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-06-27 12:51:07  +0800"
-    },
-    {
-      "title": "6月份沪牌拍卖结果公布 平均成交价为94368元",
-      "url": "https://36kr.com/newsflashes/3870944021173507?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-27 12:47:53  +0800"
-    },
-    {
-      "title": "SpaceX与电信运营商Charter探讨在美国开展手机服务合作",
-      "url": "https://36kr.com/newsflashes/3870941780988937?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-27 12:45:36  +0800"
-    },
-    {
-      "title": "国家统计局：1—5月份电子行业利润同比增长103.9%",
-      "url": "https://36kr.com/newsflashes/3870821042312192?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-27 10:42:47  +0800"
-    },
-    {
-      "title": "我国核聚变堆超导磁体研发取得重要突破",
-      "url": "https://36kr.com/newsflashes/3870820130018562?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-27 10:41:51  +0800"
-    },
-    {
-      "title": "国家统计局：1—5月采矿业实现利润总额4795.2亿元，同比增长33.5%",
-      "url": "https://36kr.com/newsflashes/3870819336131848?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-27 10:41:02  +0800"
-    },
-    {
-      "title": "国家统计局：1—5月份规模以上工业企业实现营业收入56.55万亿元，同比增长5.5%",
-      "url": "https://36kr.com/newsflashes/3870818873775366?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-27 10:40:34  +0800"
-    },
-    {
-      "title": "国家统计局：1—5月份全国规模以上工业企业利润增长18.8%",
-      "url": "https://36kr.com/newsflashes/3870818137969925?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-06-27 10:39:49  +0800"
     }
   ]
 }

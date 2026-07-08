@@ -1,328 +1,244 @@
 {
-  "updatedAt": "2026-07-08T21:56:56+08:00",
-  "total": 92,
+  "updatedAt": "2026-07-09T00:02:25+08:00",
+  "total": 80,
   "news": [
     {
-      "title": "营收下降、关注类贷款走高！宁夏银行开店卖房的“账本经”",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-07-08/doc-inihceiu8047127.shtml",
+      "title": "油价飙升再度引燃通胀担忧，10年期美债收益率升至4.57%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckru4770778.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T23:50:55+08:00"
+    },
+    {
+      "title": "乌克兰袭击炼油厂后 俄罗斯禁止柴油出口",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckrs7989751.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T23:44:47+08:00"
+    },
+    {
+      "title": "伊朗官媒：如果美国发动袭击 伊朗将封锁霍尔木兹海峡并双倍还击",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckrq8292098.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T23:43:44+08:00"
+    },
+    {
+      "title": "伊朗冲突推高油价，美国二手电动车价格持续走高",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckrs7982491.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T23:34:09+08:00"
+    },
+    {
+      "title": "Waymo加速扩张，在美国新增四座城市上线无人驾驶网约车服务",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckrq8278515.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T23:28:52+08:00"
+    },
+    {
+      "title": "俄罗斯副总理告知普京将下令禁止柴油出口",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckrp1493162.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T23:19:32+08:00"
+    },
+    {
+      "title": "特朗普称赞泽连斯基 表示将允许乌克兰生产爱国者导弹",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckrs7971395.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T23:16:13+08:00"
+    },
+    {
+      "title": "美国财长贝森特：安全可靠的美国石油应享有溢价",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckru4744730.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T23:09:48+08:00"
+    },
+    {
+      "title": "哈佛幸福学专家：美国梦缺失关键一环，少了它“人生会十分黯淡”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckru4742539.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T23:06:31+08:00"
+    },
+    {
+      "title": "Waymo未来几周将在美国四个新城市推出无人驾驶出租车服务",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckrp1482005.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T23:06:27+08:00"
+    },
+    {
+      "title": "中天期货:螺纹阳线反攻 焦煤继续震荡",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-07-08/doc-inihckrp1481472.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T23:05:52+08:00"
+    },
+    {
+      "title": "为特朗普家族带来加密财富的公司洽谈出售核心业务",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckru4738279.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T22:59:25+08:00"
+    },
+    {
+      "title": "中天策略:7月8日市场分析",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-07-08/doc-inihckrp1475275.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T22:58:38+08:00"
+    },
+    {
+      "title": "特朗普称空袭伊朗导致的油价上涨可以接受",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckrs7959281.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T22:56:19+08:00"
+    },
+    {
+      "title": "特朗普承诺授权乌克兰生产“爱国者”导弹 称泽连斯基“做得非常出色”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckru4734425.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T22:52:53+08:00"
+    },
+    {
+      "title": "中金公司预告半年净利润不低于77亿，同比增幅超78%",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-08/doc-inihckrq8246586.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-07-08T21:49:23+08:00"
+      "pubDate": "2026-07-08T22:50:00+08:00"
     },
     {
-      "title": "达美航空推出基础商务舱票价：不含贵宾厅使用权、选座服务",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceiu8045003.shtml",
+      "title": "贝佐斯旗下蓝色起源首轮外部融资估值达1300亿美元",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckrq8234720.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-07-08T21:47:13+08:00"
+      "pubDate": "2026-07-08T22:41:55+08:00"
     },
     {
-      "title": "探迹科技全面接管 真爱美家完成董事会换届",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihceiu8042346.shtml",
+      "title": "特朗普威胁不再与西班牙开展任何贸易往来 西班牙股市下跌",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckrs7949363.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T22:41:24+08:00"
+    },
+    {
+      "title": "Perpetuals将出席全球科技投资者大会",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckrq8233398.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T22:40:33+08:00"
+    },
+    {
+      "title": "SiteOne Landscape Supply将于7月29日发布第二季度财报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckrp1456444.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T22:39:45+08:00"
+    },
+    {
+      "title": "今夜，27家A股公司提示风险",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihckru4730968.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-07-08T21:44:02+08:00"
+      "pubDate": "2026-07-08T22:39:06+08:00"
     },
     {
-      "title": "获特朗普阵营力挺、支撑其家族加密货币财富的公司正洽谈出售核心业务",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceis8303077.shtml",
+      "title": "Clean Harbors将于7月29日发布第二季度财报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckrq8231670.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-07-08T21:41:19+08:00"
+      "pubDate": "2026-07-08T22:38:53+08:00"
     },
     {
-      "title": "拟并购资产 天壕能源明日复牌",
-      "url": "https://finance.sina.com.cn/stock/s/2026-07-08/doc-inihceis8304911.shtml",
+      "title": "苹果与博通的交易提振其“美国制造”目标",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckrs7947324.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-07-08T21:39:17+08:00"
+      "pubDate": "2026-07-08T22:38:24+08:00"
     },
     {
-      "title": "刚刚，张小龙辞职！演讲风波至今，公司股价跌掉34%，早已成“仙股”",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihceiw4818673.shtml",
+      "title": "Cloudflare宣布与OpenAI开展研究试点，以提升AI回答的准确性与时效性",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckrs7947089.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-08T22:38:07+08:00"
+    },
+    {
+      "title": "今夜，多只“强悍股”提示风险",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihckrs7954491.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-07-08T21:38:28+08:00"
+      "pubDate": "2026-07-08T22:37:50+08:00"
     },
     {
-      "title": "腾讯松“手”，转投“老铁儿子”",
-      "url": "https://finance.sina.com.cn/stock/s/2026-07-08/doc-inihceiw4816572.shtml",
+      "title": "A10 Networks将于8月5日发布第二季度财报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckrq8228853.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-07-08T21:37:17+08:00"
+      "pubDate": "2026-07-08T22:36:16+08:00"
     },
     {
-      "title": "巴黎法院裁决进一步打消博洛雷全面收购希望，维旺迪股价大跌",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceiu8036631.shtml",
+      "title": "美联储会议纪要即将公布，分析师们正就沃什是否会缩减会议纪要内容展开讨论",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihckrq8227955.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-07-08T21:36:28+08:00"
+      "pubDate": "2026-07-08T22:35:24+08:00"
     },
     {
-      "title": "达美航空推出不含贵宾休息室使用权、选座权益的基础商务舱票价产品",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceiw4811009.shtml",
+      "title": "VanEck推出四只新ETF，TruSector系列实现GICS全行业覆盖",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceiu8075299.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-07-08T21:32:38+08:00"
+      "pubDate": "2026-07-08T22:34:23+08:00"
     },
     {
-      "title": "交易商Kalshi预测，受最新突发事态影响，霍尔木兹海峡航运要到 2027 年才能恢复正常",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceiw4809852.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T21:30:59+08:00"
-    },
-    {
-      "title": "开盘：美股周三低开 特朗普宣布对伊朗停火结束后油价飙升",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceiu8032069.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T21:30:11+08:00"
-    },
-    {
-      "title": "民生银行获批收购景洪民生村镇银行并设立分支机构",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-07-08/doc-inihceis8288699.shtml",
+      "title": "深夜，中概股大涨！美联储，重磅来袭",
+      "url": "https://finance.sina.com.cn/roll/2026-07-08/doc-inihckrq8229917.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-07-08T21:27:10+08:00"
+      "pubDate": "2026-07-08T22:32:55+08:00"
     },
     {
-      "title": "特朗普称伊朗停火协议“失效” 油价暴涨全球股市下挫",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceir1503687.shtml",
+      "title": "TKO将于8月3日发布第二季度财报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceiu8074354.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-07-08T21:18:47+08:00"
+      "pubDate": "2026-07-08T22:32:49+08:00"
     },
     {
-      "title": "传智谱拟最多折让13%配股筹272亿，成港股年内最大募资",
-      "url": "https://finance.sina.com.cn/stock/s/2026-07-08/doc-inihceiw4816136.shtml",
+      "title": "Incyte将于7月28日发布第二季度财报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceiw4850629.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-07-08T21:16:29+08:00"
+      "pubDate": "2026-07-08T22:31:25+08:00"
     },
     {
-      "title": "京东方A预计上半年净利润超50亿元，接近去年全年净利润总额",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihceiw4803507.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-08T21:15:41+08:00"
-    },
-    {
-      "title": "301117，被证监会立案",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihceiw4802766.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-08T21:15:41+08:00"
-    },
-    {
-      "title": "谅解备忘录才签20天，是什么让美伊再次开战？",
-      "url": "https://finance.sina.com.cn/wm/2026-07-08/doc-inihceir1518217.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-08T21:14:00+08:00"
-    },
-    {
-      "title": "投资失利、频频被罚，中华财险新帅难题不少",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-08/doc-inihceis8272135.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-08T21:10:58+08:00"
-    },
-    {
-      "title": "中国工商银行董事长廖林出席中荷企业家委员会首次会议",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-07-08/doc-inihceiu8026638.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-08T21:10:00+08:00"
-    },
-    {
-      "title": "今年全球并购交易激增，多笔AI巨型交易拉动行情",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceiu8017205.shtml",
+      "title": "特朗普再度威胁打击伊朗关键基础设施",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceiw4850207.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-07-08T21:09:55+08:00"
+      "pubDate": "2026-07-08T22:30:23+08:00"
     },
     {
-      "title": "特朗普称“今夜可能再打伊朗”",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihceis8270450.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-08T21:07:59+08:00"
-    },
-    {
-      "title": "“果链”巨头立讯精密，明日港股上市",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihceir1500336.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-08T21:07:33+08:00"
-    },
-    {
-      "title": "A股上演“科技互搏”！两大板块资金净流入“包场”，什么信号？",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihceis8273767.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-08T21:07:33+08:00"
-    },
-    {
-      "title": "突然！三重利好，密集来袭！海外大模型解禁，马斯克官宣……",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihceir1492570.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-08T21:05:23+08:00"
-    },
-    {
-      "title": "苹果将斥资3000亿美元采购博通美国本土制造芯片",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceir1485283.shtml",
+      "title": "豪华酒店房地产投资信托基金Braemar Hotels & Resorts回应Al Shams不实指控",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceis8353217.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-07-08T21:01:31+08:00"
+      "pubDate": "2026-07-08T22:30:00+08:00"
     },
     {
-      "title": "超级电容器、机器人、算力……今晚，多只连板牛股提示风险",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihceiw4787410.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-08T21:00:22+08:00"
-    },
-    {
-      "title": "IMF下调世界经济增长预期，上调中国增长预期",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihceiu8011129.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-08T21:00:01+08:00"
-    },
-    {
-      "title": "贝哲房屋盘前大涨14.7%，Dream Finders第五次提价收购",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceir1481129.shtml",
+      "title": "亚马逊支持委内瑞拉人道主义救援航班",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceiu8072369.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-07-08T20:57:21+08:00"
-    },
-    {
-      "title": "最高预增1167%！老牌光通信股双主业爆发，超20家A股公司上半年业绩预喜",
-      "url": "https://finance.sina.com.cn/wm/2026-07-08/doc-inihceir1491134.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-08T20:56:00+08:00"
-    },
-    {
-      "title": "特朗普言论重燃中东紧张局势，英国富时指数跌逾1%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceir1479816.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T20:55:59+08:00"
-    },
-    {
-      "title": "Streamex GLDY完成首次独立黄金储备审计",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceir1478616.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T20:54:50+08:00"
-    },
-    {
-      "title": "英伟达触及关键支撑位，估值指标回落之际形成看涨形态",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceiw4781737.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T20:53:23+08:00"
-    },
-    {
-      "title": "蓝色起源即将开启一轮大额融资",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceis8251875.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T20:52:12+08:00"
-    },
-    {
-      "title": "AI安全需求驱动飞塔信息年内股价大涨近一倍",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceir1469481.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T20:45:56+08:00"
-    },
-    {
-      "title": "哺乳期CEO被拒门外，亚马逊为此致歉",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceiu7996047.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T20:42:46+08:00"
-    },
-    {
-      "title": "2026世界杯上演物理AI秀场，人形机器人Atlas亮相赛场",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceiw4770168.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T20:39:00+08:00"
-    },
-    {
-      "title": "派拓网络新一代安全ARR飙升60%，盘前股价小幅回落",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceir1460808.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T20:37:52+08:00"
-    },
-    {
-      "title": "“20cm”两连板！刚刚，百亿A股威尔高提示风险",
-      "url": "https://finance.sina.com.cn/stock/s/2026-07-08/doc-inihceis8238749.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T20:36:41+08:00"
-    },
-    {
-      "title": "OpenAI获美国政府放行，GPT-5.6周四正式上线",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceiw4766500.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T20:35:00+08:00"
-    },
-    {
-      "title": "华尔街如何为SpaceX估值？投行目标价从190美元到300美元不等",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceir1454878.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T20:33:08+08:00"
-    },
-    {
-      "title": "Element79股东特别会高票批准重组安排",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceiu7986569.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T20:31:55+08:00"
-    },
-    {
-      "title": "油价飙升与美联储纪要双重施压，金价承压回落",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceiu7986010.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T20:31:17+08:00"
-    },
-    {
-      "title": "盘前：纳指期货跌1.38% 特朗普称美伊停火结束",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceir1451448.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T20:30:20+08:00"
-    },
-    {
-      "title": "巴黎法院裁定博洛雷未控制维旺迪，股价应声大跌",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceir1450709.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T20:29:44+08:00"
-    },
-    {
-      "title": "特朗普：停火协议已作废 和伊朗交涉“白费功夫”",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceiu7984348.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T20:29:13+08:00"
-    },
-    {
-      "title": "特朗普言论引发美伊冲突担忧，美股国防股集体走高",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihceis8226095.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-08T20:28:59+08:00"
+      "pubDate": "2026-07-08T22:29:00+08:00"
     },
     {
       "title": "金山WPS看似“听劝”，并不是与用户“同频”",
@@ -402,13 +318,6 @@
       "pubDate": "2026-07-08T18:32:01+08:00"
     },
     {
-      "title": "6只收益率比垃圾债更稳健的优先股ETF",
-      "url": "https://www.tmtpost.com/8057311.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-07-08T17:23:06+08:00"
-    },
-    {
       "title": "博通 AVGO：追不上英伟达，反遭 “小弟” 围猎？",
       "url": "https://www.tmtpost.com/8056786.html",
       "source": "钛媒体",
@@ -435,6 +344,13 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-07-08T15:58:03+08:00"
+    },
+    {
+      "title": "人人都在喊的世界模型，正在成为AI最大的“概念筐”",
+      "url": "https://www.tmtpost.com/8056875.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-07-08T15:25:13+08:00"
     },
     {
       "title": "eVTOL 走向商业化，难点不只在“飞起来”",

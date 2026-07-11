@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-07-12T02:57:53+08:00",
-  "total": 79,
+  "updatedAt": "2026-07-12T04:43:22+08:00",
+  "total": 48,
   "news": [
+    {
+      "title": "美官员称美国团队未前往阿曼参加与伊朗的谈判",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-12/doc-inihnssp4774014.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-12T03:52:17+08:00"
+    },
+    {
+      "title": "美国放宽对阿联酋出口管制，大幅深化双方人工智能与防务合作",
+      "url": "https://finance.sina.com.cn/7x24/2026-07-12/doc-inihnnkp8086540.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-12T03:10:29+08:00"
+    },
+    {
+      "title": "消息人士：阿曼提议“双航道”管理霍尔木兹海峡船只通行",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-12/doc-inihnssm7988797.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-12T03:10:17+08:00"
+    },
+    {
+      "title": "伊朗与阿曼两国举行会谈 讨论霍尔木兹海峡航运",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-12/doc-inihnhan6351486.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-12T00:26:32+08:00"
+    },
     {
       "title": "OpenAI押注家庭市场，ChatGPT试图走进千家万户",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihmzut8171759.shtml",
@@ -220,27 +248,6 @@
       "pubDate": "2026-07-11T18:04:38+08:00"
     },
     {
-      "title": "下周超40股限售解禁 7股解禁比例超10%",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihmreu6540503.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-11T18:01:00+08:00"
-    },
-    {
-      "title": "西京研究院赵建：AI已进入“文明级变迁”，投资AI本身就是价值投资",
-      "url": "https://finance.sina.com.cn/money/fund/jjsy/2026-07-11/doc-inihmrez5064233.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-11T17:45:50+08:00"
-    },
-    {
-      "title": "4000亿券商一哥半年狂赚233亿，创历史新高",
-      "url": "https://finance.sina.com.cn/wm/2026-07-11/doc-inihmreu6526591.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-11T17:25:00+08:00"
-    },
-    {
       "title": "蜜雪模式出海失灵了吗？",
       "url": "https://www.tmtpost.com/8061220.html",
       "source": "钛媒体",
@@ -267,20 +274,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-07-11T17:23:42+08:00"
-    },
-    {
-      "title": "广西壮族自治区贵港市委原常委、市人民政府原副市长潘汉胜被开除党籍和公职",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihmreu6518166.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-11T17:13:00+08:00"
-    },
-    {
-      "title": "多家A股公司预计业绩大增 存储、锂矿、有色等头部企业表现亮眼",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihmrez5000566.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-11T17:08:00+08:00"
     },
     {
       "title": "蜜雪冰城出海，第一次踩下刹车",
@@ -344,216 +337,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-07-11T12:02:28+08:00"
-    },
-    {
-      "title": "独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事",
-      "url": "https://36kr.com/p/3891132709206784?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 19:28:29  +0800"
-    },
-    {
-      "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
-      "url": "https://36kr.com/p/3890553690192384?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 09:24:06  +0800"
-    },
-    {
-      "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
-      "url": "https://36kr.com/p/3889516712065799?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 09:00:00  +0800"
-    },
-    {
-      "title": "氪星晚报｜德国大众拟大裁员，最高或裁减12万个岗位；高盛称套利交易当前处境为2000年以来最佳；百亿私募数量达142家，再次刷新历史纪录",
-      "url": "https://36kr.com/p/3889551814916614?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-10 18:23:02  +0800"
-    },
-    {
-      "title": "徕芬产线将向珠海集中，剃须刀、牙刷拉动新增长丨最前线",
-      "url": "https://36kr.com/p/3889524008303363?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-10 15:49:14  +0800"
-    },
-    {
-      "title": "赢官司、融新钱，他想把百万「抗癌针」变平价",
-      "url": "https://36kr.com/p/3888284244720131?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-10 11:26:25  +0800"
-    },
-    {
-      "title": "36 氪 AI 测评小程序上新！看真实体验与深度测评，多个新功能等你来玩~",
-      "url": "https://36kr.com/p/3883780969083137?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-10 11:03:33  +0800"
-    },
-    {
-      "title": "36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍",
-      "url": "https://36kr.com/p/3889141540370949?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-10 09:19:37  +0800"
-    },
-    {
-      "title": "8点1氪丨老乡鸡五年五次冲击上市失败；两款燃油车重回销量榜前十；长鑫科技披露招股意向书，预计7月16日发行",
-      "url": "https://36kr.com/p/3889047503354625?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-10 07:43:55  +0800"
-    },
-    {
-      "title": "万勋科技发布“柔韧充”自动充电通用服务引擎，以“0.000s无极容差应变”首创混沌服务、全类通解！",
-      "url": "https://36kr.com/p/3888567864851204?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-09 23:36:08  +0800"
-    },
-    {
-      "title": "智谱CEO唐杰发内部信：“GLM 时刻”和万亿俱乐部之后，什么是更重要的事",
-      "url": "https://36kr.com/newsflashes/3891162734689031?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 19:35:25  +0800"
-    },
-    {
-      "title": "乘联分会崔东树：6月新能源车厂商库存小幅收缩，行业压库存现象没有出现",
-      "url": "https://36kr.com/newsflashes/3891047631796745?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 17:38:20  +0800"
-    },
-    {
-      "title": "多家A股公司预计业绩大增，存储、锂矿、有色等头部企业表现亮眼",
-      "url": "https://36kr.com/newsflashes/3891019931925001?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 17:22:02  +0800"
-    },
-    {
-      "title": "2025年我国港口货物、集装箱吞吐量稳居世界第一",
-      "url": "https://36kr.com/newsflashes/3891014962362886?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 17:05:06  +0800"
-    },
-    {
-      "title": "研究报告：中国电力技术创新位居全球首位",
-      "url": "https://36kr.com/newsflashes/3890965044869637?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 16:35:13  +0800"
-    },
-    {
-      "title": "腾讯洽购Manus？知情人士：腾讯仍将保留少数股东地位",
-      "url": "https://36kr.com/newsflashes/3890964192852482?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 16:13:27  +0800"
-    },
-    {
-      "title": "中期协： 6月全国期货交易市场成交额同比增长52.72%",
-      "url": "https://36kr.com/newsflashes/3890946575186690?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 15:55:32  +0800"
-    },
-    {
-      "title": "多家航司：受“巴威”影响，可免费变更或退票",
-      "url": "https://36kr.com/newsflashes/3890911471516163?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 15:19:49  +0800"
-    },
-    {
-      "title": "国际能源署：欧盟电气化推进迟缓实属失策",
-      "url": "https://36kr.com/newsflashes/3890877760895491?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 14:45:32  +0800"
-    },
-    {
-      "title": "国内多家金店金饰价格多数持稳，最高报1255元/克",
-      "url": "https://36kr.com/newsflashes/3890848764263170?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 14:25:54  +0800"
-    },
-    {
-      "title": "2026年暑期档票房破25亿",
-      "url": "https://36kr.com/newsflashes/3890833294146057?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 14:00:18  +0800"
-    },
-    {
-      "title": "全球首个潮玩创作者AI设计平台“妙呀”全量公测",
-      "url": "https://36kr.com/newsflashes/3890814999870213?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 13:41:41  +0800"
-    },
-    {
-      "title": "我国海洋生产总值超11万亿元，多项指标全球领先",
-      "url": "https://36kr.com/newsflashes/3890753135196679?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 13:31:36  +0800"
-    },
-    {
-      "title": "稳定币发行商Circle获银行经营牌照",
-      "url": "https://36kr.com/newsflashes/3890740672838404?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 13:10:57  +0800"
-    },
-    {
-      "title": "欧洲央行的Moulin认为人工智能可能加剧通胀波动",
-      "url": "https://36kr.com/newsflashes/3890739624540680?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 12:52:52  +0800"
-    },
-    {
-      "title": "2026年世界知识产权组织全球奖揭晓，中国获奖企业数量居首",
-      "url": "https://36kr.com/newsflashes/3890730611374850?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 12:28:45  +0800"
-    },
-    {
-      "title": "OpenAI：对其他公司的商业秘密不感兴趣，仍专注于打造创新技术",
-      "url": "https://36kr.com/newsflashes/3890734361377539?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 12:19:39  +0800"
-    },
-    {
-      "title": "多家机场航班全取消",
-      "url": "https://36kr.com/newsflashes/3890731841681922?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 12:17:05  +0800"
-    },
-    {
-      "title": "FansAI收购OPC公司新映科技",
-      "url": "https://36kr.com/newsflashes/3890728911354376?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 12:14:07  +0800"
-    },
-    {
-      "title": "法国电信大亨或成英国沃达丰最大股东",
-      "url": "https://36kr.com/newsflashes/3890637644118787?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-11 11:46:12  +0800"
     }
   ]
 }

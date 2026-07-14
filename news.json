@@ -1,7 +1,133 @@
 {
-  "updatedAt": "2026-07-15T01:11:43+08:00",
-  "total": 79,
+  "updatedAt": "2026-07-15T03:14:50+08:00",
+  "total": 80,
   "news": [
+    {
+      "title": "IBM预警Q2业绩不及预期，CEO坦言应对不力",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivs5002464.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-07-15T03:14:35+08:00"
+    },
+    {
+      "title": "KeyBanc下调苹果评级 担忧其增长前景",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivu1157727.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-15T03:10:31+08:00"
+    },
+    {
+      "title": "美银Q2全线业务增长，利润大增27%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivs4999745.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-15T03:08:41+08:00"
+    },
+    {
+      "title": "CleanSpark签下66亿美元数据中心租约，股价大涨",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7928710.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-15T03:03:55+08:00"
+    },
+    {
+      "title": "Strategy募资4.67亿美元，现金储备增至30亿美元但暂停增持比特币",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7926572.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-15T03:01:06+08:00"
+    },
+    {
+      "title": "德意志银行法兰克福分行遭德国当局突击搜查",
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvivs4994639.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-15T02:57:29+08:00"
+    },
+    {
+      "title": "芯片板块波动率飙升至2020年以来最高水平",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7923782.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-15T02:57:06+08:00"
+    },
+    {
+      "title": "瑞穗下调Circle股票评级，称价格压力迫近",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivs4994176.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-15T02:56:15+08:00"
+    },
+    {
+      "title": "苹果股票获得罕见的看跌评级 KeyBanc表示需求和估值令人担心",
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvivs4993618.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-15T02:54:51+08:00"
+    },
+    {
+      "title": "尾盘：通胀数据与芯片股反弹推动标普500指数上涨",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7921576.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-15T02:53:59+08:00"
+    },
+    {
+      "title": "报道：美军正在对伊朗实施空袭",
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvivu1144389.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-15T02:52:34+08:00"
+    },
+    {
+      "title": "芝加哥联储行长：服务业通胀仍过高 但最新CPI数据意外温和",
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvivu1143455.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-15T02:51:10+08:00"
+    },
+    {
+      "title": "电动汽车制造商Lucid聘请重组顾问后股价创纪录暴跌57%",
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvivv7919362.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-15T02:50:24+08:00"
+    },
+    {
+      "title": "沃什称现有基础通胀指标不理想 “超有兴趣”找到新监测工具",
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpw1259013.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-15T02:26:50+08:00"
+    },
+    {
+      "title": "更换隐喻不再谈“飓风” 戴蒙改用“地壳板块”解读风险",
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpu5090908.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-15T01:36:00+08:00"
+    },
+    {
+      "title": "特朗普宣称将与伊拉克达成“庞大”的石油交易",
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcps8309733.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-15T01:25:20+08:00"
+    },
+    {
+      "title": "美联储主席沃什淡化CPI数据影响 重申抗通胀和对央行改革决心",
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpx7989570.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-15T01:24:27+08:00"
+    },
+    {
+      "title": "特朗普：伊朗或被添加到可能通过的对俄制裁法案中",
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcps8306644.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-15T01:17:50+08:00"
+    },
     {
       "title": "摩根大通敦促员工慎用高价AI处理简单任务 企业高管开始忧心成本",
       "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpx7979023.shtml",
@@ -92,125 +218,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-07-15T00:06:39+08:00"
-    },
-    {
-      "title": "花旗由涨转跌 因首席执行官警告称投资支出将增加",
-      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihuxfu8403965.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-15T00:05:24+08:00"
-    },
-    {
-      "title": "巴菲特拟8年内处置全部所持伯克希尔股份 盖茨基金会未获捐赠",
-      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihuxfu8403631.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-15T00:04:42+08:00"
-    },
-    {
-      "title": "ADP发布2026年6月私营部门就业初步估算",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihuxfz8062238.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-15T00:04:16+08:00"
-    },
-    {
-      "title": "MDA Space完成超额认购的公开增发",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihuxfy1285207.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-15T00:03:31+08:00"
-    },
-    {
-      "title": "沃什谈美国最新CPI：“大功告成”并非我的看法",
-      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihuxfu8402504.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-15T00:03:05+08:00"
-    },
-    {
-      "title": "JBT自动化系统正式更名为FORMOVA",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihuxfw5178898.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-15T00:02:30+08:00"
-    },
-    {
-      "title": "Runway Growth Capital宣布CFO任命及领导层调整",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihuxfz8059908.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-15T00:01:59+08:00"
-    },
-    {
-      "title": "Caris Life Sciences推出PTEN IHC检测拓展转移性前列腺癌精准肿瘤学",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfz8058037.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-14T23:59:24+08:00"
-    },
-    {
-      "title": "PTC推出Onshape Labs将AI融入产品开发流程",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfy1280856.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-14T23:58:08+08:00"
-    },
-    {
-      "title": "Esquire Financial Holdings将于7月23日发布第二季度财报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfw5176035.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-14T23:57:09+08:00"
-    },
-    {
-      "title": "HawkEye 360探路者卫星模型入驻史密森尼国家航空航天博物馆新展",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfw5175708.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-14T23:56:20+08:00"
-    },
-    {
-      "title": "Century Lithium董事会主席变更",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfz8054802.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-14T23:55:28+08:00"
-    },
-    {
-      "title": "SK海力士在美国上市的第三个交易日大涨",
-      "url": "https://finance.sina.com.cn/world/2026-07-14/doc-inihuxfw5175248.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-14T23:55:15+08:00"
-    },
-    {
-      "title": "IceCure扩编美国商业团队应对ProSense冷冻消融需求增长",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfy1278281.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-14T23:55:07+08:00"
-    },
-    {
-      "title": "Anixa Biosciences乳腺癌疫苗技术获澳大利亚专利批准",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfu8397020.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-14T23:51:25+08:00"
-    },
-    {
-      "title": "First Bancorp收购First Carolina Bancshares拓展南卡罗来纳业务",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfu8396077.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-14T23:48:33+08:00"
-    },
-    {
-      "title": "加拿大公司量子风险评估方案获保险公司采购",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfz8050460.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-14T23:47:47+08:00"
     },
     {
       "title": "大晟文化：预计2026上半年归母净利润-3,600万元至-2,300万元",

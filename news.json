@@ -1,13 +1,167 @@
 {
-  "updatedAt": "2026-07-18T04:51:13+08:00",
+  "updatedAt": "2026-07-18T06:45:40+08:00",
   "total": 72,
   "news": [
+    {
+      "title": "美国再度打击伊朗 油价单周涨幅创4月份以来最大",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqh7203060.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T06:18:42+08:00"
+    },
+    {
+      "title": "SpaceX股价持续下挫 市值从峰值蒸发1万亿美元",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqn1481392.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T06:16:30+08:00"
+    },
+    {
+      "title": "直击WAIC丨“接发球”全能行！人类与机器人“激烈”对打乒乓球",
+      "url": "https://finance.sina.com.cn/tech/2026-07-18/doc-iniiemqn1480080.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T06:15:22+08:00"
+    },
+    {
+      "title": "美国考虑设立类似金融业监管局的部门 负责审查顶尖人工智能模型",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniiemqn1476162.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T06:11:33+08:00"
+    },
+    {
+      "title": "申通快递发布快递智能体平台“SClaw”",
+      "url": "https://finance.sina.com.cn/tech/2026-07-18/doc-iniiemqk3969172.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T06:05:34+08:00"
+    },
+    {
+      "title": "SpaceX据报洽谈向五角大楼出售算力 金额或达数十亿美元",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqk3967577.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T06:03:25+08:00"
+    },
+    {
+      "title": "大宗商品综述：原油飙升 铜价走低 金价反弹",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqn1467048.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T06:02:50+08:00"
+    },
+    {
+      "title": "7月18日外盘头条：美伊互袭基础设施 英国研判特朗普对伊威胁并非空话 Meta据悉洽谈出租算力给Anthropic",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqp8240550.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T05:59:51+08:00"
+    },
+    {
+      "title": "美国与伊朗攻击基础设施，重陷全面战争风险加剧",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqn1462325.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T05:57:26+08:00"
+    },
+    {
+      "title": "伊朗称击落一架美军MQ-9无人机",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiemqh7189082.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T05:42:58+08:00"
+    },
+    {
+      "title": "特朗普怒批加拿大山火，称美国将把污染成本加入关税",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqk3949830.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T05:38:05+08:00"
+    },
+    {
+      "title": "伊拉克与叙利亚签署协议重建石油管道，为霍尔木兹海峡提供替代方案",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqk3947641.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T05:35:20+08:00"
+    },
+    {
+      "title": "美国股市：标普500指数结束两周连涨 半导体指数跌入熊市",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiefhn4073954.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T05:29:19+08:00"
+    },
+    {
+      "title": "原油：WTI上涨 市场越发担心美伊冲突进一步升级",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiefhk7296510.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T05:28:23+08:00"
+    },
+    {
+      "title": "伊朗谴责美袭击民用基础设施犯下战争罪",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiemqh7173862.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T05:06:52+08:00"
+    },
+    {
+      "title": "特朗普将致电加拿大总理卡尼讨论山火烟雾问题 并威胁加关税",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiefhn4055313.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T05:06:04+08:00"
+    },
+    {
+      "title": "Apollo称高风险私募信贷占比小 仅相当于纸杯蛋糕上的一颗“糖粒”",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiefhr8307923.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T05:05:23+08:00"
+    },
+    {
+      "title": "美国债市：国债涨跌互现 油价上涨推动短债走低",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiefhr8306367.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T05:04:06+08:00"
+    },
+    {
+      "title": "纽约汇市：美元连续三周下跌 日元抹去盘中涨幅",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiefhq1529209.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T05:03:28+08:00"
+    },
+    {
+      "title": "委内瑞拉地震遇难人数超过5000人",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiefhk7276043.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T05:02:42+08:00"
+    },
+    {
+      "title": "伊朗革命卫队称打击美军在巴林的无人艇",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiefhr8318557.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T04:53:57+08:00"
+    },
     {
       "title": "7月18日美股成交额前20：传Meta向Anthropic租赁算力 价值最高可达100亿美元",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniiefhn4044907.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-07-18T04:50:14+08:00"
+    },
+    {
+      "title": "监测机构：加拿大野火烟雾或波及世界杯决赛举办地",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiemqn1443835.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T04:38:18+08:00"
     },
     {
       "title": "7月18日热门中概股普跌 台积电跌2.81%，阿里巴巴跌2.14%",
@@ -24,193 +178,39 @@
       "pubDate": "2026-07-18T04:08:32+08:00"
     },
     {
-      "title": "波音与空客角力，竞逐SMBC百架窄体机大单",
-      "url": "https://finance.sina.com.cn/world/mzjj/2026-07-18/doc-iniiefhq1441039.shtml",
+      "title": "美军周五再次打击伊朗 旨在削弱其军事能力",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiefhr8307176.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-07-18T03:33:04+08:00"
-    },
-    {
-      "title": "特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权",
-      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniicyyn7339942.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T03:15:57+08:00"
-    },
-    {
-      "title": "美伊战争恐在伯纳姆上任首周升级 英国研判特朗普对伊威胁并非空话",
-      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniicyyt8326252.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T03:09:54+08:00"
-    },
-    {
-      "title": "美国：伊拉克-叙利亚输油管道每日将输送200万桶原油",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyq4102175.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T02:54:00+08:00"
-    },
-    {
-      "title": "Truist第二季度净利润大增37%，投行业务收入飙升72%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyq4101621.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T02:53:17+08:00"
-    },
-    {
-      "title": "尾盘：美股继续下滑 标普指数下跌1%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyq4097744.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T02:46:59+08:00"
-    },
-    {
-      "title": "美国联邦航空管理局恢复波音为737 MAX和787签发适航证的权限",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyn7296592.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T02:11:06+08:00"
-    },
-    {
-      "title": "美国银行策略师团队：市场仓位极度看涨 应卖出股票",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyys1480967.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T02:04:12+08:00"
-    },
-    {
-      "title": "苹果正与美国司法部就反垄断案展开初步和解谈判",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyt8255956.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T02:03:09+08:00"
-    },
-    {
-      "title": "原油期货大幅上涨 市场担忧美伊冲突进一步升级",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyt8247660.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T01:54:51+08:00"
+      "pubDate": "2026-07-18T04:00:36+08:00"
     },
     {
       "title": "Meta据悉洽谈出租算力给Anthropic 价值最高可达100亿美元",
       "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniicyyq4113606.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-07-18T01:40:00+08:00"
+      "pubDate": "2026-07-18T04:00:00+08:00"
     },
     {
-      "title": "据报Meta洽谈向Anthropic租赁算力 价值最高可达100亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyys1426421.shtml",
+      "title": "美军称对伊朗发动新一轮打击",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiefhk7240223.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-07-18T01:12:03+08:00"
+      "pubDate": "2026-07-18T03:54:53+08:00"
     },
     {
-      "title": "当选工党领袖后首度演讲 伯纳姆承诺打造支持企业发展的政府",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyn7253385.shtml",
+      "title": "美军称重启对伊朗海上封锁三天内拦截6艘船只",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiefhk7256977.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-07-18T01:10:57+08:00"
+      "pubDate": "2026-07-18T03:53:57+08:00"
     },
     {
-      "title": "Anthropic正与Meta开展初期洽谈，计划租赁后者算力资源",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusq7369033.shtml",
+      "title": "波音与空客角力，竞逐SMBC百架窄体机大单",
+      "url": "https://finance.sina.com.cn/world/mzjj/2026-07-18/doc-iniiefhq1441039.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-07-18T00:49:40+08:00"
-    },
-    {
-      "title": "星舰试飞紧急中止，SpaceX 股价大跌，或将迎来六连阴行情",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusv8306575.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T00:44:38+08:00"
-    },
-    {
-      "title": "欧洲股市下跌 受科技股抛售与中东局势升级拖累",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicuss4141745.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T00:43:37+08:00"
-    },
-    {
-      "title": "周五芯片板块抛售行情进一步加剧",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyn7249443.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T00:30:59+08:00"
-    },
-    {
-      "title": "美国国债期货下跌 据报美国向以色列增派数十架空中加油机",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicuss4132165.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T00:29:26+08:00"
-    },
-    {
-      "title": "欧洲债市：受避险情绪推动 欧洲长期政府债券上涨",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusq7353819.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T00:26:26+08:00"
-    },
-    {
-      "title": "加州亿万富翁税提案：美国第一大州经济将面临何种风险",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusu1500197.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T00:15:12+08:00"
-    },
-    {
-      "title": "苹果、英伟达角逐全球市值最高企业宝座",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusu1494247.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T00:09:19+08:00"
-    },
-    {
-      "title": "午盘：美股维持下跌局面，三大股指本周均有可能录得跌幅",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicuss4116807.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T00:06:51+08:00"
-    },
-    {
-      "title": "阿斯麦拟向员工发放2万欧元一次性奖励 AI需求旺盛推动业绩增长",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicuss4109416.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-17T23:55:42+08:00"
-    },
-    {
-      "title": "可口可乐旗下Fairlife乳业遭勒索软件攻击 生产暂停",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusq7331189.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-17T23:53:32+08:00"
-    },
-    {
-      "title": "SpaceX星舰V3第二次试射点火后紧急中止",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicuss4107330.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-17T23:52:38+08:00"
-    },
-    {
-      "title": "首笔以推理芯片为抵押的融资落地 4亿美元交易揭示AI投资新动向",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusv8253949.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-17T23:52:08+08:00"
-    },
-    {
-      "title": "旧金山市长敦促加强自动驾驶监管 此前Waymo引发交通瘫痪",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusu1474704.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-17T23:48:34+08:00"
+      "pubDate": "2026-07-18T03:33:04+08:00"
     },
     {
       "title": "浙江美大拟易主，夏氏家族套现13亿，成立10天新公司接盘",

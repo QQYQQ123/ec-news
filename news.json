@@ -1,7 +1,119 @@
 {
-  "updatedAt": "2026-07-18T06:45:40+08:00",
-  "total": 72,
+  "updatedAt": "2026-07-18T10:08:39+08:00",
+  "total": 80,
   "news": [
+    {
+      "title": "留给父母提档的时间，真的不多了",
+      "url": "https://www.tmtpost.com/8069373.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-07-18T09:45:25+08:00"
+    },
+    {
+      "title": "2026 WAIC，具身首次走上神坛",
+      "url": "https://www.tmtpost.com/8069915.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-07-18T09:45:23+08:00"
+    },
+    {
+      "title": "硅谷不满出口管制“临时起意”，特朗普政府拟建“AI版FINRA”以平息行业焦虑",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-07-18/doc-iniierwe7222652.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T09:11:00+08:00"
+    },
+    {
+      "title": "本周十大牛熊股出炉",
+      "url": "https://finance.sina.com.cn/wm/2026-07-18/doc-iniierwk1525030.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-07-18T08:40:54+08:00"
+    },
+    {
+      "title": "去杠杆踩踏！费城半导体指数跌入熊市，日本股王一个月腰斩",
+      "url": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniierwm8286473.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-07-18T08:28:33+08:00"
+    },
+    {
+      "title": "DeepSeek完成首轮融资 多家A股公司间接参股",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniierwk1506718.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-07-18T08:28:00+08:00"
+    },
+    {
+      "title": "SpaceX洽谈为五角大楼AI计划提供算力支持",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniierwh3934177.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T08:06:48+08:00"
+    },
+    {
+      "title": "茅台淡季再提价！“随行就市”常态化",
+      "url": "https://finance.sina.com.cn/wm/2026-07-18/doc-iniierwk1467773.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-07-18T07:53:00+08:00"
+    },
+    {
+      "title": "AI创企Etched洽谈融资 投后估值目标200亿美元",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniierwk1461440.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T07:51:39+08:00"
+    },
+    {
+      "title": "昨夜！美股芯片股，集体重挫！存储概念股，尾盘突变！",
+      "url": "https://finance.sina.com.cn/wm/2026-07-18/doc-iniierwm8240634.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-07-18T07:49:43+08:00"
+    },
+    {
+      "title": "efferies纽约办公室人员疏散 因Papillon餐厅起火",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqh7245814.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T07:12:44+08:00"
+    },
+    {
+      "title": "韩国散户“勇敢者游戏”终结：杠杆ETF遭平仓，监管紧急降杠杆",
+      "url": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniiemqp8312283.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-07-18T07:00:00+08:00"
+    },
+    {
+      "title": "7月18日隔夜要闻：美股道指跌逾400点 美国再度打击伊朗 油价单周涨幅创4月份以来最大 SpaceX股价持续下挫",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqk4005353.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T06:49:57+08:00"
+    },
+    {
+      "title": "南方地区出现新冠波峰",
+      "url": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniiemqh7252874.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-07-18T06:46:00+08:00"
+    },
+    {
+      "title": "中东地区军事冲突持续 国际油价17日上涨超4%",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiemqh7229245.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T06:35:45+08:00"
+    },
+    {
+      "title": "专家：政策拖累汇率 日元对美元汇率或将创新低",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiemqk3993484.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-07-18T06:31:51+08:00"
+    },
     {
       "title": "美国再度打击伊朗 油价单周涨幅创4月份以来最大",
       "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqh7203060.shtml",
@@ -171,48 +283,6 @@
       "pubDate": "2026-07-18T04:19:16+08:00"
     },
     {
-      "title": "7月18日收盘：美股道指跌逾400点 三大股指本周均录得跌幅",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniiefhn4019165.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T04:08:32+08:00"
-    },
-    {
-      "title": "美军周五再次打击伊朗 旨在削弱其军事能力",
-      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiefhr8307176.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T04:00:36+08:00"
-    },
-    {
-      "title": "Meta据悉洽谈出租算力给Anthropic 价值最高可达100亿美元",
-      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniicyyq4113606.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T04:00:00+08:00"
-    },
-    {
-      "title": "美军称对伊朗发动新一轮打击",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiefhk7240223.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T03:54:53+08:00"
-    },
-    {
-      "title": "美军称重启对伊朗海上封锁三天内拦截6艘船只",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiefhk7256977.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T03:53:57+08:00"
-    },
-    {
-      "title": "波音与空客角力，竞逐SMBC百架窄体机大单",
-      "url": "https://finance.sina.com.cn/world/mzjj/2026-07-18/doc-iniiefhq1441039.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T03:33:04+08:00"
-    },
-    {
       "title": "浙江美大拟易主，夏氏家族套现13亿，成立10天新公司接盘",
       "url": "https://www.tmtpost.com/8069698.html",
       "source": "钛媒体",
@@ -283,18 +353,18 @@
       "pubDate": "2026-07-17T17:53:27+08:00"
     },
     {
-      "title": "加密行业，全员卷入 AI 军备竞赛",
-      "url": "https://www.tmtpost.com/8068948.html",
-      "source": "钛媒体",
+      "title": "9点1氪丨ofo停更5年突然发文，运营主体仍处存续状态；苹果市值重返全球第一；乐事回应“蓝色薯片”来源",
+      "url": "https://36kr.com/p/3900449325287305?f=rss",
+      "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-07-17T17:36:05+08:00"
+      "pubDate": "2026-07-18 09:05:45  +0800"
     },
     {
-      "title": "北美AI短剧市场：大厂的游戏，中小公司纯靠赌？",
-      "url": "https://www.tmtpost.com/8069234.html",
-      "source": "钛媒体",
+      "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界",
+      "url": "https://36kr.com/p/3900439867147909?f=rss",
+      "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-07-17T17:36:01+08:00"
+      "pubDate": "2026-07-18 08:53:35  +0800"
     },
     {
       "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
@@ -353,18 +423,46 @@
       "pubDate": "2026-07-17 10:39:17  +0800"
     },
     {
-      "title": "36氪首发 | 前蔚来、华为智驾核心成员联手创业具身世界模型，三个月内完成数亿元融资",
-      "url": "https://36kr.com/p/3899081603483525?f=rss",
+      "title": "加速器驱动先进核能系统智能解决方案发布",
+      "url": "https://36kr.com/newsflashes/3900458277504642?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-07-17 09:52:16  +0800"
+      "pubDate": "2026-07-18 10:00:13  +0800"
     },
     {
-      "title": "36氪首发 | 这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注",
-      "url": "https://36kr.com/p/3899057634363266?f=rss",
+      "title": "霍尔木兹海峡船舶通过量降至三周来最低点",
+      "url": "https://36kr.com/newsflashes/3900457912993411?f=rss",
       "source": "36氪",
       "category": "科技",
-      "pubDate": "2026-07-17 09:26:47  +0800"
+      "pubDate": "2026-07-18 09:45:50  +0800"
+    },
+    {
+      "title": "壁仞科技推出NPO光互连、分布式解耦架构超节点方案，最大实现1024卡",
+      "url": "https://36kr.com/newsflashes/3900457432680067?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-07-18 09:30:22  +0800"
+    },
+    {
+      "title": "美股三大指数收盘集体下跌，大型科技股普跌",
+      "url": "https://36kr.com/newsflashes/3900467666077318?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-07-18 09:20:53  +0800"
+    },
+    {
+      "title": "商务部：王文涛部长会见印尼经济统筹部长艾尔朗加",
+      "url": "https://36kr.com/newsflashes/3900456883275652?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-07-18 09:09:55  +0800"
+    },
+    {
+      "title": "“智领新程 融创未来” 两岸人工智能系列活动亮相上海世界人工智能大会",
+      "url": "https://36kr.com/newsflashes/3900456408631171?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-07-18 09:09:26  +0800"
     },
     {
       "title": "快看加速原创漫画IP孵化：未来一年将推出100+部精品漫画",
@@ -463,48 +561,6 @@
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-07-17 19:42:26  +0800"
-    },
-    {
-      "title": "华勤技术：子公司约1.89亿港元收购0.28%晶合集成H股",
-      "url": "https://36kr.com/newsflashes/3899660338939782?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-17 19:39:38  +0800"
-    },
-    {
-      "title": "朗科智能：拟受让朗固科技35%股权，取得其控制权",
-      "url": "https://36kr.com/newsflashes/3899655138396038?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-17 19:34:20  +0800"
-    },
-    {
-      "title": "IDC：2030年全球活跃Agent数量或将超过22亿个",
-      "url": "https://36kr.com/newsflashes/3899647452677769?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-17 19:26:31  +0800"
-    },
-    {
-      "title": "高盛看好通宇通讯低轨卫星相关业务前景",
-      "url": "https://36kr.com/newsflashes/3899640637687689?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-17 19:19:35  +0800"
-    },
-    {
-      "title": "国科微：拟定增募资不超过50.61亿元，用于端侧AI芯片研发及产业化项目等",
-      "url": "https://36kr.com/newsflashes/3899639438280323?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-17 19:18:22  +0800"
-    },
-    {
-      "title": "甘咨询：高盛国际对公司股票的持仓比例较低",
-      "url": "https://36kr.com/newsflashes/3899629089408646?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-17 19:07:50  +0800"
     }
   ]
 }

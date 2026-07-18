@@ -1,7 +1,119 @@
 {
-  "updatedAt": "2026-07-18T15:47:27+08:00",
-  "total": 93,
+  "updatedAt": "2026-07-18T17:21:35+08:00",
+  "total": 95,
   "news": [
+    {
+      "title": "股票型ETF单日吸金超758亿元 大资金“扫货”名单曝光",
+      "url": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniifhtw7159184.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-07-18T16:51:13+08:00"
+    },
+    {
+      "title": "直击WAIC丨首发AI for ADANES技术路线 ，AI for ADANES联盟共建产业新生态",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifhty3931303.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-07-18T16:45:18+08:00"
+    },
+    {
+      "title": "直击WAIC丨阿里云发布灵骏真武M890超节点实例，开箱即用64卡算力",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifhua1617416.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-07-18T16:28:52+08:00"
+    },
+    {
+      "title": "国投期货周小燕：纯碱漫漫寻底路",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-07-18/doc-iniifhuc8385437.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T16:21:23+08:00"
+    },
+    {
+      "title": "养老FOF清盘小高峰，全年近40只发起式清盘，“定制局”何解？",
+      "url": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniifhty3916711.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T16:21:02+08:00"
+    },
+    {
+      "title": "多维度长周期五星评级 见证嘉实基金一体化投研长跑实力",
+      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-07-18/doc-iniifhua1604914.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-07-18T16:16:15+08:00"
+    },
+    {
+      "title": "聚焦半导体设备材料 嘉实中证半导体指数增强长期业绩同类第一",
+      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-07-18/doc-iniifhty3910169.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-07-18T16:15:44+08:00"
+    },
+    {
+      "title": "世界杯决赛或受加拿大山火影响，特朗普威胁加关税",
+      "url": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniifhty3906310.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T16:09:05+08:00"
+    },
+    {
+      "title": "飞天茅台价格大涨，原箱批价突破1700元/瓶",
+      "url": "https://finance.sina.com.cn/wm/2026-07-18/doc-iniifhty3903943.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-18T16:04:00+08:00"
+    },
+    {
+      "title": "超1600亿元主力资金出逃 高位科技股被抛售",
+      "url": "https://finance.sina.com.cn/stock/zldx/2026-07-18/doc-iniifhuc8367817.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-07-18T15:59:44+08:00"
+    },
+    {
+      "title": "放弃日本后，澳洲人正疯狂涌向中国",
+      "url": "https://www.tmtpost.com/8069901.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-07-18T15:54:13+08:00"
+    },
+    {
+      "title": "徕芬，把电机做成“芯片”",
+      "url": "https://www.tmtpost.com/8070101.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-07-18T15:54:12+08:00"
+    },
+    {
+      "title": "TRAE Work上线 40 万字的“AI 打工说明书”！一手实测在此",
+      "url": "https://www.tmtpost.com/8070209.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-07-18T15:54:10+08:00"
+    },
+    {
+      "title": "三次冲击，对应三种不同的价格信号",
+      "url": "https://www.tmtpost.com/8070249.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-07-18T15:54:09+08:00"
+    },
+    {
+      "title": "一只猴卖20万！净利润飙涨超1300%，“猴茅”昭衍新药赚翻了",
+      "url": "https://www.tmtpost.com/8070243.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-07-18T15:54:07+08:00"
+    },
+    {
+      "title": "Uber与美团的代理人战争",
+      "url": "https://www.tmtpost.com/8070286.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-07-18T15:54:04+08:00"
+    },
     {
       "title": "欧盟拟调整碳排放交易体系 减轻企业脱碳压力",
       "url": "https://finance.sina.com.cn/world/gjcj/2026-07-18/doc-iniifhua1575964.shtml",
@@ -22,6 +134,13 @@
       "source": "新浪综合6",
       "category": "热点",
       "pubDate": "2026-07-18T15:36:19+08:00"
+    },
+    {
+      "title": "苹果上调日本部分iPhone售价 苹果在日本大幅涨价",
+      "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-18/doc-iniifhua1576480.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-07-18T15:35:01+08:00"
     },
     {
       "title": "算力定价权的转移——从\"你有多少张卡\"到\"Token成本多少\"",
@@ -87,6 +206,13 @@
       "pubDate": "2026-07-18T14:49:38+08:00"
     },
     {
+      "title": "2026WAIC观察：从“能说”迈向“会干”，AI进化为全民通用生产力工具",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniifhty3860275.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-07-18T14:49:00+08:00"
+    },
+    {
       "title": "直击WAIC丨荣耀CEO李健：未来万物智能世界的演进，将呈现“一主多专、三脑协同”的全新架构",
       "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifhua1526265.shtml",
       "source": "新浪综合6",
@@ -143,13 +269,6 @@
       "pubDate": "2026-07-18T14:29:01+08:00"
     },
     {
-      "title": "直击WAIC丨荣耀CEO李健官宣：Robot Phone今日开启全渠道",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifanf8413884.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-18T14:23:58+08:00"
-    },
-    {
       "title": "价格周报｜气温升高需求减量明显，本周生猪价格下滑",
       "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniifanf8405362.shtml",
       "source": "新浪综合",
@@ -157,25 +276,11 @@
       "pubDate": "2026-07-18T14:13:22+08:00"
     },
     {
-      "title": "又现险资运用不规范，太平资产、国寿投资双双被罚",
-      "url": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniifanf8391249.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-18T13:53:41+08:00"
-    },
-    {
       "title": "日元持续走弱 苹果在日本将iPhone 17售价上调10%",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniifana3941115.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-07-18T13:43:56+08:00"
-    },
-    {
-      "title": "你恐慌我贪婪！超2100亿元资金借道ETF进场扫货，这些板块正被疯狂抄底",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniifamy7130021.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-18T12:56:13+08:00"
     },
     {
       "title": "2026世界人工智能大会观察：算力与制造业，支撑AI脱虚向实",
@@ -192,20 +297,6 @@
       "pubDate": "2026-07-18T12:30:02+08:00"
     },
     {
-      "title": "WAIC是AI上下游的一场集体军训",
-      "url": "https://finance.sina.com.cn/stock/t/2026-07-18/doc-iniifana3889349.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-18T12:17:46+08:00"
-    },
-    {
-      "title": "600735，财报重大遗漏和虚假记载！",
-      "url": "https://finance.sina.com.cn/wm/2026-07-18/doc-iniiewei8412929.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-18T12:12:16+08:00"
-    },
-    {
       "title": "美国完成连续第七晚对伊朗的空袭",
       "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniieweh1624546.shtml",
       "source": "新浪综合",
@@ -218,13 +309,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-07-18T12:01:51+08:00"
-    },
-    {
-      "title": "日线六连阴！SpaceX市值蒸发超1万亿美元，机构散户全被套",
-      "url": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniiewee3998446.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-07-18T12:01:14+08:00"
     },
     {
       "title": "修仙界还没征服全世界，中国动画先成了世界工厂",
@@ -283,39 +367,11 @@
       "pubDate": "2026-07-18T10:18:24+08:00"
     },
     {
-      "title": "MLCC产业通史（一）：命脉断供，英美雷达云母军工困局",
-      "url": "https://www.tmtpost.com/8069499.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-07-18T10:18:20+08:00"
-    },
-    {
-      "title": "不能让游客“入戏”的景区，正在被淘汰",
-      "url": "https://www.tmtpost.com/8069495.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-07-18T10:18:17+08:00"
-    },
-    {
       "title": "靠押注“讲稿用词”获利 特朗普提词员被停职",
       "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiewei8285614.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-07-18T09:56:10+08:00"
-    },
-    {
-      "title": "留给父母提档的时间，真的不多了",
-      "url": "https://www.tmtpost.com/8069373.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-07-18T09:45:25+08:00"
-    },
-    {
-      "title": "2026 WAIC，具身首次走上神坛",
-      "url": "https://www.tmtpost.com/8069915.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-07-18T09:45:23+08:00"
     },
     {
       "title": "硅谷不满出口管制“临时起意”，特朗普政府拟建“AI版FINRA”以平息行业焦虑",
@@ -409,48 +465,6 @@
       "pubDate": "2026-07-18T06:05:34+08:00"
     },
     {
-      "title": "SpaceX据报洽谈向五角大楼出售算力 金额或达数十亿美元",
-      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqk3967577.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T06:03:25+08:00"
-    },
-    {
-      "title": "大宗商品综述：原油飙升 铜价走低 金价反弹",
-      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqn1467048.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T06:02:50+08:00"
-    },
-    {
-      "title": "7月18日外盘头条：美伊互袭基础设施 英国研判特朗普对伊威胁并非空话 Meta据悉洽谈出租算力给Anthropic",
-      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqp8240550.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T05:59:51+08:00"
-    },
-    {
-      "title": "美国与伊朗攻击基础设施，重陷全面战争风险加剧",
-      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqn1462325.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-18T05:57:26+08:00"
-    },
-    {
-      "title": "浙江美大拟易主，夏氏家族套现13亿，成立10天新公司接盘",
-      "url": "https://www.tmtpost.com/8069698.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-07-17T23:46:04+08:00"
-    },
-    {
-      "title": "WAIC首日，无论你是否来了，都应该知道这些变化",
-      "url": "https://www.tmtpost.com/8069485.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-07-17T22:52:00+08:00"
-    },
-    {
       "title": "9点1氪丨ofo停更5年突然发文，运营主体仍处存续状态；苹果市值重返全球第一；乐事回应“蓝色薯片”来源",
       "url": "https://36kr.com/p/3900449325287305?f=rss",
       "source": "36氪",
@@ -521,7 +535,35 @@
       "pubDate": "2026-07-17 10:39:17  +0800"
     },
     {
-      "title": "Kimi有望最快6个月内港股上市",
+      "title": "腾讯云智能体硬件生态提速，首款接入WorkBuddy AI记忆眼镜发布",
+      "url": "https://36kr.com/newsflashes/3900906468984713?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-07-18 17:00:06  +0800"
+    },
+    {
+      "title": "福特在美召回近39万辆Aviator和Explorer车型，涉及座椅部件安全问题",
+      "url": "https://36kr.com/newsflashes/3900845248415362?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-07-18 16:30:50  +0800"
+    },
+    {
+      "title": "云迹科技发布“人机共生世界价值模型”",
+      "url": "https://36kr.com/newsflashes/3900822239758214?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-07-18 16:15:26  +0800"
+    },
+    {
+      "title": "国家数据局：全国已建成高质量数据集12万个",
+      "url": "https://36kr.com/newsflashes/3900807486293892?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-07-18 16:00:27  +0800"
+    },
+    {
+      "title": "月之暗面有望最快6个月内赴港上市",
       "url": "https://36kr.com/newsflashes/3900806713951873?f=rss",
       "source": "36氪",
       "category": "科技",
@@ -624,34 +666,6 @@
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-07-18 12:27:40  +0800"
-    },
-    {
-      "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
-      "url": "https://36kr.com/newsflashes/3900586757375878?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-18 12:15:52  +0800"
-    },
-    {
-      "title": "苹果与美国司法部就反垄断诉讼展开和解谈判",
-      "url": "https://36kr.com/newsflashes/3900551249987203?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-18 12:00:45  +0800"
-    },
-    {
-      "title": "黄仁勋皮夹克拍出96万美元天价",
-      "url": "https://36kr.com/newsflashes/3900550483216007?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-18 11:45:59  +0800"
-    },
-    {
-      "title": "国家能源局：将加快构建新型能源体系 赋能AI发展",
-      "url": "https://36kr.com/newsflashes/3900549667456901?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-18 11:30:08  +0800"
     }
   ]
 }

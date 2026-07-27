@@ -1,7 +1,105 @@
 {
-  "updatedAt": "2026-07-28T01:39:42+08:00",
+  "updatedAt": "2026-07-28T03:22:25+08:00",
   "total": 79,
   "news": [
+    {
+      "title": "华纳兄弟探索起诉亚马逊“盗取”高管",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2790900.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-28T03:21:43+08:00"
+    },
+    {
+      "title": "英伟达牵头成立开放安全AI联盟，应对Hugging Face入侵事件",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhv0521560.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-28T03:20:17+08:00"
+    },
+    {
+      "title": "美国稀土供应缺口至少4.77万吨，2027年国防禁令面临挑战",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhs9566968.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-28T03:17:44+08:00"
+    },
+    {
+      "title": "芝商所推出个股期货，允许投资者全天23小时交易SpaceX、美光等股票",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2789433.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-28T03:13:47+08:00"
+    },
+    {
+      "title": "美伊暂停交火，特朗普淡化军火库存消耗担忧",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2789015.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-28T03:12:16+08:00"
+    },
+    {
+      "title": "Waymo在奥斯汀因违规停车被罚近万美元",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2786935.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-28T03:07:42+08:00"
+    },
+    {
+      "title": "英伟达拟为OpenAI提供2500亿美元担保，撬动5000亿算力基建",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2786308.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-28T03:06:26+08:00"
+    },
+    {
+      "title": "高盛及小摩等机构看好共享单车公司Lime的母公司Neutron Holdings",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhn8231768.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-28T03:04:40+08:00"
+    },
+    {
+      "title": "加密货币股票因资金从AI基础设施轮动而上涨，比特币矿商落后",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2785403.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-28T03:03:00+08:00"
+    },
+    {
+      "title": "苹果智能眼镜主打隐私牌，拟2027年发布",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhv0512136.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-28T03:00:56+08:00"
+    },
+    {
+      "title": "微软财报即将揭晓：Azure增速与资本支出指引成关键",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhn8228909.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-28T02:59:55+08:00"
+    },
+    {
+      "title": "Pimco拥抱曾经警告的AI热潮 前提是巨额融资条款由它主导",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2783564.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-28T02:59:10+08:00"
+    },
+    {
+      "title": "尾盘：纳指下跌0.4%，半导体股普遍下滑",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2780625.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-28T02:54:17+08:00"
+    },
+    {
+      "title": "LVMH时装皮具业务勉强恢复增长 中东冲突抑制需求",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyx0616381.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-28T02:09:23+08:00"
+    },
     {
       "title": "伊朗与阿曼谈判重启霍尔木兹海峡航运 后者对取得进展持乐观态度",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyt2887908.shtml",
@@ -113,104 +211,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-07-28T00:21:39+08:00"
-    },
-    {
-      "title": "美国2年期国债中标收益率创2024年以来新高",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyu9642190.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-28T00:14:46+08:00"
-    },
-    {
-      "title": "十年期美债收益率何去何从？道富投资激辩贝森特关注的金融指标",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyq8282475.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-28T00:13:52+08:00"
-    },
-    {
-      "title": "午盘：道指涨幅收窄，纳指与标普500指数转跌",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyu9636076.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-28T00:04:17+08:00"
-    },
-    {
-      "title": "“大空头”迈克尔·伯里加码做空美光、英伟达，维持特斯拉与Palantir空头押注",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyu9633863.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-28T00:00:45+08:00"
-    },
-    {
-      "title": "Waymo自动驾驶车队在奥斯汀因停车违规被罚近万美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikhisz0686008.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-27T23:57:51+08:00"
-    },
-    {
-      "title": "英伟达携手SK集团启动超5000亿美元AI合作，助力韩国打造AI枢纽",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikhisv2985859.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-27T23:56:19+08:00"
-    },
-    {
-      "title": "阿布扎比第一银行拟提供15亿美元融资，支持印度吸引海外存款计划",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikhiss8399854.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-27T23:51:16+08:00"
-    },
-    {
-      "title": "特朗普称暂停打击伊朗旨在给谈判机会",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikhiss8399448.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-27T23:50:23+08:00"
-    },
-    {
-      "title": "Charter推200亿美元债务置换及新债发行计划",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikhisw9759296.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-27T23:49:54+08:00"
-    },
-    {
-      "title": "收购战持续升温，贝恩与LY考虑加码竞购日本比价网站运营商Kakaku",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikhiss8398560.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-27T23:48:31+08:00"
-    },
-    {
-      "title": "Zara创始人斥资8亿欧元收购巴黎地标办公楼，创欧洲近四年最大交易",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikhisw9758402.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-27T23:47:56+08:00"
-    },
-    {
-      "title": "联邦陪审团裁定Avilar及RA Capital恶意盗用耶鲁大学商业秘密",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikhisz0676667.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-27T23:40:52+08:00"
-    },
-    {
-      "title": "环球NBC与YouTube达成合作：YouTube付费会员可在平台内直接观看孔雀流媒体内容",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikhisz0676150.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-27T23:40:09+08:00"
-    },
-    {
-      "title": "A2Z Cust2Mate宣布第二季度财报发布日期及电话会议安排",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-27/doc-inikhisz0675786.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-27T23:39:32+08:00"
     },
     {
       "title": "英灵殿科技完成近5000万美元融资，AI4S赛道又多了一个\"掀桌子\"的｜首发",

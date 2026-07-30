@@ -1,7 +1,133 @@
 {
-  "updatedAt": "2026-07-31T05:05:21+08:00",
-  "total": 77,
+  "updatedAt": "2026-07-31T07:02:34+08:00",
+  "total": 78,
   "news": [
+    {
+      "title": "SMBC日兴：日本央行会议后若日元再度走弱 日本或再次干预",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzt4691495.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-31T07:01:52+08:00"
+    },
+    {
+      "title": "美国财长称日元“似乎被严重低估”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzr0994521.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-31T07:00:35+08:00"
+    },
+    {
+      "title": "他究竟在说什么？剖析沃什记者会上那些让市场困惑的话",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzt4690748.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-31T06:59:58+08:00"
+    },
+    {
+      "title": "库克任内最后一份财报：苹果Q4营收指引不及预期，芯片短缺施压供应链",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzv1469556.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-31T06:49:12+08:00"
+    },
+    {
+      "title": "参考中联重科“买方信贷”，英伟达的2500亿美元担保，会面临“崩塌风险”？",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-31/doc-inikrvzr0989607.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-07-31T06:39:20+08:00"
+    },
+    {
+      "title": "7月31日隔夜要闻：微软市值单日大增4500亿美元 Meta未来支出承诺近7000亿美元 马斯克将助力共和党中期选举",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzn9371169.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-31T06:30:59+08:00"
+    },
+    {
+      "title": "美方认为哈马斯或在未来数日签署协议解除武装 谈判仍有破裂可能",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzv1458730.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-31T06:18:29+08:00"
+    },
+    {
+      "title": "大宗商品综述：油价下跌 铜价走高 金价续涨",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzt4671331.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-31T06:07:46+08:00"
+    },
+    {
+      "title": "白宫国家经济委员会主任哈塞特：美国可能延续压低油价的措施",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzr0957321.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-31T06:01:50+08:00"
+    },
+    {
+      "title": "微软市值单日大增4500亿美元 创个股历史之最",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzv1446143.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-31T05:54:05+08:00"
+    },
+    {
+      "title": "7月31日外盘头条：亚马逊云业务营收大增37% OpenAI降价至多80%巩固市场 苹果iPhone销量同比大涨22%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzt4662819.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-31T05:50:41+08:00"
+    },
+    {
+      "title": "美国股市：科技股推动大盘强势反弹 微软股价大涨",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzt4662086.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-31T05:49:06+08:00"
+    },
+    {
+      "title": "应对成本竞争压力 OpenAI降价至多80%巩固市场",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzv1438890.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-31T05:38:29+08:00"
+    },
+    {
+      "title": "战事外溢引发担忧 美参议员共和党再度阻挠终止对伊战争决议",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzt4653446.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-31T05:31:57+08:00"
+    },
+    {
+      "title": "iPhone销量同比大涨22% 苹果Q3利润超预期",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzr0933395.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-31T05:28:08+08:00"
+    },
+    {
+      "title": "油价维持高位之际 特朗普政府计划重启多家停产炼油厂",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzr0931809.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-31T05:25:58+08:00"
+    },
+    {
+      "title": "以色列称炸毁黎南部博福特岭地区地下通道设施",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-31/doc-inikrvzv1436289.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-31T05:24:11+08:00"
+    },
+    {
+      "title": "报道：日本干预汇市 美国也进行汇率询价",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrvzr0926972.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-31T05:20:03+08:00"
+    },
     {
       "title": "求职要缴10万美元 特朗普酝酿对毕业后想留在美国的外国学生收费",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrrtx1548467.shtml",
@@ -29,6 +155,13 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-07-31T04:54:52+08:00"
+    },
+    {
+      "title": "西班牙关闭梅利利亚与摩洛哥边境口岸",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-31/doc-inikrvzv1435598.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-07-31T04:44:18+08:00"
     },
     {
       "title": "美国债市：美债涨跌互现 收益率曲线进一步趋陡",
@@ -78,132 +211,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-07-31T04:11:08+08:00"
-    },
-    {
-      "title": "谷歌担保加持 Anthropic得州数据中心150亿美元融资进入最终磋商",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrrtq9412178.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-31T04:05:35+08:00"
-    },
-    {
-      "title": "马斯克将投入至少1亿美元助力共和党中期选举",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrrtq9405366.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-31T03:53:03+08:00"
-    },
-    {
-      "title": "OpenAI下调两款GPT-5.6模型价格，因企业成本意识增强",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrrtt1003479.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-31T03:41:42+08:00"
-    },
-    {
-      "title": "欧足联威胁国际足联：若推进私募股权计划，将抵制世界杯",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrrtq9399139.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-31T03:40:07+08:00"
-    },
-    {
-      "title": "Nymex原油近月合约周四下跌1.03%，收于每桶83.59美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrrtt0997671.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-31T03:29:43+08:00"
-    },
-    {
-      "title": "ICE布伦特原油近月合约周四下跌1.88%，收于每桶89.03美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrrtx1523818.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-31T03:28:10+08:00"
-    },
-    {
-      "title": "美国抵押贷款利率跃升至一年来最高水平，且几无回落迹象",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrrtt0996055.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-31T03:26:16+08:00"
-    },
-    {
-      "title": "美国大学生正搬进养老社区，原因不止“廉价房租”",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrrtv4741091.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-31T03:25:07+08:00"
-    },
-    {
-      "title": "美国环孢子虫疫情规模创历史之最，为何“异常”疫情如此难以控制？",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrrtt0994191.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-31T03:22:05+08:00"
-    },
-    {
-      "title": "美国社会保障最大问题并非设计缺陷，而是缺失的信托基金",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrrtv4739959.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-31T03:20:30+08:00"
-    },
-    {
-      "title": "微软财报提振美光、闪迪等芯片股大幅上涨",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrrtt0991058.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-31T03:15:54+08:00"
-    },
-    {
-      "title": "美联储主席沃什的华尔街信誉受损，投资者质疑其抗击通胀的决心",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrrtv4738039.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-31T03:14:14+08:00"
-    },
-    {
-      "title": "墨西哥经济第二季度反弹——部分得益于足球世界杯",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrrtv4737651.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-31T03:12:38+08:00"
-    },
-    {
-      "title": "白宫贸易顾问纳瓦罗：如果市场趋势持续 美联储应考虑降息",
-      "url": "https://finance.sina.com.cn/world/2026-07-31/doc-inikrrtx1519041.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-31T03:10:44+08:00"
-    },
-    {
-      "title": "意大利国家电力公司上半年营收409.2亿欧元 国际业务推动盈利增长",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrrtt0987481.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-31T03:09:36+08:00"
-    },
-    {
-      "title": "Perpetua Resources获美国陆军支持开设锑试点工厂，股价尾盘上涨7.5%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrrtq9382734.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-31T03:08:04+08:00"
-    },
-    {
-      "title": "美国企业内部人士的悲观程度创下逾20年之最",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrrtt0985244.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-31T03:06:03+08:00"
-    },
-    {
-      "title": "三菱汽车在美国开设首家Gallery经销店",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-inikrrtq9380444.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-07-31T03:04:05+08:00"
     },
     {
       "title": "联创电子易主落定：寿县国资6亿接盘，30亿化债成前置条件",
@@ -402,6 +409,13 @@
       "pubDate": "2026-07-29 19:04:52  +0800"
     },
     {
+      "title": "美股三大指数集体收涨，微软创近18年以来最大单日涨幅",
+      "url": "https://36kr.com/newsflashes/3918731884736133?f=rss",
+      "source": "36氪",
+      "category": "科技",
+      "pubDate": "2026-07-31 07:00:12  +0800"
+    },
+    {
       "title": "宇树科技：初步询价日为8月5日，网上网下申购日为8月10日",
       "url": "https://36kr.com/newsflashes/3918161688505730?f=rss",
       "source": "36氪",
@@ -533,13 +547,6 @@
       "source": "36氪",
       "category": "科技",
       "pubDate": "2026-07-30 19:49:08  +0800"
-    },
-    {
-      "title": "三环集团：拟5亿元至10亿元回购股份",
-      "url": "https://36kr.com/newsflashes/3918068344565381?f=rss",
-      "source": "36氪",
-      "category": "科技",
-      "pubDate": "2026-07-30 19:45:13  +0800"
     }
   ]
 }

@@ -1,13 +1,132 @@
 {
-  "updatedAt": "2026-08-01T05:01:10+08:00",
+  "updatedAt": "2026-08-01T06:56:55+08:00",
   "total": 78,
   "news": [
+    {
+      "title": "8月1日隔夜要闻：美股收高 亚马逊大涨逾15% 美官员称特朗普已下令对伊朗发动新一轮袭击",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-inikufhp0654960.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-01T06:55:54+08:00"
+    },
+    {
+      "title": "报道：日本连续第二日干预汇市买入日元",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-inikufht0847679.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-01T06:45:54+08:00"
+    },
+    {
+      "title": "美国四大科技巨头竞逐AI 支出承诺总计超2万亿美元",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-inikufht0844119.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-01T06:36:32+08:00"
+    },
+    {
+      "title": "报道：OpenAI发现其他AI智能体突破隔离的证据",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyt4183714.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-01T06:13:32+08:00"
+    },
+    {
+      "title": "CFTC：美联储决议前 交易员美元看涨押注升至2014年以来最高",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyv0965076.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-01T06:12:04+08:00"
+    },
+    {
+      "title": "大宗商品综述：油价上涨 铜价微跌 金价下挫",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyr0765341.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-01T06:09:03+08:00"
+    },
+    {
+      "title": "新兴市场股市创2008年以来最大涨幅 结束动荡一周",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyr0762617.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-01T06:03:08+08:00"
+    },
+    {
+      "title": "8月1日外盘头条：特朗普称正对伊朗谈判代表失去信心 沃什考虑减少美联储会议次数 美石油巨头Q2利润激增",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyt4178485.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-01T06:00:07+08:00"
+    },
+    {
+      "title": "哥伦比亚广播公司：美国和以色列准备周末轰炸伊朗的能源基础设施",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyv0952636.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-01T05:41:07+08:00"
+    },
+    {
+      "title": "美国股市：亚马逊大涨提振AI概念股 三大股指集体上扬",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyr0751440.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-01T05:39:21+08:00"
+    },
+    {
+      "title": "原油：油价录得3月份以来最大单月涨幅 伊朗战事持续发酵",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyv0949261.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-01T05:35:30+08:00"
+    },
+    {
+      "title": "报道：特朗普下令最早本周末对伊朗发动打击",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyt4166510.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-01T05:34:00+08:00"
+    },
+    {
+      "title": "《蜘蛛侠：崭新之日》以7200万美元创北美预售票房纪录",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyr0747395.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-01T05:33:07+08:00"
+    },
+    {
+      "title": "美官员称特朗普已下令对伊朗发动新一轮袭击",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-iniktyyn9144639.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-01T05:28:51+08:00"
+    },
+    {
+      "title": "沃什考虑减少美联储会议次数",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyr0741208.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-01T05:23:54+08:00"
+    },
+    {
+      "title": "8月1日美股成交额前20：亚马逊财报强劲股价大涨逾15%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktyyt4158961.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-01T05:20:20+08:00"
+    },
     {
       "title": "美日协同支撑日元 汇市干预或迎来新常态",
       "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyv0925343.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-08-01T04:43:29+08:00"
+    },
+    {
+      "title": "美中央司令部：已改变30艘商船航行路线",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-iniktyyv0934017.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-01T04:43:19+08:00"
     },
     {
       "title": "日元走强 纽约联储就关键汇率向美国大型银行询价",
@@ -29,6 +148,13 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-08-01T04:36:54+08:00"
+    },
+    {
+      "title": "胡塞武装宣布继续封锁沙特船只 已使8艘油轮改道",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-iniktyyn9128641.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-01T04:32:53+08:00"
     },
     {
       "title": "8月1日热门中概股多数上涨，阿里巴巴涨5.09%，京东涨2.17%",
@@ -85,132 +211,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-08-01T03:08:52+08:00"
-    },
-    {
-      "title": "分析：市场听到的是鸽派沃什，但他自己的话却暗示可能加息",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktusq9183348.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-01T03:02:29+08:00"
-    },
-    {
-      "title": "现金缩水、内存成本飙升：科技巨头AI建设代价高昂",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktust0786335.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-01T03:01:39+08:00"
-    },
-    {
-      "title": "美股尾盘走高，道指涨逾300点，纳指上涨0.9%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktusq9178327.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-01T02:54:48+08:00"
-    },
-    {
-      "title": "Comex黄金周五跌1.24%收于4049.10美元 当月上涨0.65%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktusv4225749.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-01T02:51:40+08:00"
-    },
-    {
-      "title": "纽约联储据悉就欧元/日元汇率向美国大型银行询价",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktusv4223025.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-01T02:45:16+08:00"
-    },
-    {
-      "title": "特朗普称正对伊朗谈判代表失去信心 中东战事恐持续",
-      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyr0712631.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-01T02:32:21+08:00"
-    },
-    {
-      "title": "美国F-35战机在加州海军陆战队航空站附近坠毁",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktusx0993117.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-01T02:20:20+08:00"
-    },
-    {
-      "title": "5万移民涌入休达引发边境危机 西班牙称已有超过半数离开",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktusv4210049.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-01T02:17:46+08:00"
-    },
-    {
-      "title": "梅洛尼：意大利暂停与西班牙的申根协定",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktusq9153555.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-01T02:17:15+08:00"
-    },
-    {
-      "title": "阿申布伦纳如何打造450亿美元AI对冲基金，又在数日之内亏掉绝大部分资产",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqks9238394.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-01T01:04:26+08:00"
-    },
-    {
-      "title": "SpaceX火箭残骸即将撞月 可为月球撞击研究提供样本",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqkx4308501.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-01T01:02:16+08:00"
-    },
-    {
-      "title": "市场大盘走势平稳，态势洞察对冲基金为何轰然崩盘",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqks9231815.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-01T00:54:07+08:00"
-    },
-    {
-      "title": "明尼苏达遭遇网络攻击 特朗普将其归咎于州长而非伊朗",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqkx4302292.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-01T00:47:42+08:00"
-    },
-    {
-      "title": "欧洲股市收窄月度涨幅 诺和诺德与环球音乐重挫",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqkz1083373.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-01T00:45:41+08:00"
-    },
-    {
-      "title": "美国纽约州起诉Kalshi 指控其“非法赌博”",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqks9224993.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-01T00:43:07+08:00"
-    },
-    {
-      "title": "特朗普称正对伊朗失去信心 指责德黑兰撒谎",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqkx4298853.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-01T00:39:55+08:00"
-    },
-    {
-      "title": "特朗普之子支持的反无人机技术企业计划美股上市",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqks9217482.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-01T00:31:54+08:00"
-    },
-    {
-      "title": "中东战争推高油价 美石油巨头埃克森美孚与雪佛龙Q2盈利达265亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqkv0819040.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-01T00:28:16+08:00"
     },
     {
       "title": "从裁员到降本，宝马打响一场利润保卫战",

@@ -1,11 +1,179 @@
 {
-  "updatedAt": "2026-08-05T05:08:50+08:00",
-  "total": 79,
+  "updatedAt": "2026-08-05T06:59:50+08:00",
+  "total": 78,
   "news": [
+    {
+      "title": "8月5日隔夜要闻：道指与标普500指数均创新高 油价下挫 铜价和金价上涨 SpaceX发布上市首个财报",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimffsv4816758.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T06:55:26+08:00"
+    },
+    {
+      "title": "OpenAI与Anthropic的AI模型卷入更多网络安全事件",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimffsv4812667.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T06:43:23+08:00"
+    },
+    {
+      "title": "特朗普与卡塔尔埃米尔通电话 官员对美伊达成临时协议表示乐观",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimffsr5264127.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T06:19:33+08:00"
+    },
+    {
+      "title": "外交争端加剧 美国撤销巴西大使签证",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimffsv4804229.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T06:16:43+08:00"
+    },
+    {
+      "title": "大宗商品综述：油价下挫 铜价和金价上涨",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimffsv4804011.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T06:16:16+08:00"
+    },
+    {
+      "title": "报道：美国告诉AI公司不会对开放权重模型进行安全测试",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimffsp3658651.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T06:14:19+08:00"
+    },
+    {
+      "title": "8月5日外盘头条：美伊谈判预期乐观引发油价大跌 SpaceX、AMD财报均超预期 OPEC上月石油产量增加",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimffsv4795673.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T06:00:06+08:00"
+    },
+    {
+      "title": "国际油价，大幅下跌",
+      "url": "https://finance.sina.com.cn/roll/2026-08-05/doc-inimffsp3659877.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T06:00:00+08:00"
+    },
+    {
+      "title": "7月份大宗商品价格指数同比增长15.5%",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-05/doc-inimffsv4796539.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T06:00:00+08:00"
+    },
+    {
+      "title": "迈克尔·伯里做空反弹行情：我们可能已接近重大顶部，甚至可能出现1987年式的暴跌",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkr3767441.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T05:37:21+08:00"
+    },
+    {
+      "title": "OpenAI披露旗下AI模型在外部安全测试中突破预设边界",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkx4910876.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T05:32:37+08:00"
+    },
+    {
+      "title": "AMD Q2营收增长50%，数据中心销售翻倍，盘后股价跌逾8%",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkt5367861.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T05:31:49+08:00"
+    },
+    {
+      "title": "卡塔尔埃米尔与特朗普就美伊局势通话 呼吁继续对话",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-05/doc-inimezkr3774511.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T05:26:43+08:00"
+    },
+    {
+      "title": "美国债市：美债受油价大跌提振 日内守住涨幅",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkx4906750.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T05:23:48+08:00"
+    },
+    {
+      "title": "乌克兰首都传出连续爆炸声 基辅市长称遭弹道导弹袭击",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-05/doc-inimezkz1695876.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T05:22:40+08:00"
+    },
+    {
+      "title": "原油：布伦特跌破每桶80美元 霍尔木兹海峡重开预期升温",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkz1678547.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T05:22:20+08:00"
+    },
+    {
+      "title": "AMD营收展望令投资者失望 股价盘后跌约6%",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkx4905778.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T05:21:31+08:00"
+    },
+    {
+      "title": "美国股市：标普指数创出6月来首个新高 美伊协议希望激发投资者乐观",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkx4905486.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T05:20:53+08:00"
+    },
+    {
+      "title": "业绩超预期股价却重挫 SpaceX备受关注的财报显示AI支出跃升",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkz1676728.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T05:17:48+08:00"
+    },
+    {
+      "title": "SpaceX今年已购买价值3.29亿美元的特斯拉工业级储能设备Megapack",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimezkr3755848.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T05:16:02+08:00"
+    },
+    {
+      "title": "Jefferies获得问题基金涉及假发票的新证据 凸显应收账款融资风险",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkr3755092.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T05:14:38+08:00"
+    },
+    {
+      "title": "Arista Networks第二季度利润与销售额双双增长",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimezkx4902045.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T05:12:26+08:00"
+    },
+    {
+      "title": "安进二季度强劲药品销售，上调预期，将终止早期减肥药研发",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimezkz1673958.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T05:11:19+08:00"
+    },
+    {
+      "title": "吉利德科学公司因研发成本转亏，HIV药物销售提振营收",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimezkr3752456.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T05:09:29+08:00"
+    },
     {
       "title": "8月5日美股成交额前20：SpaceX发布IPO后首份财报，营收同比增长92%远超预期",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimezkr3751938.shtml",
-      "source": "新浪综合6",
+      "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-08-05T05:08:34+08:00"
     },
@@ -17,7 +185,14 @@
       "pubDate": "2026-08-05T04:34:40+08:00"
     },
     {
-      "title": "SpaceX上市后首份财报：营收飙升92%",
+      "title": "美国撤销巴西驻美大使签证",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-05/doc-inimffsp3656041.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-05T04:23:59+08:00"
+    },
+    {
+      "title": "SpaceX上市后首份财报：营收78亿美元同比大增92% AI业务减亏 连接业务同比增长66% 千亿美元股票即将解禁",
       "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkz1657898.shtml",
       "source": "新浪综合",
       "category": "热点",
@@ -36,188 +211,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-08-05T04:01:39+08:00"
-    },
-    {
-      "title": "新泽西州起诉亚马逊，指控其配送网络非法压低工资",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimezkz1652290.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T04:00:06+08:00"
-    },
-    {
-      "title": "油价因霍尔木兹海峡协议有望达成而大幅下跌",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimezkz1651791.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T03:58:05+08:00"
-    },
-    {
-      "title": "ICE菜籽油期货周二逆势上涨",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevat3853198.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T03:33:30+08:00"
-    },
-    {
-      "title": "纽约商品交易所近月RBOB汽油期货下跌3.86%，收于每加仑2.8522美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevaz5003122.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T03:32:12+08:00"
-    },
-    {
-      "title": "纽约商品交易所近月原油期货下跌5.69%，收于每桶75.77美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevcc1774753.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T03:29:04+08:00"
-    },
-    {
-      "title": "纽约商品交易所近月超低硫柴油期货下跌2.75%，收于每加仑3.7705美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevat3851553.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T03:28:03+08:00"
-    },
-    {
-      "title": "纽约商品交易所近月天然气期货下跌3.56%，收于2.6820美元/每百万英热单位",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevaz5001835.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T03:26:49+08:00"
-    },
-    {
-      "title": "伊朗据悉软化立场 考虑允许欧洲参与霍尔木兹海峡排雷",
-      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimevcc1774270.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T03:26:44+08:00"
-    },
-    {
-      "title": "WiMi探索混合量子-经典机器学习联邦训练框架",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevav5454305.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T03:24:45+08:00"
-    },
-    {
-      "title": "加拿大自美国进口额创新高 受数据中心建设推动",
-      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimevaz5001207.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T03:24:31+08:00"
-    },
-    {
-      "title": "纽约汇市：美元指数基本持平 日元四连涨后回落",
-      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimevav5453144.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T03:21:03+08:00"
-    },
-    {
-      "title": "无人机重塑美国野火与应急响应市场",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevaz4999991.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T03:19:43+08:00"
-    },
-    {
-      "title": "Willamette Valley Vineyards启动175万美元优先股发行",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevcc1771282.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T03:15:04+08:00"
-    },
-    {
-      "title": "美国天气温和致小麦期货下跌 芝加哥期货交易所9月小麦期货下跌2%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevav5451225.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T03:13:49+08:00"
-    },
-    {
-      "title": "Palantir在AI竞赛中将软件同行甩在身后",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevaz4997643.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T03:10:19+08:00"
-    },
-    {
-      "title": "贝森特为沃什辩护，称市场正经历美联储过度指引的“排毒”过程",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevat3845506.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T03:06:26+08:00"
-    },
-    {
-      "title": "美国最富有的20%人群购买了大部分新车，油电混合动力车需求激增",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevaz4996206.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T03:05:24+08:00"
-    },
-    {
-      "title": "美股尾盘：贝森特称伊朗协议可能即将达成后，美国股市大涨，油价下滑",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevaz4995189.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T03:01:55+08:00"
-    },
-    {
-      "title": "Waymo在达拉斯向所有人开放服务",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevaz4994633.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T03:00:04+08:00"
-    },
-    {
-      "title": "卡塔尔和美国释放积极信号 聚焦霍尔木兹海峡的美伊协议渐现曙光",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevaz4994545.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T02:59:37+08:00"
-    },
-    {
-      "title": "美国国会议员要求保险公司提供信用评分用于房屋保险的相关信息",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevat3843265.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T02:58:51+08:00"
-    },
-    {
-      "title": "纽约商品交易所铜期货结算价上涨1.60%，报每磅6.6185美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevat3842935.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T02:57:33+08:00"
-    },
-    {
-      "title": "纽约商品交易所黄金期货结算价上涨1.53%，报每盎司4095.40美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevaz4993568.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T02:56:18+08:00"
-    },
-    {
-      "title": "纽约商品交易所白银期货结算价上涨4.14%，报每盎司60.056美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevcc1765732.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T02:55:25+08:00"
-    },
-    {
-      "title": "分析师预计美国原油库存下降",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevav5445388.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T02:54:08+08:00"
-    },
-    {
-      "title": "Boticelli Foods因沙门氏菌风险召回在沃尔玛销售的一款开心果黄油产品",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimevat3841489.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T02:53:15+08:00"
     },
     {
       "title": "收购标的对赌期刚过就“变脸”，昇辉科技收购案牵出西子洁能并购往事 | 并购一线",

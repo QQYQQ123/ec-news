@@ -1,7 +1,112 @@
 {
-  "updatedAt": "2026-08-06T03:24:53+08:00",
-  "total": 51,
+  "updatedAt": "2026-08-06T05:04:02+08:00",
+  "total": 49,
   "news": [
+    {
+      "title": "美国高级官员发出警告 全美计算机系统需加强网络防御以应对AI风险",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimikrx0875909.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-06T05:03:43+08:00"
+    },
+    {
+      "title": "美联储卡什卡利：“现在是开始缓慢上调”利率的时候了",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimikrr4757446.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-06T04:55:03+08:00"
+    },
+    {
+      "title": "美银上调日元预估 料年底升至149",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimikrv4100320.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-06T04:52:29+08:00"
+    },
+    {
+      "title": "8月6日美股成交额前20：马斯克称SpaceX未来AI基建只用英伟达芯片",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimikrv4099038.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-06T04:47:56+08:00"
+    },
+    {
+      "title": "美联储理事库克警告通胀固化风险 称必要时将支持加息",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieir3280788.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-06T04:40:55+08:00"
+    },
+    {
+      "title": "Salesforce提拔营收主管米格尔·米兰诺担任运营主管",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieiz0999098.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-06T04:35:02+08:00"
+    },
+    {
+      "title": "特朗普政府退还1000亿美元“解放日”关税",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieit4881617.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-06T04:30:00+08:00"
+    },
+    {
+      "title": "8月6日热门中概股多数下跌 台积电跌0.81%，富途控股涨1.12%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieiz0996248.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-06T04:22:25+08:00"
+    },
+    {
+      "title": "美国债市：美债基本持稳 短债小幅跑赢",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieiz0995114.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-06T04:18:01+08:00"
+    },
+    {
+      "title": "全球电商平台Etsy裁员12%，旨在精简业务并为增长布局",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieiz0993805.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-06T04:12:41+08:00"
+    },
+    {
+      "title": "8月6日收盘：美股涨跌不一，道指再创新高",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieit4875519.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-06T04:08:33+08:00"
+    },
+    {
+      "title": "纽约汇市：美元延续本周跌势 日元回升",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieix4218239.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-06T04:01:05+08:00"
+    },
+    {
+      "title": "原油：油价三连跌 市场关注霍尔木兹海峡协议进展",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieir3265815.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-06T03:47:20+08:00"
+    },
+    {
+      "title": "SpaceX股价下跌12%，AI支出激增令投资者不安，大规模股票解禁在即",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieit4863976.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-06T03:29:08+08:00"
+    },
+    {
+      "title": "谷歌AI大重组：首席科学家杰夫·迪恩离职，戴密斯·哈萨比斯卸任DeepMind CEO",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieir3259668.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-06T03:26:48+08:00"
+    },
     {
       "title": "伊朗总统：目前“很难”与最高领袖取得联系",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieit4862594.shtml",
@@ -87,13 +192,6 @@
       "pubDate": "2026-08-06T01:12:07+08:00"
     },
     {
-      "title": "特朗普政府退还1000亿美元“解放日”关税税款",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimhxzv4935444.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-06T00:48:19+08:00"
-    },
-    {
       "title": "美银首席执行官：公司每年为员工支出2.5亿美元用于报销GLP-1减重药物",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimhyac1066977.shtml",
       "source": "新浪综合",
@@ -106,118 +204,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-08-06T00:42:10+08:00"
-    },
-    {
-      "title": "AI股抛售冲击对冲基金 Balyasny和Verition上月双双亏损",
-      "url": "https://finance.sina.com.cn/world/2026-08-06/doc-inimhyac1060837.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-06T00:21:17+08:00"
-    },
-    {
-      "title": "值得追捧吗？稳定币即将迎来爆发 —— 为何普通人需要关注",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimhxzt3320723.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-06T00:19:52+08:00"
-    },
-    {
-      "title": "打造DRAM存储爆款ETF的基金管理人再度出手，推出全新人工智能光科技主题产品",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimhxzv4923438.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-06T00:17:23+08:00"
-    },
-    {
-      "title": "美银：对冲基金Situational Awareness爆仓是高杠杆市场的预警信号",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimhxzz4286864.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-06T00:14:14+08:00"
-    },
-    {
-      "title": "五角大楼从公开网站撤下25年的武器测试报告 担心对手借AI挖掘漏洞",
-      "url": "https://finance.sina.com.cn/world/2026-08-06/doc-inimhxzz4286531.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-06T00:12:59+08:00"
-    },
-    {
-      "title": "伊朗：已与阿曼就霍尔木兹海峡通航路线达成一致",
-      "url": "https://finance.sina.com.cn/world/2026-08-06/doc-inimhyac1058336.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-06T00:10:58+08:00"
-    },
-    {
-      "title": "沃伦质询卢特尼克：阿联酋投资特朗普加密项目后，获准获取美国敏感技术引发争议",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimhyac1058116.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-06T00:10:16+08:00"
-    },
-    {
-      "title": "美联储官员卡什卡利称通胀仍过高 呼吁立即开始渐进式加息",
-      "url": "https://finance.sina.com.cn/world/2026-08-06/doc-inimhxzz4285504.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-06T00:09:22+08:00"
-    },
-    {
-      "title": "卡什卡里：美联储当下应当启动渐进加息",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimhttv3446554.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-06T00:06:52+08:00"
-    },
-    {
-      "title": "美股周三午盘涨跌不一，道指涨幅收窄，纳指与标普指数转跌",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimhtuf1187495.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-06T00:03:38+08:00"
-    },
-    {
-      "title": "美股两大巨头，暴跌",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-05/doc-inimhttv3440515.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-05T23:43:26+08:00"
-    },
-    {
-      "title": "EIA：美国原油库存上周增加247.9万桶 预估中值为减少150万桶",
-      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimhttx5035285.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T23:30:59+08:00"
-    },
-    {
-      "title": "伊朗称已与阿曼就霍尔木兹海峡通航路线达成一致",
-      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimhtuf1177358.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T23:22:43+08:00"
-    },
-    {
-      "title": "市场关注重开霍尔木兹海峡进展 金银价格齐涨",
-      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimhttx5031120.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T23:19:36+08:00"
-    },
-    {
-      "title": "美国经济保持增长势头，但成本上升抑制新增招聘",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimhtuf1172073.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T23:01:57+08:00"
-    },
-    {
-      "title": "迪士尼考虑推出免费广告版流媒体 超级碗广告时段已全部售罄",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimhttv3419518.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-05T23:01:39+08:00"
     },
     {
       "title": "艾斯迪：客户高度集中，资金紧张仍分红，临上会剔除补流项目｜IPO观察",

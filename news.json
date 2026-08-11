@@ -1,13 +1,181 @@
 {
-  "updatedAt": "2026-08-11T22:54:19+08:00",
-  "total": 66,
+  "updatedAt": "2026-08-12T00:54:47+08:00",
+  "total": 50,
   "news": [
+    {
+      "title": "趋势基金创纪录做空全球债券 美国CPI报告料成为盈亏关键",
+      "url": "https://finance.sina.com.cn/world/2026-08-12/doc-inimynsi4388353.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-12T00:47:23+08:00"
+    },
+    {
+      "title": "欧洲股市收盘基本持平 投资者继续关注中东局势发展",
+      "url": "https://finance.sina.com.cn/world/2026-08-12/doc-inimynrz7277423.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-12T00:45:14+08:00"
+    },
+    {
+      "title": "芝加哥联储行长：通胀是美国经济面临的最大问题",
+      "url": "https://finance.sina.com.cn/world/2026-08-12/doc-inimynrz7277157.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-12T00:44:31+08:00"
+    },
+    {
+      "title": "特朗普：正研究阻止纽约市征收非主要住宅附加税的办法",
+      "url": "https://finance.sina.com.cn/world/2026-08-12/doc-inimynse5658811.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-12T00:43:34+08:00"
+    },
+    {
+      "title": "阿格斯上调波音评级至买入，看好产能爬坡与现金流修复",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimynsc4045198.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-12T00:34:19+08:00"
+    },
+    {
+      "title": "辉立资本下调爱彼迎评级",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimynrz7272272.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-12T00:32:53+08:00"
+    },
+    {
+      "title": "巴克莱将安德玛下调至低配评级",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimynsc4044133.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-12T00:31:25+08:00"
+    },
+    {
+      "title": "明尼苏达州、威斯康星州民主党初选再度爆发内斗，中期选举关键选战格局逐步成型",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimynsc4043364.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-12T00:29:05+08:00"
+    },
+    {
+      "title": "纽约联储研究：信用卡债务规模升至1.26万亿美元，K型格局仍在延续",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimynrz7268941.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-12T00:23:20+08:00"
+    },
+    {
+      "title": "欧洲债市：德国国债和英国国债转涨 油价回吐部分涨幅",
+      "url": "https://finance.sina.com.cn/world/2026-08-12/doc-inimynsi4364254.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-12T00:02:11+08:00"
+    },
+    {
+      "title": "爵士制药8.2亿美元收购Actio Biosciences，扩充罕见癫痫药物管线",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimynrz7257450.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-11T23:55:16+08:00"
+    },
+    {
+      "title": "伊朗：霍尔木兹海峡将继续关闭 除非伊朗提出的条件得到满足",
+      "url": "https://finance.sina.com.cn/world/2026-08-11/doc-inimynrx0472935.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-11T23:49:01+08:00"
+    },
+    {
+      "title": "芝商所和Silicon Data计划10月5日推出算力期货",
+      "url": "https://finance.sina.com.cn/world/2026-08-11/doc-inimynsc4027404.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-11T23:48:16+08:00"
+    },
+    {
+      "title": "美股在看空声中屡创新高 谨慎情绪或许意味着仍有上升空间",
+      "url": "https://finance.sina.com.cn/world/2026-08-11/doc-inimynrz7254751.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-11T23:47:34+08:00"
+    },
+    {
+      "title": "头部量化扎堆获配宇树科技",
+      "url": "https://finance.sina.com.cn/wm/2026-08-11/doc-inimynse5627920.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-08-11T23:37:26+08:00"
+    },
+    {
+      "title": "哥伦比亚强震死亡人数超过180人 咖啡产区受灾",
+      "url": "https://finance.sina.com.cn/world/2026-08-11/doc-inimynse5626597.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-11T23:35:52+08:00"
+    },
+    {
+      "title": "英特尔股票发行交易据悉约三分之一认购者未获配股份",
+      "url": "https://finance.sina.com.cn/world/2026-08-11/doc-inimyhkf4151777.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-11T23:29:16+08:00"
+    },
+    {
+      "title": "预测市场迎来秋季行情爆发预期，Polymarket密集内部整顿、蓄力备战",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhkc7376683.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-11T23:20:57+08:00"
+    },
+    {
+      "title": "英伟达推出首款开源AI模型",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhiz0589744.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-11T23:12:50+08:00"
+    },
+    {
+      "title": "婴童用品品牌Frida进军儿童个护赛道",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhkh5746853.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-11T23:09:53+08:00"
+    },
+    {
+      "title": "英伟达推出Nemotron 3.5 Lightning 瞄准智能体AI提速",
+      "url": "https://finance.sina.com.cn/world/2026-08-11/doc-inimyhkf4144368.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-11T23:07:57+08:00"
+    },
+    {
+      "title": "酒店巨头：中产群体持续壮大提振住宿需求，中东市场受挫影响得到对冲",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhkf4144111.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-11T23:07:22+08:00"
+    },
+    {
+      "title": "宇树上市，高管、核心员工获配超180万股",
+      "url": "https://finance.sina.com.cn/wm/2026-08-11/doc-inimyhiz0581996.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-08-11T22:56:22+08:00"
+    },
     {
       "title": "存储巨头拟回购，用于减少注册资本",
       "url": "https://finance.sina.com.cn/stock/s/2026-08-11/doc-inimyhkf4137742.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-08-11T22:49:37+08:00"
+    },
+    {
+      "title": "三川智慧（300066）：中标泰安市自来水有限公司采购项目，中标金额为449.94万元",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-11/doc-inimyhkf4134857.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-08-11T22:43:25+08:00"
     },
     {
       "title": "美国二手房销售降至三个月低点 房价和抵押贷款利率高企拖累楼市",
@@ -59,13 +227,6 @@
       "pubDate": "2026-08-11T22:29:02+08:00"
     },
     {
-      "title": "000096道歉：上半年预计业绩“变脸” 好消息：是向上翻倍修正！",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimyhkh5718728.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T22:20:06+08:00"
-    },
-    {
       "title": "巴基斯坦内政部长抵达伊朗进行会谈",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhiz0558105.shtml",
       "source": "新浪综合",
@@ -80,284 +241,11 @@
       "pubDate": "2026-08-11T22:11:33+08:00"
     },
     {
-      "title": "美诺华上半年实现归属净利润约6368.91万元，同比增长29.83%",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-11/doc-inimyhkc7346385.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T22:11:00+08:00"
-    },
-    {
-      "title": "羚锐制药上半年实现归属净利润约4.95亿元，同比增长4.36%",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-11/doc-inimyhkh5716402.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T22:11:00+08:00"
-    },
-    {
-      "title": "暴涨662.24%！半导体细分龙头IPO了",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-11/doc-inimyhkc7345726.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T22:10:04+08:00"
-    },
-    {
-      "title": "Manus称将恢复作为一家独立公司的运营",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhiz0553942.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T22:09:16+08:00"
-    },
-    {
-      "title": "优必选施展“资本术”：折价近99%股权激励，挪3.87亿港元偿货款",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-11/doc-inimyhkc7339934.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:58:50+08:00"
-    },
-    {
-      "title": "公募调研主赛道切换至医药生物领域，易方达、永赢等旗下百亿基金经理现身",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimyhiz0547911.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:58:13+08:00"
-    },
-    {
-      "title": "美股三大指数小幅高开 SK海力士涨近3%",
-      "url": "https://finance.sina.com.cn/stock/t/2026-08-11/doc-inimyhkc7343213.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:58:05+08:00"
-    },
-    {
-      "title": "缩量普跌、冲高回落！A股释放关键市场信号",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-11/doc-inimyhiz0554939.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:56:31+08:00"
-    },
-    {
-      "title": "两连板北京文化异动澄清：参投2026年暑期档部分电影占比低预计对业绩无重大影响",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-11/doc-inimyhkf4116259.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:55:00+08:00"
-    },
-    {
-      "title": "行云科技辟谣：未出现算力设备及相关商品被海关扣留、滞留等无法通关情况",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-11/doc-inimyhkh5713805.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:55:00+08:00"
-    },
-    {
-      "title": "002483，签订最高33亿元合同",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-11/doc-inimyhkh5717772.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:50:00+08:00"
-    },
-    {
-      "title": "光芯片龙头，拟42.68亿元扩产",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-11/doc-inimyhkh5713833.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:50:00+08:00"
-    },
-    {
-      "title": "雅本化学拟定增募资不超8.41亿元",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-11/doc-inimyhkf4121349.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:50:00+08:00"
-    },
-    {
-      "title": "张瑜：七问美日联合干预日元汇率",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimyhkc7333586.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:43:56+08:00"
-    },
-    {
-      "title": "大股东再施援手！新大洲A无偿受赠兰埔成15%股权，净资产将增厚1.17亿元",
-      "url": "https://finance.sina.com.cn/roll/2026-08-11/doc-inimyhkf4102072.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:42:37+08:00"
-    },
-    {
-      "title": "605098，拟10派12元！多家上市公司，密集公布",
-      "url": "https://finance.sina.com.cn/roll/2026-08-11/doc-inimyhkf4103317.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:42:07+08:00"
-    },
-    {
-      "title": "股价异动 多家公司提示炒作风险",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-11/doc-inimyhkf4108567.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:41:27+08:00"
-    },
-    {
-      "title": "热威股份：半导体及储能是公司工业类电热元件应用的细分领域",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-11/doc-inimyhiz0553829.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:38:57+08:00"
-    },
-    {
-      "title": "盈方微：控股子公司盈方创芯完成工商注册，上海盈方微出资510万元持股51%",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-11/doc-inimyhkf4110317.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:36:30+08:00"
-    },
-    {
-      "title": "开盘：标普500小幅走高，投资者评估美伊达成协议的可能性",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhiz0532305.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:30:38+08:00"
-    },
-    {
-      "title": "巴基斯坦内政部长将于数小时内抵达伊朗举行会谈",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhkh5684215.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:17:47+08:00"
-    },
-    {
-      "title": "特鲁伊斯特证券上调百思买评级",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhkc7315937.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:16:24+08:00"
-    },
-    {
-      "title": "英伟达全力研发Nemotron 4开源大模型 拉动芯片需求同时直面客户竞争",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaai4217582.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:12:45+08:00"
-    },
-    {
-      "title": "巴基斯坦内政部长抵达德黑兰展开磋商",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaak5804650.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T21:00:28+08:00"
-    },
-    {
       "title": "昀冢科技定增豪赌MLCC背后：连亏4年，资产负债率超92%",
       "url": "https://www.tmtpost.com/8099434.html",
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-08-11T20:57:57+08:00"
-    },
-    {
-      "title": "三星SDI宣布终止与通用汽车的电池合资项目 北美电动车市场不及预期",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaak5800183.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T20:53:01+08:00"
-    },
-    {
-      "title": "净利暴涨715倍之后，江波龙的真实问题是什么？",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-11/doc-inimyaak5806865.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T20:46:06+08:00"
-    },
-    {
-      "title": "受霍尔木兹海峡相关协议释放的多空矛盾信号影响，交易商审慎权衡之下，美国油价徘徊于每桶82美元附近",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaac0635476.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T20:43:54+08:00"
-    },
-    {
-      "title": "被指实控人掏空上市资产，250亿光学巨头辟谣报案",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-11/doc-inimyaaf7436653.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T20:42:34+08:00"
-    },
-    {
-      "title": "从排队抢购到二手商“不敢收”，“黄金爱马仕”不好卖了？",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-11/doc-inimyaaf7435789.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T20:42:34+08:00"
-    },
-    {
-      "title": "韩元周二小幅升值 受SK海力士赴美上市抛售美元带动",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaaf7427215.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T20:41:32+08:00"
-    },
-    {
-      "title": "ADP：截至7月25日的四周美国私营部门就业人数平均每周增加8250人",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaaf7425157.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T20:38:02+08:00"
-    },
-    {
-      "title": "美军向一搜巴拿马籍船只开火 称其试图冲破美方封锁",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaac0624718.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T20:26:46+08:00"
-    },
-    {
-      "title": "达美乐将推出单人款新品披萨，满足不愿与人分食的食客需求",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaac0623646.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T20:24:57+08:00"
-    },
-    {
-      "title": "IBM与Together AI签署2.4亿美元云服务协议",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaac0621981.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T20:22:02+08:00"
-    },
-    {
-      "title": "美国小企业乐观情绪升至接近一年来的最高水平",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaai4188810.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T20:20:43+08:00"
-    },
-    {
-      "title": "美国7月CPI数据即将出炉 美联储9月加息抉择陷入两难",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaak5778660.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T20:18:51+08:00"
-    },
-    {
-      "title": "今年近百项税收优惠政策调整，释放什么信号？",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimyaak5773632.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T20:08:24+08:00"
-    },
-    {
-      "title": "撤离加州的炼油巨头重回布局：建设一条起自得克萨斯州的巨型成品油管道",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaai4178937.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T20:01:34+08:00"
-    },
-    {
-      "title": "美股期货小幅走高 美银策略师称企业盈利的强劲增长势头历史罕见",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaak5766669.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-11T19:59:17+08:00"
     },
     {
       "title": "新消费四姐妹这一年",

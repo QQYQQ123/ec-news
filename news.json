@@ -1,7 +1,56 @@
 {
-  "updatedAt": "2026-08-22T02:31:41+08:00",
-  "total": 57,
+  "updatedAt": "2026-08-22T04:21:28+08:00",
+  "total": 50,
   "news": [
+    {
+      "title": "英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工",
+      "url": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcnhc7844714.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-22T04:19:50+08:00"
+    },
+    {
+      "title": "原油：中东局势以及亚洲需求推动油价录得周涨幅",
+      "url": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcnha1071956.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-22T04:19:03+08:00"
+    },
+    {
+      "title": "美国债市：美债全线下跌 短债收益率升幅领先",
+      "url": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcnha1066361.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-22T04:01:12+08:00"
+    },
+    {
+      "title": "特朗普推出新关税宽减措施 旨在压低牛绞肉价格",
+      "url": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcnfx6301186.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-22T03:59:46+08:00"
+    },
+    {
+      "title": "纽约汇市：美元跌至三个月低点，美债回购计划引发结构性看空情绪",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcnhc7821218.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-22T03:00:09+08:00"
+    },
+    {
+      "title": "比特币单周飙升逾22%创三年最大涨幅，政策利好与逼空行情共振",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcnha1048550.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-22T02:59:30+08:00"
+    },
+    {
+      "title": "Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1178512.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-22T02:57:01+08:00"
+    },
     {
       "title": "桥水基金创始人的债务周期警告：美债面临“三年之痒”，硬通货成避险首选",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfyi1532519.shtml",
@@ -164,55 +213,6 @@
       "pubDate": "2026-08-21T23:27:25+08:00"
     },
     {
-      "title": "M4Markets:流动宽松重塑黄金角色",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-21/doc-inipazsi8004222.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-21T23:25:22+08:00"
-    },
-    {
-      "title": "Mega安汇:生态基金调整代币用途",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-21/doc-inipazsi8003009.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-21T23:23:09+08:00"
-    },
-    {
-      "title": "NCE平台:现货牌照完善服务边界",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-21/doc-inipazsc6394682.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-21T23:21:35+08:00"
-    },
-    {
-      "title": "RadexMarkets瑞德克斯:杠杆泡沫出清改善结构",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-21/doc-inipazsi8001039.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-21T23:20:00+08:00"
-    },
-    {
-      "title": "Vatee万腾:智能代理拓宽交易接口",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-21/doc-inipazsi8000035.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-21T23:18:16+08:00"
-    },
-    {
-      "title": "科普:长周期的底部和短周期的底部 有什么不同",
-      "url": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-08-21/doc-inipazsh1225359.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-21T23:13:49+08:00"
-    },
-    {
-      "title": "ATFX:日本7月全国CPI年率升高0.3个百分点至1.9%",
-      "url": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-08-21/doc-inipazsh1222563.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-21T23:07:21+08:00"
-    },
-    {
       "title": "城堡集团已解除超80%来自Situational Awareness投资组合的相关风险",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipazsi7995006.shtml",
       "source": "新浪综合",
@@ -239,55 +239,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-08-21T23:04:13+08:00"
-    },
-    {
-      "title": "硅谷企业如何抓住英超博彩广告管控带来的机遇",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipazsc6381434.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-21T23:03:55+08:00"
-    },
-    {
-      "title": "比特币逼近7.8万美元、黄金走强，市场将此与美国财政部干预及美元走弱相联系",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipazsi7990959.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-21T22:57:54+08:00"
-    },
-    {
-      "title": "工时与开票软件Harvest大幅调价，部分企业账单涨幅达约1500%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipazsi7988448.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-21T22:52:18+08:00"
-    },
-    {
-      "title": "三星电子公布2026年股东回报计划，规模预计达90万亿至110万亿韩元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipazsm1529838.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-21T22:49:01+08:00"
-    },
-    {
-      "title": "德国8月制造业PMI初值升至54.1，创51个月新高，服务业继续收缩",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipazsc6369473.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-21T22:46:08+08:00"
-    },
-    {
-      "title": "美国8月私营部门活动加速，服务业带动综合产出指数升至52个月高点",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipazsc6366724.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-21T22:42:40+08:00"
-    },
-    {
-      "title": "机器人行业新一轮“军备竞赛”：谁能拍出最吸睛的造势宣传片？",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipavkf6483426.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-21T22:25:15+08:00"
     },
     {
       "title": "“割裂”的市场：十万亿级中国银发经济的真实地图丨行业风向标",

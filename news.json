@@ -1,7 +1,140 @@
 {
-  "updatedAt": "2026-08-27T03:43:34+08:00",
-  "total": 54,
+  "updatedAt": "2026-08-27T06:41:41+08:00",
+  "total": 48,
   "news": [
+    {
+      "title": "英伟达：毛利率预计在第四财季触底",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-iniptaew0446055.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T06:34:41+08:00"
+    },
+    {
+      "title": "亚马逊将从英伟达购买200万颗GPU",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-iniptafc5603801.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T06:34:07+08:00"
+    },
+    {
+      "title": "黄仁勋谈AI投资：“唯一的遗憾是没能更早、投入更多”",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-iniptafc5603159.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T06:32:16+08:00"
+    },
+    {
+      "title": "推荐几个实用的消费投诉平台？各平台该怎么选一文讲清",
+      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-08-27/doc-iniprcpy2316115.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-08-27T06:30:00+08:00"
+    },
+    {
+      "title": "胰腺癌治疗迎来重大突破！美国FDA批准Revolution新药 患者中位生存期几乎翻倍",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-iniptafc8990692.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T06:24:44+08:00"
+    },
+    {
+      "title": "惠普Q3同比增长13%，盈利预测超预期，仍难挡股价重挫，市场聚焦PC需求隐忧",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-iniptafc5597695.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T06:15:45+08:00"
+    },
+    {
+      "title": "Okta Q2营收8.05亿超预期，AI智能体安全需求激增，盘后大涨20%",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-iniptaew0438323.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T06:11:10+08:00"
+    },
+    {
+      "title": "Salesforce Q2营收113.5亿超预期，AI产品年化收入破15亿，盘后大涨12%",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-iniptaff5752344.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T06:07:33+08:00"
+    },
+    {
+      "title": "OpenAI发布关于Hugging Face AI智能体黑客事件的详尽报告",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-iniptafc8977132.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T06:03:43+08:00"
+    },
+    {
+      "title": "8月27日外盘头条：英伟达Q2营收962亿美元同比大增106% 苹果将于9月9日发布首款折叠式手机，开启特努斯时代",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-iniptaff5745501.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T05:57:28+08:00"
+    },
+    {
+      "title": "美国债市：油价企稳后美债回落 5年期国债标售偏弱",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsvwy0551812.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T05:14:53+08:00"
+    },
+    {
+      "title": "原油：油价小幅下跌 交易员评估中东以及俄乌战争局势",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsvxf9078728.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T05:13:30+08:00"
+    },
+    {
+      "title": "特朗普：对于伊朗何时重返谈判“没有时间表”",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-27/doc-inipsvxi5847627.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T04:38:32+08:00"
+    },
+    {
+      "title": "纽约汇市：个人消费支出价格指数符合预期 美元延续涨势",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsvwy0539369.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T04:33:54+08:00"
+    },
+    {
+      "title": "巴克莱：美国国库券市场可以消化更大规模的国债回购",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsvxf5696354.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T04:31:20+08:00"
+    },
+    {
+      "title": "大超预期！英伟达Q2营收962亿美元同比增106%，数据中心营收890亿美元同比增长117%",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsvwy0538177.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T04:30:45+08:00"
+    },
+    {
+      "title": "8月27日热门中概股多数下跌 网易跌超4% BOSS直聘涨超15%",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsvxf5693148.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T04:19:39+08:00"
+    },
+    {
+      "title": "8月27日美股收盘：三大指数小幅收跌 7月PCE物价指数显示通胀仍处高位",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsvxf9070349.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T04:10:48+08:00"
+    },
+    {
+      "title": "Meta与美国多州就社交媒体危害案达成和解 最高将支付约180亿美元",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsvxf9038270.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T04:01:30+08:00"
+    },
     {
       "title": "卡塔尔外交大臣将访伊朗 讨论斡旋努力及地区局势",
       "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsvxf9023629.shtml",
@@ -15,6 +148,13 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-08-27T03:34:34+08:00"
+    },
+    {
+      "title": "伊朗官员：对所有遭袭核设施检查须经伊朗议会批准",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-27/doc-inipsvxf5683978.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T03:32:59+08:00"
     },
     {
       "title": "IDC预测苹果折叠屏iPhone第一年出货量将超过1000万部",
@@ -52,6 +192,20 @@
       "pubDate": "2026-08-27T02:23:11+08:00"
     },
     {
+      "title": "美媒：伊朗曾企图在美国暗杀内塔尼亚胡长子",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-27/doc-inipsrri5777951.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T01:43:29+08:00"
+    },
+    {
+      "title": "伊朗外长谴责美对伊实施“经济恐怖主义行动”",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-27/doc-inipsrri5773999.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-08-27T01:15:59+08:00"
+    },
+    {
       "title": "苹果将于9月9日发布首款折叠式手机",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsmim9194506.shtml",
       "source": "新浪综合",
@@ -64,202 +218,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-08-27T01:02:44+08:00"
-    },
-    {
-      "title": "我们真能靠“经济增长化解”40万亿美元国债吗？一位经济学家直言：“美国毫无机会”",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsmie0727697.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-27T00:45:25+08:00"
-    },
-    {
-      "title": "迪克体育用品股价暴跌，暴露出陷入困境的耐克面临一大核心难题",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsmim9169747.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-27T00:39:04+08:00"
-    },
-    {
-      "title": "欧洲股市基本持稳等待英伟达财报 银行股走高",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsmim5882429.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-27T00:36:49+08:00"
-    },
-    {
-      "title": "苹果官宣2026年秋季发布会 ： 这场，苹果要“亮新篇”",
-      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-08-27/doc-inipsmie0715092.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-27T00:10:48+08:00"
-    },
-    {
-      "title": "耐克股价创12年新低",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsmim9143974.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-27T00:04:33+08:00"
-    },
-    {
-      "title": "欧洲债市：欧债追随美债下跌 交易员加大对欧洲央行加息的押注",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsmim5868707.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-27T00:00:11+08:00"
-    },
-    {
-      "title": "进退两难：派拉蒙并购案延期，华纳兄弟‑探索身陷僵局",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsmim9126626.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-26T23:41:15+08:00"
-    },
-    {
-      "title": "杰克逊霍尔年会前夕：美元、债市高度紧绷，贝森特市场干预给沃什施加巨大压力",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsmim9124102.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-26T23:37:52+08:00"
-    },
-    {
-      "title": "伊朗称美伊阿曼谈判霍尔木兹海峡协议，美国从中作梗",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsmim5861106.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-26T23:34:20+08:00"
-    },
-    {
-      "title": "油价脱离低位反弹：伊朗称已与阿曼就霍尔木兹海峡收益分成达成协议",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsmim5860008.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-26T23:31:12+08:00"
-    },
-    {
-      "title": "伊朗与俄气公司探讨天然气行业合作",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsmim9117777.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-26T23:29:35+08:00"
-    },
-    {
-      "title": "医疗器械厂商波士顿科学遭遇网络攻击，股价下挫",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsmim5858980.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-26T23:28:24+08:00"
-    },
-    {
-      "title": "比尔·盖茨称AI时代将是人类史上最动荡时期之一 批评科技企业淡化风险",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezr5996333.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-26T22:59:56+08:00"
-    },
-    {
-      "title": "立陶宛总统：美国中情局局长突访莫斯科旨在缓和紧张局势",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezp9223164.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-26T22:58:48+08:00"
-    },
-    {
-      "title": "绿城攻坚破局，全年目标不变",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-26/doc-inipsezh0822236.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-26T22:57:29+08:00"
-    },
-    {
-      "title": "林锋“一肩挑”后，泸州老窖二季度利润暴跌80%！85亿分红承诺压顶",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-26/doc-inipsmip5874163.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-26T22:56:27+08:00"
-    },
-    {
-      "title": "中报净利润同比增长79.57% 同宇新材股价“20CM”涨停",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-26/doc-inipsmie0695948.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-26T22:54:28+08:00"
-    },
-    {
-      "title": "思索技术IPO：八项违规引监管“全链追责”，从实控人到保代均遭处分，手持理财1.1亿，募资额较前次激增156%",
-      "url": "https://finance.sina.com.cn/stock/newstock/2026-08-26/doc-inipsmip5868529.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-26T22:54:03+08:00"
-    },
-    {
-      "title": "重要通胀数据发布，美联储9月加息概率提升！美股下挫，原油短线拉升",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-26/doc-inipsezh0820158.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-26T22:53:25+08:00"
-    },
-    {
-      "title": "长城汽车上半年成绩单出炉：营收站上千亿关口，内外市场冷暖分化",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-26/doc-inipsezp9219494.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-26T22:50:11+08:00"
-    },
-    {
-      "title": "管理层迭代重塑经营生态 华仁药业上半年深耕主业迎蜕变",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-26/doc-inipsezp5977232.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-08-26T22:47:24+08:00"
-    },
-    {
-      "title": "比尔・盖茨警告：针对人工智能即将引发的剧变，人类尚无应对方案",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezp9211065.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-26T22:44:41+08:00"
-    },
-    {
-      "title": "EIA：美国原油库存上周增加9.5万桶 预估中值为增加158万桶",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezp9208739.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-26T22:42:24+08:00"
-    },
-    {
-      "title": "西藏吉隆遭受泥石流灾害 已造成3人遇难265人失联",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-26/doc-inipsezr5979634.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-26T22:36:35+08:00"
-    },
-    {
-      "title": "比尔·盖茨警告：人工智能将引发“剧变”，但尚无应对计划",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezp5969974.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-26T22:35:54+08:00"
-    },
-    {
-      "title": "Meta以167亿美元就社交媒体成瘾诉讼与加州等州达成和解",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezr5975004.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-26T22:35:38+08:00"
-    },
-    {
-      "title": "帕洛阿尔托网络公司CEO阿罗拉加速并购布局 应对AI时代安全挑战",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezh0808776.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-26T22:27:58+08:00"
-    },
-    {
-      "title": "Victory Capital以70亿美元收购信贷管理公司First Eagle",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezp5966265.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-08-26T22:26:53+08:00"
     },
     {
       "title": "*ST香雪的生死关口：重整卡壳，半年亏掉2.7亿元丨看财报",

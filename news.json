@@ -1,27 +1,230 @@
 {
-  "updatedAt": "2026-09-02T22:03:21+08:00",
-  "total": 60,
+  "updatedAt": "2026-09-03T03:11:55+08:00",
+  "total": 50,
   "news": [
     {
-      "title": "伊朗敦促地区国家阻止美国借其领土对伊朗发动袭击",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnawq1298039.shtml",
+      "title": "特朗普：随时准备对伊朗再次发动袭击 但战争不会持续太久",
+      "url": "https://finance.sina.com.cn/world/2026-09-03/doc-iniqnpnn2521445.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-09-02T22:00:04+08:00"
+      "pubDate": "2026-09-03T02:58:30+08:00"
+    },
+    {
+      "title": "鲁比奥淡化CIA局长访问莫斯科一事 称此行主要为维护沟通渠道",
+      "url": "https://finance.sina.com.cn/world/2026-09-03/doc-iniqnpnk1189585.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-03T02:35:42+08:00"
+    },
+    {
+      "title": "美国财长贝森特：长债回购旨在让银行业有更多空间购买高流动性债券",
+      "url": "https://finance.sina.com.cn/world/2026-09-03/doc-iniqnpnk1174338.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-03T02:16:49+08:00"
+    },
+    {
+      "title": "白宫：美委协议项下原油可能11月进入美国储备",
+      "url": "https://finance.sina.com.cn/world/2026-09-03/doc-iniqnpnn2501229.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-03T02:02:36+08:00"
+    },
+    {
+      "title": "宏观视野：美国财政部俨然影子央行 谁在真正主导利率",
+      "url": "https://finance.sina.com.cn/world/2026-09-03/doc-iniqnieq2625685.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-03T01:38:18+08:00"
+    },
+    {
+      "title": "欧洲债市：德债连续第六个交易日下跌 英债表现相对领先",
+      "url": "https://finance.sina.com.cn/world/2026-09-03/doc-iniqnieq7441035.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-03T00:59:34+08:00"
+    },
+    {
+      "title": "这些女性在休产假期间被解雇。是的，这合法，而且可能比你想象的更常见",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqnieq7440478.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-03T00:57:30+08:00"
+    },
+    {
+      "title": "西南航空将在四个城市推出机场休息室，未来将有更多布局",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqnieq7437020.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-03T00:39:45+08:00"
+    },
+    {
+      "title": "特朗普将会见旅游行业CEO，白宫力推世界杯旅游增长效应",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqnien1260348.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-03T00:36:47+08:00"
+    },
+    {
+      "title": "私募股权基金近期跑输标普500指数——为何面向富人的投资未必更好",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqniek4485967.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-03T00:33:09+08:00"
+    },
+    {
+      "title": "欧洲股市收跌 中东冲突加剧通胀担忧",
+      "url": "https://finance.sina.com.cn/world/2026-09-03/doc-iniqnien1257919.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-03T00:31:55+08:00"
+    },
+    {
+      "title": "债券市场抛售：投资者如何在利率上升时调整并保护资金",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqniek4471478.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-03T00:05:35+08:00"
+    },
+    {
+      "title": "白宫官员：特朗普今日将会见美国航空等企业高管",
+      "url": "https://finance.sina.com.cn/world/2026-09-03/doc-iniqnieq2597865.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-03T00:01:39+08:00"
+    },
+    {
+      "title": "阿波罗全球管理：伊朗战争和关税料推动美国国债收益率上升",
+      "url": "https://finance.sina.com.cn/world/2026-09-03/doc-iniqnieq2597692.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-03T00:01:08+08:00"
+    },
+    {
+      "title": "代表预计OPEC+将维持10月产量政策不变",
+      "url": "https://finance.sina.com.cn/world/2026-09-03/doc-iniqniek4468276.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-03T00:00:12+08:00"
+    },
+    {
+      "title": "荷兰将86吨黄金储备存放地从美加转至伦敦 以便在危机时期快速动用",
+      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqnieq2594283.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-02T23:44:37+08:00"
+    },
+    {
+      "title": "道指深夜涨超300点，科技、中概龙头走高，英伟达大涨超3%，金银双双拉升",
+      "url": "https://finance.sina.com.cn/wm/2026-09-02/doc-iniqniek4458488.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-02T23:36:03+08:00"
+    },
+    {
+      "title": "沃什亮出研判美国经济的“数据仪表盘” 经济强韧但通胀仍是隐忧",
+      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqniek4456237.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-02T23:34:46+08:00"
+    },
+    {
+      "title": "福特在8月销量下降10.3%之际继续提高皮卡产量",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqniek4453428.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-02T23:30:07+08:00"
+    },
+    {
+      "title": "美国航空通过改造波音飞机持续推进高端化战略",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnieq2589174.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-02T23:27:02+08:00"
+    },
+    {
+      "title": "美国能源部长赖特：周一超过1700万桶石油通过霍尔木兹海峡",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnaws7544387.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-02T23:21:03+08:00"
+    },
+    {
+      "title": "苹果股价正在做一件20年未曾做过的事",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnawq1350394.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-02T23:18:20+08:00"
+    },
+    {
+      "title": "黄仁勋将AI比作水电等公用事业 呼吁G20加快应用促进增长",
+      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqnawq1347464.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-02T23:13:15+08:00"
+    },
+    {
+      "title": "沃什若想加息，票其实已经够了：9月决议真正的悬念只剩数据",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnawn4567318.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-02T23:00:21+08:00"
+    },
+    {
+      "title": "美国股市早盘在涨跌之间徘徊 戴尔一度飙升近14%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnawq1337352.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-02T22:55:07+08:00"
+    },
+    {
+      "title": "纽约联储威廉姆斯称收益率飙升源于强劲的经济前景",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnawn4558712.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-02T22:44:53+08:00"
+    },
+    {
+      "title": "深夜！美元，直线大跳水！美联储重磅发声！股债汇集体异动",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-02/doc-iniqnaws2704793.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-02T22:40:33+08:00"
+    },
+    {
+      "title": "美国商务部长进一步指责加拿大“搞砸贸易协议”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnaws2703516.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-02T22:40:02+08:00"
     },
     {
       "title": "涉嫌欺诈发行！这家A股公司及相关高管被刑事追责",
-      "url": "https://finance.sina.com.cn/stock/s/2026-09-02/doc-iniqnaws2683895.shtml",
+      "url": "https://finance.sina.com.cn/stock/s/2026-09-02/doc-iniqnaws7531105.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-09-02T21:52:48+08:00"
+      "pubDate": "2026-09-02T22:39:16+08:00"
     },
     {
-      "title": "美国私营部门8月仅增3.8万个岗位，为1月以来最慢增速",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnawq1292285.shtml",
+      "title": "伯克希尔CEO阿贝尔：数据中心建设面临“更多抵制”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnawn4553857.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-09-02T21:50:28+08:00"
+      "pubDate": "2026-09-02T22:37:25+08:00"
+    },
+    {
+      "title": "优步将裁员10%，以期实现“更精简、更快速”发展",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnawn4550738.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-02T22:32:41+08:00"
+    },
+    {
+      "title": "伯克希尔CEO阿贝尔称日本债券收益率目前对商社不构成挑战",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnawn4544675.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-02T22:24:19+08:00"
     },
     {
       "title": "渠道库存加速去化，线上营收增长15%，古井贡酒“挤水分”信号明确 | 看财报",
@@ -31,46 +234,11 @@
       "pubDate": "2026-09-02T21:49:08+08:00"
     },
     {
-      "title": "42家上市银行中报财富管理大考，工行以765.91亿元手续费收入规模领跑，代理业务成胜负手",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqnaws2682719.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-02T21:47:00+08:00"
-    },
-    {
-      "title": "KKR百亿规模数据中心已完成首批核心高管招聘",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnaws2681195.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T21:46:02+08:00"
-    },
-    {
-      "title": "贝森特在阿什维尔G20闭幕记者会上称：债务只能靠增长消化，主席声明写入霍尔木兹通航",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnaws2680707.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T21:44:42+08:00"
-    },
-    {
-      "title": "新规实施未满一年，多家银行违规基金代销被罚，业务跑在了合规前",
-      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-09-02/doc-iniqnaws7508116.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-02T21:38:00+08:00"
-    },
-    {
       "title": "China's Humanoid Robots Industry Enters the Era of “Public Infrastructure”",
       "url": "https://www.tmtpost.com/8126318.html",
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-09-02T21:37:06+08:00"
-    },
-    {
-      "title": "金融中报观察室 | 解码A股五大上市险企390亿元中期分红背后的“同与不同”",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqnaws7504527.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-02T21:36:18+08:00"
     },
     {
       "title": "AI 落地东盟，30% 是技术和算法，70% 是人 | AIMX Singapore 2026 现场观察",
@@ -85,244 +253,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-09-02T21:31:03+08:00"
-    },
-    {
-      "title": "日本十年期国债收益率触及3%，为1996年以来首次",
-      "url": "https://finance.sina.com.cn/7x24/2026-09-02/doc-iniqnawn4503918.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T21:30:21+08:00"
-    },
-    {
-      "title": "开盘：三大股指涨跌不一 10年期美债收益率创两年多新高",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnawn4507463.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T21:30:06+08:00"
-    },
-    {
-      "title": "美国商务部长：不在美国建厂就做好缴纳关税的准备",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnaws7499710.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T21:25:42+08:00"
-    },
-    {
-      "title": "沙特阿美寻求新增石油仓储设施",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnaws2672375.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T21:24:39+08:00"
-    },
-    {
-      "title": "谷歌拟本周推出Gemini 3.8 Flash，内部测试显示编码能力优于Opus",
-      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqnawq1272050.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T21:24:16+08:00"
-    },
-    {
-      "title": "Equinix将携手英伟达、Together AI推出人工智能推理交换平台",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnaws2671784.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T21:23:28+08:00"
-    },
-    {
-      "title": "特朗普委内瑞拉石油协议最大悬而未决的问题：这1000亿美元资金从何而来？",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnaws7497985.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T21:22:01+08:00"
-    },
-    {
-      "title": "戴尔科技盘前飙涨近10%，美债收益率下跌，道指、标普期货拉升，全球加息潮来了",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqnaws2672505.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-02T21:20:23+08:00"
-    },
-    {
-      "title": "美债收益率攀升，A股底气何在？",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-02/doc-iniqnawn4495340.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-02T21:15:19+08:00"
-    },
-    {
-      "title": "雪佛龙扩大在委内瑞拉业务布局，未来五年计划投资70亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqnawq1265294.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T21:14:18+08:00"
-    },
-    {
-      "title": "甘肃银行获批收购平凉市静宁成纪村镇银行并设立支行",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-09-02/doc-iniqnawn4491684.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-02T21:12:53+08:00"
-    },
-    {
-      "title": "卢特尼克：在美国建半导体厂免税，不建厂就额外交税",
-      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqmwqu7619386.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T20:59:32+08:00"
-    },
-    {
-      "title": "胖东来供应商员工必须双休交社保？公司客服回应",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqmwqs1384029.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T20:56:00+08:00"
-    },
-    {
-      "title": "【西街观察】宇树科技股价启示录",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-02/doc-iniqmwqu7619926.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-02T20:55:00+08:00"
-    },
-    {
-      "title": "特斯拉将于奥斯汀举办Cybercab发布会 自动驾驶出租车落地进程推进",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqu2790724.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T20:52:53+08:00"
-    },
-    {
-      "title": "华润饮料9月2日回购16万股 涉资约118.6万港元",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-09-02/doc-iniqmwqu2791235.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-02T20:52:04+08:00"
-    },
-    {
-      "title": "事出有因？多家上市银行未披露科技金融贷款规模",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqmwqq4609274.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-02T20:51:00+08:00"
-    },
-    {
-      "title": "汾酒单季净利跌43%，五粮液夺回老二“宝座”",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-02/doc-iniqmwqs1383697.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-02T20:49:56+08:00"
-    },
-    {
-      "title": "600703：控股股东重整风波平息，实控人留置阴霾未散",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-02/doc-iniqmwqq4609289.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-02T20:49:44+08:00"
-    },
-    {
-      "title": "寿险价值普涨、产险成本普降，A股上市险企负债端同频向好",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqmwqu2789680.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-02T20:49:26+08:00"
-    },
-    {
-      "title": "日本央行鹰派委员高田创不排除大幅加息可能，日元应声走强",
-      "url": "https://finance.sina.com.cn/7x24/2026-09-02/doc-iniqmwqq4605372.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T20:48:26+08:00"
-    },
-    {
-      "title": "伯克希尔CEO阿贝尔承诺长期支持日本五大商社",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqq4604062.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T20:46:56+08:00"
-    },
-    {
-      "title": "000333，已回购超80亿元！多家A股公司，披露相应进展",
-      "url": "https://finance.sina.com.cn/stock/s/2026-09-02/doc-iniqmwqs1374133.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T20:37:39+08:00"
-    },
-    {
-      "title": "差1分钱涨停！600722 尾盘冲板落空，阶段累计涨幅超140%",
-      "url": "https://finance.sina.com.cn/china/2026-09-02/doc-iniqmwqu2785368.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T20:36:10+08:00"
-    },
-    {
-      "title": "贝森特称美国核心通胀“得到很好控制”",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqs1365453.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T20:33:17+08:00"
-    },
-    {
-      "title": "盘前：美债收益率逼近5% 纳指期货跌0.24%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqq4605584.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T20:30:29+08:00"
-    },
-    {
-      "title": "Uber将裁减约3300个岗位 寻求精简管理层级",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqq4588242.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T20:26:43+08:00"
-    },
-    {
-      "title": "贝森特的债券收益因30年期收益率再度跳升而消失殆尽",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqu2768114.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T20:02:23+08:00"
-    },
-    {
-      "title": "雀巢“瘦身”计划加速落地，10亿美元打包出售7个保健品品牌",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqmwqu2767207.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T19:56:33+08:00"
-    },
-    {
-      "title": "美国柴油价格飙升至4月以来最高，战争致全球供应紧张",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqs1335435.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T19:53:19+08:00"
-    },
-    {
-      "title": "英伟达的下一步：不止售卖AI芯片",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqq4561069.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T19:51:01+08:00"
-    },
-    {
-      "title": "卢特尼克称债券市场将趋稳并推动收益率下降",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqs1316278.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T19:33:28+08:00"
-    },
-    {
-      "title": "伯克希尔CEO阿贝尔：日本债券收益率目前并未对日本商社构成压力",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqu7579893.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T19:24:14+08:00"
-    },
-    {
-      "title": "伯克希尔CEO阿贝尔：二季度增持后，Alphabet已是AI领域“重要参与者”",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqs1308962.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-02T19:22:30+08:00"
     },
     {
       "title": "库克和特努斯谁更难？",

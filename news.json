@@ -1,7 +1,217 @@
 {
-  "updatedAt": "2026-09-04T21:58:38+08:00",
-  "total": 67,
+  "updatedAt": "2026-09-05T01:30:40+08:00",
+  "total": 51,
   "news": [
+    {
+      "title": "欧洲债市：英国国债结束周连跌 德债走高",
+      "url": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqsvkh4019656.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-05T01:12:53+08:00"
+    },
+    {
+      "title": "马斯克旗下The Boring Company要求投资者协助招聘与业务拓展",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqsvkh4011795.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-05T00:56:22+08:00"
+    },
+    {
+      "title": "美国国家公路交通安全管理局启动对特斯拉Cybercab落地项目的调查",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqsvkk0781431.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-05T00:50:35+08:00"
+    },
+    {
+      "title": "非农虽为鹰派增添筹码 但美联储加息与否还得通胀报告拍板",
+      "url": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqsvkk0778784.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-05T00:45:09+08:00"
+    },
+    {
+      "title": "EQT拟20亿美元收购保险经纪商麦吉尔伙伴公司",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqsvkh4003540.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-05T00:39:07+08:00"
+    },
+    {
+      "title": "欧洲股市录得四周来第三周下跌 美国就业报告强劲推升加息押注",
+      "url": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqsvkn1015448.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-05T00:35:52+08:00"
+    },
+    {
+      "title": "大众汽车力图重振美国业务",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqsvkn1015235.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-05T00:35:11+08:00"
+    },
+    {
+      "title": "大型科技企业可建设民众不反感的数据中心",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqsvkk0765199.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-05T00:18:17+08:00"
+    },
+    {
+      "title": "特朗普突然向沃什发难 威胁美联储不降息就切断和对美顺差国的贸易",
+      "url": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqsvkh3988311.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-05T00:09:29+08:00"
+    },
+    {
+      "title": "美国商务部长卢特尼克去年收入超2.5亿美元",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqsvkh3988194.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-05T00:09:14+08:00"
+    },
+    {
+      "title": "Blue Owl据悉计划创设数据中心REIT并将其上市",
+      "url": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsvkn0998166.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-04T23:30:39+08:00"
+    },
+    {
+      "title": "苹果开启John Ternus时代 史上最庞大产品阵容蓄势待发",
+      "url": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsvkh3965444.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-04T23:26:49+08:00"
+    },
+    {
+      "title": "CEO 表示：受就业数据影响，“市场并非处在正常运行环境”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsvkn5824144.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-04T23:26:27+08:00"
+    },
+    {
+      "title": "贝莱德：非农大超预期后 下周的通胀数据更显关键",
+      "url": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsvkn5823718.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-04T23:24:42+08:00"
+    },
+    {
+      "title": "劳动节开启“秋日度假潮”，富豪游客避开夏日人潮",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsvkn5823366.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-04T23:23:02+08:00"
+    },
+    {
+      "title": "加拿大就业人数减少41700人 惟制造业岗位大幅增加",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0852795.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-04T22:56:56+08:00"
+    },
+    {
+      "title": "强劲就业数据推高美联储加息押注 比特币跌破8万美元",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0852018.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-04T22:55:59+08:00"
+    },
+    {
+      "title": "美国股市早盘小幅走低 非农报告推高加息预期",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0851011.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-04T22:54:36+08:00"
+    },
+    {
+      "title": "贝森特表示“我们希望”不再有其他银行需要受到制裁",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsraq1118843.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-04T22:53:29+08:00"
+    },
+    {
+      "title": "美债收益率下行或许需要经济走弱，而特朗普无法靠行政手段解决该问题",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0849357.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-04T22:52:18+08:00"
+    },
+    {
+      "title": "特朗普要求美联储大幅降息，否则将终止与对美贸易顺差国的贸易往来",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0847221.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-04T22:48:48+08:00"
+    },
+    {
+      "title": "柴油价格创下历史新高：俄乌、伊朗冲突导致炼油厂停产，加剧通胀担忧",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsraq5941983.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-04T22:41:49+08:00"
+    },
+    {
+      "title": "比特币有望实现连续第三周收涨，宏观市场压力不断加剧",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsrak4067284.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-04T22:38:14+08:00"
+    },
+    {
+      "title": "刘彦春这只基金，基民100%套牢！",
+      "url": "https://finance.sina.com.cn/money/fund/jjyj/2026-09-04/doc-iniqsraq5949979.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-04T22:33:54+08:00"
+    },
+    {
+      "title": "“吸金”逾58亿元，主力资金重点布局这一方向",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqsraq5937954.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-04T22:21:12+08:00"
+    },
+    {
+      "title": "沃什的可信度陷阱：他可能比任何人都希望通胀放缓",
+      "url": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsran0825791.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-04T22:16:40+08:00"
+    },
+    {
+      "title": "放量了，但高开低走！下周A股如何演绎？",
+      "url": "https://finance.sina.com.cn/wm/2026-09-04/doc-iniqsraq1107449.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-04T22:09:56+08:00"
+    },
+    {
+      "title": "报道：美国特使威特科夫和库什纳周末将访问莫斯科和基辅",
+      "url": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsraq5932577.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-04T22:08:37+08:00"
+    },
+    {
+      "title": "特朗普：美联储降息 否则将停止与贸易逆差对象国的贸易",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsraq1102386.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-04T21:58:26+08:00"
+    },
+    {
+      "title": "曾7连涨停！002674，被证监会立案",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-04/doc-iniqsrak4041613.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-04T21:57:54+08:00"
+    },
     {
       "title": "美国8月新增就业16.2万人，远超预期两倍",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0810790.shtml",
@@ -17,95 +227,11 @@
       "pubDate": "2026-09-04T21:53:03+08:00"
     },
     {
-      "title": "九号启动“安芯换新”电池安全守护行动——电池会老，但安全永不过期",
-      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-09-04/doc-iniqsraq5926969.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:52:03+08:00"
-    },
-    {
       "title": "美国非农就业报告开启关键经济数据密集发布期",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsraq1099676.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-09-04T21:50:49+08:00"
-    },
-    {
-      "title": "美国就业岗位大幅增加，释放经济积极信号",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsraq1098559.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:48:23+08:00"
-    },
-    {
-      "title": "中国银行榆林分行一名员工被禁业4年：贷款三查执行不到位",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsrak4032608.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:48:08+08:00"
-    },
-    {
-      "title": "新华人寿榆林中心支公司被罚2万元：未经授权在朋友圈发布不当宣传内容",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsraq5924601.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:46:25+08:00"
-    },
-    {
-      "title": "分析：强就业推高加息押注 美联储若按兵不动 全球市场更加危险",
-      "url": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsrak4031081.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:46:23+08:00"
-    },
-    {
-      "title": "车车保险销售服务榆林分公司被罚8万元：佣金管理不规范等",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsraq1097014.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:44:33+08:00"
-    },
-    {
-      "title": "保险法拟调整代理人展业规定：禁止的“合同外利益”限定为“不正当利益”",
-      "url": "https://finance.sina.com.cn/money/insurance/bxdt/2026-09-04/doc-iniqsrak4027183.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:41:37+08:00"
-    },
-    {
-      "title": "美国8月新增就业16.2万人，大幅超出预期：非农就业报告",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsraq5921777.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:39:37+08:00"
-    },
-    {
-      "title": "建设银行陕西省分行被罚50万元：违反金融统计管理规定",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsraq1094571.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:38:38+08:00"
-    },
-    {
-      "title": "5连板牛股，遭上交所监管警示！",
-      "url": "https://finance.sina.com.cn/stock/s/2026-09-04/doc-iniqsrak4027882.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:38:22+08:00"
-    },
-    {
-      "title": "2.39亿！证监会开出巨额罚单！",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-09-04/doc-iniqsran0799820.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:38:22+08:00"
-    },
-    {
-      "title": "农业银行得荣县支行被罚11.36万元：占压财政存款或者资金",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsran0794767.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:35:53+08:00"
     },
     {
       "title": "Chinese Professor Takes Underwater Robotics From Lab to Market With a Bet on Quiet Propulsion",
@@ -115,116 +241,11 @@
       "pubDate": "2026-09-04T21:35:03+08:00"
     },
     {
-      "title": "武汉农村商业银行被罚30.9万元：违反支付结算管理规定",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsraq1092517.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:33:05+08:00"
-    },
-    {
-      "title": "开盘：非农超预期，美债收益率上行，三大股指涨跌不一",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsrak4019818.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:30:32+08:00"
-    },
-    {
-      "title": "广发银行安阳分行被罚40.9万元：提供虚假的统计资料、相关人员不具备反假专业能力",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsran0790382.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:29:29+08:00"
-    },
-    {
-      "title": "天津银行济南分行被罚98万元：违反信用信息提供相关管理规定",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsran0789182.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:26:59+08:00"
-    },
-    {
-      "title": "江西寻乌农村商业银行被罚246.75万元：违反金融科技业务管理规定等",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsraq1090300.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:24:44+08:00"
-    },
-    {
       "title": "Keep Cut Its Way to Profit. Now It Needs AI to Find Growth",
       "url": "https://www.tmtpost.com/8129155.html",
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-09-04T21:22:04+08:00"
-    },
-    {
-      "title": "江西宁都农村商业银行被罚156万元：违反信用信息采集、提供、查询及相关管理规定",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsrak4013452.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:21:40+08:00"
-    },
-    {
-      "title": "阿布扎比AI公司G42考虑或向美国企业出售多数股权 以确保获得AI芯片",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsrak4012159.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:19:34+08:00"
-    },
-    {
-      "title": "农业银行蚌埠分行被罚50万元：违反账户管理规定",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-09-04/doc-iniqsraq5915547.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:19:03+08:00"
-    },
-    {
-      "title": "安徽歙县嘉银村镇银行被警告：未按规定开展客户尽职调查",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsran0782716.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:16:26+08:00"
-    },
-    {
-      "title": "铜陵皖江农村商业银行被罚21万元：违反金融统计相关规定等",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsran0781091.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:14:08+08:00"
-    },
-    {
-      "title": "35岁以上不能新办理40年期房贷？沪上银行执行门槛不一",
-      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-09-04/doc-iniqsrak4007590.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:11:33+08:00"
-    },
-    {
-      "title": "上海华瑞银行被罚53.8万元：未按照规定开展客户尽职调查、未按照规定报告可疑交易",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsran0778349.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:10:30+08:00"
-    },
-    {
-      "title": "美国8月就业回暖，新增岗位16.2万个",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsraq5912198.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:09:07+08:00"
-    },
-    {
-      "title": "汇丰银行（中国）被罚款126.1万元：违反数据安全管理规定等",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsraq1084913.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:07:50+08:00"
-    },
-    {
-      "title": "非农大超预期后，加息预期飙升：15分钟内加息概率涨了接近8%",
-      "url": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsran0774018.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T21:04:57+08:00"
     },
     {
       "title": "从500家店缩到39家：嗨特购闭店潮背后，折扣零售迎来模式分水岭",
@@ -239,132 +260,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-09-04T20:54:57+08:00"
-    },
-    {
-      "title": "强劲非农后各期限美债全线走低 市场提高美联储加息押注",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqskun4124983.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T20:54:33+08:00"
-    },
-    {
-      "title": "美国8月非农就业新增16.2 万人，远超预期",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqskus6037717.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T20:53:11+08:00"
-    },
-    {
-      "title": "美国8月新增非农就业岗位16.2万个 远高于预期",
-      "url": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqskus6037311.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T20:52:06+08:00"
-    },
-    {
-      "title": "强劲的非农就业报告公布后 美元触及盘中高点",
-      "url": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqskuq0893722.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T20:50:04+08:00"
-    },
-    {
-      "title": "可可期货收窄周跌幅 短缺风险笼罩供应前景",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqskus6036317.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T20:49:44+08:00"
-    },
-    {
-      "title": "瑞芯微二股东黄旭减持：套现12亿 仍持股13.23% 价值108亿",
-      "url": "https://finance.sina.com.cn/stock/s/2026-09-04/doc-iniqsran0771361.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T20:48:25+08:00"
-    },
-    {
-      "title": "黑芝麻智能上半年营收4.6亿：亏损7.7亿 完成收购亿智电子",
-      "url": "https://finance.sina.com.cn/stock/s/2026-09-04/doc-iniqsrak3998256.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T20:48:25+08:00"
-    },
-    {
-      "title": "贝莱德私募信贷基金任命Jason Mehring为CEO",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqskuq0891697.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T20:48:02+08:00"
-    },
-    {
-      "title": "美国8月非农就业人数大增16.2万 超出所有预期",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqskus6034745.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T20:46:32+08:00"
-    },
-    {
-      "title": "美国８月份非农就业人数增加16.2万人 失业率报4.1%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqskus6034469.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T20:45:55+08:00"
-    },
-    {
-      "title": "超级大超预期！美国8月非农新增16.2万 失业率维持4.1% 前两月就业累计上修5.5万",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqskus6030003.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T20:33:56+08:00"
-    },
-    {
-      "title": "盘前：纳指期货涨0.45% 露露乐蒙暴跌20%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqskuq0880069.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T20:25:06+08:00"
-    },
-    {
-      "title": "新报告显示：去年全球亿万富翁总财富达到15.1万亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqskus6025593.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T20:19:57+08:00"
-    },
-    {
-      "title": "5连板牛股突发！公司及董秘被监管警示",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-04/doc-iniqskun4097487.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T20:19:11+08:00"
-    },
-    {
-      "title": "超强厄尔尼诺敲响警钟！保险专家：传统精算模型难以应对气候变化带来的系统性风险，保险定价逻辑面临重塑",
-      "url": "https://finance.sina.com.cn/roll/2026-09-04/doc-iniqskun4081106.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T19:56:40+08:00"
-    },
-    {
-      "title": "露露乐蒙再度下调业绩指引，又一个季度销售表现承压",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqskun4079131.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T19:54:05+08:00"
-    },
-    {
-      "title": "王华杰任上海市副市长",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4090623.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T19:31:38+08:00"
-    },
-    {
-      "title": "卖GPU的半年赚了1个亿，但扒开财报一看：全靠炒A股！",
-      "url": "https://finance.sina.com.cn/stock/s/2026-09-04/doc-iniqskun4049795.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T19:07:44+08:00"
     },
     {
       "title": "小分子药企围猎偶联药物",
@@ -421,13 +316,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-09-04T18:55:00+08:00"
-    },
-    {
-      "title": "星巴克更新菜单，印度香料茶爱好者彻底炸锅",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsenu6119373.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-04T18:36:52+08:00"
     },
     {
       "title": "皇家中国在华首条罐装湿粮产线揭晓；锦江酒店2026上半年扣非净利增长45.16%；Helly Hansen 发布五年增长战略｜消研所周报",

@@ -1,18 +1,179 @@
 {
-  "updatedAt": "2026-09-06T21:22:38+08:00",
-  "total": 68,
+  "updatedAt": "2026-09-07T00:41:25+08:00",
+  "total": 63,
   "news": [
     {
-      "title": "任职仅1个月，中信海直独董因连续缺席会议遭解职",
-      "url": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqxchs6687116.shtml",
+      "title": "特朗普称加拿大货币对美国的“失衡”不可接受",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqxiqn9854717.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-06T23:55:27+08:00"
+    },
+    {
+      "title": "视频 | 9月6日，ChinaGT组委会回应上海赛车起火:向受伤车手表示慰问，并向救人车手致敬",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-06/doc-iniqxiqn9845613.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-06T23:29:09+08:00"
+    },
+    {
+      "title": "美能源部长：美国海军将守卫霍尔木兹海峡，直至伊朗让步",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqxiqn9844323.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-06T23:22:56+08:00"
+    },
+    {
+      "title": "利好来了！中国首款！超级赛道，传来大消息",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-09-06/doc-iniqxiqq6614930.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-06T23:12:46+08:00"
+    },
+    {
+      "title": "个人养老金基金再度扩容！两类“固收+”拟纳入产品名录",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-06/doc-iniqxiqn9842372.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-06T23:12:46+08:00"
+    },
+    {
+      "title": "多地严查量贩零食门店“缺斤短两”，好想来回应",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-06/doc-iniqxiqn9841812.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-06T23:09:06+08:00"
+    },
+    {
+      "title": "美能源部长：霍尔木兹海峡石油日运量超900万桶，已恢复至冲突前三分之二水平",
+      "url": "https://finance.sina.com.cn/7x24/2026-09-06/doc-iniqxiqn9837782.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-06T23:04:45+08:00"
+    },
+    {
+      "title": "财政部重磅出手！3000亿元注资银行、保险公司，其中险企为首次注资",
+      "url": "https://finance.sina.com.cn/stock/wbstock/2026-09-06/doc-iniqxchv1080170.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-06T22:38:53+08:00"
+    },
+    {
+      "title": "紫金矿业致歉！更正半年报中相关文字错误 #紫金矿业 #致歉 #错误 #新闻热点",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-09-06/doc-iniqxchq9959945.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-06T22:30:40+08:00"
+    },
+    {
+      "title": "伊朗与美国针锋相对袭击油轮 美伊战争仍然看不到结束的曙光",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqxchs6720747.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-06T22:21:55+08:00"
+    },
+    {
+      "title": "独董作为中小投资者的“看门人”，履职缺位，何以取信？",
+      "url": "https://finance.sina.com.cn/roll/2026-09-06/doc-iniqxchu6241335.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-06T22:16:47+08:00"
+    },
+    {
+      "title": "OPEC+维持10月石油产出政策不变",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqxchs6716954.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-06T22:14:03+08:00"
+    },
+    {
+      "title": "特朗普对沃什施压，美联储加息在即",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqxchv1072002.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-06T22:13:00+08:00"
+    },
+    {
+      "title": "格局换挡，赛道重构：华夏华润消费REIT停扩的行业探索",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-09-06/doc-iniqxchv1078422.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-06T22:09:22+08:00"
+    },
+    {
+      "title": "权威解读：3600亿重磅注资，超出市场预期",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-06/doc-iniqxchv1074888.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-06T22:05:50+08:00"
+    },
+    {
+      "title": "近180亿元涌入半导体板块",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-06/doc-iniqxchv1072236.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-06T22:05:32+08:00"
+    },
+    {
+      "title": "周末，加息大消息",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqxchs6707312.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-06T21:53:47+08:00"
+    },
+    {
+      "title": "8家中央金融企业迎来增资 有何考量",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqxchs6708928.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-06T21:44:27+08:00"
+    },
+    {
+      "title": "测算丨工行农行定增方案：六大行注资收官，股息率摊薄有限",
+      "url": "https://finance.sina.com.cn/roll/2026-09-06/doc-iniqxchq9931184.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-06T21:36:31+08:00"
+    },
+    {
+      "title": "15家国有行和股份行的利息省钱账单：重定价红利集中释放，减少支出2100亿元",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-06/doc-iniqxchs6695083.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-06T21:28:33+08:00"
+    },
+    {
+      "title": "特朗普称加拿大对美国的美元“失衡”是不可接受的。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqxchv1058393.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-06T21:23:06+08:00"
+    },
+    {
+      "title": "沈鼓集团披露主板IPO发行公告 发行价定为4.39元/股",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-06/doc-iniqxchv1060719.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-06T21:17:00+08:00"
+    },
+    {
+      "title": "*ST萃华未在2026年9月6日前披露2025年年报 触及规范类退市情形",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-06/doc-iniqxchv1059051.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-06T21:17:00+08:00"
+    },
+    {
+      "title": "复牌！301266，低空经济“大佬”拟入主",
+      "url": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqxchu6225460.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-09-06T21:12:33+08:00"
     },
     {
-      "title": "复牌！301266，低空经济“大佬”拟入主",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-06/doc-iniqxchq9911834.shtml",
-      "source": "新浪综合6",
+      "title": "任职仅1个月，中信海直独董因连续缺席会议遭解职",
+      "url": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqxchs6687116.shtml",
+      "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-09-06T21:12:33+08:00"
     },
@@ -24,102 +185,11 @@
       "pubDate": "2026-09-06T20:46:19+08:00"
     },
     {
-      "title": "最多10亿港元回购H股股份！复星医药，最新公告",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-06/doc-iniqxchu6216521.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T20:40:49+08:00"
-    },
-    {
-      "title": "冷门赛道逆袭！基金发行不再只打“顺风局”？",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-06/doc-iniqwwyu6795658.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T20:34:49+08:00"
-    },
-    {
-      "title": "“高中签率”新股，来了！",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-06/doc-iniqwwyq4068543.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T20:34:49+08:00"
-    },
-    {
-      "title": "中国建银投资120亿元公司债券项目获上交所受理",
-      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-09-06/doc-iniqwwyw6343414.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T20:28:00+08:00"
-    },
-    {
-      "title": "股息率最高13.6%，红包雨来了",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-06/doc-iniqwwyu6790163.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T20:13:33+08:00"
-    },
-    {
-      "title": "素人人脸授权一部AI短剧可赚100元",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-09-06/doc-iniqwwyq4064700.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T20:10:49+08:00"
-    },
-    {
       "title": "以色列国防军称对真主党武装分子发动袭击 以回应无人机袭击",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqwwyt0006993.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-09-06T20:03:54+08:00"
-    },
-    {
-      "title": "罗明：AI不是制造业的危机 而是产业升级的重大机遇",
-      "url": "https://finance.sina.com.cn/jryx/2026-09-06/doc-iniqwwyu6778628.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T20:01:21+08:00"
-    },
-    {
-      "title": "2家港股IPO获中国证监会备案",
-      "url": "https://finance.sina.com.cn/stock/hyyj/2026-09-06/doc-iniqwwyu6782242.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T20:00:00+08:00"
-    },
-    {
-      "title": "陈卓：未来产业发展必须依托以人为本的新型商业模式",
-      "url": "https://finance.sina.com.cn/jryx/2026-09-06/doc-iniqwwyt0005272.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T19:58:58+08:00"
-    },
-    {
-      "title": "于西蔓：创新是中小企业唯一生存出路 在饱和市场中开辟全新生存赛道",
-      "url": "https://finance.sina.com.cn/jryx/2026-09-06/doc-iniqwwyu6776688.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T19:56:53+08:00"
-    },
-    {
-      "title": "赵明：K型分化格局下，落后行业反而存在巨大结构性红利",
-      "url": "https://finance.sina.com.cn/jryx/2026-09-06/doc-iniqwwyq4057910.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T19:55:19+08:00"
-    },
-    {
-      "title": "熊贻德：科技创新绝非盲目投入，必须贴合市场节奏、量力而行",
-      "url": "https://finance.sina.com.cn/jryx/2026-09-06/doc-iniqwwyt0002905.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T19:53:29+08:00"
-    },
-    {
-      "title": "罕见，中信海直一独董上任仅一个月，因连续两次缺席董事会被提请解职",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-09-06/doc-iniqwwyt0005009.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T19:49:51+08:00"
     },
     {
       "title": "OPEC+维持石油产量配额不变的计划",
@@ -136,13 +206,6 @@
       "pubDate": "2026-09-06T19:47:46+08:00"
     },
     {
-      "title": "高峰：企业AI转型关键是打造专属私有智能体系",
-      "url": "https://finance.sina.com.cn/jryx/2026-09-06/doc-iniqwwyu6774456.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T19:45:08+08:00"
-    },
-    {
       "title": "继续停牌！002731，触及规范类退市情形",
       "url": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwwyw6333314.shtml",
       "source": "新浪综合",
@@ -157,53 +220,11 @@
       "pubDate": "2026-09-06T19:43:48+08:00"
     },
     {
-      "title": "李卫广：本土原创经济学打通了宏观理论与资本市场实操的壁垒",
-      "url": "https://finance.sina.com.cn/jryx/2026-09-06/doc-iniqwwyw6331530.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T19:37:23+08:00"
-    },
-    {
-      "title": "中证协：上半年150家券商净利1386.64亿元 头部集中度显著",
-      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-09-06/doc-iniqwwyw6331265.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T19:33:00+08:00"
-    },
-    {
-      "title": "【e公司观察】勤勉是独立董事的底色",
-      "url": "https://finance.sina.com.cn/roll/2026-09-06/doc-iniqwwyu6770289.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T19:30:42+08:00"
-    },
-    {
       "title": "航司接连“资不抵债”，民航怎么了？",
       "url": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwwys9999081.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-09-06T19:30:00+08:00"
-    },
-    {
-      "title": "中科闻歌获纳入港股通合资格证券名单",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-06/doc-iniqwwyu6766717.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T19:26:25+08:00"
-    },
-    {
-      "title": "资金盯上金融科技了？三维逻辑共振：题材承接有序、AI催化渐近、超跌反弹蓄势待发",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-06/doc-iniqwwyw6327991.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T19:22:03+08:00"
-    },
-    {
-      "title": "财政部将发行3000亿特别国债支持8家中央金融企业补充资本",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-06/doc-iniqwwys9991631.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-06T19:21:53+08:00"
     },
     {
       "title": "从精密技术到行业与机器人，爱普生正在重新给技术“定价”",
@@ -225,6 +246,13 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-09-06T18:33:11+08:00"
+    },
+    {
+      "title": "获捐1亿元！985，成立新学院",
+      "url": "https://finance.sina.com.cn/china/2026-09-06/doc-iniqxchq9936896.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-06T18:30:00+08:00"
     },
     {
       "title": "斩获两连板！爱仕达提示风险",
@@ -330,69 +358,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-09-06T14:49:24+08:00"
-    },
-    {
-      "title": "民调显示 特朗普的支持率已降至历史最低点",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqwnky6877923.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-06T14:47:12+08:00"
-    },
-    {
-      "title": "美联储理事日程表显示存在“静默期”内与银行家会面的情况",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqwnky6874696.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-06T14:40:55+08:00"
-    },
-    {
-      "title": "商业秘密｜奢侈品定价进入“克制时代”：爱马仕、香奈儿也要放缓涨价节奏",
-      "url": "https://finance.sina.com.cn/roll/2026-09-06/doc-iniqwnkx0104146.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-06T14:40:40+08:00"
-    },
-    {
-      "title": "「微特稿」美国被曝谋划“战后遏制伊朗” 指望中东国家配合",
-      "url": "https://finance.sina.com.cn/roll/2026-09-06/doc-iniqwnkx0096687.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-06T14:27:10+08:00"
-    },
-    {
-      "title": "伊朗外长与沙特和土耳其外长讨论霍尔木兹海峡和地区稳定问题",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqwnku4229602.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-06T14:07:43+08:00"
-    },
-    {
-      "title": "9月错峰游正当时：机票低至1.5折，中高星酒店降幅可达五成以上",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqwhaz0209200.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-06T13:52:47+08:00"
-    },
-    {
-      "title": "“随时能问、随手可查”的反诈智能助手“国家反诈AI”APP重磅上线",
-      "url": "https://finance.sina.com.cn/china/2026-09-06/doc-iniqwhaz0206158.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-06T13:37:56+08:00"
-    },
-    {
-      "title": "视频丨新疆慕士塔格峰2号冰川发生雪崩 文旅部门发布安全提示",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqwhaw4351731.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-06T13:18:16+08:00"
-    },
-    {
-      "title": "多人疑因蛋炒饭“食物中毒”，大家乐致歉：暂停涉事门店营业，已与个别消费者达成和解",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-09-06/doc-iniqwhaz0183310.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-06T13:02:53+08:00"
     },
     {
       "title": "2026动力电池新叙事：电驱万物，AI赋能，固态仍需耐心丨行业风向标",

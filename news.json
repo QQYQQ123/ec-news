@@ -1,13 +1,251 @@
 {
-  "updatedAt": "2026-09-13T07:42:26+08:00",
-  "total": 51,
+  "updatedAt": "2026-09-13T11:01:01+08:00",
+  "total": 68,
   "news": [
+    {
+      "title": "Kimi、BAI、自然选择谈智能体新商业：AI支付增量来自硅基生命的支付",
+      "url": "https://finance.sina.com.cn/tech/it/2026-09-13/doc-inirrxsc0611261.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T10:51:35+08:00"
+    },
+    {
+      "title": "视频|银河通用报案 邵兰天回应：与我无关",
+      "url": "https://finance.sina.com.cn/stock/2026-09-13/doc-inirrxsk5771444.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T10:40:45+08:00"
+    },
+    {
+      "title": "两大AI巨头同日发出“减速”信号，OpenAI明确今年不上市",
+      "url": "https://finance.sina.com.cn/roll/2026-09-13/doc-inirrxsk5770972.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T10:34:17+08:00"
+    },
+    {
+      "title": "乌兰察布：一个北方小城如何成为“Token之都”？",
+      "url": "https://www.tmtpost.com/8137132.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-09-13T10:28:00+08:00"
+    },
+    {
+      "title": "大众拥有的第一个机器人，可能是只“鸭子”",
+      "url": "https://www.tmtpost.com/8138116.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-09-13T10:15:00+08:00"
+    },
+    {
+      "title": "耐克的数字化转型为什么“失败”了？",
+      "url": "https://www.tmtpost.com/8138036.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-09-13T10:08:00+08:00"
+    },
+    {
+      "title": "AI正在“毁掉”数学？邓煜、陶哲轩等25位菲尔兹奖得主紧急“吹哨”在反对什么？",
+      "url": "https://finance.sina.com.cn/wm/2026-09-13/doc-inirrxsh4660223.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T10:07:00+08:00"
+    },
+    {
+      "title": "下周，两大重磅事件！A股重回年内低位，机构建议大胆布局",
+      "url": "https://finance.sina.com.cn/roll/2026-09-13/doc-inirrxsh4653762.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T10:00:49+08:00"
+    },
+    {
+      "title": "传奇IP终于“过户”给盛趣和恺英了",
+      "url": "https://www.tmtpost.com/8138107.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-09-13T09:55:02+08:00"
+    },
+    {
+      "title": "独家|小米人事调整：唐力担任国际业务部副总裁兼南亚地区部总经理，向曾学忠汇报",
+      "url": "https://finance.sina.com.cn/tech/it/2026-09-13/doc-inirrxse7878191.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T09:54:54+08:00"
+    },
+    {
+      "title": "说“投诉”就接通，AI客服到底在防谁？",
+      "url": "https://www.tmtpost.com/8138050.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-09-13T09:50:22+08:00"
+    },
+    {
+      "title": "AI基建让建筑产业链再度“复生”？",
+      "url": "https://www.tmtpost.com/8138103.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-09-13T09:50:17+08:00"
+    },
+    {
+      "title": "刚上市就“掀桌”，梅卡曼德学霸创始人“炮轰”同行校友",
+      "url": "https://www.tmtpost.com/8138043.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-09-13T09:50:11+08:00"
+    },
+    {
+      "title": "美股资金出逃创年内新高！美联储加息箭在弦上，市场怎么走？",
+      "url": "https://finance.sina.com.cn/roll/2026-09-13/doc-inirrxsc0593263.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-13T09:45:52+08:00"
+    },
+    {
+      "title": "“央行超级周”来袭！美联储、英国和日本央行谁会先加息？",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirrxsc0592788.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T09:44:26+08:00"
+    },
+    {
+      "title": "互联网大厂正在争夺AI人才",
+      "url": "https://www.tmtpost.com/8138051.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-09-13T09:41:41+08:00"
+    },
+    {
+      "title": "预期“高中签率”新股，来了",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirrxse7872780.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T09:40:59+08:00"
+    },
+    {
+      "title": "加拿大总理卡尼提议，推动加拿大成为欧盟 “联系成员国”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirrtkk4758571.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-13T09:18:33+08:00"
+    },
+    {
+      "title": "段永平：关注泡泡玛特，跟李诞无关，但王宁微信是他给我的",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-09-13/doc-inirrtkf0710688.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T09:08:00+08:00"
+    },
+    {
+      "title": "英国海上贸易行动办公室：一艘船只在霍尔木兹海峡遇袭",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirrtkf0711380.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-13T09:00:59+08:00"
+    },
+    {
+      "title": "青花汾20、国窖1573小幅回弹 洋河梦之蓝M6+、青花郎重跌",
+      "url": "https://finance.sina.com.cn/chanjing/jync/2026-09-13/doc-inirrtkk4743306.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T08:52:52+08:00"
+    },
+    {
+      "title": "美以伊局势：特朗普指认伊朗或主导空袭沙特油管 伊朗南部传出爆炸声，伊曾试图用弹道导弹袭击美军军舰",
+      "url": "https://finance.sina.com.cn/world/2026-09-13/doc-inirrtkk4746804.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-13T08:32:38+08:00"
+    },
+    {
+      "title": "让宁德时代躺枪的裸奔事件，是4000亿“青山系”的劳资纠纷",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-09-13/doc-inirrtkn5866596.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T08:30:00+08:00"
+    },
+    {
+      "title": "核聚变路线之争胜负未定，上海为何全线押注",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirrtkn5857328.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T08:20:00+08:00"
+    },
+    {
+      "title": "牛弹琴：美国连捅英国两刀，一刀比一刀狠",
+      "url": "https://finance.sina.com.cn/wm/2026-09-13/doc-inirrtkh7940973.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T08:06:32+08:00"
+    },
+    {
+      "title": "韩国延长交易时长，测试全球投资者的参与意愿",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirrtkh7938511.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-13T08:03:25+08:00"
+    },
+    {
+      "title": "星宇股份解约107名应届生并非因为上市，实际原因更恶劣",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-09-13/doc-inirrtkk4724194.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T08:03:05+08:00"
+    },
+    {
+      "title": "估值冲上400亿，智元老板猛招应届生",
+      "url": "https://finance.sina.com.cn/roll/2026-09-13/doc-inirrtkh7949806.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T08:00:00+08:00"
+    },
+    {
+      "title": "光模块龙头：产能目标已实现！迎近百家机构调研",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-13/doc-inirrtkh7935436.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T07:54:57+08:00"
+    },
+    {
+      "title": "业绩暴增+机构扎堆调研，4只科技股上榜",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-13/doc-inirrtkf0685269.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-13T07:50:00+08:00"
+    },
+    {
+      "title": "甲骨文暗盘拉升，董事长取消股票出售计划",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-09-13/doc-inirrtkk4705302.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T07:34:17+08:00"
+    },
+    {
+      "title": "高校购商品房当学生宿舍：空调、洗衣机齐全，双人间一年1320元",
+      "url": "https://finance.sina.com.cn/roll/2026-09-13/doc-inirrtkh7927390.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-13T07:32:08+08:00"
+    },
     {
       "title": "央企上市公司际华集团，通过融资性贸易等虚增营收96.6亿，3任董事长、3任总经理等13名相关责任人员被罚！",
       "url": "https://finance.sina.com.cn/stock/relnews/2026-09-13/doc-inirrtkf0679809.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-09-13T07:30:53+08:00"
+    },
+    {
+      "title": "“炒股”回本！爆仓漫画家，苦熬18年，他做对了什么？",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-13/doc-inirrtkn5843860.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T07:30:20+08:00"
+    },
+    {
+      "title": "“1+N+X”！私募业，监管规则密集落地！深度解读来了",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-13/doc-inirrtkf0680641.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-13T07:30:20+08:00"
     },
     {
       "title": "申万宏源策略：坦然面对暂无突破方向，9月议息后或迎小级别反弹窗口",
@@ -129,13 +367,6 @@
       "pubDate": "2026-09-13T02:04:01+08:00"
     },
     {
-      "title": "真“神话”！太乙圣莲“复活”哪吒汽车",
-      "url": "https://finance.sina.com.cn/roll/2026-09-13/doc-inirranp0985753.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-13T00:50:56+08:00"
-    },
-    {
       "title": "胡塞武装称沙特对也门发动129次空袭",
       "url": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirrhus6058490.shtml",
       "source": "新浪综合",
@@ -150,32 +381,11 @@
       "pubDate": "2026-09-13T00:20:58+08:00"
     },
     {
-      "title": "机构调研热门股追踪：176家机构调研安集科技，500亿半导体材料龙头“出海”受关注",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirqwer1102693.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-13T00:09:58+08:00"
-    },
-    {
-      "title": "周末！原油暗盘，跳水",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirqwes8262030.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-13T00:09:58+08:00"
-    },
-    {
       "title": "加州柴油价格创历史新高",
       "url": "https://finance.sina.com.cn/7x24/2026-09-12/doc-inirqweu5017032.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-09-12T23:35:40+08:00"
-    },
-    {
-      "title": "折叠屏争霸战打响！华为秒售罄，苹果被炒到49999元，小米起售价首破万",
-      "url": "https://finance.sina.com.cn/tech/it/2026-09-12/doc-inirqwew6256219.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-12T23:31:21+08:00"
     },
     {
       "title": "伊朗总统：目前无法做出与美国直接谈判的决定 美国必须停止封锁",
@@ -197,48 +407,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-09-12T21:22:15+08:00"
-    },
-    {
-      "title": "麦当劳中国亮相服贸会 发布5项线下消费成果案例",
-      "url": "https://finance.sina.com.cn/china/gncj/2026-09-12/doc-inirqrww5080917.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-12T21:01:38+08:00"
-    },
-    {
-      "title": "招ESG人才有多难？97%受访企业面临人才能力缺口",
-      "url": "https://finance.sina.com.cn/roll/2026-09-12/doc-inirqrwt1186792.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-12T21:00:34+08:00"
-    },
-    {
-      "title": "中深装集团突发讣告：常务副总裁王武烈病逝，终年45岁",
-      "url": "https://finance.sina.com.cn/china/gncj/2026-09-12/doc-inirqrww5063728.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-12T20:31:11+08:00"
-    },
-    {
-      "title": "高德扫街榜发布“飞行街景2.0”：ABot-Earth 0.7世界模型驱动，提前自由探索目的地",
-      "url": "https://finance.sina.com.cn/china/gncj/2026-09-12/doc-inirqrwy6339005.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-12T20:20:03+08:00"
-    },
-    {
-      "title": "爆发式增长！今年或达10亿亿",
-      "url": "https://finance.sina.com.cn/wm/2026-09-12/doc-inirqrwu8281833.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-12T20:03:29+08:00"
-    },
-    {
-      "title": "特朗普称伊朗支持的胡塞武装请求美国不要下场",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-12/doc-inirqmqw8386696.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-12T19:11:38+08:00"
     },
     {
       "title": "iPhone Duo炒到9万，黄牛贷款百万欲囤货",
@@ -309,55 +477,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-09-12T12:41:11+08:00"
-    },
-    {
-      "title": "AI新经济已来，不是轰然一响，而是悄然一新",
-      "url": "https://www.tmtpost.com/8137661.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-09-12T12:41:00+08:00"
-    },
-    {
-      "title": "海底捞27.5亿港元减持背后，是家族信托的税务压力",
-      "url": "https://www.tmtpost.com/8137293.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-09-12T11:35:37+08:00"
-    },
-    {
-      "title": "蚂蚁阿福：1.5亿用户背后，健康AI的烧钱与造血",
-      "url": "https://www.tmtpost.com/8137230.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-09-12T10:43:01+08:00"
-    },
-    {
-      "title": "智谱和MiniMax，进入“低价增长”时代",
-      "url": "https://www.tmtpost.com/8137263.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-09-12T10:42:53+08:00"
-    },
-    {
-      "title": "OpenAI把Codex“拆开卖了”",
-      "url": "https://www.tmtpost.com/8137691.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-09-12T10:42:50+08:00"
-    },
-    {
-      "title": "MiniMax寻路AGI",
-      "url": "https://www.tmtpost.com/8137218.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-09-12T10:02:15+08:00"
-    },
-    {
-      "title": "AI正在批量制造海景房",
-      "url": "https://www.tmtpost.com/8137190.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-09-12T10:02:13+08:00"
     }
   ]
 }

@@ -1,13 +1,216 @@
 {
-  "updatedAt": "2026-09-25T22:58:30+08:00",
-  "total": 62,
+  "updatedAt": "2026-09-26T03:48:06+08:00",
+  "total": 51,
   "news": [
     {
-      "title": "特朗普总统夫妇迎候习近平主席夫妇",
-      "url": "https://finance.sina.com.cn/stock/2026-09-25/doc-initahrt4300274.shtml",
+      "title": "通用汽车研发低成本锰基电池 计划28年落地平价电动车",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initatfm7367898.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T03:46:19+08:00"
+    },
+    {
+      "title": "黑石私募股权策略主管Joe Baratta据悉洽谈离职",
+      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initatfm7364041.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T03:34:12+08:00"
+    },
+    {
+      "title": "SEC拟投票放宽私募市场准入 扩大合格投资者范围",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initatfm7362036.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T03:25:31+08:00"
+    },
+    {
+      "title": "美军：过去两天在霍尔木兹海峡迫使7艘商船改航",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7472033.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T02:23:22+08:00"
+    },
+    {
+      "title": "塔斯社：普京称所有和平方案都在考虑中 俄罗斯欢迎会谈",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7469903.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T02:17:46+08:00"
+    },
+    {
+      "title": "特朗普将于周二推出AI驱动的新网站America.gov",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7458924.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T01:53:56+08:00"
+    },
+    {
+      "title": "美官员：就重开霍尔木兹海峡协议开展谈判 但美方不急于达成协议",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxs9139055.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T01:50:44+08:00"
+    },
+    {
+      "title": "市场对美伊达成协议萌生初步期待 油价小幅回落",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxr4228656.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T01:47:03+08:00"
+    },
+    {
+      "title": "特朗普称贝森特不会成为AI事务负责人",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7455701.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T01:46:01+08:00"
+    },
+    {
+      "title": "美国财长贝森特与日本财务大臣片山皋月讨论强势日元的“可取性”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxr4215531.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T01:04:10+08:00"
+    },
+    {
+      "title": "美国30年期国债收益率突破5.5% 技术位缺失令市场陷入“真空”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7442644.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T01:03:18+08:00"
+    },
+    {
+      "title": "特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7441378.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T01:00:08+08:00"
+    },
+    {
+      "title": "欧洲债市：德国30年期国债收益率攀升至2011年以来最高",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxs9130107.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T00:58:51+08:00"
+    },
+    {
+      "title": "Seaport对英伟达、博通持“谨慎”观点",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxm3970152.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T00:55:35+08:00"
+    },
+    {
+      "title": "阿波罗首席经济学家：美联储可能忽视了柴油价格飙升带来的通胀威胁",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxm3970057.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T00:55:04+08:00"
+    },
+    {
+      "title": "凯茜・伍德称全球实际GDP增速有望突破 7%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxm3969728.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T00:52:54+08:00"
+    },
+    {
+      "title": "通胀预期抬升，9月消费者信心大幅下挫",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxr4206882.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T00:36:54+08:00"
+    },
+    {
+      "title": "美国上诉法院维持五角大楼将Anthropic列入黑名单的裁定",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxr4206304.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T00:34:45+08:00"
+    },
+    {
+      "title": "油价回落，市场持续关注美伊外交动向与地区紧张局势",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxm3966348.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T00:31:01+08:00"
+    },
+    {
+      "title": "欧洲股市四周来首次单周上涨 油价回落",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initahrp4095091.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T00:18:43+08:00"
+    },
+    {
+      "title": "伯克希尔3天斥资2.12亿美元抄底这只暴跌个股，本季度持仓已大增81%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initahrp4094961.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T00:18:19+08:00"
+    },
+    {
+      "title": "报道：美伊谈判进入技术磋商阶段 伊朗提出七日方案",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initahrt4330285.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-26T00:14:18+08:00"
+    },
+    {
+      "title": "堪萨斯城联储行长：通胀问题尚未得到解决",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initahrr7549065.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-25T23:54:48+08:00"
+    },
+    {
+      "title": "高盛给AI概念股投资者泼了一盆现实的冷水",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initahrr7542434.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-25T23:38:53+08:00"
+    },
+    {
+      "title": "耐克与麦当劳成为道指今年表现最差成分股 10月可以买入这一只",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initahru9243540.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-25T23:33:15+08:00"
+    },
+    {
+      "title": "比尔·盖茨称人工智能已强大到足以造成“10亿人死亡”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initahrr7539429.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-25T23:26:28+08:00"
+    },
+    {
+      "title": "沃什推动美联储制度变革向前推进，但遭遇阻力",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initahru9242100.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-25T23:23:51+08:00"
+    },
+    {
+      "title": "贝森特：与日本财务大臣讨论了对强势日元的期许",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initahru9239872.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-25T23:10:12+08:00"
+    },
+    {
+      "title": "习近平主席夫妇抵达白宫，同特朗普总统夫妇茶叙",
+      "url": "https://finance.sina.com.cn/stock/2026-09-25/doc-initahru9237639.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-09-25T22:49:24+08:00"
+      "pubDate": "2026-09-25T23:00:19+08:00"
+    },
+    {
+      "title": "恒生指数公司，推出A股半导体材料主题指数",
+      "url": "https://finance.sina.com.cn/stock/2026-09-25/doc-initahrt4304450.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-09-25T22:56:34+08:00"
     },
     {
       "title": "美国消费者信心降至四个月低点 对物价和经济越发担忧",
@@ -17,144 +220,11 @@
       "pubDate": "2026-09-25T22:34:21+08:00"
     },
     {
-      "title": "套现离场？A股知名牛散，突传挂卖香港豪宅！曾被证监会罚没1.1亿元",
-      "url": "https://finance.sina.com.cn/stock/2026-09-25/doc-initahru9231930.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-25T22:32:10+08:00"
-    },
-    {
-      "title": "德邦基金两名高管同期离任 董事长尉迟平一肩挑三职",
-      "url": "https://finance.sina.com.cn/stock/2026-09-25/doc-initahrr7520252.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-25T22:30:58+08:00"
-    },
-    {
       "title": "日元有望创接近三周最大涨幅 日本首相称货币疲软“是个问题”",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initahrt4292384.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-09-25T22:30:40+08:00"
-    },
-    {
-      "title": "受东北风暴影响，多家航空公司免除机票改期手续费",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initahru9229901.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T22:26:55+08:00"
-    },
-    {
-      "title": "理想汽车广告抄袭沃尔沃？沃尔沃发文：有些经典，总在一次次重温中被铭记",
-      "url": "https://finance.sina.com.cn/tob/2026-09-25/doc-initahrr7517496.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T22:24:10+08:00"
-    },
-    {
-      "title": "高盛预计人工智能资本支出将持续增长，并表示营收必须迎头赶上",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initahru9228189.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T22:18:46+08:00"
-    },
-    {
-      "title": "美股半导体股深夜拉升，ARM涨超5%，科技巨头走势分化，微软大涨3%，Meta跌2.7%，美伊被曝探讨阶段性协议",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-09-25/doc-initahrr7517186.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-25T22:13:54+08:00"
-    },
-    {
-      "title": "微软将企业级AI整合至单一应用，与Anthropic展开竞争",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initahrt4286331.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T22:13:44+08:00"
-    },
-    {
-      "title": "习近平主席夫妇将同美国总统特朗普夫妇茶叙",
-      "url": "https://finance.sina.com.cn/stock/2026-09-25/doc-initahrt4286049.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-25T22:13:13+08:00"
-    },
-    {
-      "title": "视频|央视财经专访马斯克 完整版来了!",
-      "url": "https://finance.sina.com.cn/roll/2026-09-25/doc-initahrp4066062.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-25T22:07:08+08:00"
-    },
-    {
-      "title": "历史表明，利率如此快速上行往往会爆发金融灾难：“总会有地方爆雷”",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiv4413099.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T22:04:26+08:00"
-    },
-    {
-      "title": "美股芯片股，集体上涨",
-      "url": "https://finance.sina.com.cn/wm/2026-09-25/doc-initahru9225733.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-25T21:53:43+08:00"
-    },
-    {
-      "title": "受片山皋月言论提振 日元涨幅扩大至逾1%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaair4192593.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T21:51:47+08:00"
-    },
-    {
-      "title": "油价连涨两日后略有回落 美伊据悉探索分阶段协议",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiv4400962.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T21:40:12+08:00"
-    },
-    {
-      "title": "高盛料明年超大规模云服务商AI资本支出增长逾50%至1.2万亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiv4400238.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T21:39:09+08:00"
-    },
-    {
-      "title": "开盘：主要股指小幅走高，阿卡迈领涨科技板块",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiv4396807.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T21:30:06+08:00"
-    },
-    {
-      "title": "马斯克放下豪言：SpaceX数据中心项目GPU数量到年底将翻一倍！",
-      "url": "https://finance.sina.com.cn/stock/t/2026-09-25/doc-initaaiw9347220.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-25T21:28:18+08:00"
-    },
-    {
-      "title": "开市客公布75亿美元大规模扩张计划",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiw9343748.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T21:18:05+08:00"
-    },
-    {
-      "title": "特斯拉Optimus机器人量产遇阻：手部结构、供应链问题凸显，扩产进程启动",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiw9343490.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T21:17:27+08:00"
-    },
-    {
-      "title": "阿卡迈拿下116亿美元Anthropic大单，股价大幅飙升",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaair4182748.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T21:11:36+08:00"
     },
     {
       "title": "灵巧手不是等AGI才用：一份被误读的物理AI落地地图",
@@ -169,153 +239,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-09-25T21:02:50+08:00"
-    },
-    {
-      "title": "000503，139家机构扎堆调研",
-      "url": "https://finance.sina.com.cn/stock/2026-09-25/doc-initaaiv4384863.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-25T20:58:05+08:00"
-    },
-    {
-      "title": "火遍全球的Muse，点燃AI投资新热情？",
-      "url": "https://finance.sina.com.cn/stock/2026-09-25/doc-initaaiv4385547.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-25T20:57:25+08:00"
-    },
-    {
-      "title": "视频|特朗普向中方赠送一座白头鹰雕像 由特朗普夫妇亲自参与设计",
-      "url": "https://finance.sina.com.cn/stock/2026-09-25/doc-initaait7604310.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-25T20:49:58+08:00"
-    },
-    {
-      "title": "老铺黄金最大门店亮相上海恒隆",
-      "url": "https://finance.sina.com.cn/tob/2026-09-25/doc-initaaiv4373700.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T20:44:07+08:00"
-    },
-    {
-      "title": "乌克兰称袭击导致俄罗斯两座炼油厂起火",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiw9332846.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T20:39:28+08:00"
-    },
-    {
-      "title": "开盘：纳指期货涨0.73% 布伦特原油下跌1%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaair4176664.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T20:30:39+08:00"
-    },
-    {
-      "title": "为了把更多HBM塞进芯片，英伟达加速布局下一代玻璃基板",
-      "url": "https://finance.sina.com.cn/stock/2026-09-25/doc-initaair4168953.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-25T20:20:30+08:00"
-    },
-    {
-      "title": "3.79万亿机构正式迎来新一任董事长",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-09-25/doc-initaaiw9331537.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-09-25T20:13:25+08:00"
-    },
-    {
-      "title": "AI太空竞赛愈演愈烈，谷歌发射卫星入局",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiw9325690.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T20:12:08+08:00"
-    },
-    {
-      "title": "莫德纳CEO务实的创新之道",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaait7580599.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T20:01:34+08:00"
-    },
-    {
-      "title": "诺和押注下一发展篇章，礼来在GLP‑1领域持续扩大优势",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszvzv7702421.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T19:45:04+08:00"
-    },
-    {
-      "title": "巴斯夫向化工同业对手赢创发起收购邀约",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszvzx4467799.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T19:27:03+08:00"
-    },
-    {
-      "title": "加码中国本土运营 维密上海淮海旗舰店开业",
-      "url": "https://finance.sina.com.cn/tob/2026-09-25/doc-iniszvzy9443116.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T19:24:44+08:00"
-    },
-    {
-      "title": "Meta股价势创2013年以来最佳单月表现 市值逼近2万亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszvzy9439484.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T19:09:58+08:00"
-    },
-    {
-      "title": "英国央行行长贝利：若能源冲击持续 加息可能性将上升",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszvzv7676548.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T18:51:06+08:00"
-    },
-    {
-      "title": "城堡投资加码量化招聘 寻觅能“管理机器”的人才",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszvzv7672342.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T18:44:02+08:00"
-    },
-    {
-      "title": "Jev热度爆棚，公司估值有望大幅飙升",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszvzt4270126.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T18:38:05+08:00"
-    },
-    {
-      "title": "IPO前夕，Anthropic拟效仿Palantir模式，赋予七位联合创始人特殊投票控制权",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszvzt4269498.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T18:36:02+08:00"
-    },
-    {
-      "title": "特斯拉Dojo前核心成员创办的初创公司估值接近100亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszvzv7666117.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T18:31:48+08:00"
-    },
-    {
-      "title": "日本财务大臣片山皋月：高市早苗“并非再通胀派”",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszvzv7663348.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T18:22:28+08:00"
-    },
-    {
-      "title": "报道：克里姆林宫称俄美乌三方会谈可能在近期举行",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszvzt4258194.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-25T18:01:46+08:00"
     },
     {
       "title": "CT无创筛查食管癌，达摩院AI站上临床前夜",

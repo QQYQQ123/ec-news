@@ -1,223 +1,258 @@
 {
-  "updatedAt": "2026-09-29T03:12:11+08:00",
-  "total": 48,
+  "updatedAt": "2026-09-29T08:09:52+08:00",
+  "total": 52,
   "news": [
     {
-      "title": "美联储理事库克：AI无法抵消短期通胀压力 就业市场能承受再加息",
-      "url": "https://finance.sina.com.cn/world/2026-09-29/doc-initmkks2784567.shtml",
+      "title": "福耀玻璃遭摩根大通减持约93.53万股 每股作价约55.36港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-29/doc-initmzhf7901388.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-29T08:08:10+08:00"
+    },
+    {
+      "title": "三星10亿美元投资美国AI基础设施公司Helix Digital",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmzhp3059902.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-29T08:06:10+08:00"
+    },
+    {
+      "title": "国常会：要加大宏观政策逆周期调节力度 加力实施扩投资、促消费贴息政策",
+      "url": "https://finance.sina.com.cn/china/gncj/2026-09-29/doc-initmzhk2527025.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-29T08:06:06+08:00"
+    },
+    {
+      "title": "Mongolian Mining遭Gorzynski Michael减持9万股 每股作价8.62港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-29/doc-initmzhp3059674.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-29T08:05:36+08:00"
+    },
+    {
+      "title": "罗博特科等四家公司周二登陆港交所 香港新股市场迎来繁忙的一天",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmzhf7899920.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-29T08:04:40+08:00"
+    },
+    {
+      "title": "多点数智获张文中增持449.77万股 每股作价约8.32港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-29/doc-initmzhp3059029.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-29T08:03:46+08:00"
+    },
+    {
+      "title": "金风科技获贝莱德增持110.08万股 每股作价约8.78港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-29/doc-initmzhp3058719.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-29T08:02:52+08:00"
+    },
+    {
+      "title": "新天绿色能源遭小摩减持267.5万股 每股作价约3.38港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-29/doc-initmuyi8029840.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-29T08:01:54+08:00"
+    },
+    {
+      "title": "日韩股市低开 韩国股市开盘下跌0.7%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmuyi8029826.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-29T08:01:49+08:00"
+    },
+    {
+      "title": "建滔积层板获Hallgain Management Limited增持57.45万股 每股作价约48.34港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-29/doc-initmuyi8029657.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-29T08:01:02+08:00"
+    },
+    {
+      "title": "芯碁微装获小摩增持1.095万股 每股作价约366.7港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-29/doc-initmuyr3188832.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-29T08:00:05+08:00"
+    },
+    {
+      "title": "中国财险遭小摩减持约328.25万股 每股作价约16.92港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-29/doc-initmuyp9425138.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-29T07:58:58+08:00"
+    },
+    {
+      "title": "特朗普政府放宽汽车燃油效率标准",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmuyn2652602.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-29T07:58:58+08:00"
+    },
+    {
+      "title": "浦项制铁寻求韩国政府批准核电投资计划",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmuyi8028963.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-29T07:57:10+08:00"
+    },
+    {
+      "title": "消息称高盛CEO苏德巍或于明年底提前卸任",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmuyr3187279.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-09-29T07:50:53+08:00"
+    },
+    {
+      "title": "备战四季度，公私募的共识与分歧",
+      "url": "https://finance.sina.com.cn/roll/2026-09-29/doc-initmzhm9297583.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-09-29T03:11:57+08:00"
+      "pubDate": "2026-09-29T07:50:00+08:00"
     },
     {
-      "title": "摩根士丹利公布达拉斯扩张计划 包含3,800个岗位",
-      "url": "https://finance.sina.com.cn/world/2026-09-29/doc-initmkkt9531560.shtml",
+      "title": "中国中车获贝莱德增持49.6万股 每股作价约5.19港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-29/doc-initmuyr3186573.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-09-29T02:06:16+08:00"
+      "pubDate": "2026-09-29T07:46:37+08:00"
     },
     {
-      "title": "欧洲债市：德国30年期国债创9月9日以来最差单日表现",
-      "url": "https://finance.sina.com.cn/world/2026-09-29/doc-initmkkp8198986.shtml",
+      "title": "中海油田服务获小摩增持约281.88万股 每股作价约7.51港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-29/doc-initmuyr3186295.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-09-29T01:23:02+08:00"
+      "pubDate": "2026-09-29T07:45:35+08:00"
     },
     {
-      "title": "伊朗官员据悉对美国中期选举前与华盛顿达成协议持悲观态度",
-      "url": "https://finance.sina.com.cn/world/2026-09-29/doc-initmkkt9513061.shtml",
+      "title": "凌晨，利空突袭，集体下跌！特朗普：美伊代表已交换信息！伊朗最高领袖发声",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-29/doc-initmuyp9422016.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-09-29T01:22:29+08:00"
+      "pubDate": "2026-09-29T07:43:37+08:00"
     },
     {
-      "title": "贝恩资本合伙人Drew Chen任职逾20年后将离职 另谋新职",
-      "url": "https://finance.sina.com.cn/world/2026-09-29/doc-initmkkv3357848.shtml",
+      "title": "市场分析：Anthropic 巨额支出仅能小幅提振芯片厂商",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmuyp9419329.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-09-29T01:21:17+08:00"
+      "pubDate": "2026-09-29T07:43:37+08:00"
     },
     {
-      "title": "高收益债汹涌来袭 高盛称市场消化能力承压",
-      "url": "https://finance.sina.com.cn/world/2026-09-29/doc-initmeax3485595.shtml",
+      "title": "美债抛售潮下的大反转！债市老将Bianco六年来首次看多，称5%收益率是“价值买点”",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-29/doc-initmuyr3186718.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-09-29T01:08:50+08:00"
+      "pubDate": "2026-09-29T07:42:22+08:00"
     },
     {
-      "title": "特朗普对在伊朗核问题取得进展基础上放松制裁持开放态度",
-      "url": "https://finance.sina.com.cn/world/2026-09-29/doc-initmeax3484146.shtml",
+      "title": "硅谷风投大佬警告：到2030年大部分机器人初创公司估值将下跌",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmuyr3184551.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-09-29T01:03:10+08:00"
+      "pubDate": "2026-09-29T07:39:24+08:00"
     },
     {
-      "title": "散户投资者担忧情绪升温",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmeav9634835.shtml",
+      "title": "特朗普拒绝伊朗提议推升油价 通胀预期助推美债收益率集体大涨",
+      "url": "https://finance.sina.com.cn/money/bond/2026-09-29/doc-initmuyp9420311.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-09-29T01:01:11+08:00"
+      "pubDate": "2026-09-29T07:38:18+08:00"
     },
     {
-      "title": "SpaceX星舰试飞成功进入地球轨道，26 颗星链卫星完成部署",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmeav9631844.shtml",
-      "source": "新浪综合",
+      "title": "科创债ETF规模逼近3600亿元，资金为何偏爱这类产品？",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-09-29/doc-initmuyp9421622.shtml",
+      "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-09-29T00:52:36+08:00"
+      "pubDate": "2026-09-29T07:35:42+08:00"
     },
     {
-      "title": "扎克伯格和Anthropic首席执行官等将出席特朗普AI主题午餐会",
-      "url": "https://finance.sina.com.cn/world/2026-09-29/doc-initmeau2857453.shtml",
-      "source": "新浪综合",
+      "title": "广汽集团，重大资产重组预案来了",
+      "url": "https://finance.sina.com.cn/stock/auto/2026-09-29/doc-initmuyr3185108.shtml",
+      "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-09-29T00:47:35+08:00"
+      "pubDate": "2026-09-29T07:33:00+08:00"
     },
     {
-      "title": "耐克股价或将迎来又一次“业绩重置时刻”？",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmeau2854478.shtml",
+      "title": "报道称高盛考虑明年任命John Waldron为首席执行官",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmuyn2640261.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-09-29T00:41:26+08:00"
+      "pubDate": "2026-09-29T07:32:26+08:00"
     },
     {
-      "title": "财报前夕，美光“超级多头”重申2000美元目标价",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmeav9622448.shtml",
-      "source": "新浪综合",
+      "title": "伊朗找到了美债的七寸",
+      "url": "https://finance.sina.com.cn/roll/2026-09-29/doc-initmuyi8022657.shtml",
+      "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-09-29T00:34:03+08:00"
+      "pubDate": "2026-09-29T07:32:25+08:00"
     },
     {
-      "title": "德意志银行：供应短缺或令铜价半年内上涨超过50%",
-      "url": "https://finance.sina.com.cn/world/2026-09-29/doc-initmeav9621943.shtml",
-      "source": "新浪综合",
+      "title": "昨晚，这些公司宣布大手笔回购！龙头纸企，再度涨价（附股）",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-09-29/doc-initmuyr3186595.shtml",
+      "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-09-29T00:33:01+08:00"
+      "pubDate": "2026-09-29T07:32:00+08:00"
     },
     {
-      "title": "欧洲股市基本持平 债市抛售抵消英国住宅建筑股涨势",
-      "url": "https://finance.sina.com.cn/world/2026-09-29/doc-initmeax3475089.shtml",
+      "title": "Anthropic计划未来一年在云服务与算力领域投入5180亿美元",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmuyp9411668.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-09-29T00:26:57+08:00"
+      "pubDate": "2026-09-29T07:30:42+08:00"
     },
     {
-      "title": "首席执行官被Meta挖角，MongoDB股价大幅下挫18%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmeax3469655.shtml",
+      "title": "“地狱般的日子”，OpenAI员工自曝为处理AI安全事件错过亲人婚礼",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmuyi8021358.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-09-29T00:14:55+08:00"
+      "pubDate": "2026-09-29T07:28:36+08:00"
     },
     {
-      "title": "“我们回不去了”：埃尔‑埃里安称收益率将维持高位",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmeax3467644.shtml",
+      "title": "美债收益率飙至20年高点 债市老将六年来首度转为看多",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmuyp9408962.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-09-29T00:10:41+08:00"
+      "pubDate": "2026-09-29T07:25:23+08:00"
     },
     {
-      "title": "Meta聘请MongoDB首席执行官领导新的企业级AI平台",
-      "url": "https://finance.sina.com.cn/world/2026-09-29/doc-initmeau2831720.shtml",
+      "title": "高盛考虑明年任命约翰・沃尔德伦为首席执行官",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmuyr3179065.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-09-29T00:04:41+08:00"
+      "pubDate": "2026-09-29T07:23:53+08:00"
     },
     {
-      "title": "SpaceX星舰首次入轨并部署26颗V3星链卫星 公司CFO称其为“创收飞行”",
-      "url": "https://finance.sina.com.cn/world/2026-09-29/doc-initmear8305457.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-29T00:03:52+08:00"
+      "title": "【钛晨报】商务部公布中美贸易理事会和“300亿对300亿”对等降税框架有关情况；英伟达将股票回购授权增加1500亿美元，使回购计划总额达到2350亿美元吃；SpaceX“星舰”首次成功进入地球轨道",
+      "url": "https://www.tmtpost.com/8154611.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-09-29T07:20:00+08:00"
     },
     {
-      "title": "特朗普拒绝伊朗提议令油价上涨 美债市场抛售加剧",
-      "url": "https://finance.sina.com.cn/world/2026-09-29/doc-initmear8304430.shtml",
+      "title": "OpenAI因安全隐患取消了最新模型发布计划",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmuyr3177710.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-09-29T00:01:12+08:00"
+      "pubDate": "2026-09-29T07:19:50+08:00"
     },
     {
-      "title": "三大不利因素夹击 纳斯达克100指数下挫",
-      "url": "https://finance.sina.com.cn/world/2026-09-28/doc-initmeax3462704.shtml",
+      "title": "股海导航_2026年9月29日_沪深股市公告与交易提示",
+      "url": "https://finance.sina.com.cn/stock/s/2026-09-29/doc-initmuyn2634551.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-09-28T23:54:38+08:00"
+      "pubDate": "2026-09-29T07:18:06+08:00"
     },
     {
-      "title": "交易员下调欧洲央行加息押注 预计10月加息概率不足40%",
-      "url": "https://finance.sina.com.cn/world/2026-09-28/doc-initmeax3462313.shtml",
+      "title": "抛售潮加剧，美国10年期国债收益率破5.2%，创近20年新高",
+      "url": "https://finance.sina.com.cn/roll/2026-09-29/doc-initmuyn2638670.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-09-28T23:52:33+08:00"
-    },
-    {
-      "title": "奥本海默：市场正迈向“新常态”",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initmeau2824286.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-28T23:45:24+08:00"
-    },
-    {
-      "title": "德意志银行：科技股仍有上涨空间",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initmeav9596295.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-28T23:44:14+08:00"
-    },
-    {
-      "title": "奥多比预测今年美国假日季线上购物将创历史新高",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initmeau2811260.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-28T23:20:25+08:00"
-    },
-    {
-      "title": "英伟达追加创纪录1500亿美元股票回购",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initmeau2809946.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-28T23:17:48+08:00"
-    },
-    {
-      "title": "OpenAI智能体将目标对准联合国网站",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initmeau2808439.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-28T23:14:53+08:00"
-    },
-    {
-      "title": "你的下一场公关危机，或许就藏在专利局档案之中",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initmeax3449030.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-28T23:09:57+08:00"
-    },
-    {
-      "title": "特朗普将公布爱荷华州150亿美元钢铁项目规划",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initmeax3447783.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-28T23:07:16+08:00"
-    },
-    {
-      "title": "OpenAI、Anthropic等AI科研负责人联名呼吁加强监管 警惕AI智能体失控",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initmeau2801211.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-28T23:01:02+08:00"
-    },
-    {
-      "title": "SpaceX首次将星舰火箭送入轨道",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initmear8286057.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-28T22:59:07+08:00"
-    },
-    {
-      "title": "解读丨事关稳楼市、促就业、提振内需等，国常会释放积极信号",
-      "url": "https://finance.sina.com.cn/china/2026-09-28/doc-initkxut8416143.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-09-28T22:51:58+08:00"
+      "pubDate": "2026-09-29T07:18:00+08:00"
     },
     {
       "title": "豪掷35亿发可转债扩产酵母蛋白，安琪酵母冲刺新增长曲线",
@@ -330,13 +365,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-09-28T13:50:00+08:00"
-    },
-    {
-      "title": "谁来为AI投入买单？从价值缺口到应对之道 | 2026 ITValue Summit数字价值年会",
-      "url": "https://www.tmtpost.com/8149442.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-09-28T13:17:29+08:00"
     }
   ]
 }

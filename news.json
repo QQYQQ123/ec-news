@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-07T20:36:59+08:00",
+  "updatedAt": "2026-10-07T20:42:15+08:00",
   "total": 64,
   "news": [
+    {
+      "title": "盘前：纳指期货跌0.66%，油价与美债收益率双双走高",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniumcpz4870569.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-07T20:30:21+08:00"
+    },
     {
       "title": "Meta的Muse助手登顶应用下载榜，下一步目标：让用户形成使用习惯",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniumcpz4864138.shtml",
@@ -15,6 +22,13 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-10-07T20:26:41+08:00"
+    },
+    {
+      "title": "腾讯四次出手短剧皆未果，微信“绿泡泡”这次能成吗？",
+      "url": "https://www.tmtpost.com/8160336.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-10-07T20:24:29+08:00"
     },
     {
       "title": "9月涨幅夺冠后，3倍大牛股提示风险：AI制药仍在起步阶段",
@@ -325,13 +339,6 @@
       "pubDate": "2026-10-07T17:14:27+08:00"
     },
     {
-      "title": "马斯克排除台积电参与Terafab运营的可能性",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukxhe5928036.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-07T17:11:13+08:00"
-    },
-    {
       "title": "溢价400%、一秒抢光，中国玩家全球“扫货”，带火一门套利生意",
       "url": "https://www.tmtpost.com/8160286.html",
       "source": "钛媒体",
@@ -402,32 +409,11 @@
       "pubDate": "2026-10-07T12:35:27+08:00"
     },
     {
-      "title": "分拆带来的市场疑虑消散后，科迪华股价有望上涨50%",
-      "url": "https://www.tmtpost.com/8160200.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-10-07T12:25:34+08:00"
-    },
-    {
       "title": "好产品也会丢单，Palantir 旧访谈翻红：企业级 AI 订单，拼的不只是模型",
       "url": "https://www.tmtpost.com/8160164.html",
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-10-07T10:54:38+08:00"
-    },
-    {
-      "title": "全球市值最大股表现落后，若英伟达启动上涨，科技股与大盘或将跟随",
-      "url": "https://www.tmtpost.com/8160143.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-10-07T09:31:38+08:00"
-    },
-    {
-      "title": "三只可能从现代战争中受益的国防类股票",
-      "url": "https://www.tmtpost.com/8160134.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-10-07T09:17:37+08:00"
     },
     {
       "title": "默沙东重注背后：G12D凭什么成为下一个爆款靶点？",
@@ -449,6 +435,20 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-10-07T05:21:21+08:00"
+    },
+    {
+      "title": "DeepSeek被爆最新融资800亿，正为冲击IPO做准备",
+      "url": "https://www.tmtpost.com/8159961.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-10-06T21:10:48+08:00"
+    },
+    {
+      "title": "论AI从沙盒中逃逸的必然性",
+      "url": "https://www.tmtpost.com/8159807.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-10-06T18:44:13+08:00"
     }
   ]
 }

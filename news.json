@@ -1,300 +1,230 @@
 {
-  "updatedAt": "2026-10-14T22:51:44+08:00",
-  "total": 55,
+  "updatedAt": "2026-10-15T03:57:14+08:00",
+  "total": 45,
   "news": [
     {
-      "title": "摩根士丹利财报超预期，股票交易业务营收较市场预期高出9.09亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivffsz7627418.shtml",
+      "title": "CoreWeave股价大跌，债券收益率因AI借贷狂潮担忧接近15%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfshx8294351.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-10-14T22:51:08+08:00"
+      "pubDate": "2026-10-15T03:44:18+08:00"
     },
     {
-      "title": "达美航空商务舱全面升级：全新座椅、餐单、餐具，再加更多保时捷专车",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftc8356356.shtml",
+      "title": "特朗普将就阻止白宫封禁MS NOW、CNN和Politico的命令提出上诉",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfsie1295558.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-10-14T22:48:24+08:00"
+      "pubDate": "2026-10-15T03:40:05+08:00"
     },
     {
-      "title": "科技巨头赶在假日购物旺季上架AI硬件新品",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivffsz7621396.shtml",
+      "title": "伊朗议长：目标不是“无休止的战争”或“旷日持久的谈判”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfsie1295188.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-10-14T22:43:56+08:00"
+      "pubDate": "2026-10-15T03:39:36+08:00"
     },
     {
-      "title": "9月金融数据出炉，债券、股票融资占比上升",
-      "url": "https://finance.sina.com.cn/wm/2026-10-14/doc-inivffth4528927.shtml",
+      "title": "里士满联储行长：CPI升幅高于期望的水平 需要评估更多经济数据",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfsie1294479.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T03:38:40+08:00"
+    },
+    {
+      "title": "马斯克：星盾的速度或使用限制由美国总统决定",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfshv7559561.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T03:38:09+08:00"
+    },
+    {
+      "title": "纽约汇市：美元升至逾一年高点 美国通胀超预期推升加息押注",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfsie1291367.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T03:34:53+08:00"
+    },
+    {
+      "title": "美银聘请1000名承包商 修补Anthropic的Mythos暴露的软件漏洞",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfsie1284773.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T03:25:31+08:00"
+    },
+    {
+      "title": "英伟达CEO黄仁勋：会对开发不安全AI软件的客户断供芯片",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfsie1282735.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T03:22:33+08:00"
+    },
+    {
+      "title": "乌克兰总统泽连斯基不满SpaceX网络设限 直言有遭特朗普背叛之感",
+      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfsia4493472.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T02:58:00+08:00"
+    },
+    {
+      "title": "美联储褐皮书：能源成本上涨传导至供应链 半数辖区报告价格压力升温",
+      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfshx8255301.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T02:34:41+08:00"
+    },
+    {
+      "title": "CoreWeave首席执行官将股价暴跌归咎于市场“非理性”行为",
+      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfshv7523015.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T02:33:31+08:00"
+    },
+    {
+      "title": "冰冻三尺非一日之寒 美银合规积弊终招重罚 市值蒸发300亿美元",
+      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfsia4469610.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T02:28:11+08:00"
+    },
+    {
+      "title": "欧洲股市上涨 美国CPI出炉后医疗等防御性股票跑赢",
+      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfshx8241202.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T02:12:18+08:00"
+    },
+    {
+      "title": "利雅得机场遇袭 加剧华尔街对沙特投资前景的担忧",
+      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfshv7509497.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T02:11:54+08:00"
+    },
+    {
+      "title": "摩根士丹利发行新债 美债收益率走高之际仍选择入市",
+      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfsia4444303.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T01:54:34+08:00"
+    },
+    {
+      "title": "日本高市早苗内阁首现因丑闻辞职阁僚 农林水产大臣被指或涉贿选",
+      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfshx8226868.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T01:48:24+08:00"
+    },
+    {
+      "title": "民调显示勒庞和梅朗雄有望进入法国总统大选的第二轮决选",
+      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfmyx7602402.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T01:16:04+08:00"
+    },
+    {
+      "title": "高通胀如何演变为美国社会 “无法摆脱的现实”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfmyx7601080.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T01:14:20+08:00"
+    },
+    {
+      "title": "归还了充电宝还一直扣钱？这几个坑越来越多人在吐槽",
+      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-10-15/doc-inivevcf7719672.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-10-14T22:43:43+08:00"
+      "pubDate": "2026-10-15T01:12:18+08:00"
     },
     {
-      "title": "韩国股民爆买中国科技股，标的曝光",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-10-14/doc-inivffth4524205.shtml",
+      "title": "伊朗袭击行动升级，一艘集装箱船于霍尔木兹海峡沉没",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfmyx7597836.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T01:10:24+08:00"
+    },
+    {
+      "title": "美国财政部：美国大型银行允许政治因素影响金融服务决策",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfmze4532504.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T01:07:17+08:00"
+    },
+    {
+      "title": "CoreWeave股价大跌，债券收益率逼近15%，市场担忧AI领域举债过度",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfmyx7584475.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T00:50:21+08:00"
+    },
+    {
+      "title": "摩根士丹利：需求抵消利率压力，黄金有望触及5000美元",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfmyz8314016.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T00:47:34+08:00"
+    },
+    {
+      "title": "美国大银行财报透视：交易业务表现分化 贷款需求仍具韧性",
+      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfmyx7580893.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T00:44:54+08:00"
+    },
+    {
+      "title": "美国芯片股跌势加剧 合计市值或蒸发逾1万亿美元",
+      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfmze4508871.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T00:40:16+08:00"
+    },
+    {
+      "title": "花旗经济学家预计美联储12月加息 称核心CPI远超预期",
+      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfmze4503535.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T00:35:06+08:00"
+    },
+    {
+      "title": "欧洲债市：德国长期国债收益率小幅走高 美国通胀超预期推升加息预期",
+      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfmze4502141.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T00:33:48+08:00"
+    },
+    {
+      "title": "云服务商CoreWeave债券急挫至困境区间 连马斯克也惊呼“吓人”",
+      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfmzh1273817.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T00:33:06+08:00"
+    },
+    {
+      "title": "美元升至2025年5月以来最高 美国通胀超预期推动加息押注升温",
+      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfmyz8301478.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-15T00:28:30+08:00"
+    },
+    {
+      "title": "微导纳米49亿元定增：实控人方刚减持套现超8亿元 账面广义货币资金超40亿元",
+      "url": "https://finance.sina.com.cn/stock/aigcy/2026-10-14/doc-inivfmze4469341.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-10-14T22:43:43+08:00"
+      "pubDate": "2026-10-14T23:59:11+08:00"
     },
     {
-      "title": "美国银行股价暴跌8%，或创2010年以来最大财报后单日跌幅，华尔街质疑合规整改成本",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftc8344938.shtml",
+      "title": "贝莱德CEO警告：暂停数据中心建设或将引发经济衰退",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfmze4458178.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-10-14T22:32:33+08:00"
+      "pubDate": "2026-10-14T23:47:36+08:00"
     },
     {
-      "title": "今夜，5家A股公司业绩预增超5倍",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-10-14/doc-inivffsz7613629.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-14T22:30:56+08:00"
-    },
-    {
-      "title": "最新！茅台集团旗下子公司人事变动",
-      "url": "https://finance.sina.com.cn/roll/2026-10-14/doc-inivfftk1279486.shtml",
+      "title": "房利美大幅上调2027年抵押贷款利率预测",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfmzh1227996.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-10-14T22:29:42+08:00"
-    },
-    {
-      "title": "哈塞特称美联储就通胀数据采取行动前还需看到更多数据",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftc8332218.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T22:13:31+08:00"
-    },
-    {
-      "title": "美银股票和固收交易收入不及预期 因监管处罚计提12亿美元费用",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftc8331677.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T22:12:54+08:00"
-    },
-    {
-      "title": "“牛散”陈发树，减持301050",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-14/doc-inivffth4491928.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T22:12:02+08:00"
-    },
-    {
-      "title": "东百集团宣布！跨界“追光”终止，仅历时三天！",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-14/doc-inivfftc8331642.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T22:09:41+08:00"
-    },
-    {
-      "title": "资金加仓，涌入股票型ETF",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-10-14/doc-inivfftc8336092.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-14T22:07:37+08:00"
-    },
-    {
-      "title": "利率高企大幅削弱购房承受能力，更多借款人选择风险更高的抵押贷款",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftk1255687.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T22:05:47+08:00"
-    },
-    {
-      "title": "美国银行第三季度营收不及预期，叠加监管处罚，股价大跌8.4%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftk1251880.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T22:02:25+08:00"
-    },
-    {
-      "title": "美国30年期抵押贷款利率升至7.5% 购房指数连续六周下滑",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftk1245067.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:55:27+08:00"
-    },
-    {
-      "title": "美9月通胀升至3.7%，高于市场预期",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivffsz7587768.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:54:10+08:00"
-    },
-    {
-      "title": "9820万元！万向信托政信类信托产品再逾期，信托手续费收入连续下滑",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-14/doc-inivffth4469167.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:51:57+08:00"
-    },
-    {
-      "title": "“70后”新董事长郑昕到位！江西裕民银行转型考题重重",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-14/doc-inivfftk1241699.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:51:56+08:00"
-    },
-    {
-      "title": "大选前最后1份通胀报告：美9月物价大幅走高",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivffth4468618.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:51:27+08:00"
-    },
-    {
-      "title": "渝港跨境数据验证平台投入运作",
-      "url": "https://finance.sina.com.cn/roll/2026-10-14/doc-inivffth4470880.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:50:00+08:00"
-    },
-    {
-      "title": "美联储传声筒：CPI超预期令美联储10月按兵不动面临更大压力，但尚无迹象表明官员将改变利率决策计划",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftc8312090.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:44:23+08:00"
-    },
-    {
-      "title": "155款应用拒绝接入豆包手机助手，覆盖腾讯、阿里、快手、美团系",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-14/doc-inivffth4457105.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:41:54+08:00"
-    },
-    {
-      "title": "欺诈发行、财务造假！*ST清越被罚1.72亿！",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-14/doc-inivffth4458271.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:38:15+08:00"
-    },
-    {
-      "title": "突发利空！富祥股份，实控人兼董事长被留置",
-      "url": "https://finance.sina.com.cn/roll/2026-10-14/doc-inivffsz7576046.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:37:05+08:00"
-    },
-    {
-      "title": "季丰电子IPO：实控人兄妹申报前减持套现 毛利率连降 新业务连亏三年仍要募资扩产",
-      "url": "https://finance.sina.com.cn/stock/aigcy/2026-10-14/doc-inivfftk1221103.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:36:21+08:00"
-    },
-    {
-      "title": "仅一个月，资本大佬陈发树又减持这只股票，对应市值1.29亿元",
-      "url": "https://finance.sina.com.cn/roll/2026-10-14/doc-inivfftc8305858.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:34:54+08:00"
-    },
-    {
-      "title": "康方生物配售：募资19亿港元 股价大跌10% 上半年亏4.5亿 公司市值874亿港元",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-14/doc-inivffth4449975.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:34:13+08:00"
-    },
-    {
-      "title": "央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",
-      "url": "https://finance.sina.com.cn/roll/2026-10-14/doc-inivffth4447677.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:33:28+08:00"
-    },
-    {
-      "title": "中国银行ESG评级上升至行业最高水平",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-10-14/doc-inivfftc8313449.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:32:32+08:00"
-    },
-    {
-      "title": "五年半里四位董事长辞职，片仔癀频“换帅”！",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-14/doc-inivfftk1217796.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:29:56+08:00"
-    },
-    {
-      "title": "斩获二连板！百亿A股公司提示风险",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-14/doc-inivfftc8302857.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:29:56+08:00"
-    },
-    {
-      "title": "美国9月汽油价格环比上涨9.1%，贡献当月通胀涨幅的一半以上",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftk1205528.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:22:29+08:00"
-    },
-    {
-      "title": "300497，实控人、董事长被留置",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-14/doc-inivfftc8295959.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:20:54+08:00"
-    },
-    {
-      "title": "时隔29天，朱雀二号一箭十星再次发射成功",
-      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-10-14/doc-inivfftk1202529.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:19:16+08:00"
-    },
-    {
-      "title": "美国股市顶住高通胀持续上涨，股票基金连续13个月吸金创纪录",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftk1199489.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:16:35+08:00"
-    },
-    {
-      "title": "美国9月CPI多数指标高于预期，三大股指期货转跌，银行股财报表现分化",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftc8292195.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:16:11+08:00"
-    },
-    {
-      "title": "奈飞全球裁员约6%、涉千人规模，为2022年以来最大一轮裁员",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivezmc7689279.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:13:04+08:00"
-    },
-    {
-      "title": "又一A股公司董事长被留置",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-14/doc-inivfftc8291539.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T21:12:42+08:00"
-    },
-    {
-      "title": "美国9月实际平均周薪同比下降0.1%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivezmn1310368.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T20:56:43+08:00"
-    },
-    {
-      "title": "美国9月消费者价格上涨0.6%，年度通胀率达3.7%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivezmf8407795.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T20:42:37+08:00"
-    },
-    {
-      "title": "收到1.72亿元罚单！688496，欺诈发行、财务造假！",
-      "url": "https://finance.sina.com.cn/wm/2026-10-14/doc-inivezmn1300524.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-14T20:42:19+08:00"
+      "pubDate": "2026-10-14T23:45:24+08:00"
     },
     {
       "title": "片仔癀五年四换帅，提价驱动失效，业绩失速",

@@ -1,7 +1,77 @@
 {
-  "updatedAt": "2026-10-25T01:10:08+08:00",
-  "total": 50,
+  "updatedAt": "2026-10-25T04:10:19+08:00",
+  "total": 44,
   "news": [
+    {
+      "title": "大众计划在佐治亚新建奥迪工厂",
+      "url": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkmrh0213942.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-25T03:53:27+08:00"
+    },
+    {
+      "title": "美国和以色列迎来关键选举 中东局势再度逼近危险关口",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwkmre3436349.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-25T03:51:04+08:00"
+    },
+    {
+      "title": "马斯克：商业版星链严禁用于进攻性无人机作战，乌军方曾违规使用",
+      "url": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkfih3552145.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-25T02:40:57+08:00"
+    },
+    {
+      "title": "金属交易商迎来丰厚红利，连续第二年斩获创纪录利润",
+      "url": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkfih3549447.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-25T02:25:59+08:00"
+    },
+    {
+      "title": "伊朗航司外汇供给中断，机票涨价约40%",
+      "url": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkfik0326184.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-25T02:22:30+08:00"
+    },
+    {
+      "title": "以色列央行驳斥内塔尼亚胡利用加密货币规避制裁的提议",
+      "url": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkfik0320147.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-25T01:52:41+08:00"
+    },
+    {
+      "title": "俄官员：“尚难判断”局部停火是否影响乌克兰问题谈判",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-25/doc-iniwkmri6938884.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-25T01:44:26+08:00"
+    },
+    {
+      "title": "胡塞武装：袭击了沙特能源设施和利雅得机场",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwkfih3534319.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-25T01:15:03+08:00"
+    },
+    {
+      "title": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-25/doc-iniwkfik0307871.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-25T00:54:06+08:00"
+    },
+    {
+      "title": "法国示威活动致多地文化场所临时关闭",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-25/doc-iniwkfip3826008.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-25T00:07:52+08:00"
+    },
     {
       "title": "分析：SpaceX大幅上调Q4资本开支指引，AI算力采购规模大增",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-24/doc-iniwiyzk3609815.shtml",
@@ -143,41 +213,6 @@
       "pubDate": "2026-10-24T18:11:00+08:00"
     },
     {
-      "title": "甲基肼商品报价动态（2026-10-24）",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-24/doc-iniwiqmh7910987.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-24T18:11:00+08:00"
-    },
-    {
-      "title": "乙醛酸商品报价动态（2026-10-24）",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-24/doc-iniwiqmk4683509.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-24T18:11:00+08:00"
-    },
-    {
-      "title": "硫酸氢铵商品报价动态（2026-10-24）",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-24/doc-iniwiqmq1877312.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-24T18:11:00+08:00"
-    },
-    {
-      "title": "硼氢化钾商品报价动态（2026-10-24）",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-24/doc-iniwiqmk4683546.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-24T18:11:00+08:00"
-    },
-    {
-      "title": "苯肼商品报价动态（2026-10-24）",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-24/doc-iniwiqmh7910964.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-24T18:11:00+08:00"
-    },
-    {
       "title": "“X女下海赚外快”？ 哈啰顺风车被曝涉黄！订单现疑似招嫖信息，官方紧急排查，高管曾称“七年没亏钱”",
       "url": "https://finance.sina.com.cn/china/2026-10-24/doc-iniwikcq1264147.shtml",
       "source": "新浪综合",
@@ -204,13 +239,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-10-24T16:30:53+08:00"
-    },
-    {
-      "title": "亚硫酸氢钠溶液商品报价动态（2026-10-24）",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-24/doc-iniwikcq1237767.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-24T16:03:00+08:00"
     },
     {
       "title": "绿色动力驶向全球：潍柴的技术创新与可持续发展之路",
@@ -281,76 +309,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-10-24T06:06:05+08:00"
-    },
-    {
-      "title": "10月24日外盘头条：俄乌同意奥列什基停火 特朗普拟豁免更多加拿大产品关税 美国将氦列入关键材料清单",
-      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhry5046368.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-24T05:54:06+08:00"
-    },
-    {
-      "title": "俄乌同意奥列什基停火，泽连斯基称11月举行新一轮和平会谈",
-      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhse2440163.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-24T05:48:56+08:00"
-    },
-    {
-      "title": "一油轮在霍尔木兹海峡附近遇袭 船舶单周通航量下降",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhrw8274402.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-24T05:43:05+08:00"
-    },
-    {
-      "title": "以色列总理有关应对国际制裁言论引发国内担忧",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhsa1712855.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-24T05:33:16+08:00"
-    },
-    {
-      "title": "古巴外长驳斥美方所谓“顺道解决古巴”言论",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhsa1701634.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-24T05:28:56+08:00"
-    },
-    {
-      "title": "观点综述：中期选举前宜押注美债涨、做空美元 避险情绪或延至11月中",
-      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhse2422304.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-24T05:21:32+08:00"
-    },
-    {
-      "title": "CFTC：对冲基金欧元空头押注升至2020年3月以来最高",
-      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhrw8241537.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-24T05:18:33+08:00"
-    },
-    {
-      "title": "纽约汇市：美元随AI担忧消退而持稳 澳元料创4月份以来最大周涨幅",
-      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhrw8238200.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-24T05:15:55+08:00"
-    },
-    {
-      "title": "穆迪完成审查后未对法国采取任何评级行动",
-      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhrw8233175.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-24T05:10:32+08:00"
-    },
-    {
-      "title": "特朗普与普京达成协议后 装载俄罗斯柴油的油轮驶向美国",
-      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhsa1682591.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-24T05:06:11+08:00"
     }
   ]
 }

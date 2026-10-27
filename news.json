@@ -1,20 +1,461 @@
 {
-  "updatedAt": "2026-10-27T17:34:02+08:00",
-  "total": 57,
+  "updatedAt": "2026-10-27T19:38:26+08:00",
+  "total": 72,
   "news": [
+    {
+      "title": "标普全球评估Capital IQ等数据业务的未来安排",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsmwu3777000.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:37:45+08:00"
+    },
+    {
+      "title": "每日互动（个推）亮相DACon2026，分享AIBI本体驱动的可信数据分析实践",
+      "url": "https://finance.sina.com.cn/stock/enterprise/cn/2026-10-27/doc-iniwsmwr1221084.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:29:45+08:00"
+    },
+    {
+      "title": "伊朗最高领袖与高级安全官员讨论战争及霍尔木兹海峡问题",
+      "url": "https://finance.sina.com.cn/world/2026-10-27/doc-iniwsmwr1220684.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:28:13+08:00"
+    },
+    {
+      "title": "通用汽车将把上市地从纽交所转至纳斯达克",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsmwr1220513.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:27:42+08:00"
+    },
+    {
+      "title": "金信基金评市场：市场缩量调整，高位筹码消化与风格再平衡",
+      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-10-27/doc-iniwsmwu3770473.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:27:30+08:00"
+    },
+    {
+      "title": "成都银行：董事王永强因工作变动离任",
+      "url": "https://finance.sina.com.cn/jryx/hm/2026-10-27/doc-iniwsmwu3769735.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:25:53+08:00"
+    },
+    {
+      "title": "债券抛售潮及社会动荡冲击下 法国消费者信心指数降至13年低点",
+      "url": "https://finance.sina.com.cn/world/2026-10-27/doc-iniwsmws6993247.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:25:08+08:00"
+    },
+    {
+      "title": "金鹰基金：科技板块高开低走 资金承接和风偏修复待观察",
+      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-10-27/doc-iniwsmws6992627.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:24:05+08:00"
+    },
+    {
+      "title": "每日互动出席2026汽车AI World创享年会，分享AI营销创新实践",
+      "url": "https://finance.sina.com.cn/stock/enterprise/cn/2026-10-27/doc-iniwsmws6992503.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:23:49+08:00"
+    },
+    {
+      "title": "西甲联盟回应姆巴佩言论：相关言论属于球员个人表达，绝不代表西甲联盟的立场，向中国球迷致以诚挚的歉意",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwsmwp4442151.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:20:29+08:00"
+    },
+    {
+      "title": "静水湖创投盲池基金完成二关：一家早期VC的克制与节奏",
+      "url": "https://www.tmtpost.com/8183791.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-10-27T19:18:39+08:00"
+    },
+    {
+      "title": "谢治宇、傅鹏博、朱少醒，最新调仓！",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-27/doc-iniwsmws6986937.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:14:14+08:00"
+    },
+    {
+      "title": "克里姆林宫：普京与挪威和芬兰领导人通电话 讨论了乌克兰等问题",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsmwu3757610.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:09:46+08:00"
+    },
+    {
+      "title": "新能源车事故后，为何更易被保险公司推定全损？",
+      "url": "https://finance.sina.com.cn/stock/hyyj/2026-10-27/doc-iniwsmwr1223570.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:07:08+08:00"
+    },
+    {
+      "title": "3 人预谋对撞骗车保致1人死亡，因金额未达5万元不构成保险诈骗罪，法院判决：犯过失致人死亡罪",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwsmws6984359.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:06:44+08:00"
+    },
+    {
+      "title": "A股三大指数集体走弱，创业板指跌超3%，两市缩量逾千亿元｜华宝基金3A日报（2026.10.27）",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-27/doc-iniwsmwu3755398.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:05:58+08:00"
+    },
+    {
+      "title": "“银伟达”卷土重来，建设银行又新高！银行ETF华宝（512800）标的指数再涨逾1%，四季度逻辑较强",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-27/doc-iniwsmws6978751.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:05:24+08:00"
+    },
+    {
+      "title": "三大指数集体回调！“银伟达”卷土重来，银行ETF华宝（512800）标的指数再涨逾1%！化工、有色盘中逆市活跃",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-27/doc-iniwsmwp4433339.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:04:06+08:00"
+    },
+    {
+      "title": "上市险企第二波利润寒潮：愈发敏感的净利润，还能反映保险经营实质吗？",
+      "url": "https://finance.sina.com.cn/money/insurance/bxdt/2026-10-27/doc-iniwsmws6980283.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:01:00+08:00"
+    },
+    {
+      "title": "美联储议息会议临近！一则数据提振，有色逆市活跃！有色ETF华宝（159876）跟踪指数最高涨近1.4%！",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-27/doc-iniwsmwu3750428.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T19:00:24+08:00"
+    },
+    {
+      "title": "药明康德三季报继续“炸场”，股价为何不涨反跌？",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-27/doc-iniwsmwu3749558.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:58:29+08:00"
+    },
+    {
+      "title": "算力硬件尾盘杀跌，高“光”指数继续探底！Anthropic招股书透露哪些信号？华宝基金曹旭辰最新研判来了",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-27/doc-iniwsmwu3748634.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:56:48+08:00"
+    },
+    {
+      "title": "江阴银行：前三季度实现营业收入33.81亿元，同比增长5.53%",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-27/doc-iniwsmws6972315.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:56:19+08:00"
+    },
+    {
+      "title": "AI大模型超级巨头Anthropic冲刺IPO，港股通信息技术ETF 华宝（159131）基金经理：泛科技情绪或有望修复",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-27/doc-iniwsmwu3747614.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:54:54+08:00"
+    },
+    {
+      "title": "“牛散”章建平夫妇，大举买入",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-10-27/doc-iniwsmwp4429751.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:49:34+08:00"
+    },
+    {
+      "title": "“跑高分”不等于“能交付”：AI排行榜正在经历一场信用重估",
+      "url": "https://www.tmtpost.com/8183550.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-10-27T18:42:42+08:00"
+    },
+    {
+      "title": "快消高管，进入“大换乘”时代",
+      "url": "https://www.tmtpost.com/8183613.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-10-27T18:42:40+08:00"
+    },
+    {
+      "title": "全力守护！工商银行持续做好西藏巴青地震灾后金融服务保障",
+      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-10-27/doc-iniwsmws6977537.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:42:00+08:00"
+    },
+    {
+      "title": "招行主动压降高收益信用卡，图什么",
+      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-10-27/doc-iniwsmwp4425584.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:39:58+08:00"
+    },
+    {
+      "title": "晶闸管拉动台基股份收入回暖 三季度增长进一步提速",
+      "url": "https://finance.sina.com.cn/stock/observe/2026-10-27/doc-iniwsfqu7089861.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:39:01+08:00"
+    },
+    {
+      "title": "杭州银行：前三季实现净利润174.35亿元，同比增长9.76%",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-27/doc-iniwsfqw3864972.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:38:11+08:00"
+    },
+    {
+      "title": "ATFX:纪念与爱丁堡公爵杯合作九周年 出席温莎城堡皇家晚宴",
+      "url": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-10-27/doc-iniwsfqu7087710.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:36:50+08:00"
+    },
+    {
+      "title": "塔塔汽车收购依维柯取得关键进展，股东支持本次收购",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqw3863012.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:35:58+08:00"
+    },
+    {
+      "title": "阿瑞斯私募信贷基金将从阿波罗集团收购竞争对手",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqu7084883.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:34:03+08:00"
+    },
+    {
+      "title": "来舒生产问题拖累北美销售，利洁时下调全年业绩预期",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqu7082955.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:31:50+08:00"
+    },
+    {
+      "title": "受中国市场销量下滑与成本抬升影响，梅赛德斯‑奔驰下调业绩指引",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqu7081420.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:30:19+08:00"
+    },
+    {
+      "title": "保时捷维持业绩指引，转型举措开始显现成效",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqu7080191.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:28:10+08:00"
+    },
+    {
+      "title": "乐奇Rokid发布三款AI穿戴新品，拓展显示与交互方案",
+      "url": "https://www.tmtpost.com/8183616.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-10-27T18:23:12+08:00"
+    },
+    {
+      "title": "中国顶流博主，横扫海外社交媒体",
+      "url": "https://www.tmtpost.com/8183139.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-10-27T18:19:29+08:00"
+    },
+    {
+      "title": "AI短剧：流水线上的打工人不得不说的秘密",
+      "url": "https://www.tmtpost.com/8183174.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-10-27T18:19:27+08:00"
+    },
+    {
+      "title": "百元一盒“维生素小贴纸”火了：年入6000万，估值超50亿",
+      "url": "https://www.tmtpost.com/8183227.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-10-27T18:19:26+08:00"
+    },
+    {
+      "title": "Kimi额度的问题，Anthropic找到了解决办法",
+      "url": "https://www.tmtpost.com/8183235.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-10-27T18:19:24+08:00"
+    },
+    {
+      "title": "宇树们应该再劝一劝狂热的股民了",
+      "url": "https://www.tmtpost.com/8183244.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-10-27T18:19:22+08:00"
+    },
+    {
+      "title": "麦当劳开始卖广告，中国餐饮要不要学？",
+      "url": "https://www.tmtpost.com/8183249.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-10-27T18:19:21+08:00"
+    },
+    {
+      "title": "年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人",
+      "url": "https://www.tmtpost.com/8183283.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-10-27T18:19:20+08:00"
+    },
+    {
+      "title": "Neocloud这堵快塌的墙，黄仁勋扶，马斯克推",
+      "url": "https://www.tmtpost.com/8183285.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-10-27T18:19:18+08:00"
+    },
+    {
+      "title": "Anthropic 的硅谷往事",
+      "url": "https://www.tmtpost.com/8183513.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-10-27T18:19:15+08:00"
+    },
+    {
+      "title": "港交所AI指数来了，南方基金先上桌：这张牌有多重？",
+      "url": "https://www.tmtpost.com/8183528.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-10-27T18:19:12+08:00"
+    },
+    {
+      "title": "“稳定币三明治”现象：万事达称，提升支付速度并非易事",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqw3840202.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:13:11+08:00"
+    },
+    {
+      "title": "营收超宇树科技，优必选：人形机器人销量承压",
+      "url": "https://finance.sina.com.cn/stock/s/2026-10-27/doc-iniwsfqw3835599.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:05:55+08:00"
+    },
+    {
+      "title": "Stripe领跑AI代理购物，令两大卡巨头如坐针毡",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqu7056468.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:05:47+08:00"
+    },
+    {
+      "title": "泡泡玛特业绩回落：第三季度整体收益同比下降45%-50%！段永平浮亏超18亿港元，曾称还想加仓",
+      "url": "https://finance.sina.com.cn/stock/s/2026-10-27/doc-iniwsfqt1317105.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:02:32+08:00"
+    },
+    {
+      "title": "大跌6%，联讯仪器股价跌破千元关口！A股千元股，仅剩贵州茅台",
+      "url": "https://finance.sina.com.cn/stock/s/2026-10-27/doc-iniwsfqu7061886.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:02:32+08:00"
+    },
+    {
+      "title": "支持分批次融资轮次的观点",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqr4534808.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T18:01:59+08:00"
+    },
+    {
+      "title": "Anthropic创始人表态：Claude将坚持无广告模式",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqw3825729.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T17:58:34+08:00"
+    },
+    {
+      "title": "中天期货:乙二醇突破上行 甲醇继续拉高",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-27/doc-iniwsfqt1309717.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T17:55:58+08:00"
+    },
+    {
+      "title": "雷军“卖房”，和想象中不太一样",
+      "url": "https://finance.sina.com.cn/stock/s/2026-10-27/doc-iniwsfqt1306958.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T17:45:58+08:00"
+    },
+    {
+      "title": "伊朗称将对长锦商船的船舶采取法律行动",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqw3811546.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T17:43:43+08:00"
+    },
+    {
+      "title": "习近平致电祝贺卢拉当选连任巴西总统",
+      "url": "https://finance.sina.com.cn/china/2026-10-27/doc-iniwsfqw3815837.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T17:42:41+08:00"
+    },
+    {
+      "title": "提前结募！招商价值智选主动管理ETF提前结束募集",
+      "url": "https://finance.sina.com.cn/money/fund/jjdt/2026-10-27/doc-iniwsfqu7032925.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T17:41:04+08:00"
+    },
+    {
+      "title": "Anthropic的S‑1文件凸显支付处理成本持续走高",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqw3807561.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T17:39:39+08:00"
+    },
+    {
+      "title": "提前结募！均衡量化主动ETF天弘（158908）募集超20亿元",
+      "url": "https://finance.sina.com.cn/money/fund/jjdt/2026-10-27/doc-iniwsfqu7030432.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T17:38:22+08:00"
+    },
+    {
+      "title": "DoorDash接近达成170亿美元收购Instacart的交易",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqt1301895.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T17:36:48+08:00"
+    },
+    {
+      "title": "有色、日韩、AI 一屏看全：新浪财经「全球市场魔方」三步上手！",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqw3803028.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-10-27T17:34:55+08:00"
+    },
     {
       "title": "与Anthropic打响价格战，OpenAI推出成本更低的Terra大模型",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqr4523115.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-10-27T17:33:20+08:00"
-    },
-    {
-      "title": "无锡农商行：5亿元二级资本债券发行完毕",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-27/doc-iniwsfqt1300066.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:32:31+08:00"
     },
     {
       "title": "大成红利智选主动管理ETF结束募集并启动比例配售",
@@ -31,81 +472,11 @@
       "pubDate": "2026-10-27T17:31:32+08:00"
     },
     {
-      "title": "GTC泽汇资本:油价回落缓释黄金通胀压力",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-10-27/doc-iniwsfqr4521445.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:28:47+08:00"
-    },
-    {
-      "title": "汇添富均衡策略智选主动管理ETF提前结束募集",
-      "url": "https://finance.sina.com.cn/money/fund/jjdt/2026-10-27/doc-iniwsfqt1298547.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:28:25+08:00"
-    },
-    {
-      "title": "Anthropic S‑1招股文件要点：巨额算力采购承诺、复杂锁定期安排",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqr4521202.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:28:04+08:00"
-    },
-    {
-      "title": "M4Markets:黄金底部判断需兼顾美元强度",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-10-27/doc-iniwsfqr4520676.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:26:40+08:00"
-    },
-    {
-      "title": "易事特索赔重大进展 后续股民仍可起诉",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-10-27/doc-iniwsfqw3797371.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:26:33+08:00"
-    },
-    {
-      "title": "*ST联翔发布三季报 股民索赔持续推进",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-10-27/doc-iniwsfqr4521063.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:26:31+08:00"
-    },
-    {
-      "title": "富通信息索赔持续推进 后续股民仍可起诉",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-10-27/doc-iniwsfqw3796895.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:26:29+08:00"
-    },
-    {
-      "title": "Mega安汇:高油价削弱黄金的利率优势",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-10-27/doc-iniwsfqr4519944.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:25:17+08:00"
-    },
-    {
-      "title": "欧洲天然气价格触及超买区间后回落",
-      "url": "https://finance.sina.com.cn/world/2026-10-27/doc-iniwsfqt1296971.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:24:47+08:00"
-    },
-    {
-      "title": "MHMarkets迈汇:黄金超卖反弹仍待宏观配合",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-10-27/doc-iniwsfqu7017700.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:23:39+08:00"
-    },
-    {
-      "title": "Moneta Markets外汇:金价回升需穿透通胀数据",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-10-27/doc-iniwsfqu7015668.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:21:49+08:00"
+      "title": "科大讯飞刘庆峰：讯飞星火X2.6全国产算力训练，押注端侧模型\"绕开\"封锁",
+      "url": "https://www.tmtpost.com/8183533.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-10-27T17:29:45+08:00"
     },
     {
       "title": "Selling AI Tokens Gets Harder as the Discount Trade Unravels",
@@ -113,20 +484,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-10-27T17:21:04+08:00"
-    },
-    {
-      "title": "午后急拉！301314，喜提“20CM”两连板，股民：“强到没边”",
-      "url": "https://finance.sina.com.cn/wm/2026-10-27/doc-iniwsfqt1296006.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:20:25+08:00"
-    },
-    {
-      "title": "NCE平台:油价与收益率共同塑造金价",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-10-27/doc-iniwsfqu7013416.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:19:53+08:00"
     },
     {
       "title": "算力最多，进展最慢：字节大模型困于赛马制",
@@ -143,263 +500,11 @@
       "pubDate": "2026-10-27T17:19:13+08:00"
     },
     {
-      "title": "美国中期选举前瞻：特朗普大概率失守众议院 选举结果难逃诉讼",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqu7011336.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:17:46+08:00"
-    },
-    {
-      "title": "Vatee万腾:油价降温带来黄金修复窗口",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-10-27/doc-iniwsfqu7011287.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:17:43+08:00"
-    },
-    {
-      "title": "英国债券投资者期待削减开支，约翰・希利的首份预算案或将令人失望",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqt1293210.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:17:26+08:00"
-    },
-    {
-      "title": "日本交易所集团将于明年4月推出日经半导体股票指数期货",
-      "url": "https://finance.sina.com.cn/world/2026-10-27/doc-iniwsfqr4515908.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:17:19+08:00"
-    },
-    {
-      "title": "ZFX山海证券:海外储油安排优化调度弹性",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-10-27/doc-iniwsfqw3784485.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:14:53+08:00"
-    },
-    {
-      "title": "科创50ETF近一周资金净流入创今年以来新高",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-27/doc-iniwsfqu7015597.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:14:22+08:00"
-    },
-    {
-      "title": "摩根大通亚洲资产规模增速超预期 达4000亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqu7007679.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:14:05+08:00"
-    },
-    {
-      "title": "姆巴佩遭数家中国公司解约品牌代言，外交部回应",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwsfqu7010310.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:13:51+08:00"
-    },
-    {
-      "title": "Anthropic大型IPO，澳大利亚散户可投",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqt1290937.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:13:07+08:00"
-    },
-    {
-      "title": "汇丰营收不及预期致股价大跌，该行宣布最高10亿美元股票回购计划",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqu7006427.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:12:47+08:00"
-    },
-    {
-      "title": "新西兰大选临近 国家党民调领先优势缩小",
-      "url": "https://finance.sina.com.cn/world/2026-10-27/doc-iniwsfqu7004642.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:11:06+08:00"
-    },
-    {
-      "title": "保时捷利润保持稳健 911车型对冲销量下滑",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqt1289763.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:10:34+08:00"
-    },
-    {
-      "title": "Anthropic IPO计划：客户收入留存率达900%，但上半年亏损800亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqr4512414.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:10:24+08:00"
-    },
-    {
-      "title": "双轨制强强联合，景气均衡主动ETF永赢怎么打？",
-      "url": "https://finance.sina.com.cn/money/fund/jjdt/2026-10-27/doc-iniwsfqt1289515.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:10:08+08:00"
-    },
-    {
-      "title": "受监管与市场降温影响 城堡证券印度业务增长放缓",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqw3776381.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:06:35+08:00"
-    },
-    {
-      "title": "英伟达将向Meta投资30亿美元，科技巨头深化人工智能合作",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqw3775760.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:05:55+08:00"
-    },
-    {
-      "title": "力拓前高管掌管澳大利亚武器采购 推进和平时期最大规模军力建设",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqu6997151.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T17:03:03+08:00"
-    },
-    {
-      "title": "资管机构：2027年末 Anthropic现金储备有望接近4000亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqu6990359.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T16:54:39+08:00"
-    },
-    {
-      "title": "分析：下调Token定价后 Anthropic年度经常收入或突破1000亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqr4503227.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T16:50:31+08:00"
-    },
-    {
       "title": "富人从来不缺给自己洗碗的人",
       "url": "https://www.tmtpost.com/8182851.html",
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-10-27T16:50:26+08:00"
-    },
-    {
-      "title": "Anthropic还得继续“狂奔”",
-      "url": "https://www.tmtpost.com/8182889.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-10-27T16:48:05+08:00"
-    },
-    {
-      "title": "亿元单品矩阵发力 上海家化Q3扣非净利增157.3% 美妆全渠道增速近40%",
-      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-10-27/doc-iniwsfqu6984146.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T16:48:01+08:00"
-    },
-    {
-      "title": "剥离丝芙兰后轻装上阵：上海家化Q3扣非净利增157.3% 美妆全渠道增速近40%",
-      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-10-27/doc-iniwsfqu6981728.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T16:44:27+08:00"
-    },
-    {
-      "title": "301488，直线闪崩！股民：真的是奇观",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-27/doc-iniwsfqw3760774.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T16:44:26+08:00"
-    },
-    {
-      "title": "Q3扣非净利暴涨157.3% 上海家化三季报亮眼：美妆全渠道增速近40% 线上占比逼近“半壁江山”",
-      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-10-27/doc-iniwsfqr4499393.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-10-27T16:41:30+08:00"
-    },
-    {
-      "title": "老马又融了400亿买卡 ，“光”要回来了吗？",
-      "url": "https://www.tmtpost.com/8182670.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-10-27T16:35:01+08:00"
-    },
-    {
-      "title": "迟到七年的苹果，还能后来居上吗",
-      "url": "https://www.tmtpost.com/8182740.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-10-27T16:34:59+08:00"
-    },
-    {
-      "title": "工资只有中国几分之一，为什么非洲制造并不便宜？",
-      "url": "https://www.tmtpost.com/8182876.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-10-27T16:34:58+08:00"
-    },
-    {
-      "title": "苹果第一次在供应链里排队",
-      "url": "https://www.tmtpost.com/8182888.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-10-27T16:34:56+08:00"
-    },
-    {
-      "title": "大模型时代，谁会成为那部不肯换掉的“iPhone”？",
-      "url": "https://www.tmtpost.com/8182615.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-10-27T16:21:42+08:00"
-    },
-    {
-      "title": "MiniMax的低价攻势，撞上“背题”疑云",
-      "url": "https://www.tmtpost.com/8182527.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-10-27T16:17:59+08:00"
-    },
-    {
-      "title": "倒卖Token暴利终结，AI中转站还剩几种活法？",
-      "url": "https://www.tmtpost.com/8183251.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-10-27T16:17:57+08:00"
-    },
-    {
-      "title": "花600天做一道菜，年轻人为什么蹲在抖音追“手搓”",
-      "url": "https://www.tmtpost.com/8182561.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-10-27T16:17:55+08:00"
-    },
-    {
-      "title": "气候危机愈发急迫，AI是福还是祸？",
-      "url": "https://www.tmtpost.com/8183389.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-10-27T15:59:58+08:00"
-    },
-    {
-      "title": "从卖车到造车，零跑在欧洲换了种打法",
-      "url": "https://www.tmtpost.com/8178750.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-10-27T12:25:16+08:00"
-    },
-    {
-      "title": "按周结算生活费，这届大学生成了家里的\"临时工\"",
-      "url": "https://www.tmtpost.com/8183176.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-10-27T12:22:49+08:00"
-    },
-    {
-      "title": "华瓷股份三季度盈利承压：外销订单受约束，第二增长曲线尚在路上|看财报",
-      "url": "https://www.tmtpost.com/8183215.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-10-27T11:29:01+08:00"
     }
   ]
 }

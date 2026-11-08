@@ -1,20 +1,216 @@
 {
-  "updatedAt": "2026-11-08T20:48:16+08:00",
-  "total": 69,
+  "updatedAt": "2026-11-09T02:38:23+08:00",
+  "total": 59,
   "news": [
+    {
+      "title": "特朗普：若谈判取得进展，重启对伊朗打击“可能性极低”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniyacyn3401703.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-09T01:50:19+08:00"
+    },
+    {
+      "title": "消息人士称伊拉克代表团访问伊朗并转达美方信息",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-09/doc-iniyacyk6757709.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-09T00:47:54+08:00"
+    },
+    {
+      "title": "伊朗海军称霍尔木兹海峡东部一违规油轮触雷起火",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-09/doc-iniyacyq6953408.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-09T00:43:04+08:00"
+    },
+    {
+      "title": "众议院民主党领袖支持弹劾海格塞斯 称其“必须”下台",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniyacys3721737.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-09T00:33:49+08:00"
+    },
+    {
+      "title": "塞尔维亚新一届议会定于11月17日举行首次会议",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-09/doc-iniyacyq6945331.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-09T00:09:36+08:00"
+    },
+    {
+      "title": "中期选举改写国会版图 特朗普1.5万亿美元国防预算面临夭折",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzxss7060320.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-08T23:51:04+08:00"
+    },
+    {
+      "title": "众议院民主党领袖杰弗里斯支持弹劾赫格塞思",
+      "url": "https://finance.sina.com.cn/7x24/2026-11-08/doc-inixzxsu3833996.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-08T23:45:15+08:00"
+    },
+    {
+      "title": "Anthropic斥资34亿美元为数据中心采购发电设备",
+      "url": "https://finance.sina.com.cn/7x24/2026-11-08/doc-inixzxsn6844439.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-08T23:12:18+08:00"
+    },
+    {
+      "title": "以总统赫尔佐格正式授权埃森科特组建新一届政府",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-08/doc-inixzxss7047557.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-08T23:03:00+08:00"
+    },
+    {
+      "title": "告别“聊天机器人”：AI商业化如何完成业务闭环？",
+      "url": "https://finance.sina.com.cn/stock/2026-11-08/doc-inixzxss7037099.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-08T22:41:44+08:00"
+    },
+    {
+      "title": "沙特阿美在首都利雅得的办公楼遇袭 受到轻微损伤",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzxsn6833330.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-08T22:38:44+08:00"
+    },
+    {
+      "title": "法国外长：欧洲人将参加阿布扎比乌克兰会谈",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzxsq3477394.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-08T22:24:44+08:00"
+    },
+    {
+      "title": "民主党将如何试图终结特朗普的关税",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzxsu3805136.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-08T22:17:36+08:00"
+    },
+    {
+      "title": "伊斯兰革命卫队称周日霍尔木兹海峡有3艘油轮起火",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzxsn6825965.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-08T22:13:42+08:00"
+    },
+    {
+      "title": "亚马逊已成立新的家用机器人团队 正开发一款“世界首创的机器人产品”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzxss7027705.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-08T22:13:00+08:00"
+    },
+    {
+      "title": "启元机器人第10000台个人机器人下线",
+      "url": "https://finance.sina.com.cn/tob/2026-11-08/doc-inixzxss7027496.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-08T22:12:25+08:00"
+    },
+    {
+      "title": "AI算力东风下，高景气何以加速兑现？解码深市半导体企业三季报",
+      "url": "https://finance.sina.com.cn/roll/2026-11-08/doc-inixzxsu3801961.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-08T22:04:49+08:00"
+    },
+    {
+      "title": "民主党赢得国会控制权，华尔街敦促企业加快巨额并购，2027年中或成关键期限",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzxss7025042.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-08T22:04:14+08:00"
+    },
+    {
+      "title": "上纬新材 利好传来！年内股价大涨超40%",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-08/doc-inixzxsu3804743.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-08T22:01:00+08:00"
+    },
+    {
+      "title": "国常会首提“完善资本市场稳市机制”",
+      "url": "https://finance.sina.com.cn/wm/2026-11-08/doc-inixzxss7023575.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-08T21:53:26+08:00"
+    },
+    {
+      "title": "全球首个！我国取得重大技术突破！",
+      "url": "https://finance.sina.com.cn/roll/2026-11-08/doc-inixzxsu3801211.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-08T21:52:55+08:00"
+    },
+    {
+      "title": "A股建材巨头，抛百亿级并购！",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-08/doc-inixztku7153690.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-08T21:52:50+08:00"
+    },
+    {
+      "title": "前东方红百亿固收老将创私募，开局就遇“字号纠纷”，定名仅用了三个月",
+      "url": "https://finance.sina.com.cn/roll/2026-11-08/doc-inixztks3600224.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-08T21:51:35+08:00"
+    },
+    {
+      "title": "A股公司密集实施回购，超10亿回购资金集中入场",
+      "url": "https://finance.sina.com.cn/stock/wbstock/2026-11-08/doc-inixzxss7024437.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-08T21:44:46+08:00"
+    },
+    {
+      "title": "乌方称俄军袭击致多地紧急停电",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-08/doc-inixztku7152435.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-08T21:41:25+08:00"
+    },
+    {
+      "title": "中信建投：前三季度医药行业步入改善周期 有望开启高质量发展",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-08/doc-inixztkq6947589.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-08T21:39:33+08:00"
+    },
+    {
+      "title": "稳市政策组合拳持续加码，A股长期向好逻辑进一步明确",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-08/doc-inixztku7141429.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-08T21:16:41+08:00"
+    },
+    {
+      "title": "领益智造同日回购A股及H股 持续推进股份回购计划",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-08/doc-inixztku7147587.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-08T21:16:00+08:00"
+    },
+    {
+      "title": "通宇通讯拟出资5亿元设立全资子公司 布局智能算力业务",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-08/doc-inixztku7152746.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-08T21:11:00+08:00"
+    },
     {
       "title": "共和党中期选举惨败打乱万斯2028年参选计划，部分金主开始寻找替代人选",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixztks3574430.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-11-08T20:38:20+08:00"
-    },
-    {
-      "title": "出手了！360亿\"活水\"，正\"抄底\"买入",
-      "url": "https://finance.sina.com.cn/stock/2026-11-08/doc-inixztks3569363.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T20:18:20+08:00"
     },
     {
       "title": "屏幕竖起来，创作者不会矮一截",
@@ -87,13 +283,6 @@
       "pubDate": "2026-11-08T20:05:35+08:00"
     },
     {
-      "title": "视频|共和党中期选举惨败 特朗普发飙 被曝当众轰走白宫前幕僚长",
-      "url": "https://finance.sina.com.cn/stock/2026-11-08/doc-inixztks3563223.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T20:05:16+08:00"
-    },
-    {
       "title": "Anthropic 为 AI 数据中心购入电力，达成 34 亿美元交易",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixztkq6914414.shtml",
       "source": "新浪综合",
@@ -129,144 +318,11 @@
       "pubDate": "2026-11-08T19:23:23+08:00"
     },
     {
-      "title": "生猪产能去化加速！农牧渔板块逆市上涨，农牧渔ETF华宝（159275）标的指数盘中涨超1%",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-11-08/doc-inixzpas7032319.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T19:19:04+08:00"
-    },
-    {
-      "title": "A股缩量调整！银行、电力逆市显韧性！科技龙头集体发声，双创50ETF华宝（588330）持续获资金关注！",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-11-08/doc-inixzpau3680292.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T19:17:57+08:00"
-    },
-    {
-      "title": "从“高股息防御”到“高确定性权益资产”，银行行情或仍将延续",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-11-08/doc-inixzpas7031780.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T19:16:05+08:00"
-    },
-    {
-      "title": "电力板块投资观察：需求端刚性增长与电价端修复预期形成共振！电力ETF华宝（159146）受关注",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-11-08/doc-inixzpaw7226419.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T19:15:19+08:00"
-    },
-    {
-      "title": "华安策略：悲观情绪过度反应后 反弹仍在",
-      "url": "https://finance.sina.com.cn/stock/2026-11-08/doc-inixzpau3674836.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T18:56:13+08:00"
-    },
-    {
-      "title": "华金策略：大级别底部形成的条件",
-      "url": "https://finance.sina.com.cn/stock/2026-11-08/doc-inixzpas7026313.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T18:54:44+08:00"
-    },
-    {
-      "title": "中国银河策略：政策托底与外部博弈交织 后市如何看？",
-      "url": "https://finance.sina.com.cn/stock/2026-11-08/doc-inixzpas7025861.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T18:53:13+08:00"
-    },
-    {
-      "title": "国泰海通策略：美国中期选举落地 建议均衡配置",
-      "url": "https://finance.sina.com.cn/stock/2026-11-08/doc-inixzpaw7219620.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T18:51:03+08:00"
-    },
-    {
-      "title": "张亚勤追问大模型护城河，姚顺雨回应",
-      "url": "https://finance.sina.com.cn/stock/2026-11-08/doc-inixzpay3992235.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T18:40:47+08:00"
-    },
-    {
       "title": "腾讯反弹，段永平：还拿着",
       "url": "https://finance.sina.com.cn/stock/s/2026-11-08/doc-inixzpaw7213422.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-11-08T18:33:19+08:00"
-    },
-    {
-      "title": "三乙醇胺硼酸酯商品报价动态（2026-11-08）",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-08/doc-inixzpaw7206864.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T18:11:00+08:00"
-    },
-    {
-      "title": "次氯酸钠固体商品报价动态（2026-11-08）",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-08/doc-inixzpas7013452.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T18:11:00+08:00"
-    },
-    {
-      "title": "EDTA 4钠商品报价动态（2026-11-08）",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-08/doc-inixzpau3661406.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T18:11:00+08:00"
-    },
-    {
-      "title": "二次还原铁粉商品报价动态（2026-11-08）",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-08/doc-inixzpau3661379.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T18:11:00+08:00"
-    },
-    {
-      "title": "复合碳源（糖类）商品报价动态（2026-11-08）",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-08/doc-inixzpas7013202.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T18:11:00+08:00"
-    },
-    {
-      "title": "甲基硅酸钠商品报价动态（2026-11-08）",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-08/doc-inixzpay3982832.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T18:11:00+08:00"
-    },
-    {
-      "title": "二乙烯三胺五乙酸五钠商品报价动态（2026-11-08）",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-08/doc-inixzpau3661374.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T18:11:00+08:00"
-    },
-    {
-      "title": "精制工业盐商品报价动态（2026-11-08）",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-08/doc-inixzpau3661643.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T18:11:00+08:00"
-    },
-    {
-      "title": "高含量有机硅消泡剂商品报价动态（2026-11-08）",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-08/doc-inixzpau3661644.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T18:11:00+08:00"
-    },
-    {
-      "title": "甲基硅酸钾商品报价动态（2026-11-08）",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-08/doc-inixzpau3661637.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-08T18:11:00+08:00"
     },
     {
       "title": "医疗器械龙头三季报出炉！上市以来前三季营收首次破百亿，净利润同比走低，现金流由正转负",
@@ -295,132 +351,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-11-08T17:04:09+08:00"
-    },
-    {
-      "title": "和美药业延迟港股上市：曾拟募资8.6亿港元 4个月亏3125万",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-08/doc-inixzpaw7189774.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-08T16:59:36+08:00"
-    },
-    {
-      "title": "又见A股跨界，603725，拟控股光通信企业！",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-08/doc-inixzhuy7307327.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-08T16:55:54+08:00"
-    },
-    {
-      "title": "以色列总统授权埃森科特组阁 令内塔尼亚胡执政地位迎重大考验",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzhuw3764416.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-08T16:51:48+08:00"
-    },
-    {
-      "title": "九方智投控股于11月6日斥资232.75万港元回购9.59万股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-08/doc-inixzhuw3761056.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-08T16:44:40+08:00"
-    },
-    {
-      "title": "奈雪的茶于11月6日斥资约19.12万港元回购27万股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-08/doc-inixzhuy7301167.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-08T16:43:45+08:00"
-    },
-    {
-      "title": "兴业控股：绿金租赁前三季度净利润7258.32万元 同比减少9.12%",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-08/doc-inixzhuu7111780.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-08T16:42:35+08:00"
-    },
-    {
-      "title": "瀚天天成于11月6日斥资592.93万港元回购7.73万股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-08/doc-inixzhuw3759562.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-08T16:41:47+08:00"
-    },
-    {
-      "title": "第一拖拉机股份于11月6日斥资62.48万港元回购7.8万股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-08/doc-inixzhva4075796.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-08T16:41:08+08:00"
-    },
-    {
-      "title": "越秀地产前10个月累计合同销售额约802.25亿元",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-08/doc-inixzhuw3758969.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-08T16:40:31+08:00"
-    },
-    {
-      "title": "天伦燃气于11月6日耗资约50.28万港元回购35.45万股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-08/doc-inixzhuw3758578.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-08T16:39:32+08:00"
-    },
-    {
-      "title": "海天味业于11月6日斥资722.95万港元回购27.5万股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-08/doc-inixzhuu7110107.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-08T16:38:46+08:00"
-    },
-    {
-      "title": "广汽集团10月汽车销量为14.37万辆",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-08/doc-inixzhva4074376.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-08T16:37:54+08:00"
-    },
-    {
-      "title": "广发证券：2025年公开发行公司债券(第六期)将于 11月10日支付利息",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-08/doc-inixzhuy7298043.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-08T16:37:12+08:00"
-    },
-    {
-      "title": "保诚于11月5日斥资620.74万英镑回购合计65.59万股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-08/doc-inixzhuy7296943.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-08T16:34:42+08:00"
-    },
-    {
-      "title": "时代中国控股：10月合同销售额约2.35亿元 同比减少41.69%",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-08/doc-inixzhuu7108435.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-08T16:34:06+08:00"
-    },
-    {
-      "title": "无论如何得说清楚经济还能中高速增长的历史和道理",
-      "url": "https://finance.sina.com.cn/cj/2026-11-08/doc-inixzhva4074316.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-08T16:34:04+08:00"
-    },
-    {
-      "title": "非凡领越将于12月7日派发特别股息每股12.55港仙",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-08/doc-inixzhuu7108158.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-08T16:33:24+08:00"
-    },
-    {
-      "title": "中集集团于11月6日斥资291.31万港元回购38万股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-08/doc-inixzhuw3756288.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-08T16:33:17+08:00"
     },
     {
       "title": "从资本密集到人力密集：全球AI的瓶颈，卡在缺乏“电工”",

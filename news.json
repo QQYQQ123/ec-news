@@ -1,7 +1,427 @@
 {
-  "updatedAt": "2026-11-14T08:38:13+08:00",
-  "total": 52,
+  "updatedAt": "2026-11-14T16:32:45+08:00",
+  "total": 74,
   "news": [
+    {
+      "title": "微软称服务已全面恢复 此前故障波及全球",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysvma7318329.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-14T16:26:32+08:00"
+    },
+    {
+      "title": "吴清：A股有2亿多股票投资者、8亿多基金持有人，这一国情市情在全球独一无二",
+      "url": "https://finance.sina.com.cn/roll/2026-11-14/doc-iniysvkv0233961.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T16:09:49+08:00"
+    },
+    {
+      "title": "新信号！茅台，突然宣布降价",
+      "url": "https://finance.sina.com.cn/wm/2026-11-14/doc-iniysvma7311932.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T16:05:57+08:00"
+    },
+    {
+      "title": "黄仁勋传",
+      "url": "https://www.tmtpost.com/8204575.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-14T15:57:00+08:00"
+    },
+    {
+      "title": "60万吨！电解液赛道再现大手笔“锁单”",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-11-14/doc-iniysvkz0529100.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T15:55:00+08:00"
+    },
+    {
+      "title": "小摩：2027年美国高评级债发行规模将冲2.1万亿美元，未来2万亿或成“新常态”",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-11-14/doc-iniysvkv0221373.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T15:50:55+08:00"
+    },
+    {
+      "title": "黄金，正在重演2013年崩盘？",
+      "url": "https://finance.sina.com.cn/cj/2026-11-14/doc-iniysvma7302263.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T15:47:38+08:00"
+    },
+    {
+      "title": "源杰科技，刚摔了一跤又站起来了",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-11-14/doc-iniysvma7295304.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T15:30:00+08:00"
+    },
+    {
+      "title": "开始“纯过日子”，双11年轻人不再“包装”自己的生活",
+      "url": "https://www.tmtpost.com/8205255.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-14T15:30:00+08:00"
+    },
+    {
+      "title": "比亚迪辟谣收购“某数字能源”：无任何事实依据",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-11-14/doc-iniysvkz0519985.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T15:27:11+08:00"
+    },
+    {
+      "title": "愿望单17万，国产独游又出了款冷门黑马",
+      "url": "https://www.tmtpost.com/8205240.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-14T15:26:00+08:00"
+    },
+    {
+      "title": "“股王”苹果，市值再创新高！英伟达高开转跌，一竞争对手股价飙涨",
+      "url": "https://finance.sina.com.cn/roll/2026-11-14/doc-iniysvkz0523853.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T15:25:00+08:00"
+    },
+    {
+      "title": "AI时代，公司越来越扁平，也越来越官僚",
+      "url": "https://www.tmtpost.com/8205239.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-14T15:21:00+08:00"
+    },
+    {
+      "title": "英伟达回应CEO继任者传闻",
+      "url": "https://finance.sina.com.cn/roll/2026-11-14/doc-iniysvkv0211315.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T15:18:52+08:00"
+    },
+    {
+      "title": "美国AI损失惨重！黄仁勋交出帅印后，英伟达将丢失灵魂？",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-11-14/doc-iniysvmc2874932.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T15:18:50+08:00"
+    },
+    {
+      "title": "特斯拉和SpaceX最快12月合并？没那么简单，还有3.47万亿美元卡在弃权票上",
+      "url": "https://www.tmtpost.com/8205220.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-14T15:13:00+08:00"
+    },
+    {
+      "title": "国能卖壳，宝丰接盘，英力特这笔交易赌的不是光伏，是出清期的生存权",
+      "url": "https://www.tmtpost.com/8205215.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-14T15:08:00+08:00"
+    },
+    {
+      "title": "黄仁勋辞职后：亲友齐聚旧金山豪宅 点炸鸡外卖",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysvmc2868383.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-14T15:07:36+08:00"
+    },
+    {
+      "title": "马斯克称Cybercab每月299美元自动驾驶订阅费太高",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysvma7285464.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-14T15:06:17+08:00"
+    },
+    {
+      "title": "2026欧洲生鲜零售现状",
+      "url": "https://www.tmtpost.com/8205180.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-14T14:52:37+08:00"
+    },
+    {
+      "title": "Token生意火了，但头部中间商还没赚到钱",
+      "url": "https://www.tmtpost.com/8205178.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-14T14:49:31+08:00"
+    },
+    {
+      "title": "马斯克和黄仁勋，我有点磕他们了",
+      "url": "https://www.tmtpost.com/8205179.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-14T14:49:26+08:00"
+    },
+    {
+      "title": "字节跳动4000亿估值回购：不上市的巨头，正在用现金“定价”自己",
+      "url": "https://www.tmtpost.com/8204099.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-14T14:44:47+08:00"
+    },
+    {
+      "title": "劝爸妈别刷AI短剧，我太难了",
+      "url": "https://www.tmtpost.com/8205193.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-14T14:44:43+08:00"
+    },
+    {
+      "title": "想用AI造芯片？芯片工程师笑了",
+      "url": "https://www.tmtpost.com/8205198.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-14T14:33:00+08:00"
+    },
+    {
+      "title": "出海非洲：从农机到油脂加工，中国企业如何打通农业产业链？",
+      "url": "https://www.tmtpost.com/8204229.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-14T14:32:54+08:00"
+    },
+    {
+      "title": "奔赴工业沃土：中国半导体企业齐聚欧洲",
+      "url": "https://www.tmtpost.com/8205203.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-14T14:32:50+08:00"
+    },
+    {
+      "title": "全球储能第一的比亚迪，把欧洲第一家电芯工厂选在了葡萄牙",
+      "url": "https://www.tmtpost.com/8205217.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-14T14:27:31+08:00"
+    },
+    {
+      "title": "97%支持率，最怕黄仁勋离开的，为何是员工",
+      "url": "https://www.tmtpost.com/8204717.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-14T14:27:26+08:00"
+    },
+    {
+      "title": "聚合多元醇商品报价动态（2026-11-14）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-14/doc-iniysrcf2978555.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T14:01:00+08:00"
+    },
+    {
+      "title": "马来酸商品报价动态（2026-11-14）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-14/doc-iniysrce7395630.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T14:01:00+08:00"
+    },
+    {
+      "title": "1-羟基-2-萘甲酸商品报价动态（2026-11-14）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-14/doc-iniysrax0318059.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T14:01:00+08:00"
+    },
+    {
+      "title": "液体尿素商品报价动态（2026-11-14）",
+      "url": "https://finance.sina.com.cn/money/future/agri/2026-11-14/doc-iniysrcf2978589.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T14:01:00+08:00"
+    },
+    {
+      "title": "硫化铁商品报价动态（2026-11-14）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-14/doc-iniysrcf2978635.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T14:01:00+08:00"
+    },
+    {
+      "title": "无水氯化锂商品报价动态（2026-11-14）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-14/doc-iniysrax0316915.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T14:01:00+08:00"
+    },
+    {
+      "title": "阿拉伯胶商品报价动态（2026-11-14）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-14/doc-iniysrax0316908.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T14:01:00+08:00"
+    },
+    {
+      "title": "月桂酰胺丙基氧化胺商品报价动态（2026-11-14）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-14/doc-iniysrax0318202.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T14:01:00+08:00"
+    },
+    {
+      "title": "聚酰胺650 固化剂商品报价动态（2026-11-14）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-14/doc-iniysrax0318164.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T14:01:00+08:00"
+    },
+    {
+      "title": "乙酰丙酮铝商品报价动态（2026-11-14）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-14/doc-iniysrcc0619595.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T14:01:00+08:00"
+    },
+    {
+      "title": "椰油胺商品报价动态（2026-11-14）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-14/doc-iniysrax0318087.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T14:01:00+08:00"
+    },
+    {
+      "title": "AEP-98耐碱渗透剂商品报价动态（2026-11-14）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-14/doc-iniysrax0318090.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T14:01:00+08:00"
+    },
+    {
+      "title": "月桂基两性醋酸钠（咪唑啉）商品报价动态（2026-11-14）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-14/doc-iniysrcf2978726.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T14:01:00+08:00"
+    },
+    {
+      "title": "聚丙二醇3000商品报价动态（2026-11-14）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-14/doc-iniysrax0318231.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T14:01:00+08:00"
+    },
+    {
+      "title": "聚四氢呋喃醚PTMEG商品报价动态（2026-11-14）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-14/doc-iniysrcf2977400.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T14:01:00+08:00"
+    },
+    {
+      "title": "红糖商品报价动态（2026-11-14）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-14/doc-iniysrcc0618477.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T14:01:00+08:00"
+    },
+    {
+      "title": "N,N-二乙基甲酰胺商品报价动态（2026-11-14）",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-14/doc-iniysrax0318114.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-14T14:01:00+08:00"
+    },
+    {
+      "title": "老黄离职后，“大空头”加码做空科技股！警告AI热潮或陷入“牛市陷阱”",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-11-14/doc-iniysrcf2969234.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-14T13:45:21+08:00"
+    },
+    {
+      "title": "英国央行首席经济学家：需进一步加息",
+      "url": "https://finance.sina.com.cn/world/2026-11-14/doc-iniysrcc0597024.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-14T13:06:00+08:00"
+    },
+    {
+      "title": "黄仁勋创办了英伟达，英伟达为什么还能让他走？",
+      "url": "https://www.tmtpost.com/8204790.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-14T12:57:00+08:00"
+    },
+    {
+      "title": "美国解除全国停飞令 此前航班因空管系统故障停飞逾四小时",
+      "url": "https://finance.sina.com.cn/world/2026-11-14/doc-iniysrax0273459.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-14T12:20:45+08:00"
+    },
+    {
+      "title": "美国交通部长谈全美停飞：国会应该批准500亿美元改造空管系统",
+      "url": "https://finance.sina.com.cn/world/2026-11-14/doc-iniyskvf0673816.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-14T10:55:09+08:00"
+    },
+    {
+      "title": "传统的圣诞行情，今年的美股还有吗？",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-11-14/doc-iniyskvi3034331.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-14T10:53:43+08:00"
+    },
+    {
+      "title": "Afterpay联合创始人莫尔纳将于年底离开",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyskvf0669977.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-14T10:48:07+08:00"
+    },
+    {
+      "title": "美国联邦航空管理局已解除全国停飞令",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepk7547195.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-14T09:34:26+08:00"
+    },
+    {
+      "title": "今年1至10月全国铁路发送旅客41.3亿人次，创历史同期新高",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-14/doc-iniysepm3126927.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-14T09:21:00+08:00"
+    },
+    {
+      "title": "以色列风投：英伟达风波给竞品带来机遇",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepc0461217.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-14T09:06:48+08:00"
+    },
+    {
+      "title": "SpaceX星舰第15次试飞 助推器未能按计划返回发射场",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepc0456728.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-14T08:55:00+08:00"
+    },
+    {
+      "title": "特斯拉：开始面向个人销售Cybercab",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepi0754222.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-14T08:48:18+08:00"
+    },
+    {
+      "title": "Anthropic摩根大通总部路演 对算力支出表态谨慎",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepm3111917.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-14T08:46:10+08:00"
+    },
+    {
+      "title": "白宫呼吁放宽责任追究 鼓励AI企业上报安全事件",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepk7526023.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-14T08:40:21+08:00"
+    },
     {
       "title": "风投人士：黄仁勋离任给AI创企融资留下巨大缺口",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepk7523945.shtml",
@@ -24,7 +444,7 @@
       "pubDate": "2026-11-14T08:28:42+08:00"
     },
     {
-      "title": "美国停飞令已导致超13000架次航班延误或取消",
+      "title": "“911”以来第二次全美停飞！已有超1.3万架次航班延误或取消",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepc0440232.shtml",
       "source": "新浪综合",
       "category": "热点",
@@ -36,13 +456,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-11-14T08:05:46+08:00"
-    },
-    {
-      "title": "爱玛科技营收净利双降，负债率超六成仍持续分红",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-14/doc-iniysepm3091729.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-14T08:00:00+08:00"
     },
     {
       "title": "Uber回应用户信息外泄：第三方数据泄露所致",
@@ -80,13 +493,6 @@
       "pubDate": "2026-11-14T06:59:34+08:00"
     },
     {
-      "title": "大雾橙色预警发布！京津冀等多地将有浓雾或强浓雾",
-      "url": "https://finance.sina.com.cn/roll/2026-11-14/doc-iniyryfp3197671.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-14T06:56:07+08:00"
-    },
-    {
       "title": "黄仁勋风波持续发酵 英伟达创逾18个月来最差单周表现",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyryfm0827643.shtml",
       "source": "新浪综合",
@@ -113,258 +519,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-11-14T06:27:50+08:00"
-    },
-    {
-      "title": "美国股市：标普500指数收跌 英伟达风波与利率前景牵动市场",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyryff0523159.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-14T06:17:02+08:00"
-    },
-    {
-      "title": "11月14日外盘头条：美国联邦航空管理局发布全国范围地面停飞指令 OpenAI撤销独立机器人研究团队",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyryfm0815827.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-14T06:10:49+08:00"
-    },
-    {
-      "title": "经济日报：中国外贸快到顶了吗",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-14/doc-iniyryfn7589790.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-14T06:04:58+08:00"
-    },
-    {
-      "title": "元旦出境机票预订量同比增约10%",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-14/doc-iniyryfn7580864.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-14T05:41:56+08:00"
-    },
-    {
-      "title": "今日视点：高质量上市公司撑起中国资产底气",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-14/doc-iniyryff0510041.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-14T05:41:52+08:00"
-    },
-    {
-      "title": "纽约汇市：美元指数迈向四连涨 触及18个月高位",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyryfp3168806.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-14T05:37:12+08:00"
-    },
-    {
-      "title": "美国债市：国债收盘涨跌不一 收益率曲线陡化",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyryfm0801230.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-14T05:34:56+08:00"
-    },
-    {
-      "title": "摩根大通预计AI投资热潮将推动2027年美国高评级债券发行量创历史新高",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyryfn7575553.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-14T05:31:44+08:00"
-    },
-    {
-      "title": "11月14日收盘：美股涨跌不一 英伟达跌破四万亿美元大关",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyryff0514928.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-14T05:30:23+08:00"
-    },
-    {
-      "title": "英伟达第三季获嘉实基金增持 稳居头号重仓股之位",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyryfn7574570.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-14T05:29:54+08:00"
-    },
-    {
-      "title": "特朗普政府据悉将再度延长《琼斯法》航运豁免 以降低燃料成本",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyryfp3165772.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-14T05:26:14+08:00"
-    },
-    {
-      "title": "凯文·哈塞特否认离职传闻，称将继续担任特朗普经济顾问",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyryfn7572908.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-14T05:24:50+08:00"
-    },
-    {
-      "title": "达菲证实：因出现“通信故障”，美国联邦航空管理局已发布全美地面停飞令",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyrtxp0927230.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-14T05:23:26+08:00"
-    },
-    {
-      "title": "美联储12月加息基本锁定 市场焦点转向明年1月",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyrtxp0925587.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-14T05:18:43+08:00"
-    },
-    {
-      "title": "美国联邦航空管理局以特殊情况为由发布地面停飞令",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyrtxq7700478.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-14T05:15:18+08:00"
-    },
-    {
-      "title": "英伟达回应CEO继任传闻 称尚未与任何潜在候选人正式接触",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyrtxi0633268.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-14T05:13:59+08:00"
-    },
-    {
-      "title": "伦敦金属交易所又一品种面临供应紧张 库存下降推动现货锡价飙升",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyrtxp0923699.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-14T05:12:56+08:00"
-    },
-    {
-      "title": "美联储警告：部分由AI推动的资产价格高企存在潜在风险",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyrtxr3291217.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-14T05:05:05+08:00"
-    },
-    {
-      "title": "山下有松推出首款鞋履；COACH母公司Q1中国市场增长39%；迪桑特新增签约两支中国滑雪国家队；上海安踏营运中心正式启幕｜消研所周报",
-      "url": "https://www.tmtpost.com/8204401.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-13T19:21:17+08:00"
-    },
-    {
-      "title": "China’s Internet Giants Are Listing AI Units Because the Parent Stock Will Not Price Them",
-      "url": "https://www.tmtpost.com/8204635.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-13T18:52:05+08:00"
-    },
-    {
-      "title": "大厂搞AI的尽头，是拆家上市？",
-      "url": "https://www.tmtpost.com/8204039.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-13T18:42:28+08:00"
-    },
-    {
-      "title": "700Ah+再获大订单，大电芯转向交付竞争",
-      "url": "https://www.tmtpost.com/8204020.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-13T18:42:25+08:00"
-    },
-    {
-      "title": "新鲜零食店，动了谁的奶酪？",
-      "url": "https://www.tmtpost.com/8203909.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-13T17:56:39+08:00"
-    },
-    {
-      "title": "黄仁勋走了，英伟达5300亿美元的承诺谁来签字",
-      "url": "https://www.tmtpost.com/8203934.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-13T17:56:38+08:00"
-    },
-    {
-      "title": "纽交所为什么接连失去美国的老牌巨头？",
-      "url": "https://www.tmtpost.com/8203684.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-13T17:56:36+08:00"
-    },
-    {
-      "title": "Anthropic想给算力债“找下家”",
-      "url": "https://www.tmtpost.com/8203967.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-13T17:56:33+08:00"
-    },
-    {
-      "title": "一场人事变动的图谋：山姆开始“卷”技术了",
-      "url": "https://www.tmtpost.com/8204171.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-13T17:56:30+08:00"
-    },
-    {
-      "title": "独家｜石头前国内销售负责人李明加入追觅，出任中国区核心高管",
-      "url": "https://www.tmtpost.com/8204378.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-13T16:51:00+08:00"
-    },
-    {
-      "title": "黄仁勋辞职，英伟达为什么偏偏选中她…...",
-      "url": "https://www.tmtpost.com/8203680.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-13T16:41:42+08:00"
-    },
-    {
-      "title": "黄仁勋辞职，英伟达失去的不是一个CEO",
-      "url": "https://www.tmtpost.com/8203637.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-13T16:41:40+08:00"
-    },
-    {
-      "title": "腾讯早该动刀子了",
-      "url": "https://www.tmtpost.com/8203577.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-13T16:41:37+08:00"
-    },
-    {
-      "title": "谷歌一次发布两颗TPU，英伟达的“通用”招牌开始松动",
-      "url": "https://www.tmtpost.com/8201775.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-13T15:45:31+08:00"
-    },
-    {
-      "title": "李彦宏：不仅是预言家，还是先行者",
-      "url": "https://www.tmtpost.com/8203443.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-13T15:45:29+08:00"
-    },
-    {
-      "title": "双11的时代结束了",
-      "url": "https://www.tmtpost.com/8204027.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-13T14:54:32+08:00"
-    },
-    {
-      "title": "万亿银行，被5.5亿烂账逼急了",
-      "url": "https://www.tmtpost.com/8204064.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-13T14:54:29+08:00"
-    },
-    {
-      "title": "李彦宏，为什么要建一座AI时代的新厂房？",
-      "url": "https://www.tmtpost.com/8203362.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-13T14:54:25+08:00"
     }
   ]
 }

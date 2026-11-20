@@ -1,230 +1,426 @@
 {
-  "updatedAt": "2026-11-20T02:49:56+08:00",
-  "total": 48,
+  "updatedAt": "2026-11-20T09:37:31+08:00",
+  "total": 66,
   "news": [
     {
-      "title": "欧洲债市：欧债下跌 油价上涨促使交易员加码加息押注",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizihpu4220731.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-20T02:46:52+08:00"
-    },
-    {
-      "title": "美国抵押贷款利率六周来首次上涨 房地产市场继续承压",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizihpu4220622.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-20T02:46:22+08:00"
-    },
-    {
-      "title": "特朗普会晤普京后称不会在未与泽连斯基磋商的情况下作出决定",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizihps7444032.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-20T02:45:13+08:00"
-    },
-    {
-      "title": "Alphabet重返加拿大债市 拟发债融资至少35亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizihps7443506.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-20T02:41:35+08:00"
-    },
-    {
-      "title": "库什纳：特朗普对向乌克兰提供类似北约第五条的安全保障持开放态度",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizihpr5873676.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-20T02:37:55+08:00"
-    },
-    {
-      "title": "欧洲股市四连跌 创8月份以来最长连跌纪录",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-iniziafz0779647.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-20T02:17:25+08:00"
-    },
-    {
-      "title": "Anthropic盛大IPO落地后投资者获利了结，美股下挫",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-iniziaft5982551.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-20T01:06:32+08:00"
-    },
-    {
-      "title": "伯南克现身Anthropic IPO现场",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-iniziafw4325297.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-20T01:03:54+08:00"
-    },
-    {
-      "title": "Anthropic创纪录IPO，开盘报每股111.50 美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-iniziaft5980761.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-20T01:02:03+08:00"
-    },
-    {
-      "title": "Anthropic为何高薪聘请年薪40万美元的天然气供应经理",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-iniziafu7542528.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-20T00:42:17+08:00"
-    },
-    {
-      "title": "巴斯夫终止收购计划，赢创股价大幅下挫",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-iniziaft5972149.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-20T00:28:34+08:00"
-    },
-    {
-      "title": "数千名Anthropic员工与投资者即将收获巨额财富",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-iniziafu7535572.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-20T00:20:17+08:00"
-    },
-    {
-      "title": "Anthropic与特朗普政府关系紧张",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizhvxw7662024.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-20T00:09:53+08:00"
-    },
-    {
-      "title": "AMD股价一度大跌11% Hunterbrook做空该公司股票",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizhvxw7662018.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-20T00:09:51+08:00"
-    },
-    {
-      "title": "新市场交易者押注Anthropic IPO将大幅高开",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizhvxy4437186.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-20T00:06:30+08:00"
-    },
-    {
-      "title": "Plancorp的考克斯：Anthropic IPO将成为衡量投资者AI投资意愿的重要风向标",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizhvxy4435975.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-20T00:03:38+08:00"
-    },
-    {
-      "title": "特朗普多次邀约出席G20峰会 普京称“会考虑一下”",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizhvyc0873501.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-20T00:02:31+08:00"
-    },
-    {
-      "title": "沙通社：胡塞武装袭击导致利雅得金融区建筑物受损",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvxw7656598.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-19T23:54:53+08:00"
-    },
-    {
-      "title": "报道：伊朗称霍尔木兹海峡问题解决前不谈核问题",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvyc0870751.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-19T23:53:49+08:00"
-    },
-    {
-      "title": "SpaceX计划周四进行至少320亿美元AI芯片相关债务融资",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvxv6090009.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-19T23:50:38+08:00"
-    },
-    {
-      "title": "摩根大通下调 Alphabet 债券评级",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvyc0868973.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-19T23:46:59+08:00"
-    },
-    {
-      "title": "如何布局Anthropic股票 —— 无需直接参与IPO",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvxy4429501.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-19T23:43:16+08:00"
-    },
-    {
-      "title": "阿莫代伊拒评黄仁勋是否应当重返英伟达担任首席执行官",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvxw7651731.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-19T23:39:42+08:00"
-    },
-    {
-      "title": "阿莫代伊：希望Anthropic未来能获得投资级信用评级",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvyc0866019.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-19T23:36:53+08:00"
-    },
-    {
-      "title": "阿莫代伊称，9000 亿美元的投入承诺 “看起来并没有那么庞大”",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvyc0865559.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-19T23:34:59+08:00"
-    },
-    {
-      "title": "墨西哥比索兑美元汇率自2025年6月以来首次跌破19比索",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvxy4426042.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-19T23:33:28+08:00"
-    },
-    {
-      "title": "华尔街也难撼动的“防篡改”设计：拆解Anthropic上市后的非常规治理结构",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvxw7648873.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-19T23:31:16+08:00"
-    },
-    {
-      "title": "除了12315，正规的投诉途径还有哪些？六种渠道按场景对号入座",
-      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-11-19/doc-inizhezx0324151.shtml",
+      "title": "视频 | 租房市场变天了!贝壳Q3财报透露了哪些新变化?",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-20/doc-inizixmn4000319.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-11-19T23:30:22+08:00"
+      "pubDate": "2026-11-20T09:31:49+08:00"
     },
     {
-      "title": "阿里财报会释放对国产芯片信心",
-      "url": "https://finance.sina.com.cn/wm/2026-11-19/doc-inizhvxy4421706.shtml",
+      "title": "【早盘三分钟】11月20日华宝基金ETF早知道",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-11-20/doc-inizixmk7221447.shtml",
       "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-11-19T23:15:49+08:00"
+      "pubDate": "2026-11-20T09:29:13+08:00"
     },
     {
-      "title": "超半数机构投资者据悉在Anthropic IPO中未获配股份",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvxv6079411.shtml",
-      "source": "新浪综合",
+      "title": "视频 | Claude老板亲口说:中国什么都强，就差芯片",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-20/doc-inizixmn3996764.shtml",
+      "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-11-19T23:12:57+08:00"
+      "pubDate": "2026-11-20T09:27:37+08:00"
     },
     {
-      "title": "Anthropic股票预示首日开盘价将较IPO价格高出20%",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvyc0859051.shtml",
-      "source": "新浪综合",
+      "title": "游戏收入下滑拖累业绩 网易港股开盘跌逾13%",
+      "url": "https://finance.sina.com.cn/stock/hkstock/2026-11-20/doc-inizixmn3996461.shtml",
+      "source": "新浪综合6",
       "category": "热点",
-      "pubDate": "2026-11-19T23:11:51+08:00"
+      "pubDate": "2026-11-20T09:27:14+08:00"
     },
     {
-      "title": "美联储副主席杰斐逊：人工智能加剧短期通胀",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvxy4412642.shtml",
+      "title": "飞天茅台零售均价下跌3元 价格创近30天新低",
+      "url": "https://finance.sina.com.cn/chanjing/jync/2026-11-20/doc-inizixmn3994824.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:23:12+08:00"
+    },
+    {
+      "title": "精品茅台零售均价下跌3元 降至阶段性低点",
+      "url": "https://finance.sina.com.cn/chanjing/jync/2026-11-20/doc-inizixmk7218599.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:23:10+08:00"
+    },
+    {
+      "title": "茅台1935下跌1元 自近期高点小幅回调",
+      "url": "https://finance.sina.com.cn/chanjing/jync/2026-11-20/doc-inizixmn3994992.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:23:07+08:00"
+    },
+    {
+      "title": "五粮液普五八代重跌8元 四连阴量能放大",
+      "url": "https://finance.sina.com.cn/chanjing/jync/2026-11-20/doc-inizixmn3995048.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:23:05+08:00"
+    },
+    {
+      "title": "五粮液1618小跌1元 近四日三天走低市况淡静",
+      "url": "https://finance.sina.com.cn/chanjing/jync/2026-11-20/doc-inizixmn3995122.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:23:00+08:00"
+    },
+    {
+      "title": "金石资本集团公布于11月20日上午起短暂停牌",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-20/doc-inizixmr0408867.shtml",
       "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-11-19T22:56:18+08:00"
+      "pubDate": "2026-11-20T09:22:59+08:00"
+    },
+    {
+      "title": "青花汾20下跌2元 囿于近30天低位区间",
+      "url": "https://finance.sina.com.cn/chanjing/jync/2026-11-20/doc-inizixmr0410171.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:22:58+08:00"
+    },
+    {
+      "title": "国窖1573下跌2元 三连阴距30天低点一步之遥",
+      "url": "https://finance.sina.com.cn/chanjing/jync/2026-11-20/doc-inizixmr0410231.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:22:56+08:00"
+    },
+    {
+      "title": "从卖软件到价值订阅模式：中控创始人褚健谈工业AI如何为中国制造业创造6000亿潜在价值",
+      "url": "https://finance.sina.com.cn/stock/csjzbj/2026-11-20/doc-inizixmn3997115.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:22:55+08:00"
+    },
+    {
+      "title": "洋河梦之蓝M6+上涨4元 三连阳突破600元大关",
+      "url": "https://finance.sina.com.cn/chanjing/jync/2026-11-20/doc-inizixmi5630371.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:22:53+08:00"
+    },
+    {
+      "title": "古井贡古20下跌5元 昨日反弹战果尽失",
+      "url": "https://finance.sina.com.cn/chanjing/jync/2026-11-20/doc-inizixmn3995546.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:22:50+08:00"
+    },
+    {
+      "title": "习酒君品下跌2元 过去两天短线涨势告终",
+      "url": "https://finance.sina.com.cn/chanjing/jync/2026-11-20/doc-inizixmn3995632.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:22:48+08:00"
+    },
+    {
+      "title": "青花郎下跌5元至665元 昨日涨幅耗尽",
+      "url": "https://finance.sina.com.cn/chanjing/jync/2026-11-20/doc-inizixmr0410535.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:22:46+08:00"
+    },
+    {
+      "title": "水晶剑南春小涨1元 固守400元关口之上",
+      "url": "https://finance.sina.com.cn/chanjing/jync/2026-11-20/doc-inizixmk7219401.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:22:44+08:00"
+    },
+    {
+      "title": "五粮液普五八代零售均价领跌 飞天茅台、精品茅台均下滑 古井贡古20、青花郎重挫 白酒总价创两个多月新低",
+      "url": "https://finance.sina.com.cn/chanjing/jync/2026-11-20/doc-inizixmk7217072.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:22:30+08:00"
+    },
+    {
+      "title": "科创板回购增持及研发进展等举措密集落地",
+      "url": "https://finance.sina.com.cn/stock/csjzbj/2026-11-20/doc-inizixmr0408432.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:22:19+08:00"
+    },
+    {
+      "title": "快讯：恒指低开1.57% 恒科指跌2.95% 科网股、黄金股低迷 网易跌超13%",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-20/doc-inizixmn3992937.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:20:56+08:00"
+    },
+    {
+      "title": "印度“巨星”阿米尔·汗入局微短剧",
+      "url": "https://www.tmtpost.com/8211446.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-20T09:20:43+08:00"
+    },
+    {
+      "title": "北京金融监管局联动公检法凝聚金融纠纷解决合力",
+      "url": "https://finance.sina.com.cn/money/insurance/bxdt/2026-11-20/doc-inizitct0536716.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:17:10+08:00"
+    },
+    {
+      "title": "三星电子公布年度高层人事调整，两位核心高管留任原职",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizitcm5756501.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:16:35+08:00"
+    },
+    {
+      "title": "【焦点】中芯国际涨6.21%、海光信息跌4.81%，同一条产业链为何冰火两重天？这两只ETF给出答案",
+      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-11-20/doc-inizitct0536671.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:16:26+08:00"
+    },
+    {
+      "title": "跌破技术支撑引发连锁抛售，铜价七个月新低后见底了吗？",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-20/doc-inizitcn7344183.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:14:55+08:00"
+    },
+    {
+      "title": "人形机器人“卖铲人”先富了，然后呢？",
+      "url": "https://www.tmtpost.com/8211616.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-20T09:14:00+08:00"
+    },
+    {
+      "title": "现货黄金承压跌破3600关口，瑞银却喊长期配置？2027年最值得关注的大宗商品是什么？",
+      "url": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-11-20/doc-inizitcn7342458.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:12:42+08:00"
+    },
+    {
+      "title": "华商基金张永志管理4只“固收+” 近1、3、5年业绩均同类前5%",
+      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-11-20/doc-inizitct0532532.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:10:34+08:00"
+    },
+    {
+      "title": "日本烟草股价大跌 此前俄罗斯业务带来86亿美元冲击",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizitcm5752196.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:10:18+08:00"
+    },
+    {
+      "title": "11月LPR报价出炉：1年期和5年期以上利率均保持不变",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-11-20/doc-inizitcn7337800.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:08:31+08:00"
+    },
+    {
+      "title": "花旗下调阿里巴巴目标价 此前公司预计明年云服务营收增速将有所放缓",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizitcn7337522.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:08:15+08:00"
+    },
+    {
+      "title": "最新LPR公布",
+      "url": "https://finance.sina.com.cn/wm/2026-11-20/doc-inizixmi5627306.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:07:48+08:00"
+    },
+    {
+      "title": "一年期、五年期LPR均维持不变",
+      "url": "https://finance.sina.com.cn/money/bond/market/2026-11-20/doc-inizitcm5749647.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:07:22+08:00"
+    },
+    {
+      "title": "全文|Anthropic创始人兄妹IPO当日访谈实录：AI赛道拼的是能力质量",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizitcq4112930.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:07:08+08:00"
+    },
+    {
+      "title": "MSCI新兴市场股票指数较6月高点下跌20%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizitcm5749091.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:06:38+08:00"
+    },
+    {
+      "title": "开盘|国内期货主力合约涨跌互现，焦炭涨近4%",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-20/doc-inizitcq4106140.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T09:01:05+08:00"
+    },
+    {
+      "title": "金价势创3月以来最差单周表现 受美联储鹰派信号及AI股票下跌影响",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizitcm5740669.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T08:56:38+08:00"
+    },
+    {
+      "title": "胡桃资本建议实施股份合并",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-20/doc-inizitcq4103239.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T08:56:28+08:00"
+    },
+    {
+      "title": "志道国际接获联交所额外复牌指引 继续停牌",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-20/doc-inizitcn7326705.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T08:56:11+08:00"
+    },
+    {
+      "title": "谢瑞麟公布中期业绩 公司拥有人应占溢利9658.6万港元同比扭亏为盈",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-20/doc-inizitcn7326671.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T08:56:09+08:00"
+    },
+    {
+      "title": "联康生物科技集团于11月20日上午起短暂停牌 以待刊发内幕消息",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-20/doc-inizitct0520249.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T08:56:07+08:00"
+    },
+    {
+      "title": "美国地区联储员工加薪追不上物价 明年最低涨幅将降至1%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizitcn7325133.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T08:53:28+08:00"
+    },
+    {
+      "title": "从看多到做空：华尔街为何重估铜价？",
+      "url": "https://www.tmtpost.com/8211570.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-20T08:53:00+08:00"
+    },
+    {
+      "title": "日本养老金代理机构自2025年以来首次净卖出日本国债",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizitcm5738446.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T08:52:22+08:00"
+    },
+    {
+      "title": "北亚策略将于2027年1月22日派发特别股息每股0.12港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-20/doc-inizitcq4099815.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T08:50:57+08:00"
+    },
+    {
+      "title": "北亚策略发布中期业绩 净利润5589.1万港元同比增长264.4%",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-20/doc-inizitcm5737113.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T08:49:43+08:00"
+    },
+    {
+      "title": "易控智驾获联席董事长兼执董蓝水生增持2800股 每股作价约57.40港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-20/doc-inizitcn7322319.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T08:48:54+08:00"
+    },
+    {
+      "title": "中播数据获董事长邹艺峰增持501.2万股 每股作价0.121港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-20/doc-inizitcn7321762.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T08:48:08+08:00"
+    },
+    {
+      "title": "圣邦股份获FIL Limited增持10.86万股 每股作价约69.09港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-20/doc-inizitcm5735728.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T08:47:10+08:00"
+    },
+    {
+      "title": "东莞农商银行遭财通基金管理有限公司减持300万股 每股作价2.505港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-20/doc-inizitct0515454.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T08:46:40+08:00"
+    },
+    {
+      "title": "东阳光药获非执行董事张寓帅增持5万股 每股作价36.5港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-20/doc-inizitcq4097184.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T08:46:38+08:00"
+    },
+    {
+      "title": "软银集团股价暴跌16% 创两年来最大跌幅",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizitcm5735363.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T08:46:32+08:00"
+    },
+    {
+      "title": "广和通遭广发基金管理有限公司减持81.76万股 每股作价约9.22港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-20/doc-inizitct0514411.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T08:44:55+08:00"
+    },
+    {
+      "title": "日经225指数下跌4% 芯片相关股票延续跌势",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizitcq4094837.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T08:43:10+08:00"
+    },
+    {
+      "title": "IMF总裁警告称AI相关金融资产回调并未结束 循环融资可能威胁金融稳定",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizitcn7317881.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-20T08:42:12+08:00"
+    },
+    {
+      "title": "资本圈离婚图鉴：上亿天价分手费背后，A股大佬各有算盘",
+      "url": "https://www.tmtpost.com/8211528.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-20T08:42:00+08:00"
+    },
+    {
+      "title": "华尔街狂热，华盛顿划线：Anthropic的上市前夜",
+      "url": "https://www.tmtpost.com/8211445.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-20T08:37:00+08:00"
+    },
+    {
+      "title": "OpenAI印证了梁文锋的“预言”",
+      "url": "https://www.tmtpost.com/8211368.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-20T08:05:00+08:00"
+    },
+    {
+      "title": "【钛晨报】《中俄美元首和平宣言》发布；31家出资主体现身，DeepSeek第二轮融资落地；比亚迪发布折叠方向盘，长鑫科技拟25亿至50亿元回购股份",
+      "url": "https://www.tmtpost.com/8211593.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-20T07:20:00+08:00"
     },
     {
       "title": "基金市场概况与资产配置观点（11.09—11.15）",
@@ -267,76 +463,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-11-19T19:02:56+08:00"
-    },
-    {
-      "title": "国产GPU，风浪越大鱼越贵",
-      "url": "https://www.tmtpost.com/8210657.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-19T18:58:06+08:00"
-    },
-    {
-      "title": "谁吃掉了名创优品的利润？",
-      "url": "https://www.tmtpost.com/8210698.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-19T18:48:31+08:00"
-    },
-    {
-      "title": "哈尔滨买了“迪士尼”",
-      "url": "https://www.tmtpost.com/8210987.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-19T18:48:28+08:00"
-    },
-    {
-      "title": "国产芯片正在准备三级跳",
-      "url": "https://www.tmtpost.com/8210830.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-19T18:48:26+08:00"
-    },
-    {
-      "title": "业绩重压下，航天机电继续处理海外亏损光伏项目",
-      "url": "https://www.tmtpost.com/8211254.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-19T18:27:07+08:00"
-    },
-    {
-      "title": "腾讯的“存亡时刻”写在利润表与现金流里",
-      "url": "https://www.tmtpost.com/8211143.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-19T18:11:19+08:00"
-    },
-    {
-      "title": "睿能科技拟控股博泰智能，5亿作价押注锂电，2027年周期隐忧待考",
-      "url": "https://www.tmtpost.com/8211241.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-19T18:06:43+08:00"
-    },
-    {
-      "title": "钛媒体硅谷峰会震撼开启，马斯克背后传奇投资人、Google X创始人、全球AI及投资领军者齐聚斯坦福",
-      "url": "https://www.tmtpost.com/8210519.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-19T18:05:15+08:00"
-    },
-    {
-      "title": "Banks Are Turning AI Compute Bills Into Working Capital",
-      "url": "https://www.tmtpost.com/8211189.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-19T17:18:06+08:00"
-    },
-    {
-      "title": "国内首款Gen6 SSD量产，AI存储重算经济帐",
-      "url": "https://www.tmtpost.com/8210529.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-19T16:35:17+08:00"
     }
   ]
 }

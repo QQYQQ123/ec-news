@@ -1,7 +1,238 @@
 {
-  "updatedAt": "2026-11-26T21:30:49+08:00",
-  "total": 63,
+  "updatedAt": "2026-11-27T00:26:15+08:00",
+  "total": 60,
   "news": [
+    {
+      "title": "莱茵金属两名意大利员工在伊朗对科威特的无人机袭击事件中丧生",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaatuw8110783.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-27T00:12:06+08:00"
+    },
+    {
+      "title": "特朗普指政府蓄意低报经济增长 要求展开调查",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaatuv1326096.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T23:55:13+08:00"
+    },
+    {
+      "title": "原西班牙央行行长德科斯势将成为新一任欧洲央行行长",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaatuz3582410.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T23:47:43+08:00"
+    },
+    {
+      "title": "瑞银承诺维持全球业务布局 回应瑞士议会委员会支持加码资本监管",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaatuv1322100.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T23:46:59+08:00"
+    },
+    {
+      "title": "特朗普称已敦促普京停止在欧洲的军事行动",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaatuv1313237.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T23:29:25+08:00"
+    },
+    {
+      "title": "特朗普质疑三季度GDP数据大幅修正 要求立即展开调查",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaatuw8068657.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T22:49:29+08:00"
+    },
+    {
+      "title": "特朗普：美国正在补充军火储备 全球盟友和伙伴将受益",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaatuv1290907.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T22:47:06+08:00"
+    },
+    {
+      "title": "业绩大增，股价大跌！封测巨头通富微电，董事长提议最高3亿元回购",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-26/doc-inkaatuw8067606.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-26T22:46:28+08:00"
+    },
+    {
+      "title": "汇丰下调惠普评级至持有，剔除一次性收益及会计调整后业绩不及预期",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaatuz3556027.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T22:46:03+08:00"
+    },
+    {
+      "title": "7940万股法拍落地，安通控股原实控人兄弟退出5%股东序列",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-26/doc-inkaatuw8066728.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-26T22:43:58+08:00"
+    },
+    {
+      "title": "纯电销量过半，理想汽车的生意变了",
+      "url": "https://www.tmtpost.com/8218517.html",
+      "source": "钛媒体",
+      "category": "科技",
+      "pubDate": "2026-11-26T22:40:43+08:00"
+    },
+    {
+      "title": "知名牛散，减持重仓股603052！",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-26/doc-inkaapnx1401687.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T22:13:50+08:00"
+    },
+    {
+      "title": "集体拉升！“蔚小理”大涨，原因曝光",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-11-26/doc-inkaapnx1402716.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-26T22:13:31+08:00"
+    },
+    {
+      "title": "重大资产重组终止，603616曾连续3天一字涨停",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-26/doc-inkaatuv1273888.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T22:12:45+08:00"
+    },
+    {
+      "title": "今夜！多家A股公司公告：回购并全部注销！",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-11-26/doc-inkaappc3671063.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-26T22:12:00+08:00"
+    },
+    {
+      "title": "今天，抄底！",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-11-26/doc-inkaapnx1401656.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-26T22:10:13+08:00"
+    },
+    {
+      "title": "德国莱茵金属两名意大利员工在伊朗对科威特无人机袭击事件中丧生",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaappc3664787.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T22:08:05+08:00"
+    },
+    {
+      "title": "“国家队”最新动向，再度增持",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-11-26/doc-inkaapny8171735.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-26T22:06:17+08:00"
+    },
+    {
+      "title": "欧洲央行会议纪要：通胀前景恶化 欧洲央行官员认为需进一步收紧政策",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaapnv8882837.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T22:04:48+08:00"
+    },
+    {
+      "title": "大佬赚了一个亿，最后却倾家荡产……",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-11-26/doc-inkaapny8178005.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-26T22:02:05+08:00"
+    },
+    {
+      "title": "宝马计划在德国提供更多离职补偿方案 聚焦拟裁撤岗位",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaappc3661000.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T22:02:01+08:00"
+    },
+    {
+      "title": "三联虹普部分银行账户被冻结 公司称暂未能确定具体原因",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-26/doc-inkaapnv8888444.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T21:56:00+08:00"
+    },
+    {
+      "title": "父子间“交棒”：李子园实控人李国平向其儿子、新任董事长李博胜协议转让5.57%股份",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-26/doc-inkaapnv8887886.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T21:56:00+08:00"
+    },
+    {
+      "title": "渣打香港通过“双托管”模式完成“南向通”债券回购交易",
+      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-11-26/doc-inkaappc3657594.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-26T21:54:20+08:00"
+    },
+    {
+      "title": "停牌一天，复牌“摘星”！*ST沐邦最新公告，股价年内近乎“腰斩”",
+      "url": "https://finance.sina.com.cn/roll/2026-11-26/doc-inkaapnx1388337.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-26T21:53:38+08:00"
+    },
+    {
+      "title": "欧元区10月企业贷款同比增速升至4.5%，广义货币供应量增速维持稳定",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaapnv8872954.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T21:45:33+08:00"
+    },
+    {
+      "title": "泸州银行：叶文蕙获任联席公司秘书及授权代表",
+      "url": "https://finance.sina.com.cn/jryx/hm/2026-11-26/doc-inkaapnv8871621.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-26T21:43:13+08:00"
+    },
+    {
+      "title": "加仓1464亿元，险资布局高股息板块",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-11-26/doc-inkaapnx1402947.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-26T21:42:00+08:00"
+    },
+    {
+      "title": "11月26日晚间新闻精选",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-26/doc-inkaapnx1385267.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-26T21:38:00+08:00"
+    },
+    {
+      "title": "三星推进半导体工厂无人化 组建机器人专项团队",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaappc3647744.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T21:36:46+08:00"
+    },
+    {
+      "title": "知情人士：国际清算银行总经理德科斯将出任下任欧洲央行行长",
+      "url": "https://finance.sina.com.cn/world/2026-11-26/doc-inkaapnv8866363.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T21:34:27+08:00"
+    },
+    {
+      "title": "股市下跌之际 韩国投资者抛售金融资产10万亿韩元变现涌入楼市",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaappc3645394.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T21:33:05+08:00"
+    },
+    {
+      "title": "A股年内涨幅第一，谁在炒作九阳股份？",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-26/doc-inkaappc3647429.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-26T21:33:00+08:00"
+    },
     {
       "title": "日本烟草据悉正考虑收购帝国品牌，后者股价创2017年以来新高",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaapny8145903.shtml",
@@ -10,46 +241,11 @@
       "pubDate": "2026-11-26T21:29:55+08:00"
     },
     {
-      "title": "11月回购增持贷款升温，大行数千亿元投向哪儿了",
-      "url": "https://finance.sina.com.cn/roll/2026-11-26/doc-inkaappc3641045.shtml",
-      "source": "新浪综合6",
+      "title": "*ST沐邦，停牌一天！",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-26/doc-inkaapnx1372258.shtml",
+      "source": "新浪综合",
       "category": "热点",
-      "pubDate": "2026-11-26T21:20:47+08:00"
-    },
-    {
-      "title": "小米人事调整：王晓雁分管生态链部与大家电部",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-26/doc-inkaapnv8859406.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-26T21:20:11+08:00"
-    },
-    {
-      "title": "震荡行情下读懂银行理财：短期波动扰动，不改中长期稳健底色",
-      "url": "https://finance.sina.com.cn/roll/2026-11-26/doc-inkaapny8127135.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-26T20:59:40+08:00"
-    },
-    {
-      "title": "A股缩量磨底！机构给出企稳信号与仓位思路→",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-26/doc-inkaapnv8858060.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-26T20:57:34+08:00"
-    },
-    {
-      "title": "透视A股并购“爆雷”：大多栽在业绩对赌，风险埋在交割之后",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-26/doc-inkaappc3626247.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-26T20:56:59+08:00"
-    },
-    {
-      "title": "批量“摘法人牌”，股份行村镇银行“清零”在即",
-      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-11-26/doc-inkaapnv8846922.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-26T20:56:00+08:00"
+      "pubDate": "2026-11-26T21:20:00+08:00"
     },
     {
       "title": "魏建军找于东来“诉苦”，长城能靠超跑缓解“焦虑”么？",
@@ -66,13 +262,6 @@
       "pubDate": "2026-11-26T20:51:32+08:00"
     },
     {
-      "title": "监管部门通报典型保险不当销售行为 引导行业合规开展2027年“开门红”",
-      "url": "https://finance.sina.com.cn/roll/2026-11-26/doc-inkaapny8120949.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-26T20:51:00+08:00"
-    },
-    {
       "title": "从“环京之王”到75亿亏损，华夏幸福司法重整正式启动",
       "url": "https://finance.sina.com.cn/stock/s/2026-11-26/doc-inkaapnv8857820.shtml",
       "source": "新浪综合",
@@ -85,13 +274,6 @@
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-11-26T20:44:12+08:00"
-    },
-    {
-      "title": "AI算力背后的隐形赢家？西安英伟芯拿下数亿元融资",
-      "url": "https://finance.sina.com.cn/roll/2026-11-26/doc-inkaapny8115080.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-26T20:42:28+08:00"
     },
     {
       "title": "603213，拟主动终止上市！12月4日起连续停牌",
@@ -108,20 +290,6 @@
       "pubDate": "2026-11-26T20:40:00+08:00"
     },
     {
-      "title": "资金加仓，涌入这一方向",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-26/doc-inkaapny8120956.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-26T20:37:41+08:00"
-    },
-    {
-      "title": "科技股抛售潮接近尾声？高盛：昨天的卖家或成明天的买家",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-11-26/doc-inkaapnv8830874.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-26T20:30:59+08:00"
-    },
-    {
       "title": "法德因为欧洲防务发生冲突",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaapnv8829812.shtml",
       "source": "新浪综合",
@@ -136,137 +304,11 @@
       "pubDate": "2026-11-26T20:29:58+08:00"
     },
     {
-      "title": "不讲保险聊基金投顾，国泰路安保险经纪一认证账号致函采访后火速清空相关内容",
-      "url": "https://finance.sina.com.cn/money/insurance/bxyx/2026-11-26/doc-inkaappc3609340.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-26T20:28:27+08:00"
-    },
-    {
-      "title": "“请您稍等一下”——柜员这句话，拦下了百万骗局",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-11-26/doc-inkaapnx1349548.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-26T20:28:00+08:00"
-    },
-    {
-      "title": "五十载匠心坚守，波司登26/27财年中期业绩再创同期新高",
-      "url": "https://finance.sina.com.cn/stock/enterprise/2026-11-26/doc-inkaapnx1326338.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-26T20:26:34+08:00"
-    },
-    {
       "title": "AI铜箔成算力“硬通货”，德福科技豪掷16亿“卡位”",
       "url": "https://finance.sina.com.cn/stock/s/2026-11-26/doc-inkaapnx1328809.shtml",
       "source": "新浪综合",
       "category": "热点",
       "pubDate": "2026-11-26T20:25:15+08:00"
-    },
-    {
-      "title": "增量不增收，银行代销基金的打法要换了",
-      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-11-26/doc-inkaapnx1324311.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-26T20:22:53+08:00"
-    },
-    {
-      "title": "监管发文“敲打”保险销售乱象：消费场景暗设扣费套路、“黑盒”式广告骚扰、低价诱导投保等",
-      "url": "https://finance.sina.com.cn/money/insurance/bxdt/2026-11-26/doc-inkaappc3604103.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-26T20:19:25+08:00"
-    },
-    {
-      "title": "农业银行持续加大股票回购增持贷款投放力度",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-11-26/doc-inkaapnv8832069.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-26T20:16:31+08:00"
-    },
-    {
-      "title": "苹果因iPhone 16人工智能广告宣传面临韩国监管机构审查",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaapnx1318503.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-26T20:16:23+08:00"
-    },
-    {
-      "title": "北京对重点群体给予社保补贴 个人缴费享25%补贴",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-26/doc-inkaapny8088563.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-26T20:04:27+08:00"
-    },
-    {
-      "title": "内部举报的“回旋镖”扎中水井坊，3年五换总经理！",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-26/doc-inkaapny8092642.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-26T20:04:08+08:00"
-    },
-    {
-      "title": "牛散屠文斌家族减持可川科技",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-26/doc-inkaapny8085904.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-26T20:01:00+08:00"
-    },
-    {
-      "title": "未按规定使用银行账户 一银行人被禁业5年",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-11-26/doc-inkaaiez1438080.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-26T19:59:17+08:00"
-    },
-    {
-      "title": "摩根大通上调贵州茅台评级至增持，目标价1800元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaiez1434174.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-26T19:52:24+08:00"
-    },
-    {
-      "title": "英国银行股回吐部分涨幅 此前央行拟调整资本要求",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaiex8934247.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-26T19:44:32+08:00"
-    },
-    {
-      "title": "代表称OPEC+考虑维持当前原油产量配额不变",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaiff3713507.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-26T19:43:09+08:00"
-    },
-    {
-      "title": "上任不足半年，水井坊总经理辞职",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-26/doc-inkaaiez1426832.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-26T19:25:53+08:00"
-    },
-    {
-      "title": "李强会见亚洲开发银行行长神田真人",
-      "url": "https://finance.sina.com.cn/china/2026-11-26/doc-inkaaiex8934449.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-26T19:23:00+08:00"
-    },
-    {
-      "title": "300467，创始人2.43亿元法拍出清股权",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-26/doc-inkaaiff3701210.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-26T19:17:24+08:00"
-    },
-    {
-      "title": "英国央行拟将英国银行资本要求下调30个基点",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaifa8180067.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-26T19:07:13+08:00"
     },
     {
       "title": "祖名股份实控人阵营拟转让17%股份套现近4.8亿，扣非连亏下“豆制品第一股”遇信心考题",
@@ -311,27 +353,6 @@
       "pubDate": "2026-11-26T18:38:42+08:00"
     },
     {
-      "title": "34万卖掉18亿焦化资产，“山西首富”六兄妹亏不亏？",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-26/doc-inkaaiff3684031.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-26T18:37:52+08:00"
-    },
-    {
-      "title": "干晓峰“闪辞”百亿水井坊总经理，半年前曾遭内部举报！",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-26/doc-inkaaifa8170808.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-26T18:37:52+08:00"
-    },
-    {
-      "title": "英国官员：探索自研替代Palantir软件的方案",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaiff3673621.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-26T18:34:59+08:00"
-    },
-    {
       "title": "短剧成了大厂三季报下滑的“救命稻草”",
       "url": "https://www.tmtpost.com/8217388.html",
       "source": "钛媒体",
@@ -351,41 +372,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-11-26T18:34:20+08:00"
-    },
-    {
-      "title": "研发长达19年，累计投入1.9亿元，最终“哑火”！上市药企终止一款新药研发，全额计提资产减值准备4亿元",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-26/doc-inkaaifa8157996.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-26T18:24:32+08:00"
-    },
-    {
-      "title": "鼎智科技被立案 受损股民可索赔",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-26/doc-inkaaiex8870457.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-26T18:03:06+08:00"
-    },
-    {
-      "title": "兆晟科技涉嫌虚假陈述 部分股民提交起诉",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-26/doc-inkaaiff3650767.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-26T18:03:04+08:00"
-    },
-    {
-      "title": "超华科技（002288）索赔案已有胜诉，中核钛白（002145）股民索赔案再提交法院立案",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-26/doc-inkaaiex8869148.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-26T18:01:20+08:00"
-    },
-    {
-      "title": "宝馨科技（002514）股民索赔已提交法院立案，龙宇股份（603003）股民索赔案已有获赔案例",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-26/doc-inkaaiex8869496.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-26T18:01:18+08:00"
     },
     {
       "title": "一家100人的AI公司，凭什么被英伟达、Anthropic、亚马逊抬到75亿？",
@@ -435,13 +421,6 @@
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-11-26T17:05:48+08:00"
-    },
-    {
-      "title": "买美债避险的时代结束了",
-      "url": "https://www.tmtpost.com/8218482.html",
-      "source": "钛媒体",
-      "category": "科技",
-      "pubDate": "2026-11-26T17:05:43+08:00"
     }
   ]
 }

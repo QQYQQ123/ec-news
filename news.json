@@ -1,7 +1,217 @@
 {
-  "updatedAt": "2026-11-28T01:48:51+08:00",
-  "total": 60,
+  "updatedAt": "2026-11-28T09:02:42+08:00",
+  "total": 52,
   "news": [
+    {
+      "title": "迪士尼首席技术官在AI初创公司破产案中收到传票",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkaftxm0766920.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T08:27:11+08:00"
+    },
+    {
+      "title": "编造传播证券市场误导性信息，证监会出手",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-28/doc-inkaftxn7532222.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-28T08:10:35+08:00"
+    },
+    {
+      "title": "花旗集团350亿美元记账失误引发高层人事震荡",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkaftxm0750591.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T08:04:44+08:00"
+    },
+    {
+      "title": "全球股市一片红！美股大涨，中国资产深夜爆发！国常会部署“稳市”后，十大券商重磅发声",
+      "url": "https://finance.sina.com.cn/wm/2026-11-28/doc-inkaftxn7524273.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-28T07:57:32+08:00"
+    },
+    {
+      "title": "央行连发两文！大额存单门槛下调，贷款罚息规则生变",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-28/doc-inkaftxn7508286.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-28T07:22:22+08:00"
+    },
+    {
+      "title": "经济日报金观平：中国AI发展决不是“少数人的盛宴”",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-28/doc-inkaftxs5132948.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-28T06:52:32+08:00"
+    },
+    {
+      "title": "新车电机用料遭热议，车主遇到配置争议该怎么投诉维权",
+      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-11-28/doc-inkacvhk7835151.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-28T06:30:00+08:00"
+    },
+    {
+      "title": "从一致看空到剧烈逼空 铝市动荡如何再次将LME推向危机边缘",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkaftxs5120131.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T06:29:45+08:00"
+    },
+    {
+      "title": "大宗商品综述：油价震荡 中东袭击事件增多 铜和金均随科技股升",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkaftxr2790176.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T06:26:40+08:00"
+    },
+    {
+      "title": "潮玩港股企业月内集中回购",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-28/doc-inkaftxs5117528.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-28T06:23:44+08:00"
+    },
+    {
+      "title": "模型推理等环节需求提升 月内10余家上市公司披露算力订单",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-28/doc-inkaftxs5117529.shtml",
+      "source": "新浪综合6",
+      "category": "热点",
+      "pubDate": "2026-11-28T06:23:43+08:00"
+    },
+    {
+      "title": "11月28日隔夜要闻：道指创下2022年以来最佳单周表现 铜和金均随科技股升 OpenAI反诉苹果",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafprp0817526.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T06:02:47+08:00"
+    },
+    {
+      "title": "原油：布伦特震荡 市场聚焦中东能源设施和油轮遇袭事件增多",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafprp0817109.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T06:01:52+08:00"
+    },
+    {
+      "title": "大选前响起警报 法国信评展望遭标普下调至负面",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafprt2901022.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T05:43:11+08:00"
+    },
+    {
+      "title": "标普将匈牙利的评级展望从负面调整为稳定",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafprq7580101.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T05:33:51+08:00"
+    },
+    {
+      "title": "标普将南非信用评级上调至BB+ 评级展望为稳定",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafprp0799433.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T05:26:28+08:00"
+    },
+    {
+      "title": "标普将法国评级展望调整为负面 确认长期外币债务评级为A+",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafpru5220169.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T05:21:46+08:00"
+    },
+    {
+      "title": "美军称在阿曼湾击中一艘货船使其丧失航行能力",
+      "url": "https://finance.sina.com.cn/roll/2026-11-28/doc-inkafprt2879907.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T04:49:34+08:00"
+    },
+    {
+      "title": "11月28日外盘头条： 特朗普希望普京参加G20 OpenAI反诉苹果窃取商业机密 欧洲央行管委Dolenc暗示仍需加息",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafprq7554426.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T04:45:49+08:00"
+    },
+    {
+      "title": "11月28日美股收盘：道指大涨近600点，创下2022年以来最佳单周表现",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafprt2858829.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T04:09:45+08:00"
+    },
+    {
+      "title": "美国国债下跌 股市上涨削弱避险需求",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafpru5186287.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T04:06:59+08:00"
+    },
+    {
+      "title": "11月28日美股成交额前20：Anthropic收涨10.98% 创下11月19日开始交易以来的最高收盘价",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7655547.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T03:52:00+08:00"
+    },
+    {
+      "title": "上市首周大起大落 Anthropic最终站稳在发行价上方",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7638626.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T03:17:06+08:00"
+    },
+    {
+      "title": "11月28日热门中概股大多上涨 纳斯达克中国金龙指数收涨2.96% 日月光半导体涨6.27% BOSS直聘涨6.28%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7637440.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T03:14:58+08:00"
+    },
+    {
+      "title": "人工智能热提振美股 标普500指数创下2025年4月以来最大单周涨幅",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7624312.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T02:49:50+08:00"
+    },
+    {
+      "title": "纽约汇市：美元随股市走高 AI乐观情绪回归",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7618666.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T02:38:39+08:00"
+    },
+    {
+      "title": "OpenAI反诉苹果窃取商业机密",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7614686.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T02:31:08+08:00"
+    },
+    {
+      "title": "欧元区通胀率预计出现五个月来首度放缓 但料无碍欧洲央行加息",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7611498.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T02:23:17+08:00"
+    },
+    {
+      "title": "美国空军核心云平台Cloud One遭黑客入侵，内部人士警告“事态极其严重”",
+      "url": "https://finance.sina.com.cn/roll/2026-11-28/doc-inkafiiw5276198.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T02:17:00+08:00"
+    },
+    {
+      "title": "不任职不代表可免责 监管重拳打击“幕后玩家”",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-28/doc-inkafiiv2940873.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T02:10:14+08:00"
+    },
     {
       "title": "报道：Verizon洽谈以约60亿美元的交易收购Fidium",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7595440.shtml",
@@ -38,6 +248,13 @@
       "pubDate": "2026-11-28T00:49:16+08:00"
     },
     {
+      "title": "哈马斯领导人之子在以军袭击中幸存",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-28/doc-inkafazy5363198.shtml",
+      "source": "新浪综合",
+      "category": "热点",
+      "pubDate": "2026-11-28T00:24:46+08:00"
+    },
+    {
       "title": "伊拉克石油部长称正与OPEC磋商 争取提高石油产量上限",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkafazy5344823.shtml",
       "source": "新浪综合",
@@ -45,284 +262,11 @@
       "pubDate": "2026-11-27T23:44:04+08:00"
     },
     {
-      "title": "投诉平台哪个处理效率最高？不同纠纷这样选才不白跑",
-      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-11-27/doc-inkaefwe7880764.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-27T23:40:08+08:00"
-    },
-    {
-      "title": "欧洲央行管委Dolenc：今年以来的两次加息仍不足以让通胀回到2%目标",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkafazx3009619.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T23:26:01+08:00"
-    },
-    {
-      "title": "13位券商首席，解读政策新信号",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-27/doc-inkafazy5337077.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-27T23:13:41+08:00"
-    },
-    {
-      "title": "景顺长城基金：市场大幅反弹，后续有望进入阶段性修复窗口",
-      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-11-27/doc-inkaewtw7784965.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-27T22:59:16+08:00"
-    },
-    {
-      "title": "瑞银：白银较年内高点下跌近70%，价格已出现过度下跌，预计明年反弹幅度将超过黄金",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaewtz3125676.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T22:56:08+08:00"
-    },
-    {
-      "title": "东方基金严凯“过山车”业绩：新基延期，旧基单季亏130亿",
-      "url": "https://finance.sina.com.cn/money/fund/jjyj/2026-11-27/doc-inkaewtz3126312.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-27T22:42:52+08:00"
-    },
-    {
-      "title": "000909 被罚800万元！",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-27/doc-inkaewtz3129067.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-27T22:42:00+08:00"
-    },
-    {
-      "title": "开盘：三大股指上涨 道指有望创2025年4月以来最大单周涨幅",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaewtw7771867.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T22:35:01+08:00"
-    },
-    {
-      "title": "中国股市，要翻篇了",
-      "url": "https://finance.sina.com.cn/wm/2026-11-27/doc-inkaewtz3118296.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-27T22:32:47+08:00"
-    },
-    {
-      "title": "恒大汽车：联交所上市委员会决定取消公司的上市地位",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-11-27/doc-inkaewtv0991001.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-27T22:30:54+08:00"
-    },
-    {
-      "title": "300467，拟变更控股股东和实控人！",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-27/doc-inkaewua5441682.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T22:29:09+08:00"
-    },
-    {
-      "title": "0.45元！曾年入近90亿元的生态文旅巨头*ST岭南，告别A股",
-      "url": "https://finance.sina.com.cn/roll/2026-11-27/doc-inkaewtz3110342.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-27T22:27:33+08:00"
-    },
-    {
-      "title": "北方实验IPO状态变更为终止",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-27/doc-inkaewtz3105471.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-27T22:20:38+08:00"
-    },
-    {
-      "title": "科蓝环保IPO状态变更为终止",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-27/doc-inkaewua5434339.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-27T22:20:38+08:00"
-    },
-    {
-      "title": "不打“外卖补贴大战”了？美团Q3净利扭亏",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-27/doc-inkaewtz3109892.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T22:12:31+08:00"
-    },
-    {
-      "title": "A股重要指数调整，万科A被调出深证100",
-      "url": "https://finance.sina.com.cn/roll/2026-11-27/doc-inkaewua5429448.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-27T22:08:48+08:00"
-    },
-    {
-      "title": "大跌后直线拉升！金价反弹能否持续？",
-      "url": "https://finance.sina.com.cn/stock/hyyj/2026-11-27/doc-inkaewtv0990241.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-27T22:06:32+08:00"
-    },
-    {
-      "title": "下周摘牌，科创板首例市值退市！四种财务造假手法曝光",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-27/doc-inkaewtw7754131.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T22:01:56+08:00"
-    },
-    {
-      "title": "688121，终止上市！",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-27/doc-inkaewtv0971855.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T21:53:30+08:00"
-    },
-    {
-      "title": "A股指数，重要调整",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-27/doc-inkaewua5420508.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-27T21:48:27+08:00"
-    },
-    {
-      "title": "十余宽基指数迎样本“大换血”！科技赛道加码，传统板块让位（附最全调整名单）",
-      "url": "https://finance.sina.com.cn/roll/2026-11-27/doc-inkaewua5414952.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-27T21:48:07+08:00"
-    },
-    {
-      "title": "跻身全球系统重要性银行，五大行有何缺口？",
-      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-11-27/doc-inkaewtv0966953.shtml",
-      "source": "新浪综合6",
-      "category": "热点",
-      "pubDate": "2026-11-27T21:47:40+08:00"
-    },
-    {
-      "title": "美国10月商品贸易逆差扩大至1495亿美元 预期逆差1360亿",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaewua5411722.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T21:44:55+08:00"
-    },
-    {
-      "title": "伊朗：又一油轮在霍尔木兹海峡附近触雷起火",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaewtw7739704.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T21:44:22+08:00"
-    },
-    {
-      "title": "巴西资产大涨 巴西总统卢拉任命新财长",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaewtv0961395.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T21:41:47+08:00"
-    },
-    {
-      "title": "捷克众议院批准对炼油厂超额利润征收50%税",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaewua5408004.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T21:38:25+08:00"
-    },
-    {
-      "title": "002445，筹划重大资产重组，不停牌！",
-      "url": "https://finance.sina.com.cn/wm/2026-11-27/doc-inkaewtz3081487.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T21:37:54+08:00"
-    },
-    {
-      "title": "冯骥约八千字长文谈AI冲击：创作工具平权了，分钱方式没有平权",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-27/doc-inkaewua5411757.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T21:33:00+08:00"
-    },
-    {
-      "title": "担忧AI影响教育 美国多个学区禁用谷歌AI功能",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaewtw7730910.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T21:30:21+08:00"
-    },
-    {
       "title": "鱼你在一起7.0小碗菜模型加速规模化；波司登中期营收超91亿元；元气森林2026外星人与好自在双位数增长；锐步重启中国市场｜消研所周报",
       "url": "https://www.tmtpost.com/8220740.html",
       "source": "钛媒体",
       "category": "科技",
       "pubDate": "2026-11-27T21:21:10+08:00"
-    },
-    {
-      "title": "美国黑五消费料增加 担忧情绪促使消费者提前囤货",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaewtw7725726.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T21:19:55+08:00"
-    },
-    {
-      "title": "2只算力大牛股，紧急风险提示",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-27/doc-inkaewua5403672.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T21:18:49+08:00"
-    },
-    {
-      "title": "科创板首个市值退市股，下周摘牌，股价从48元跌到4毛",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-27/doc-inkaewtw7729696.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T21:18:49+08:00"
-    },
-    {
-      "title": "爱科赛博拟发6.5亿元可转债，加码智算！",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-27/doc-inkaewtw7729927.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T21:17:48+08:00"
-    },
-    {
-      "title": "美国加大经济施压之际 土耳其续签伊朗长期天然气进口合同",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaesne5511752.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T20:59:50+08:00"
-    },
-    {
-      "title": "卡塔尔经霍尔木兹海峡加大LNG出口 降低东南亚成本",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaesmy7834866.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T20:58:03+08:00"
-    },
-    {
-      "title": "AI数据中心开发商LIAN选定伦敦上市 IPO拟募资5亿美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaesnc3168881.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T20:28:34+08:00"
-    },
-    {
-      "title": "盘前：纳指100期货上涨2.8% 三大指数本周有望收涨",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaesmx1046569.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T20:26:20+08:00"
-    },
-    {
-      "title": "特拉布科获任巴西财长后，巴西雷亚尔大涨，互换利率大幅下跌",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaesmy7821630.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T20:21:34+08:00"
-    },
-    {
-      "title": "美国股指期货走强 科技股反弹积聚势头",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaesnc3165230.shtml",
-      "source": "新浪综合",
-      "category": "热点",
-      "pubDate": "2026-11-27T20:19:16+08:00"
     },
     {
       "title": "线上线下打包出售5家子公司，已“套现”超10亿元的原实控人接盘",
